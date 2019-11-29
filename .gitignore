@@ -1,0 +1,11 @@
+
+.nuxt
+
+
+docs/.vuepress/dist
+/docs/.vuepress/dist
+./docs/.vuepress/dist
+
+node_modules
+
+docs/.vuepress/dist
