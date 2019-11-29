@@ -27,3 +27,7 @@ title: Quality
 ## Outcomes
 
 [Outcomes](./outcomes)
+
+## GPM Diagrams
+
+[Workflow](https://www.figma.com/file/dn4FR785K9JCHXkWzIRKAj/GPM-Quality?node-id=234%3A0)

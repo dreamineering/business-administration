@@ -27,3 +27,7 @@ title: Practice Journey
 ## Growth
 
 [What is the smartest way to expand?](./growth)
+
+## GPM Diagrams
+
+[Workflow](https://www.figma.com/file/R2nJgjToMg00onQAEXq72u/GPM-Onboarding?node-id=0%3A1)

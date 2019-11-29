@@ -10,4 +10,6 @@ title: Compliance
 
 ## Recruitment
 
-## Property
+## GPM Diagrams
+
+[workflow](https://www.figma.com/file/MRCrltn4uYIQ1kgJ3bwtta/GPM-System-Admin?node-id=13%3A2)
