@@ -16,6 +16,6 @@ The best way to make money, is not to spend it.
 
 [How much is your time worth?](./how-much-is-your-time-worth.md)
 
-## GPM Diagrams
+## GPM Insights
 
 [Workflow](https://www.figma.com/file/HWP1Qp0djfO6Js0l23Q4Pb/GPM-Finance?node-id=339%3A6)

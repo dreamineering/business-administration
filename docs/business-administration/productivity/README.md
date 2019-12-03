@@ -14,6 +14,10 @@ Time is your greatest asset, never undervalue it.
 - [Plan Your Week for Maximum Impact](./plan-your-week-for-maximum-impact.md)
 - [Succinct Communication](./succinct-communication.md)
 
-## GPM Diagrams
+## GPM Insights
 
 [Workflow](https://www.figma.com/file/lEVr8aZ0UL5bnwpOxBdN3X/GPM-Productivity?node-id=234%3A0)
+
+## Questions
+
+- What could you automate as workflow template?

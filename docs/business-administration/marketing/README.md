@@ -12,6 +12,12 @@ title: Marketing
 - [Create a virtuous cycle](./create-a-virtous-cycle.md)
 - [The job to be done](./the-job-to-be-done.md)
 
-## GPM Diagrams
+## GPM Insights
 
 [Workflow](https://www.figma.com/file/todmZblKPiCsb9yw2ukZ84/GPM-Marketing?node-id=234%3A0)
+
+## Questions
+
+- How can you increase your hourly rate?
+- How can you get more return business?
+- How can you add value to a sale?

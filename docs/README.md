@@ -7,7 +7,9 @@ sidebar: auto
 
 ## Practice Journey
 
-Recognise, acclimatise, stabilise, optimise then grow. A six phase journey of taking your practice from idea to long-term growth within three months.
+Recognise, acclimatise, stabilise, optimise then grow. A phased journey to take your practice from ambition to the path for long-term growth within three months.
+
+Our goal is to ensure flawless software adoption, helping you automate business processes that boost your productivity and control of outcomes.
 
 ### [Problems and Goals](./practice-journey/problems-and-goals)
 
