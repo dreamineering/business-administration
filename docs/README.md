@@ -5,23 +5,27 @@ footer: Gensolve Practice Management
 sidebar: auto
 ---
 
+As the only Practice Management Solution with an integrated Accounting system, Gensolve puts you in control of your finances while providing accountablity that your staff are doing what they should, leaving you free to concentrate on adding value to your business or spending more time with those you love.
+
+> Start using Gensolve for free for three months
+
+Once your trial ends you will have the potential to use two software solutions for the price of one.
+
 ## Practice Journey
 
-Recognise, acclimatise, stabilise, optimise then grow. A phased journey to take your practice from ambition to the path for long-term growth within three months.
+Our goal to smooth your path to flawless software adoption, helping you automate business processes that boost your productivity and take control of driving succesful patient treatment plan outcomes.
 
-Our goal is to ensure flawless software adoption, helping you automate business processes that boost your productivity and control of outcomes.
+### [Business Needs](./practice-journey/needs)
 
-### [Problems and Goals](./practice-journey/problems-and-goals)
+What is holding you back?
 
-Are we the right fit for you?
+### [Getting Started](./practice-journey/getting-started)
 
-### [Onboarding](./practice-journey/onboarding)
-
-How can we alleviate your fears?
+How can we solve your transition fears?
 
 ### [Transition](./practice-journey/transition)
 
-What bad habits do we need to fix?
+What bad habits need to fixed?
 
 ### [Foundations](./practice-journey/foundations)
 
@@ -29,11 +33,11 @@ What are you missing?
 
 ### [Profit Optimisation](./practice-journey/profit-optimisation)
 
-How can you fine tune operations?
+How could you optimise operations?
 
 ### [Growth](./practice-journey/growth)
 
-What is the smartest way to expand?
+Do you have the critical mass to expand?
 
 ## Business Administration
 

@@ -30,4 +30,4 @@ In all cases at the close of business
 
 ## Week One
 
-## Week Two / Month One
+## Month One

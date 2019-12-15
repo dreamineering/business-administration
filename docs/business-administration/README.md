@@ -4,7 +4,7 @@ title: Business Administration
 
 # Business Administration
 
-people-centered culture that operates in rapid learning and fast decision cycles which are enabled by technology, and a common purpose that co-creates value for all stakeholders.
+Master Practice Business Administration with Gensolve to create a people-centered culture that operates in rapid learning and fast decision cycles which are enabled by technology, and a common purpose that co-creates value for all stakeholders.
 
 ## Direction
 

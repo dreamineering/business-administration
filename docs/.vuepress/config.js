@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Gensolve',
-  description: 'Practice Management Solutions',
+  description: 'Practice Management Software that saves you time and drives patient satisfaction',
   head: [['link', { rel: 'icon', href: `/logo.svg` }]],
   plugins: [['@vuepress/google-analytics', { ga: '' }]],
   themeConfig: {
@@ -14,6 +14,7 @@ module.exports = {
         link: '/business-administration/'
       }
     ],
-    sidebar: {}
+    displayAllHeaders: true,
+    sidebar: ['/', './practice-journey/', './business-administration/']
   }
 };

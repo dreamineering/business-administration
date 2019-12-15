@@ -4,13 +4,13 @@ title: Practice Journey
 
 # Practice Journey
 
-## Problems and Goals
+## Business Needs
 
-[Are we the right fit for you?](./problems-and-goals)
+[What is holding you back?](./needs)
 
-## Onboarding
+## Getting Started
 
-[How can we alleviate your fears?](./onboarding)
+[How can we solve your transition fears?](./getting-started)
 
 ## Transition
 
