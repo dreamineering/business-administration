@@ -8,7 +8,7 @@ By following the below mentioned steps, you can add an exception to the McAfee F
 
 Open the main McAfee window and then left click on the Firewall section of the upper left navigation menu.
 
-![01-mcafee-main](https://docs.google.com/uc?id=1_LIZemK6avaNyr-PNPLXYKhgZMlnATB0)
+![01-mcafee-main](https://drive.google.com/uc?id=1_LIZemK6avaNyr-PNPLXYKhgZMlnATB0)
 
 Next, left click on the “Settings” link to the right.
 

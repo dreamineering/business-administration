@@ -4,11 +4,9 @@ title: Finance
 
 # Finances
 
-The best way to make money is to not spend it unnecesarily.
+Most business plans concentrate on this area because they need loans or investment, as well as for forecasting and budgeting purposes. Since money is the blood that keeps a business alive, a business operator should always know how healthy he or she is financially. This requires a realistic prediction of cash flow, even though it can be difficult to forecast the future. To do so, a planner should form an expenditure budget and then a picture of potential revenue. Much of this information can be found by studying similar businesses and adapting their information to the new business.
 
-To understand where Practice Management Software can save you time, money and stress. Email demo@gensolve.co.uk or call
-
-- [Profit Forecast](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=1ZPRgwRD_BV7urkOia8UptcCEa_vd9xyU&export=download)
+> [Make a cashflow forecast](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=1ZPRgwRD_BV7urkOia8UptcCEa_vd9xyU&export=download)
 
 ## Accounts
 

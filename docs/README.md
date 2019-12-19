@@ -11,7 +11,7 @@ auditLogos:
 auditKairos:
 ---
 
-Whether you are happy to run a small and focused clinic or have lofty dreams, with an integrated Accounting system, Gensolve puts you in control of your finances while enforcing accountability for productivity and quality, leaving you free to concentrate on adding value to your business or spending more time with those you love.
+Whether you are happy to run a small, focused clinic or have bigger dreams, with an integrated Accounting system, Gensolve puts you in control of your finances while enforcing accountability for productivity and quality, leaving you free to concentrate on adding value to your business or spending more time with those you love.
 
 > **Gensolve scales with your dreams**<br>[Start your free trial today](./practice-journey/getting-started/installation/)
 

@@ -55,6 +55,6 @@ If you get a timeout warning when logging into GPM please refer to Microsoft's [
 - Operating System - Windows 10
 - MS Office -2007 or later
 
-#### Antivirus
+### Antivirus
 
 If you are using Antivirus software you can try our [troubleshooting guidance](./antivirus).

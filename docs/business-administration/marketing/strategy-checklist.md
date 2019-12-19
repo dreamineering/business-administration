@@ -79,3 +79,7 @@ From easist to hardest to get into the practice
 Perception is key
 
 - Automated process to turn problems into success stories
+
+## Further reading
+
+- https://www.lyfemarketing.com/blog/category/healthcare/

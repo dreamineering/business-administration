@@ -14,11 +14,21 @@ module.exports = {
         link: '/business-administration/'
       },
       {
+        text: 'Insights',
+        link: '/insights/'
+      },
+      {
         text: 'Growth Stories',
         link: '/growth-stories/'
       }
     ],
     displayAllHeaders: true,
-    sidebar: ['/', './practice-journey/', './business-administration/', './growth-stories/']
+    sidebar: [
+      '/',
+      './practice-journey/',
+      './business-administration/',
+      './insights',
+      './growth-stories/'
+    ]
   }
 };
