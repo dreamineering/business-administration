@@ -2,18 +2,20 @@
 title: Recruitment
 ---
 
-## Admin
+# Recruitment
 
-### Frontdesk Sales
+## Business Admin
 
-### Planning
+### [Frontdesk Sales](./frontdesk-sales/)
+
+Most important hire for the sole owner operator
+
+### [Operations Manager](./operations-manager/)
 
 ### Financial Controller
 
-## Service Delivery
+### Accountant
 
-### Graduates
+## Client Services
 
-### Senior
-
-### Team Leaders
+### [Physiotherapists](./client-services/physiotherapists)

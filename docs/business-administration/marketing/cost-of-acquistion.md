@@ -1,5 +1,11 @@
 ---
 title: Cost of Acquisition
+auditAudience:
+auditDesiredAction:
+auditEthos:
+auditPathos:
+auditLogos:
+auditKairos:
 ---
 
 # Cost of Acquisition

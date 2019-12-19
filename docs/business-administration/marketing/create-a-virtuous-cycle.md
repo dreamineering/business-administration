@@ -1,5 +1,11 @@
 ---
 title: Create a Virtuous Cycle
+auditAudience:
+auditDesiredAction:
+auditEthos:
+auditPathos:
+auditLogos:
+auditKairos:
 ---
 
 # Create a virtuous circle

@@ -1,33 +1,49 @@
 ---
 title: Transition
+auditAudience:
+auditDesiredAction:
+auditEthos:
+auditPathos:
+auditLogos:
+auditKairos:
 ---
 
 # Transition
 
-- Day One
-- Week One
-- Month One
+- First Hour
+- First Day
+- First Week
+- First Month
 
-## Day One
+## First Hour
 
-If migrating
+Depending on the size of your practice and the timing of your data transfer, it is wise to block out time where you won't see client's so you can focus on confirming your appointment book is in good order.
 
-Hour One
-
+- Run migration audit reports if applicable
 - Confirm Today's diary for clients and booking times
 - Appointment's charges are correct
 - Appointment's conditions are correct
 - All future apppointments are presest to prevent double booking
 
-During operations
+## First Day
 
-- Run migration audit reports
+At the close of business
 
-In all cases at the close of business
-
-- Run appointment audit reports
+- Run **RED FLAG** reports
 - Daily takings
 
-## Week One
+## First Week
 
-## Month One
+- Confirm all future apppointments are presest to prevent double booking
+- Each Appointment's charges are correct
+- Each Appointment's conditions are correct
+
+End of First Week
+
+- Capacity report
+
+## First Month
+
+- Insurance billing run
+- Reconcile insurance payments redirect required excess to the client
+- Bank reconciliation

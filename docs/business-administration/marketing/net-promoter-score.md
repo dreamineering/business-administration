@@ -1,5 +1,11 @@
 ---
 title: Net Promoter Score
+auditAudience:
+auditDesiredAction:
+auditEthos:
+auditPathos:
+auditLogos:
+auditKairos:
 ---
 
 # Net Promoter Score

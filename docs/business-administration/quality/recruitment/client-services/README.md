@@ -1,5 +1,5 @@
 ---
-title: The Job to be Done
+title: Client Services
 auditAudience:
 auditDesiredAction:
 auditEthos:
@@ -8,6 +8,4 @@ auditLogos:
 auditKairos:
 ---
 
-# The Job to be Done
-
-https://jtbd.info/
+# Client Services

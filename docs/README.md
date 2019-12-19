@@ -3,13 +3,19 @@ home: true
 actionText:
 footer: Gensolve Practice Management
 sidebar: auto
+auditAudience:
+auditDesiredAction:
+auditEthos:
+auditPathos:
+auditLogos:
+auditKairos:
 ---
 
-As the only Practice Management Solution with an integrated Accounting system, Gensolve puts you in control of your finances while providing accountablity that your staff are doing what they should, leaving you free to concentrate on adding value to your business or spending more time with those you love.
+With an integrated Accounting system that is capable of running a multi-franchise business, whether you are content to run a small focused clinic or have dreams of putting a dent in the universe, Gensolve puts you in control of your finances while enforcing accountability for productivity and quality, leaving you free to concentrate on adding value to your business or spending more time with those you love.
 
-> Start using Gensolve for free for three months
+> Gensolve will scale with your dreams, start your free trial today
 
-Once your trial ends you will have the potential to use two software solutions for the price of one.
+The UK allied health market is fractured with the NHS falling apart, leaving a void to be filed. Currently their is signnficant first mover advantage to those that can fine tune their operational intelligence and branding to grow organically or by acquistion where Gensolve has a track history you can replicate.
 
 ## Practice Journey
 

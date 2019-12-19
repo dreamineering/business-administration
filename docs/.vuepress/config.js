@@ -12,9 +12,13 @@ module.exports = {
       {
         text: 'Business Administration',
         link: '/business-administration/'
+      },
+      {
+        text: 'Growth Stories',
+        link: '/growth-stories/'
       }
     ],
     displayAllHeaders: true,
-    sidebar: ['/', './practice-journey/', './business-administration/']
+    sidebar: ['/', './practice-journey/', './business-administration/', './growth-stories/']
   }
 };

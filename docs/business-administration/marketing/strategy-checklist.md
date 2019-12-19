@@ -1,5 +1,11 @@
 ---
 title: Marketing Strategy Checklist
+auditAudience:
+auditDesiredAction:
+auditEthos:
+auditPathos:
+auditLogos:
+auditKairos:
 ---
 
 # Marketing Strategy Checklist

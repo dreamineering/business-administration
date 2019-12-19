@@ -6,25 +6,25 @@ title: Business Administration
 
 Master Practice Business Administration with Gensolve to create a people-centered culture that operates in rapid learning and fast decision cycles which are enabled by technology, and a common purpose that co-creates value for all stakeholders.
 
-## Direction
+## [Direction](./direction)
 
-[Vision and Strategy](./direction)
+Vision and Mission
 
-## Finances
+## [Finances](./finances/)
 
-[Finances](./finances/)
+Cashflow is King
 
-## Quality
+## [Quality](./quality)
 
-[Create successful outcomes](./quality)
+Deliver successful outcomes
 
-## Productivity
+## [Productivity](./productivity)
 
-[Productivity](./productivity)
+Use your time effectively
 
-## Marketing
+## [Marketing](./marketing)
 
-[Marketing](./marketing)
+Marketing
 
 ## Technology
 

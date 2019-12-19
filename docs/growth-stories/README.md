@@ -1,5 +1,5 @@
 ---
-title: The Job to be Done
+title: Growth Stories
 auditAudience:
 auditDesiredAction:
 auditEthos:
@@ -8,6 +8,5 @@ auditLogos:
 auditKairos:
 ---
 
-# The Job to be Done
+# Growth Stories
 
-https://jtbd.info/

@@ -1,5 +1,11 @@
 ---
 title: Find Your Ideal Customer
+auditAudience:
+auditDesiredAction:
+auditEthos:
+auditPathos:
+auditLogos:
+auditKairos:
 ---
 
 # Find Your Ideal Customer

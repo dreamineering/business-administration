@@ -4,6 +4,10 @@ title: Quality
 
 # Quality
 
+## Connection
+
+[Connection](./connection)
+
 ## Recruitment
 
 [Are you constantly recruiting?](./recruitment)
@@ -11,10 +15,6 @@ title: Quality
 ## Training
 
 [Training](./training)
-
-## Connection
-
-[Connection](./connections)
 
 ## Problems
 
