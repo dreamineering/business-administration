@@ -1,8 +1,16 @@
 ---
 title: Quality
+auditAudience:
+auditDesiredAction:
+auditEthos:
+auditPathos:
+auditLogos:
+auditKairos:
 ---
 
 # Quality
+
+Client services
 
 ## Connection
 

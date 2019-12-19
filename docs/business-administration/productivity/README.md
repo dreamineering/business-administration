@@ -1,10 +1,18 @@
 ---
 title: Productivity
+auditAudience:
+auditDesiredAction:
+auditEthos:
+auditPathos:
+auditLogos:
+auditKairos:
 ---
 
 # Productivity
 
-Time is your greatest asset, never undervalue it.
+Planning, communication and accountability.
+
+Time is your greatest asset, never undervalue it. In a small practice owners need to remember they are managing a business, not working in a job. So management of all aspects of the business should carry equal weight with quality of treatment. It can be argued that this is also a very common reason for business failure: The owner is more comfortable "doing" and so ignores other important aspects of management.
 
 - [Hold Better Meetings](./hold-better-meetings.md)
 - [File Management](./file-management.md)
@@ -14,10 +22,8 @@ Time is your greatest asset, never undervalue it.
 - [Plan Your Week for Maximum Impact](./plan-your-week-for-maximum-impact.md)
 - [Succinct Communication](./succinct-communication.md)
 
-## GPM Insights
+## GPM Functions
 
-[Workflow](https://www.figma.com/file/lEVr8aZ0UL5bnwpOxBdN3X/GPM-Productivity?node-id=234%3A0)
-
-## Questions
-
-- What could you automate as workflow template?
+- Recurring admin appointments
+- Recurring events
+- Workflow templates
