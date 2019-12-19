@@ -11,11 +11,13 @@ auditLogos:
 auditKairos:
 ---
 
-With an integrated Accounting system that is capable of running a multi-franchise business, whether you are content to run a small focused clinic or have dreams of putting a dent in the universe, Gensolve puts you in control of your finances while enforcing accountability for productivity and quality, leaving you free to concentrate on adding value to your business or spending more time with those you love.
+Whether you are happy to run a small and focused clinic or have lofty dreams, with an integrated Accounting system, Gensolve puts you in control of your finances while enforcing accountability for productivity and quality, leaving you free to concentrate on adding value to your business or spending more time with those you love.
 
-> Gensolve will scale with your dreams, [start your free trial today](./practice-journey/getting-started/installation/)
+> **Gensolve scales with your dreams**<br>[Start your free trial today](./practice-journey/getting-started/installation/)
 
-The UK allied health market is fractured with the NHS falling apart, leaving a void to be filed. Currently their is signnficant first mover advantage to those that can fine tune their operational intelligence and branding to grow organically or by acquistion where Gensolve has a track history you can replicate.
+The allied health market is fractured and the direction of the NHS in doubt, their is signnficant first mover advantage to those that can fine tune their operational intelligence and branding to grow organically or by acquistion. Gensolve has the product to get you started and track history of helping customers scale businesses to country wide operations.
+
+> For the more **entrepreneurial**<br>[Learn how to run a franchise business](./practice-journey/growth/)
 
 ## Practice Journey
 
