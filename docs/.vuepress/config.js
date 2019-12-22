@@ -27,7 +27,7 @@ module.exports = {
       '/',
       './practice-journey/',
       './business-administration/',
-      './insights',
+      './insights/',
       './growth-stories/'
     ]
   }

@@ -6,7 +6,7 @@ title: Profit Optimisation
 
 By now you will have a solid understanding of core functionality and can focus on how to fine tune the configuration options to improve operational efficiency.
 
-## [Direction](../business-administration/direction/)
+## [Direction](../../business-administration/direction/)
 
 There are only three ways to grow any business. You can:
 
