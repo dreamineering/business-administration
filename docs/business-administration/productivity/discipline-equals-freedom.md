@@ -4,6 +4,8 @@ title: Discipline Equals Freedom
 
 # Discipline Equals Freedom
 
+- are you losing out twice? opportunity cost
+
 http://www.calnewport.com/blog/2013/12/21/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/
 by Cal Newport
 

@@ -30,9 +30,9 @@ If you hold down the shift key thing click on the GPM application in the bottom 
 
 ![GPM Login](https://drive.google.com/uc?id=1a1-c4ygdIjA3VoJ79guyId0u0XReBYNi)
 
-If you have been able to log in successfully you can [follow a walkthough of key functionality](./demonstration). If you have not been able to install and log in, please refer to system requirements and how to troubleshoot some common installation issues.
+If you have been able to log in successfully you can [follow a walkthough of key functionality](../learn-the-essentials). If you have not been able to install and log in, please refer to system requirements and how to troubleshoot some common installation issues.
 
-> [Walkthrough Key Functionality](./demonstration)
+> [Walkthrough Key Functionality](../learn-the-essentials)
 
 ## System Requirements
 

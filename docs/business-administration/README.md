@@ -14,6 +14,8 @@ Master Practice Business Administration with Gensolve to create a people-centere
 
 Any business is based on the same core pillars, it is just the names of things that vary. Once you understand the core pillars you just a need to translate terms and you can expand your operation intelligence in any direction.
 
+- https://www.process.st/what-is-a-workflow/
+
 ## [Direction](./direction)
 
 - Vision and Mission

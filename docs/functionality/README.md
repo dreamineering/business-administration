@@ -1,13 +1,8 @@
 ---
-title: Needs
+title: Practice Management Software Functionality
 ---
 
-# Your Needs
-
-- [Problems](./problems)
-- [Goals](./goals)
-
-> [Complete a cash flow forecast](../../business-administration/finances/create-a-cashflow-forecast.md) to better understand if GPM is the right fit for your growth strategy.
+# Functionality
 
 ## What services do you provide?
 

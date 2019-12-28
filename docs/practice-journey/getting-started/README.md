@@ -4,10 +4,20 @@ title: Getting Started
 
 # Getting Started
 
-- [Learn about Gensolve Practice Manager](./installation)
-- [Do you have data to transfer from an existing system?](./migration-approval)
-- [Preconfiguration settings](./preconfiguration)
-- [System settings checks](./system-settings-checks)
-- [Group training preparation](./group-training-preparation)
-- [Training Question and Answer](./formal-training)
-- [Live data transfer](./live-data-transfer)
+## [Installation](./installation)
+
+Check requirements and install Gensolve Practice Manager.
+
+## [Learn the Essentials](./learn-the-essentials)
+
+Learn how the application can be configured to be relevant to typical user roles.
+
+## [Transfer Data](./migration-approval)
+
+Confirm the migration path dependent on the system you are coming from
+
+## [System configuration](./system-configuration)
+
+## [Training](./training)
+
+## [Live data transfer](./live-data-transfer)

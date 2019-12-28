@@ -28,18 +28,19 @@ Time is your greatest asset, never undervalue it. In a small practice owners nee
 - Continuous learning
 - Action led decision making
 
-## Concepts for growth
+## Skills to Master
 
-- [Hold Better Meetings](./hold-better-meetings.md)
+- [Time Management](./time-management.md)
+- [Effective Meetings](./effective-meetings.md)
 - [File Management](./file-management.md)
-- [Discipline Equals Freedom](./discipline-equals-freedom.md)
-- [Context Shifting and Decision Fatigue](./context-shifting-and-decision-fatigue.md)
-- [Are You Losing Out Twice?](./are-you-losing-out-twice.md)
-- [Plan Your Week for Maximum Impact](./plan-your-week-for-maximum-impact.md)
+- [Discipline](./discipline-equals-freedom.md)
+- [Context Shifting](./context-shifting-and-decision-fatigue.md)
 - [Succinct Communication](./succinct-communication.md)
 
-## GPM Functions
+## GPM Functionality
 
 - Recurring admin appointments
 - Recurring events
 - Workflow templates
+
+- https://www.ultraworking.com/

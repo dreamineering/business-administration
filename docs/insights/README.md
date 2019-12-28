@@ -4,9 +4,13 @@ title: Insights
 
 # Insights
 
-Dashboards are for decisions!
-
 Action Dashboards drive users to take most valuable action at the moment of need, enabling the completion of complex processes without prior business experience. Analytical dashboards should [tell a story](http://kpilibrary.com/topics/what-makes-for-a-compelling-metrics-story) such as _This is how we add enjoyment to living_ for your customers
+
+1. [Expectations](./expectations)
+2. [Action lists](./actions)
+3. [Analysis charts](./analysis)
+
+> Dashboards that drive decisions!
 
 ## Objectives
 
@@ -15,7 +19,7 @@ Action Dashboards drive users to take most valuable action at the moment of need
 - Report success and failure
 - Identify opportunities for growth
 
-> Did we have a good week?<br>Does next week look good?
+> Who had a bad week?<br>How does next week look?<br>How can they be helped?
 
 ## Action Dashboard
 

@@ -4,11 +4,15 @@ title: Growth
 
 # Growth
 
-Have you reached critical masss and operational intelligence to scale?
+In fractured allied health markets, GPM has enabled progressive clinics with the fundatmental tools to fine tune their operational intelligence and branding to grow organically or by acquistion.
+
+> Have you reached critical mass to scale your business?
 
 Should you grow **Organically** or by **Acquisition**? Or a mixture of both?
 
 Once you have fine tuned your operational efficiency and communications you can hit the scale button?
+
+> For the more **entrepreneurial**<br>[Learn how to run a franchise business](./franchise/)
 
 ## Organic
 

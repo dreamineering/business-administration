@@ -4,15 +4,15 @@ title: Profit Optimisation
 
 # Profit Optimisation
 
+Pushing performance on top of disfunction create injuries. Trying to scale your business before you optimise your business operations leads to fire fighting and waste.
+
 By now you will have a solid understanding of core functionality and can focus on how to fine tune the configuration options to improve operational efficiency.
 
-## [Direction](../../business-administration/direction/)
+Before spending money on inbound marketing there are three ways to grow your profits. You can:
 
-There are only three ways to grow any business. You can:
-
-1. Increase your average transaction value.
-2. Increase your frequency of purchase.
-3. Increase your number of customers or clients. See [growth](../growth/)
+1. Increase your average sales transaction value - smart pricing, complimentary products.
+2. Increase your frequency of client transaction - retention.
+3. Reduce business administration costs
 
 Most managers don’t realize that the cost of acquiring a customer is substantial, while the cost of selling them more or selling them more often is significantly less.
 

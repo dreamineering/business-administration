@@ -12,6 +12,14 @@ auditKairos:
 
 The ability to find a customer, sell your service, and satisfy the customer so that they buy again should be the central focus of all activity. The greater clarity you have to your ideal customer, the more focused and effective your marketing efforts will be and the greater the alignment of your operations to deliver on your promise.
 
+## The Job to be Done
+
+- https://jtbd.info/
+- https://strategyn.com/outcome-driven-innovation-process/
+- https://www.innosight.com/insight/health-for-hire-with-jobs-to-be-done/
+- https://academy.hubspot.com/lessons/using-jobs-to-be-done-in-sales-enablement
+- https://medium.com/things-jay-writes/jobs-to-be-done-bridging-a-gap-2946672320ed
+
 ## Profile
 
 Assess customers along these dimensions
@@ -52,3 +60,19 @@ Customer behaviours and needs will alter over time. Constantly be in the routine
 
 https://bevisible.co/finding-your-ideal-customer/
 https://artplusmarketing.com/how-to-define-your-ideal-customer-4-questions-you-need-to-ask-157b387842f
+
+## Document the ideal Client Journey in GPM
+
+Create some dummy persona profiles.
+
+Last Name: Persona
+First Name: Target Male
+
+and
+
+Last Name: Persona
+First Name: Target Female
+
+Then enter the demographics, make up the ideal treatment journey and then use this a reference point for future training of both clinicians and adminstration staff. _Just be sure to make any appointment charges equal to zero_
+
+Create as many persona profiles as make sense, for example _Insurance convert_.

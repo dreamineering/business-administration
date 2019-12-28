@@ -4,9 +4,7 @@ title: Create a Cashflow Forecast
 
 # Create a Cashflow Forecast
 
-> Download [Free Template for Practice Management](https://drive.google.com/open?id=1aaPvmOcDwzf26TenRmb_-iePt3a-DCNZ&export=download)
-
-## Template
+> [Download Free Cashflow Forecast](https://drive.google.com/open?id=1aaPvmOcDwzf26TenRmb_-iePt3a-DCNZ&export=download)
 
 ## Pricing
 
