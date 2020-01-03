@@ -7,7 +7,8 @@
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.2.0",
     "vuepress": "^1.2.0",
-    "vuepress-plugin-flowchart": "^1.4.3"
+    "vuepress-plugin-flowchart": "^1.4.3",
+    "vuepress-plugin-sitemap": "^2.3.1"
   },
   "dependencies": {
     "@vuepress/plugin-pwa": "^1.2.0",

@@ -4,19 +4,23 @@ title: Getting Started
 
 # Getting Started
 
+## [Fundamental Questions](./fundamental-questions)
+
+Is Gensolve Practice Manager right for you?
+
 ## [Installation](./installation)
 
-Check requirements and install Gensolve Practice Manager.
+Install Gensolve Practice Manager.
 
-## [Learn the Essentials](./learn-the-essentials)
+## [Learn the Essentials](./demonstration)
 
 Learn how the application can be configured to be relevant to typical user roles.
 
-## [Transfer Data](./migration-approval)
+## [Transfer Data](./data-migration)
 
 Confirm the migration path dependent on the system you are coming from
 
-## [System configuration](./system-configuration)
+## [Customise configuration](./system-configuration)
 
 ## [Training](./training)
 

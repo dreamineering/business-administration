@@ -11,7 +11,7 @@ auditLogos:
 auditKairos:
 ---
 
-Whatever the size of your operation, GPM provides the foundations to stop fighting fires instead focus on growing the value of your business or spend the time you save with those you love.
+Take the pain out of running your business whatever the size of your practice. GPM will help you to stop fighting fires so you can focus on growing the value of your business or spend the time you save with those you love.
 
 > **Gensolve scales with your dreams**<br>[Start your free trial](./practice-journey/getting-started/installation/)
 
@@ -27,27 +27,32 @@ The same applies to GPM and your business, our goal to focus on the outcomes tha
 
 ### [Business Needs](./practice-journey/needs)
 
+- Where do you want your business to be?
 - What is holding you back?
-- Do you have a clear direction?
 
 ### [Getting Started](./practice-journey/getting-started)
 
+- Are we the right fit for you?
 - How can we solve your transition fears?
-- Do you have a budget profit forecast?
 
 ### [Transition](./practice-journey/transition)
 
-- Has your team completed preparation work?
+- Is your team prepared for change?
 - What questions need answers?
 
 ### [Foundations](./practice-journey/foundations)
 
-- What do you need to learn?
-- What bad habits need to fixed?
+- Quality: have you defined the path to succesful treatment outcomes?
+- Finance: do you have a believable profit forecast?
+- Productivity: are you planning how to spend your time?
+- Marketing: have you clearly identified your ideal customer?
 
 ### [Profit Optimisation](./practice-journey/profit-optimisation)
 
-- How could you optimise operations?
+- Quality: are you getting postive customer testimonials backed by data?
+- Finance: are you measuring actual results vs expectations and making adjustments?
+- Productivity: how can you improve reactive vs proactive administration time?
+- Marketing: how can you get each customer to spend more?
 
 ### [Growth](./practice-journey/growth)
 

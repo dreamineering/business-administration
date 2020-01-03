@@ -12,9 +12,7 @@ auditKairos:
 
 Client services
 
-## Connection
-
-[Connection](./connection)
+- [Condition or Contract](./condition-or-contract)
 
 ## Recruitment
 
