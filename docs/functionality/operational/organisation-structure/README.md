@@ -6,6 +6,5 @@ title: Business Structure
 
 - Vendors
 - Sites
+- User Roles
 - Users
-  - Staff
-  - Clinicians

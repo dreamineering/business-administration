@@ -8,7 +8,7 @@ Contracts are essential to intelligently running a packaged care business, where
 
 ## Financials
 
-Compared to [conditions](./conditions.md) patients are obligated to complete the full course of treatment. The benefit of using contracts is greater ability to forecast clinician revenue, saturation and retention whilst provided improved focus on customising tailored treatment plans.
+Compared to [conditions](../conditions/) patients are obligated to complete the full course of treatment. The benefit of using contracts is greater ability to forecast clinician revenue, saturation and retention whilst provided improved focus on customising tailored treatment plans.
 
 In short the more work you can get through contracts the greater the opportunity to optimise profits as contract work is a sign of understanding your target patient's needs.
 

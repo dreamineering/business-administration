@@ -6,12 +6,16 @@ module.exports = {
   themeConfig: {
     nav: [
       {
-        text: 'Practice Journey',
+        text: 'Journey',
         link: '/practice-journey/'
       },
       {
-        text: 'Business Administration',
-        link: '/business-administration/'
+        text: 'Functionality',
+        link: '/functionality/'
+      },
+      {
+        text: 'Operations',
+        link: '/operations/'
       },
       {
         text: 'Insights',
@@ -26,7 +30,8 @@ module.exports = {
     sidebar: [
       '/',
       './practice-journey/',
-      './business-administration/',
+      './functionality/',
+      './operations/',
       './insights/',
       './growth-stories/'
     ]

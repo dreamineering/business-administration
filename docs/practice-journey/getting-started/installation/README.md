@@ -12,9 +12,12 @@ GPM has two different interface options, for essential appointment and clinical 
 
 Practice Managers or those with business administrative responsibilities will need to install the windows application.
 
-> [Install Gensolve Practice Manager](http://software.gensolve.com/gpmuk/install.htm)
+> [Download Gensolve Practice Manager](http://software.gensolve.com/gpmuk/install.htm)
 
-## Log into Demo Practice
+1. [Install Steps](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/Installation___Troubleshooting/Installation.htm?rhtocid=7.1#)
+2. [Log In](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/Installation___Troubleshooting/Logging_In.htm?rhtocid=7.1.0_2#)
+
+### Log into Demo Practice
 
 First log in with a clinician profile, with a restricted application functionality.
 
@@ -32,7 +35,7 @@ If you hold down the shift key thing click on the GPM application in the bottom 
 
 If you have been able to log in successfully you can [follow a walkthough of key functionality](../learn-the-essentials). If you have not been able to install and log in, please refer to system requirements and how to troubleshoot some common installation issues.
 
-> [Walkthrough Key Functionality](../learn-the-essentials)
+> [Walkthrough Key Functionality](../demonstration/)
 
 ## System Requirements
 
@@ -57,4 +60,4 @@ If you get a timeout warning when logging into GPM please refer to Microsoft's [
 
 ### Antivirus
 
-If you are using Antivirus software you can try our [troubleshooting guidance](./antivirus).
+If you are using Antivirus software you can try our [troubleshooting guidance](./antivirus/)

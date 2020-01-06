@@ -1,10 +1,8 @@
 ---
-title: Calendar
+title: Apppointment Book
 ---
 
-# Calendar
-
-## Appointments
+# Appointment Book
 
 Types of appointments
 
@@ -35,3 +33,9 @@ For each clinician completely flexible configuration options
 ## Required Actions
 
 - Clinician Todo list
+
+## Actions
+
+- [How to create an appointment](http://docs.gensolve.com/help/gpm_uk/desktop/Videos/Appointments/How_to_Create_an_Appointment.htm)
+- [Create followup appointments](http://docs.gensolve.com/help/gpm_uk/desktop/Videos/Appointments/How_to_Create_a_Follow_Up_Appointment___Book_Again.htm?rhtocid=7.1.2.0_2#)
+- [Send client an SMS from an appointment](http://docs.gensolve.com/help/gpm_uk/desktop/Videos/Clients/How_to_Send_a_Client_an_SMS_Message.htm)

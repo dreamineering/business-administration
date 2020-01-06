@@ -1,8 +1,8 @@
 ---
-title: Multi Modality - Practice Management Software Functionality
+title: Service Types - Practice Management Software Functionality
 ---
 
-# Multi Modality
+# Service Types
 
 What services do you provide?
 
@@ -25,3 +25,5 @@ What services do you provide?
 - Counselor
 - Remedial Massage
 - Pharmacist
+
+## Charges

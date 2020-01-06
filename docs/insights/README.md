@@ -4,46 +4,33 @@ title: Insights
 
 # Insights
 
-Action Dashboards drive users to take most valuable action at the moment of need, enabling the completion of complex processes without prior business experience. Analytical dashboards should [tell a story](http://kpilibrary.com/topics/what-makes-for-a-compelling-metrics-story) such as _This is how we add enjoyment to living_ for your customers
-
 1. [Expectations](./expectations)
 2. [Action lists](./actions)
 3. [Analysis charts](./analysis)
 
 > Dashboards that drive decisions!
 
-## Objectives
+## Action Dashboard
+
+Action Dashboards drive users to take most valuable action at the moment of need, enabling the completion of complex processes without prior business experience.
+
+Lack of [focus](https://drt.fm/cal-newport) is the enemy of [productivity](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow). Objective of the action dashboard is to...
 
 - Close operational gaps
 - Use targets drive action or decision alerts
 - Report success and failure
 - Identify opportunities for growth
 
-> Who had a bad week?<br>How does next week look?<br>How can they be helped?
+> Who had a bad week?<br>How can they be helped?
 
-## Action Dashboard
+### Rules
 
-Insights driven by GPM providing intelligent alerts / lists of actions to
-drive practice to reduce waste
-
-### Headlines
-
-By central pillar of business, which metric best sums up whether a Vendor, Site or Clinician has had a **Good Week or Month**
-
-### Action Lists
-
-Worst first, plug the gaps by completing the jobs to take proactive approach that prevent bad KPI results from occuring.
-
-The enemies of [productivity](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow) are [context switching](https://drt.fm/cal-newport) and analysis paralysis, look at charts are for trends, smart action list provide clear signal where immediate actions or decisions have established value path.
-
-In other words make sure you [keep the house clean](https://rework.fm/spark-joy-with-dhh/) before analysing performance.
-
-- Worst first
-- If results are not bad don't show them
+- Show worst results first
+- If results are OK don't show them
 
 ## Analysis Dashboards
 
-Where a business administrator cam make analysis of forecast budget for growth versus trend of actual results and then alter Vision, Strategy or Tactics accordingly.
+Analytical dashboards are subjective but should help to [tell a story](http://kpilibrary.com/topics/what-makes-for-a-compelling-metrics-story) whether results are aligned with strategic expectations. Must first have solid forecast and related plan.
 
 Fundamental questions
 

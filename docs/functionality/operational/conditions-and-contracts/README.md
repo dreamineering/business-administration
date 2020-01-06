@@ -14,7 +14,7 @@ Conditions are most suited to retail operations with lower patient retention.
 
 ## Financials
 
-As compared to [contracts](./contracts.md) there no obligation that the client will complete the full course of treatment
+Compared to [contracts](../contracts/) there no obligation that the client will complete the full course of treatment
 
 ## Scerario
 

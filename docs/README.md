@@ -13,18 +13,15 @@ auditKairos:
 
 Take the pain out of running your business and start growing value or spend the time you save with those you love.
 
-**Gensolve scales with your dreams**
-[Start your free trial](./practice-journey/getting-started/installation/)
+> **Gensolve scales with your dreams**<br>[Start your free trial](./practice-journey/getting-started/installation/)
 
 ## Practice Journey
 
 If your patients don’t establish postive habits based on following routines you provide them, would you expect successful outcomes at the conclusion their treatment plan?
 
+**Our focus is product improvement** rather than guiding you how to run your business. But we have provided thoughts on how key workflows can be implemented with GPM that you can fine tune to optimise your operational intelligence and profits. If you need help priortising what jobs will lead to optimum value creation, we will happily introduce you to [business coaches](./practice-journey/growth/coaching/) that specialise in this area.
+
 ![outcome-driven-growth](https://drive.google.com/uc?id=1az0uTGS7M5UWUFuNfOCEzeduYA2bz491)
-
-The same applies to GPM and your business, our goal to focus on the outcomes that will smooth the learning curve to understand how to leverage GPM's functionality to control business processes that boost your productivity and reputation for quality of service.
-
-**Our focus is product improvement** rather than guiding you how to run your business. But we have provided thoughts on how key workflows can be implemented with GPM that you can fine tune to optimise your operational intelligence and profits. If you need help priortising what jobs will lead to optimum value creation, we will happily introduce you to [business coaches](./practice-journey/growth/coaching) that specialise in this area.
 
 ### [Business Needs](./practice-journey/needs)
 
