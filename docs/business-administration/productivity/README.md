@@ -44,3 +44,19 @@ Time is your greatest asset, never undervalue it. In a small practice owners nee
 - Workflow templates
 
 - https://www.ultraworking.com/
+
+::: tip
+This is a tip
+:::
+
+::: warning
+This is a warning
+:::
+
+::: danger
+This is a dangerous warning
+:::
+
+::: details
+This is a details block, which does not work in IE / Edge
+:::

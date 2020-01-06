@@ -11,9 +11,10 @@ auditLogos:
 auditKairos:
 ---
 
-Take the pain out of running your business whatever the size of your practice. GPM will help you to stop fighting fires so you can focus on growing the value of your business or spend the time you save with those you love.
+Take the pain out of running your business and start growing value or spend the time you save with those you love.
 
-> **Gensolve scales with your dreams**<br>[Start your free trial](./practice-journey/getting-started/installation/)
+**Gensolve scales with your dreams**
+[Start your free trial](./practice-journey/getting-started/installation/)
 
 ## Practice Journey
 

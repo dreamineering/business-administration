@@ -1,6 +1,7 @@
 
 .nuxt
 
+desktop.ini
 
 docs/.vuepress/dist
 /docs/.vuepress/dist

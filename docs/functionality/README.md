@@ -4,9 +4,9 @@ title: Practice Management Software Functionality
 
 # Functionality
 
-## Operational data
+## Operations
 
-- [Multi Clinician Modality](./multi-modality)
+- [Clinician Modality](./multi-modality)
 - [Client Details](./client-details)
 - [Service Charges](./service-charges)
 - [Appointments](./appointments)
@@ -18,12 +18,18 @@ title: Practice Management Software Functionality
 - [Memberships](./memberships)
 - [Online Booking](./online-booking)
 - [Commissions](./commissions)
+- [Communications](./communications)
 - [Custom Forms](./custom-forms)
 
-## System features
+## System
 
-- [Security](./ux/security)
 - [Navigation](./ux/navigation)
-- [Search](./ux/search)
+- [Security](./ux/security)
 - [File Management](.ux/file-management)
 - [Data Export](./ux/data-export)
+
+## Interfaces
+
+Connection with complimentary
+
+- [Accounting - Xero](./xero)
