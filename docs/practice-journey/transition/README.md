@@ -14,6 +14,7 @@ auditKairos:
 - First Day
 - First Week
 - First Month
+- First Quarter
 
 ## First Hour
 
@@ -42,8 +43,9 @@ End of First Week
 
 - Capacity report
 
-## First Month
+## First Month / Quarter
 
 - Insurance billing run
 - Reconcile insurance payments redirect required excess to the client
 - Bank reconciliation
+- Products stock take

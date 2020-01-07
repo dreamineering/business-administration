@@ -1,10 +1,8 @@
 ---
-title: Business Structure
+title: Organisation Structure
 ---
 
-# Business Structure
+# Organisation Structure
 
 - Vendors
 - Sites
-- User Roles
-- Users

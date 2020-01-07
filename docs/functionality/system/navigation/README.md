@@ -9,4 +9,5 @@ title: Navigation
 3. Recent Clients
 4. Client Topbar
 5. Right Click Appointments
-6. Context Edit buttons
+6. Appointment Book Dates
+7. Context Edit buttons

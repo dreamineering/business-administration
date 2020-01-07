@@ -1,8 +1,8 @@
 ---
-title: Conditions
+title: Conditions and Contracts
 ---
 
-# Conditions
+# Conditions and Contracts
 
 As best practice should be used to describe the condition of a patient at a **certain period of time** typically with one clinician. Using conditions a patient journey would be made up of series conditons and broken down by taking a customer from one clearly defined state to another (Pain Relief, Stabalisation, Strengthen)
 
@@ -11,6 +11,8 @@ Conditions are most suited to retail operations with lower patient retention.
 - Should be tied to clearly understood treatment goal
 - Goal related to a step improvment
 - Goal typically achieveable within 6 weeks
+
+Rebook current condition, Close and Upsell or Discharge.
 
 ## Financials
 
