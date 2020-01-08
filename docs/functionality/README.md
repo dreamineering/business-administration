@@ -28,15 +28,44 @@ Operational features
 
 ### [Organisation Structure](./operational/organisation-structure/)
 
+- Vendors
+- Sites
+- Users and roles
+- Employees and wages
+- Clinicans and services
+
 ### [Service Types](./operational/service-types/)
+
+- Allowable Sites
+- Allowable Providers
+- Revenue Stream
+- Standard Contracts
 
 ### [Client Details](./operational/client-details/)
 
+- Demographics
+- GP and referring specialist
+- How did you hear of us?
+- Why Us?
+- Next of kin
+- Marketing Segment Groups
+
 ### [Appointment Book](./operational/appointment-book/)
+
+- Clinical Appointments
+- Classes Appointments
+- Business timeblocking
+- Recurring Apppointments
+- Book again
+- Waiting lists
 
 ### [Conditions and contracts](./operational/conditions-and-contracts/)
 
+Non binding vs binding service agreements.
+
 ### [Treatment](./operational/treatment/)
+
+Plans, Notes and Outcomes.
 
 ### [Memberships](./operational/memberships/)
 
@@ -57,8 +86,6 @@ Connection to other systems that offer complimentary services
 ### [Xero](./integrations/xero)
 
 ### [ACC](./integrations/acc)
-
-(NZ)
 
 ### [ACC](./integrations/eftpos)
 

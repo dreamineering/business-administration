@@ -8,15 +8,15 @@ Interfaces to complimentary systems that improve quality of service, productivit
 
 [[toc]]
 
-## Medicare (AU)
+## Medicare
 
 Please refer to the topic Setting Up to Perform Medicare Claims.
 
-## HICAPS (AU)
+## HICAPS
 
 Please refer to the HICAPS website for all contact information: http://www.hicaps.com.au/contact-us.html.
 
-## Tyro (AU)
+## Tyro
 
 Please refer to the Tyro website for all contact information: https://www.tyro.com/support/customer-support/.
 
