@@ -4,7 +4,9 @@ title: Finance
 
 # Finances
 
-Most business plans concentrate on this area because they need loans or investment, as well as for forecasting and budgeting purposes. Since money is the blood that keeps a business alive, a business operator should always know how healthy he or she is financially. This requires a realistic prediction of cash flow, even though it can be difficult to forecast the future. To do so, a planner should form an expenditure budget and then a picture of potential revenue. Much of this information can be found by studying similar businesses and adapting their information to the new business.
+Every serious business must have a [Cashflow Forecast](https://drive.google.com/open?id=1aaPvmOcDwzf26TenRmb_-iePt3a-DCNZ&export=download). Your business plans should stem from this since money is the blood that keeps a business alive.
+
+A business manager should always know how healthy their operations are financially. This requires a realistic prediction of cash flow, even though it can be difficult to forecast the future.
 
 - https://profitfirstbook.com/
 

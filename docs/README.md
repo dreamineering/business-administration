@@ -1,7 +1,7 @@
 ---
 home: true
 actionText:
-footer: Gensolve Practice Management
+footer: Gensolve Practice Management Solutions
 sidebar: auto
 auditAudience:
 auditDesiredAction:
@@ -11,15 +11,15 @@ auditLogos:
 auditKairos:
 ---
 
-Take the pain out of running your business and start growing value or spend the time you save with those you love.
+**Take the pain out of running your business and start growing value or spend the time you save with those you love.**
 
-> **Gensolve scales with your dreams**<br>[Start your free trial](./practice-journey/getting-started/installation/)
+> **No matter your starting point GPM will help you strive towards your ambitions**<br>[What is holding you back? Start your free trial with GPM](./practice-journey/getting-started/installation/)
 
-## Practice Journey
+If your patients don’t establish postive habits by following routines you provide them, would you expect successful treatment outcomes?
 
-If your patients don’t establish postive habits based on following routines you provide them, would you expect successful outcomes at the conclusion their treatment plan?
+Just as you can't enforce how you customer's live their lives, we are not here to run your business. But have documented ideas on how key workflows can be implemented with Gensolve Practice Manager that you can copy and then optimise to grow your operational intelligence and profits.
 
-**Our focus is product improvement** rather than guiding you how to run your business. But we have provided thoughts on how key workflows can be implemented with GPM that you can fine tune to optimise your operational intelligence and profits. If you need help priortising what jobs will lead to optimum value creation, we will happily introduce you to [business coaches](./practice-journey/growth/coaching/) that specialise in this area.
+If you need help priortising what jobs will lead to optimum value creation, we will happily introduce you to those in our [professional network](./practice-journey/growth/coaching/) that specialise in your area of need.
 
 ![outcome-driven-growth](https://drive.google.com/uc?id=1az0uTGS7M5UWUFuNfOCEzeduYA2bz491)
 

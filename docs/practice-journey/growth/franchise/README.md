@@ -137,3 +137,12 @@ Be open, honest and act when you say you will to gain trust and loyalty. Maintai
 - Communication protocols to esculate issues
 - Enforce belief you are behind them
 - Two way communication, be fair but not a push over
+
+## Summary
+
+From winning over franchisees to creating a franchise business plan to establishing routines of quality control, setting up a franchise requires preparation and dedication. But with a strong brand, clear communication channels and an appropriately tailored model, you can ensure your business enjoys the many perks of a franchise strategy.
+
+**Never stop supporting your best-performing franchisees.**
+
+Next time you think those franchisees whose numbers are always outstanding don’t need that monthly meeting with you, think again! Though it’s tempting to shift your time, money and support to branches that need the extra help, it’s essential that you never stop caring about any of your franchisees. Rather than creating an imbalance in your attention and resources across branches, tailor different kinds of support to each franchisee’s needs. Even successful branches have the potential to do better!
+

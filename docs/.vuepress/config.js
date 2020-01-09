@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Gensolve',
-  description: 'Practice Management Software that saves you time and drives patient satisfaction',
+  description: 'Practice Management Solutions',
   head: [['link', { rel: 'icon', href: `/logo.svg` }]],
   plugins: [['@vuepress/google-analytics', { ga: '' }]],
   themeConfig: {
@@ -18,8 +18,8 @@ module.exports = {
         link: '/operations/'
       },
       {
-        text: 'Insights',
-        link: '/insights/'
+        text: 'Wheelhouse',
+        link: '/wheelhouse/'
       },
       {
         text: 'Growth Stories',
@@ -32,7 +32,7 @@ module.exports = {
       './practice-journey/',
       './functionality/',
       './operations/',
-      './insights/',
+      './wheelhouse/',
       './growth-stories/'
     ]
   }

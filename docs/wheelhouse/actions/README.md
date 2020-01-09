@@ -1,12 +1,37 @@
 ---
-title: Action Lists
+title: Operational Actions
 ---
 
-# Action Lists
+# Operational Actions
 
-## Client
+Lack of focus is the enemy of productivity. The primary purpose of action dashboards is to inform users, based on their role, what the most valuable action they are capable of taking.
 
-### Sales Calls
+## General Rules
+
+1. Bad news must travel fast
+2. Worst first
+3. Only show bad news
+
+Set [expectations](./expectations/) to act as a filter on how results are priortised.
+
+## Types of actions
+
+1. Close system procedure gaps
+2. Report success and failure
+3. Identify opportunities for growth
+
+Action Dashboards drive users to take most valuable action at the moment of need, enabling the completion of complex processes without prior business experience.
+
+## Manager
+
+1. Who had a bad week?
+2. How can they be helped?
+
+## Sales Calls
+
+1. Who needs to be called?
+2. What subjects need to be addressed?
+3. What level of expertise is required?
 
 - Rebook or Discharge
 - Discharge Followup

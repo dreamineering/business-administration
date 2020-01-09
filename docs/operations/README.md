@@ -16,12 +16,12 @@ Any business is based on the same core pillars, it is just the names of things t
 
 - https://www.process.st/what-is-a-workflow/
 
-## [Core Skills](./core-skills)
+## [Core Skills](./core-skills/)
 
-- Connection
+- Connecting
 - Rapid Learning
 
-## [Direction](./direction)
+## [Direction](./direction/)
 
 - Vision and Mission
 - Know your enemy
@@ -31,31 +31,31 @@ Any business is based on the same core pillars, it is just the names of things t
 - Cashflow is King
 - Forecasts vs Results
 
-## [Quality](./quality)
+## [Quality](./quality/)
 
 - Deliver successful outcomes
 - Build a team based on connection
 
-## [Productivity](./productivity)
+## [Productivity](./productivity/)
 
 - Use your time effectively
 - Planning and Execution
 
-## [Marketing](./marketing)
+## [Marketing](./marketing/)
 
 - Create a virtuous cycle
 - Attunement and Messaging
 
-## [Technology](./technology)
+## [Technology](./technology/)
 
 - The ideal hardware, software and network package
 - Put latest equipment to work
 
-## [Compliance](./compliance)
+## [Compliance](./compliance/)
 
 - Security and Regulatory
 
-## [Property](./property)
+## [Property](./property/)
 
 - How big
 - Where
