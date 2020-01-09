@@ -146,3 +146,6 @@ From winning over franchisees to creating a franchise business plan to establish
 
 Next time you think those franchisees whose numbers are always outstanding don’t need that monthly meeting with you, think again! Though it’s tempting to shift your time, money and support to branches that need the extra help, it’s essential that you never stop caring about any of your franchisees. Rather than creating an imbalance in your attention and resources across branches, tailor different kinds of support to each franchisee’s needs. Even successful branches have the potential to do better!
 
+## Further learning
+
+- [How McDonalds makes money](https://www.investopedia.com/articles/markets/032015/how-mcdonalds-makes-its-money-mcd.asp)

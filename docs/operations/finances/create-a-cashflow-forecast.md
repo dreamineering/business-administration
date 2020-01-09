@@ -103,14 +103,10 @@ Extract from your Practice Management system.
 
 ## Further learning
 
-- [MBA Fundamentals by Fred Wilson](https://mba-mondays-illustrated.com/)
-- [Startup School by Seth Godin](https://player.fm/series/seth-godins-startup-school)
-- [Fear Setting by Tim Ferriss](https://www.youtube.com/watch?v=o7EVMjgsSME)
-- [Create a Virtous Cycle](https://www.inc.com/jeff-haden/the-1-principle-jeff-bezos-and-amazon-follow-to-fuel-incredible-growth.html)
-- [Customer Acquistion Cost by Brian Balfour](https://andrewchen.co/how-to-actually-calculate-cac/)
+- [MBA Fundamentals - Fred Wilson](https://mba-mondays-illustrated.com/)
+- [Startup School - Seth Godin](https://player.fm/series/seth-godins-startup-school)
+- [Fear Setting - Tim Ferriss](https://www.youtube.com/watch?v=o7EVMjgsSME)
+- [Create a Virtous Cycle - McKinsey](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/a-virtuous-cycle-for-growth)
+- [Customer Acquistion Cost - Brian Balfour](https://andrewchen.co/how-to-actually-calculate-cac/)
 - [Price Anchoring](https://www.priceintelligently.com/blog/bid/181199/price-anchoring-to-optimize-your-pricing-strategy)
-- [Time Blocking](https://blog.rescuetime.com/time-blocking-101/)
-- [Automation](https://tim.blog/category/automation/)
 - [Profit First](https://profitfirstbook.com/)
-- [Property Investment](https://www.investopedia.com/articles/markets/032015/how-mcdonalds-makes-its-money-mcd.asp)
-- [Growth by Acquistion](http://www.thembogroup.com/acquisitions_companies/biggest_mistakes_growing_by_acquisitions_.html)
