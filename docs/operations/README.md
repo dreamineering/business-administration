@@ -2,10 +2,10 @@
 title: Business Operations
 auditAudience:
 auditDesiredAction:
-auditEthos:
-auditPathos:
-auditLogos:
-auditKairos:
+auditEthos: What value?
+auditPathos: Emotion
+auditLogos: Proof
+auditKairos: Timing
 ---
 
 # Business Operations
@@ -13,8 +13,6 @@ auditKairos:
 Use GPM to create a people-centered culture that operates in rapid learning and fast decision cycles which are enabled by technology, and a common purpose that co-creates value for all stakeholders.
 
 Any business is based on the same core pillars, it is just the names of things that vary. Once you understand the core pillars you just a need to translate terms and you can expand your operation intelligence in any direction.
-
-- https://www.process.st/what-is-a-workflow/
 
 ## [Core Skills](./core-skills/)
 
