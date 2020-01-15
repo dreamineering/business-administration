@@ -4,6 +4,12 @@ title: Growth
 
 # Growth
 
+1. Make sure you are banking more money than you spend
+2. Become very efficient with your time
+3. Specialise in something that people need
+4. Educate your target audience how you help them
+5. Drive continuous improvement
+
 In fractured allied health markets, GPM has enabled progressive clinics with the fundatmental tools to fine tune their operational intelligence and branding to grow organically or by acquistion.
 
 > Have you reached critical mass to scale your business?
@@ -14,21 +20,17 @@ Once you have fine tuned your operational efficiency and communications you can 
 
 > For the more **entrepreneurial**<br>[Learn how to run a franchise business](./franchise/)
 
-## Organic
+## [Marketing](./marketing/)
+
+Marketing for growth
+
+## [Organic](./organic/)
 
 Grow a talented team around proven messaging and fine tune processes that have accountability.
 
-### Recruitment
+## [Acquistion](./acquistion/)
 
-Talent acquistion and training
-
-1. Get a great sales person on your Front Desk
-
-## Acquistion
-
-Leverage migration strategy to accumulate talented service providers or under performing assets.
-
-contact matt@dreamineering.com to learn more
+Accumulate talented service providers or under performing assets.
 
 ## [Franchise](./franchise/)
 

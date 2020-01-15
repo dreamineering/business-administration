@@ -12,4 +12,4 @@ How Gensolve Develops Software
 
 1. [thoughtbot](https://thoughtbot.com/playbook)
 
-## [New Feature Pipeline](./new-features/)
+## [New Feature Pipeline](./development-pipeline/)

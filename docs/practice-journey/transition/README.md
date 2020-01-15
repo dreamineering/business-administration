@@ -16,6 +16,21 @@ auditKairos:
 - First Month
 - First Quarter
 
+## Post Migration
+
+Reports to run
+
+- Client Appointments without Service Charges
+- Client Membership Usage Detail
+
+### Accounting
+
+Debtors and Creditors
+
+- Aged Debtors
+- Aged Creditors
+- Debtor Listing
+
 ## First Hour
 
 Depending on the size of your practice and the timing of your data transfer, it is wise to block out time where you won't see client's so you can focus on confirming your appointment book is in good order.

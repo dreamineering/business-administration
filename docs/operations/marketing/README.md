@@ -14,13 +14,23 @@ Since marketing and sales will generate revenue, practice owners need to underst
 
 Most practices use an "**inside-out** approach to marketing in that they list their services based on skills and then look to sell to a vaguely defined group that is **out there**
 
-However this "build it and they will come" approach usually results in much wasted effort, fierce competition from others who have the same idea and, often, failure. Before designing a product or service, business operators should study the market and assess the needs of customers. Find underserved areas. Then shape the marketing of the product or service, and sometimes the product or service itself, to answer those needs.
+However this **build it and they will come** approach usually results in much wasted effort, fierce competition from others who have the same idea and, often, failure. Before designing a product or service, business operators should study the market and assess the needs of customers. Find underserved areas. Then shape the marketing of the product or service, and sometimes the product or service itself, to answer those needs.
 
+> Upwards of 80% of your clients will come from within a 10km radius
+
+If upwards of 80% of clients come from within a 10km radius
+
+- What service do people in this zone most need?
 - How can you increase your hourly rate?
 - How can you get more return business?
 - How can you add value to a sale?
-- Could you put latest technology to work?
-- How can you gain more clients?
+- How could you put technology to work?
+
+### Do you have high traffic nearby?
+
+- Are you easy to stop off at?
+- Could you be doing more to encourage this?
+- Could you offer more for those that can make single visit?
 
 ## Concepts to drive growth
 

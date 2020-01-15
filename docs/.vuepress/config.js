@@ -14,16 +14,20 @@ module.exports = {
         link: '/functionality/'
       },
       {
+        text: 'Roles',
+        link: '/roles/'
+      },
+      {
         text: 'Operations',
         link: '/operations/'
       },
       {
-        text: 'Wheelhouse',
-        link: '/wheelhouse/'
+        text: 'Direction',
+        link: '/direction/'
       },
       {
-        text: 'Growth Stories',
-        link: '/growth-stories/'
+        text: 'Success Stories',
+        link: '/success-stories/'
       }
     ],
     displayAllHeaders: true,

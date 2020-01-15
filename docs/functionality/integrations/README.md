@@ -1,16 +1,14 @@
 ---
-title: Integrations
+title: System Integrations
 ---
 
-# Integrations
+# System Integrations
 
 Interfaces to complimentary systems that improve quality of service, productivity and financial accuracy.
 
-[[toc]]
-
 ## Medicare
 
-Please refer to the topic Setting Up to Perform Medicare Claims.
+Please refer to the topic Setting Up to Perform Medicare Claims. Australia Only.
 
 ## HICAPS
 

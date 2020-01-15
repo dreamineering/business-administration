@@ -4,7 +4,7 @@ title: Create a Cashflow Forecast
 
 # Create a Cashflow Forecast
 
-The initial goal is not perfection, but to have something you can refer back to and continually improve.
+The initial goal is not perfection, something you can continually improve.
 
 > Plans are of little importance, but planning is essential - Winston Churchill
 

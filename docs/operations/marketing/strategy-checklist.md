@@ -56,6 +56,11 @@ Check out our success stories **\_\_\_**
 
 What is the best method to reach your primary customers?
 
+1. Kickstart with paid search ads
+2. SEO
+3. SMS Campaign
+4. Email Campaign
+
 ## Followup Sales Processes
 
 From easist to hardest to get into the practice

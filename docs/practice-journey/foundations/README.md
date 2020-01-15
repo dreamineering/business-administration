@@ -12,23 +12,27 @@ auditKairos:
 
 Be honest about what you don't know, make a list, tick items off, grow your knowledge.
 
-> Strive for consistency first
+> Strive for consistency
 
 - Adapt to new workflows and ideas
 - Appreciate which reports to run and when.
 
-## [Direction](../business-administration/direction/)
+## [Direction](../operations/direction/)
 
 Productivity
 
-## [Quality](../business-administration/quality)
+## [Quality](../operations/quality)
 
 Quality
 
-## [Financials](../business-administration/finances/)
+## [Financials](../operations/finances/)
 
 Financials
 
-## [Productivity](../business-administration/productivity/)
+## [Productivity](../operations/productivity/)
 
 Productivity
+
+## [Marketing](../operations/marketing/)
+
+Ideal customer

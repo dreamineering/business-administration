@@ -10,13 +10,13 @@ auditKairos: Timing
 
 # Business Operations
 
-Use GPM to create a people-centered culture that operates in rapid learning and fast decision cycles which are enabled by technology, and a common purpose that co-creates value for all stakeholders.
+Create a people-centered culture that operates in rapid learning and fast decision cycles with a common purpose that creates value for clients and the practice.
 
 Any business is based on the same core pillars, it is just the names of things that vary. Once you understand the core pillars you just a need to translate terms and you can expand your operation intelligence in any direction.
 
 ## [Core Skills](./core-skills/)
 
-- Connecting
+- Connection
 - Rapid Learning
 
 ## [Direction](./direction/)
