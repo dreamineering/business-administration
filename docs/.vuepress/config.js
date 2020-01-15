@@ -36,8 +36,8 @@ module.exports = {
       './practice-journey/',
       './functionality/',
       './operations/',
-      './wheelhouse/',
-      './growth-stories/'
+      './direction/',
+      './success-stories/'
     ]
   }
 };

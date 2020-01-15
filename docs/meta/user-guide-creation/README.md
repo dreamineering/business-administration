@@ -10,12 +10,12 @@ Begin with the end/exit strategy in mind by using the Cash Flow spreadsheet as a
 
 Align content concepts with the patient journey from pain to performance to teach both how GPM enables Quality Control of Treatment.
 
-Relate how being **outcome focused** will also drive a business that is underperforming towards efficiency and growth.
+Relate how being **outcome-focused** will also drive a business that is underperforming towards efficiency and growth.
 
 Thought Leadership - understanding of market and challenges to growing a more profitable practice and how features in GPM can benefit our customers
 
-1. [Create a content overview](./01-create-a-content-overview/)
-2. [Use numbered or bullet point lists](/02-create-a-content-overview/)
+1. [Preparation](./01-preparation/)
+2. [Create a Content Outline](/02-create-a-content-outline/)
 3. [Bulletlists and subheadings](./03-bulletlists-and-subheadings/)
 4. [Direct Language](./04-direct-language/)
 5. [Review Message](./05-review-process/)
