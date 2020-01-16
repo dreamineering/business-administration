@@ -4,7 +4,7 @@ title: Saturation
 
 # Saturation
 
-There are two calculation variations
+Saturation as two calculation variations
 
 1. Clinical Saturation
 2. Business Saturation
@@ -27,8 +27,8 @@ The number of hours spent with paying clients where the appointment state must b
 Condition Appointment Hours + Contract Appointment Hours + Scheduled Class Hours
 :::
 
-::: warning Occuppied hours are counted
-Occuppied hours are counted not the number of appointments multiplied by hours.
+::: warning Occupied hours are counted
+Occupied hours are counted not the number of appointments multiplied by hours.
 :::
 
 ## Timeblocking (Clinician) Appointments

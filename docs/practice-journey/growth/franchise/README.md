@@ -28,14 +28,14 @@ While opening new company-run sites can be expensive and time consuming to...
 ### Franchisor
 
 - gain value from lessons learned the hard way
-- greater efficiency for self managed sites
+- greater efficiency for self-managed sites
 - grow revenue without with less debt obligation
 - limit operating risk
 - leverage connections to greater effect
 
 ### Franchisees
 
-Can hit the ground running to get their sites off to a great start.
+Franchisees can hit the ground running to get their sites off to a great start.
 
 - leverage off an existing brand
 - set up business as smoothly as possible
@@ -44,7 +44,7 @@ Can hit the ground running to get their sites off to a great start.
 
 ## How
 
-Contract that allows another party to leverage an existing business model.
+Provide a business model that includes:
 
 1. Franchisor provide the playbook to grow a business
 2. Franchisee will invest their own money, responsible for all loans
@@ -104,7 +104,7 @@ What is that your practice is uniquely capable of offering?
 
 The great thing about GPM is that replicating your business model is greatly simplified due to the architecture of the application, and reporting that will quickly identify if a franchisee is sliding off the rails.
 
-By and large your franchisee can concentrate of delivering customer satisaction while building deeper connections.
+Enable franchisee to concentrate on delivering satisfaction and building deeper connections with a loyal customer base.
 
 ## Personal
 
@@ -112,15 +112,18 @@ By and large your franchisee can concentrate of delivering customer satisaction 
 - Leadership
 - Sales ability
 
-Will take hard work, where do you want to be in 5 years? Do you want to sell it keep running?
+It will take hard work so need to be clear on:
 
-If planning to sell will need to maximise value to get a good price. In this case the ability to expand quicker would result in a higher valuation.
+- where do you want to be in 5 years?
+- Do you want to sell it keep running?
 
-Franchisees are also business owners with experience and opinions,to build successful relationships you'll need to prove leadership.
+If planning to sell you will need to maximize value to get a good price. In this scenario, the ability to expand quicker would result in a higher valuation.
 
-Can work together to develop new ideas and evole strategies to keep the brand moving forward.
+Franchisees are also business owners with experience and opinions, to build successful relationships you'll need to prove leadership.
 
-Ultimately you need to sell your ideas to see things from your perspective, backed by clear decision making framework explaining how the whole franchise will benefit.
+Can work together to develop new ideas and evolve strategies to keep the brand moving forward.
+
+Ultimately you need to sell your ideas to see things from your perspective, backed by a clear decision-making framework explaining how the whole franchise will benefit.
 
 - provide the smarts, not the leg work.
 
@@ -136,7 +139,7 @@ Be open, honest and act when you say you will to gain trust and loyalty. Maintai
 - Clearly defined roles
 - Communication protocols to esculate issues
 - Enforce belief you are behind them
-- Two way communication, be fair but not a push over
+- Open communication, be fair but not a pushover
 
 ## Summary
 

@@ -9,6 +9,8 @@ title: Treatment
 - Appointment Treatment Notes
 - Treatment Outcomes
 
+PSFS - Patient Specific Functional Scale
+
 ## Goals
 
 ## Appointment Notes
@@ -17,6 +19,6 @@ title: Treatment
 
 Close (Discharge) the condition.
 
-## Actions
+## Videos
 
-1. [Patient Treatment Goals](http://docs.gensolve.com/help/gpm_uk/desktop/Videos/Administration/How_to_Create_a_Patient_Goal.htm)
+1. [Create a Patient Goal](http://docs.gensolve.com/help/gpm_uk/desktop/Videos/Administration/How_to_Create_a_Patient_Goal.htm)

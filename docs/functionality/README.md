@@ -12,9 +12,9 @@ title: Functionality
 
 Interfaces to complimentary systems that improve quality of service, productivity and financial accuracy.
 
-## [By Navigation](./by-navigation/)
+## [Navigation](./ui-navigation/)
 
-Summary of features by primary interface navigation areas
+Categorised by the main menu navigation
 
 ## [New Features](./new-features/)
 

@@ -10,19 +10,19 @@ The initial goal is not perfection, something you can continually improve.
 
 The true value of your forecast is not in the numbers but the critical thinking in considering goals, obstacles and tasks that must be navigated to steer results towards expectations. **Don't think of this as static file to be completed and left aside**, instead return frequently to tweak and create different scenarios that fit with your options for growth.
 
-As you understand your business better and establish good habits so to will your ability to predict the future profits realted to plans for expansion.
+As you understand your business better and establish good habits so to will your ability to predict the future profits related to plans for expansion.
 
-> [Download Cashflow Forecast](https://drive.google.com/open?id=1aaPvmOcDwzf26TenRmb_-iePt3a-DCNZ&export=download)
+> [Download Cashflow Forecast](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download)
 
 ## General Approach
 
-Replace items in brackets, such as {clinican one} with actual staff names, if you are looking to employ new talent you can make up names by your own convention until such time as recruitment is complete.
+Replace items in brackets, such as {clinican one} with actual staff names if you are looking to employ new staff, use a convention to create a holder name until the recruitment process is complete.
 
 A key assumption is that your service price list will be reviewed quarterly.
 
 If you would like assistance completing this spreadsheet email
 
-profitforecast@gensolve.co.uk
+sales@gensolve.com
 
 ## Pricing
 
@@ -49,16 +49,16 @@ For each clinician replace the starting values {clinician one} then month by mon
 
 Start with expenditure as this is easiest. Potential revenue is more subjective and dependent on your strategic goal are driven by greater efficiency or growth.
 
-When estimating sales revenue, condider the Worst case scenario first as a [fear setting](https://www.youtube.com/watch?v=o7EVMjgsSME) exercise to help allieviate anxiety that might be preventing decisive action.
+When estimating sales revenue, consider the Worst case scenario first as a [fear setting](https://www.youtube.com/watch?v=o7EVMjgsSME) exercise to help reduce the anxiety that is preventing decisive action.
 
 For revenue Clinician's name as you did in Scheduled Hours, but repeat an entry for each important revenue channel you are interested in for evaluating worst and best case revenue is to ensure each clinician has a total adding up to 100%.
 
-Think of diffent service types / pricing bands that each clinican provides treatment for, then create a line in the sales section for each service type and pricing band.
+Think of different services/pricing bands that each clinician provides treatment for, then create a line in the sales section for each service type and pricing band.
 
 Steps
 
-1. Match Clnicians in Schedule
-2. Create worst and best case scenarios for what percentage of time each clinician spends performing each service. As an example you would want to limit the percentage of time an Clinician of 20 years spends peforming low priced insurance work.
+1. Match Clinicians in Schedule
+2. Create worst and best-case scenarios for what percentage of time each clinician spends performing each service. As an example you would want to limit the percentage of time an Clinician of 20 years spends peforming low priced insurance work.
 3. Enter the worst and best case ratio and an averaged hourly rate based on the quarter
 
 _GPM service will automatically be calculated based on the total providers scheduled hours._

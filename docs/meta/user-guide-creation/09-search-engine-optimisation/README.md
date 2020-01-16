@@ -16,3 +16,5 @@ Check the following:
 - Optimising for a keyword string (if you have one in mind)
 - Using h2 tags for subheadings
 - Alt text for images
+
+Create sharable quotes.

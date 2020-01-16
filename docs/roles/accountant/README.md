@@ -1,8 +1,8 @@
 ---
-title: How to choose an accountant
+title: Accountant
 ---
 
-# How to choose an accountant
+# Accountant
 
 Picking the right accountant is a vital business decision, so you’ll need to arm yourself with the right assessment questions.
 
@@ -21,7 +21,7 @@ Hiring an accountant can be **even more important** than taking on a member of s
 
 the key thing to query during the hiring process is how the accountant will add financial value to your company. “Look for someone who can act as a business partner. You want them to demonstrate the skills and knowledge of supporting a small business.”
 
-Meet with a least three candidates before making a final choice.
+e.
 
 1. Could my money work harder?
 2. Are we a good match?

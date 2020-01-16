@@ -4,7 +4,13 @@ title: Time Blocking
 
 # Time Blocking
 
-Not planning a schedule, committing to too many tasks or events, and dealing with the many life distractions can all lead to wasted time and anxiety about how to get everything done. Here are 10 tips to keep in mind as you hone your time management skills:
+Time is your greatest asset. Practice owners need to remember they are managing a business, not working in a job. So the management of all aspects of the business should carry equal weight.
+
+A common reason for business failure The owner is more comfortable "doing" and so ignores other important aspects of management.
+
+Not planning a schedule, committing to too many tasks or events, and dealing with the many life distractions can all lead to wasted time and anxiety about how to get everything done.
+
+![time blocking](https://drive.google.com/uc?id=1agILVkkPyRAkjOZaLCRW4Ivt3N6mFVgv)
 
 > Discipline equals Freedom
 
@@ -62,5 +68,3 @@ Keep your eyes on the prize.
 Whether you’re focusing on short-term action steps or long-term goals, use these objectives for motivation. This can help you stick to your time management schedule and foster a sense of achievement.
 
 There are many time management tools that you can use to help schedule time, from mobile apps to calendars and multi-year plans. Below, you’ll find a variety of templates with basic formatting and a professional appearance that can help you manage your personal and professional time better. Download the templates that work for you and customize them to fit your needs.
-
-![time blocking](https://drive.google.com/uc?id=1agILVkkPyRAkjOZaLCRW4Ivt3N6mFVgv)

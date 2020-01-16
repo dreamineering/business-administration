@@ -9,11 +9,11 @@ auditIntent:
 
 ## Preparation
 
-Find or create a relevant Workflow Diagram to understand inputs and outputs of the process flow
+Identify the relevant Workflow Diagram to understand overview of inputs and outputs and important interfaces to answer:
 
-1. What is the main business discipline?
-2. What related business discipline?
-3. Which roles applicable to? Why?
+1. What primary business discipline?
+2. What secondary business disciplines?
+3. What [audience](../audience/) is this content for? Why?
 4. How frequently?
 5. What does success look like?
 6. What needs to be checked?

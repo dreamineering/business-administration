@@ -1,8 +1,8 @@
 ---
-title: Wheelhouse
+title: Direction
 ---
 
-# Wheelhouse
+# Direction
 
 **Dashboards are for taking action**. Some actions are clear and obvious, others require a coffee followed by a stroll around the park. Different types of dashboard exist in GPM to provide a singular focus where prevention is better than cure.
 
@@ -16,23 +16,22 @@ title: Wheelhouse
 
 ## [Operational Actions](./actions/)
 
-Refer to frequently to identify...
+Refer to frequently to identify:
 
-- Gaps in operational procedures
-- Sales calls that are due
-- Staff that are under performing
+- incorrect application use
+- clients that require sales calls
+- gaps in business procedures
+- staff that are underperforming
 
-## [Analytical Insights](./analysis/)
+## [Performance Insights](./kpis/)
 
 Analytical dashboards are subjective but should [tell a story](http://kpilibrary.com/topics/what-makes-for-a-compelling-metrics-story) whether results are aligned with strategic expectations.
 
-Before you can navigate a path you need to [have a clear direction](../operations/direction/)
+Use KPI analysis check progress is aligned with your [strategic direction](../operations/direction/)
 
 ## [Expectations](./expectations/)
 
-Set targets that drive action or strategic decisions to be made. To help with setting expectations you should regurlarly review a profit forecast spreadsheet where you can run scenario analysis.
-
-> [Download Cashflow Forecast](https://drive.google.com/open?id=1aaPvmOcDwzf26TenRmb_-iePt3a-DCNZ&export=download)
+Set targets that drive action or strategic decisions to be made. To help with setting expectations you should regularly review a profit forecast spreadsheet where you can run scenario analysis.
 
 ## Further reading
 

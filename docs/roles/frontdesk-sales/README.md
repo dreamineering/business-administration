@@ -1,14 +1,14 @@
 ---
-title: Front Desk Sales
+title: Front Desk
 ---
 
-# Front Desk Sales
+# Front Desk
+
+This is primarily a **SALES** position, their primary goal is to ensure that all clients leave having booked a return appointment.
 
 A frontdesk employee must respond to a variety of challenges on a daily basis. A lack of systems to follow results in poor productivity, lost income, high cancellation rates, high staff turnover, low morale and missed opportunities.
 
 ## Front Desk Requirements
-
-This is primarily a **SALES** position.
 
 - Answering phone calls
 - Setting and checking clients in and out for appointments

@@ -1,14 +1,8 @@
 ---
-title: Practice Manager
-auditAudience:
-auditDesiredAction:
-auditEthos:
-auditPathos:
-auditLogos:
-auditKairos:
+title: Operations Manager
 ---
 
-# Practice Manager
+# Operations Manager
 
 Runs the business operations of a medical practice. Responsible for hiring and training administrative staff, managing budgets and payments, organizing records, and ensuring that the practice delivers good customer service.
 

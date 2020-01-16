@@ -1,5 +1,6 @@
 ---
 title: Roles
+description: This is meta
 auditAudience:
 auditDesiredAction:
 auditEthos:
@@ -10,24 +11,31 @@ auditKairos:
 
 # Roles
 
-## Direction
+An Owner/Director/Manager for setting a strategic vision and correcting the course dependent on results.
 
-Owner/Director for setting strategic vision and correcting the course dependent on results
+Dependent on the size of the organisation may need to cover both clinical and business operations roles.
 
-## Operations
+## Clinical Operations
 
-- [Operations Manager]
+- [Clinical Lead](./clinical-lead/)
+- [Clinician](./clinician/)
 
-## Clinical
+## Business Operations
 
-- [Clinical Lead]
+- [Operations Manager](./operations-manager/)
+- [Frontdesk Sales](./frontdesk-sales/)
+- [Accounts Controller](./accounts-controller/)
+- [Systems Admin](./system-admin/)
 
-## Professional
+## Professional Services
 
-- [Accountant]
-- [Marketing]
-- [Property]
+For smaller organisations these roles would be provided by external resources.
 
-## IT
+- [Accountant](./accountant/)
+- [Marketing](./marketing/)
+- [Information Technology](./information-technology/)
+- [Property Management](./property-management/)
 
-- []()
+## Recruitment Guidance
+
+Meet with a least three candidates before making a final choice when recruiting.

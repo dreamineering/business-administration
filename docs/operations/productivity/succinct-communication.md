@@ -4,13 +4,13 @@ title: Succinct Communication
 
 # Succinct Communication
 
-## The Enemy
+## Problem
 
 - Email chains CC'ing the world
 - Meetings without purpose
 
-THE SOULTION
+## Solution
 
-LINKS
+Event lists
 
 http://www.paulgraham.com/power.html
