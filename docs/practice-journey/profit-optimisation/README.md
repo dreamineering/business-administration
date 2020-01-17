@@ -4,9 +4,11 @@ title: Profit Optimisation
 
 # Profit Optimisation
 
+If you have not achieved consistency, measuring the impact of your strategic direction is guesswork.
+
 Pushing performance on top of disfunction create injuries.
 
-> Reputations are hard to build but easily lost, before you attempt to scale fine tune what you have.
+> Reputations are hard to build but easily lost, before you attempt to scale fine-tune what you have.
 
 By now you will have a solid understanding of core functionality and can focus on how to fine tune the configuration options to improve operational efficiency.
 

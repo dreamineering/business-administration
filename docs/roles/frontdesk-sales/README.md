@@ -8,7 +8,7 @@ This is primarily a **SALES** position, their primary goal is to ensure that all
 
 A frontdesk employee must respond to a variety of challenges on a daily basis. A lack of systems to follow results in poor productivity, lost income, high cancellation rates, high staff turnover, low morale and missed opportunities.
 
-## Front Desk Requirements
+## Front Desk Responsibilities
 
 - Answering phone calls
 - Setting and checking clients in and out for appointments
@@ -19,6 +19,16 @@ A frontdesk employee must respond to a variety of challenges on a daily basis. A
 - Staying updated on benefits of retail products
 - Recognizing and supporting team goals
 - Maintaining positive relationships with all team members
+
+## GPM Activities
+
+- [Client Appointments without Service Charges](../../)
+- [Appointments Not Completed]()
+- [Appointments Without Conditions]()
+
+**Client Sales Calls**
+
+- [DNA / Cancellations Report]()
 
 ## Frontdesk Requirements
 
@@ -37,4 +47,4 @@ Have a strong customer service orientation and be able to communicate effectivel
 Maintain client confidentiality.
 Massage Envy Franchising, LLC (“MEF”) is a national franchisor of independently owned and operated franchised locations. Each individual franchised location, not MEF or any of its affiliates, is the sole employer for all positions posted by a franchised location, and each individual franchised location is not acting as an agent for MEF or any of its affiliates. Hiring criteria, benefits and compensation are set by each individually owned and operated franchised location and may vary from location to location.
 
-## Questions to ask when recruiting for frontdesk positions
+## Questions to ask when recruiting for Front Desk positions

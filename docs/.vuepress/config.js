@@ -10,16 +10,16 @@ module.exports = {
         link: '/practice-journey/'
       },
       {
-        text: 'Functionality',
-        link: '/functionality/'
+        text: 'Features',
+        link: '/features/'
       },
       {
         text: 'Roles',
         link: '/roles/'
       },
       {
-        text: 'Operations',
-        link: '/operations/'
+        text: 'Fundamentals',
+        link: '/fundamentals/'
       },
       {
         text: 'Direction',
@@ -34,9 +34,9 @@ module.exports = {
     sidebar: [
       '/',
       './practice-journey/',
-      './functionality/',
+      './features/',
       './roles/',
-      './operations/',
+      './foundations/',
       './direction/',
       './success-stories/'
     ]

@@ -4,7 +4,7 @@ title: Analysis
 
 # Analysis
 
-Refer to these for trends, to confirm what best strategic decisions should be taken.
+Refer to these for trends, to confirm what strategic decisions should be taken.
 
 ## [Finances](./finances/)
 
