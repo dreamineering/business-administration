@@ -13,11 +13,11 @@ Identify the relevant Workflow Diagram to understand overview of inputs and outp
 
 1. What primary business discipline?
 2. What secondary business disciplines?
-3. What [audience](../audience/) is this content for? Why?
-4. How frequently?
-5. What does success look like?
-6. What needs to be checked?
-7. What screencasts and screenshots exist?
+3. Which [audience](../audience/) is this content for? Why?
+4. [When](https://www.youtube.com/watch?v=7MiEWXA-JWk) is information relevant, and how frequently repeated?
+5. How important/useful is information to remember?
+6. What does success look like? What needs to be checked?
+7. What screencasts should be add/linked?
 
 When describing an activity that requires tasks with multiple form interfaces include a workflow diagram. An image is worth a thousand words, after all.
 
@@ -33,9 +33,3 @@ If you include images, make sure each one has an ‘alt text’ tag filled in wi
 - [Hemingway](http://www.hemingwayapp.com/)
 - [Grammarly](https://support.grammarly.com/hc/en-us/articles/115000090792-What-is-Grammarly-)
 - [Grammarly for VS Code](https://marketplace.visualstudio.com/items?itemName=znck.grammarly)
-
-### Figma
-
-### Hemingway
-
-### Grammarly

@@ -6,7 +6,14 @@ auditIntent:
 
 # Playbook
 
-How Gensolve Develops Software
+- How to use GPM to drive Gensolve's Operations
+- How Gensolve Develops Software
+
+## [Angular](./angular/)
+
+## [Communications](./communications/)
+
+## [Tools](./tools/)
 
 ## Inpiration
 

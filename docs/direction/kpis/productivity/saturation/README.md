@@ -19,6 +19,26 @@ Client Revenue Hours / (Total Available Hours - Business Operations Hours)
 (Client Revenue Hours + Business Operations Hours) / Total Available Hours
 :::
 
+## Decsions
+
+### Bad News
+
+Trigger alert when Clinical Saturation is below
+
+- Does the Clinician need better training?
+
+### Good News
+
+Trigger alert when Clinical Saturation has been above 85% consistently for the past 6 weeks.
+
+- Value add services?
+- Could prices be raised?
+- Commission to Wages
+
+## Related Reports
+
+- Clinician Margin
+
 ### Client Revenue Hours
 
 The number of hours spent with paying clients where the appointment state must be either Completed or No Show.

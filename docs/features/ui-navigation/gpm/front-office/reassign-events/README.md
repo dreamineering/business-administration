@@ -4,15 +4,15 @@ title: reassign events
 
 # Reassign Events
 
-## Business Operation
+## Overview
 
-Productivity
-
-Map
+![productivity-with-events-workflow]()
 
 ## When
 
 - Staff scheduling and load balancing
 - New Staff
 
-## How
+## Related
+
+- [How to instructions](http://bit.ly/2QZFCke)

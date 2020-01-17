@@ -36,7 +36,7 @@ module.exports = {
       './practice-journey/',
       './features/',
       './roles/',
-      './foundations/',
+      './fundamentals/',
       './direction/',
       './success-stories/'
     ]
