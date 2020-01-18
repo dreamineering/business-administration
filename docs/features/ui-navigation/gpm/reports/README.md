@@ -13,7 +13,7 @@ Run these daily to complete jobs that have been left unfinished.
 - [Client Appointments with Service Charges](./client-appointments-without-service-charges.md)
 - [Appointments Not Completed](./appointments-not-completed.md)
 - [Appointments Without Conditions](./appointments-without-conditions.md)
-- []()
+- [Missing Treatment Notes]()
 
 ## Appointments Owing
 
@@ -53,34 +53,64 @@ Run these daily to complete jobs that have been left unfinished.
 
 ## Clinician Appointment Schedule - Detailed
 
-Clinician Appointment Treatments
-Clinician Summary Report
-Condition Appointment Allowed Status
-Condition Discharge Export
-Condition Followups Report
-Discharge Summary Report
-Incomplete Exams Report
-Initial vs Followup Report
-Intra Referrals Report
-Client Appointment Counts
-Deleted Appointments
-Moved Appointments
-PT Paid Appointment Report
-User Activity Report
-Client Demographics Report
-Client Referral Detail
-Clients Last Appointment Report
-Clients Not Seen or Discharged Report
-Clients Not Seen Report
-Clinician Capacity
-Clinician Unique Clients Report
-Condition Referral Details
-Condition Referrer/Clinic Summary
-Condition Summary Report
-DNA / Cancellations Report
-GP Client Referral Source Report
-New Clients Report
-Online Booking Report
-Referral Source - Clients
-Referral Source - Conditions
-Why Choose Us - Clients
+## Clinician Appointment Treatments
+
+## Clinician Summary Report
+
+## Condition Appointment Allowed Status
+
+## Condition Discharge Export
+
+## Condition Followups Report
+
+## Discharge Summary Report
+
+## Incomplete Exams Report
+
+## Initial vs Followup Report
+
+## Intra Referrals Report
+
+## Client Appointment Counts
+
+## Deleted Appointments
+
+## Moved Appointments
+
+## PT Paid Appointment Report
+
+## User Activity Report
+
+## Client Demographics Report
+
+## Client Referral Detail
+
+## Clients Last Appointment Report
+
+## Clients Not Seen or Discharged Report
+
+## Clients Not Seen Report
+
+## Clinician Capacity
+
+## Clinician Unique Clients Report
+
+## Condition Referral Details
+
+## Condition Referrer/Clinic Summary
+
+## Condition Summary Report
+
+## DNA / Cancellations Report
+
+## GP Client Referral Source Report
+
+## New Clients Report
+
+## Online Booking Report
+
+## Referral Source - Clients
+
+## Referral Source - Conditions
+
+## Why Choose Us - Clients

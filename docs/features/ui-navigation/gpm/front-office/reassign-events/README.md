@@ -6,7 +6,7 @@ title: reassign events
 
 ## Overview
 
-![productivity-with-events-workflow]()
+![productivity-with-events-workflow](https://drive.google.com/uc?id=1SLWghShClzpIHAf2Xvs-6APBUGdUt-Xy)
 
 ## When
 
@@ -16,3 +16,7 @@ title: reassign events
 ## Related
 
 - [How to instructions](http://bit.ly/2QZFCke)
+- [Event Types]()
+- [Event Templates]()
+- [Events]
+- [Recurring Events]()

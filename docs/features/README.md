@@ -22,13 +22,15 @@ Core workflows of running a practice
 
 ## [Integrations](./integrations/)
 
-Interfaces to complimentary systems that improve quality of service, productivity and financial accuracy.
+Interfaces to complimentary systems to run operations
 
 ## [Navigation](./ui-navigation/)
 
 Categorised by the main menu navigation
 
-## [Frequently Ask Questions](./faqs/)
+## [FAQs](./faqs/)
+
+Frequently Asked Questions
 
 ## [New Features](./new-features/)
 

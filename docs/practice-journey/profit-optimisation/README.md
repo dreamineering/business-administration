@@ -4,9 +4,7 @@ title: Profit Optimisation
 
 # Profit Optimisation
 
-If you have not achieved consistency, measuring the impact of your strategic direction is guesswork.
-
-Pushing performance on top of disfunction create injuries.
+Prepare your business operations to scale. If you push for performance on top of disfunction create injuries.
 
 > Reputations are hard to build but easily lost, before you attempt to scale fine-tune what you have.
 

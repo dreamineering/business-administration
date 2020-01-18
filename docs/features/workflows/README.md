@@ -1,5 +1,5 @@
 ---
-title: Operational Concepts
+title: Workflows
 ---
 
 # Operational Concepts
@@ -11,6 +11,8 @@ title: Operational Concepts
 - Users and roles
 - Employees and wages
 - Clinicians and services
+
+## [Checklists](./checklists/)
 
 ## [Service Types](./service-types/)
 

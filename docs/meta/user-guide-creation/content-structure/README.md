@@ -28,7 +28,7 @@ Core Business Foundations taken from reading through multiple consultancy sites,
 - UK physio market has low business knowledge
 - Seek good reference site to send to, with strategy later we can build a relationship and get return traffic
 - When picking references get to align ourselves with big names
-- Longer game we can connect our clients to professsionals in this area and could handle billing in GPM
+- Longer game we can connect our clients to professionals in this area and could handle billing in GPM
 
 ## Roles
 

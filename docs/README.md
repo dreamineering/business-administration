@@ -19,4 +19,19 @@ If your patients don’t establish positive habits by following routines you pro
 
 ![outcome-driven-growth](https://drive.google.com/uc?id=1az0uTGS7M5UWUFuNfOCEzeduYA2bz491)
 
-If you need help priortising what jobs will lead to optimum value creation, we will happily introduce you to those in our [professional network](./practice-journey/growth/coaching/) that specialise in your area of need.
+Are you struggling with priortising action for optimum growth? Having a [cashflow forecast](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) is vital for running through various scenarios. Here we have created a performance analysis workbook you can [download for free](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download).
+
+If you need professional advice we would be happy to introduce you to our [network](./practice-journey/growth/coaching/) that specialise in your area of need.
+
+## Take control of your Patient Journey to improve Patient outcomes
+
+**Educate. Monitor. Improve** if you want to offer the best possible care for their patients - at every step of their treatment.
+
+1. Do you have a highly specialised patient treatment journey?
+2. Are you a specialist with a particular injury/problem?
+
+Gensolve Practice Manager's Custom contracts put you in total control to:
+
+1. Drive quality of service improvement
+2. Reduce churn, improve planning
+3. Predict and optimise profits
