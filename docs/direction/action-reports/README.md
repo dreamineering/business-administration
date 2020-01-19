@@ -1,26 +1,30 @@
 ---
-title: Operational Actions
+title: Action Reports
 ---
 
-# Operational Actions
+# Action Reports
 
-Lack of focus is the enemy of productivity. The primary purpose of action dashboards is to inform users, based on their role, what the most valuable action they are capable of taking.
+AKA Naughty lists, these reports highlight system process gaps and supplement Events as todo lists where each user should check and close on a routine basis.
+
+The strength of acton lists over a TODO action is that the user that owns the problem must take relevant corrective action in GPM to close the item correctly and remove themselves from the naughty list.
+
+Action reports don't require analysis as this intelligence is in GPM, instead they direct users, based on their role, to the most valuable action they need to take to ensure smooth and profitable operations.
+
+Action reports must be backed by strong operations workflows that detail how even inexperienced staff can complete a triggered scenario without managerial guidance.
 
 ## General Rules
 
 1. Bad news must travel fast
 2. Worst first
-3. Only show bad news
+3. Action Reports should be empty
 
-Set [expectations](./expectations/) to act as a filter on how results are priortised.
+Set [expectations](../expectations/) to act as a filter on how results are priortised.
 
 ## Types of actions
 
 1. Close system procedure gaps
-2. Report success and failure
-3. Identify opportunities for growth
-
-Action Dashboards drive users to take most valuable action at the moment of need, enabling the completion of complex processes without prior business experience.
+2. Report benchmark performance failures
+3. Trigger strategic decisions
 
 ## Manager
 

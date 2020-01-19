@@ -12,8 +12,6 @@ title: Workflows
 - Employees and wages
 - Clinicians and services
 
-## [Checklists](./checklists/)
-
 ## [Service Types](./service-types/)
 
 - Allowable Sites
@@ -30,22 +28,18 @@ title: Workflows
 - Next of kin
 - Marketing Segment Groups
 
-## [Appointment Book](./appointment-book/)
+## Appointment Book
 
 - Clinical Appointments
-- Classes Appointments
+- Class Appointments
 - Time-blocking Appointments
 - Recurring Appointments
 - Book again
 - Waiting lists
 
-## [Terms of Service](./terms-of-service/)
+## Treatment Pathway
 
-- Conditions
-- Contracts
-
-## [Treatment Path](./treatment-path/)
-
+- Conditions vs Contracts
 - Initial Assessment
 - Goals and Plans
 - Progressive Appointment Notes
@@ -53,19 +47,19 @@ title: Workflows
 
 ## [Online Booking](./online-booking/)
 
-- Google Tag Manager
+- [Marketing](./online-booking/marketing/)
 - Restrict
 
-## [Internal Communications](./communications/)
+## [Staff Management](./staff-management/)
 
-- Events
-- Event Types
-- Event Templates
-- Recurring Events
-- Reassign Events
+- [Operations Checklists](./staff-management/how-to-create-operations-checklists/)
+- [Commission vs Wages](./staff-management/commissions/)
+
+## External Communications
+
+- [Operations Checklists](./how-to-create-operations-checklists/)
+- [Commission vs Wages](./commissions/)
 
 ## [Payment](./payment/)
-
-## [Commissions](./commissions/)
 
 ## [Accounting](./accounting/)

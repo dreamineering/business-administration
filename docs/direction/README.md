@@ -14,7 +14,7 @@ title: Direction
 2. Does the outlook for next week look good/bad?
 3. Who had a good/bad week|month|qsuarter?
 
-## [Operational Actions](./actions/)
+## [Operational Actions](./action-reports/)
 
 Refer to frequently to identify:
 
