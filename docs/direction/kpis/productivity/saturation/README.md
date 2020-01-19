@@ -19,7 +19,7 @@ Client Revenue Hours / (Total Available Hours - Business Operations Hours)
 (Client Revenue Hours + Business Operations Hours) / Total Available Hours
 :::
 
-## Decsions
+## Decisions
 
 ### Bad News
 
@@ -54,7 +54,7 @@ Occupied hours are counted not the number of appointments multiplied by hours.
 ## Timeblocking (Clinician) Appointments
 
 1. Always set an Appointment Type
-2. Only use one method to blockout leave
+2. Only use one method to block-out leave
 3. Check appointments are inside a schedule
 4. Check appointments are on the correct site
 

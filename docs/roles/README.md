@@ -15,7 +15,7 @@ An Owner/Director/Manager for setting a strategic vision and correcting the cour
 
 Dependent on the size of the organisation may need to cover both clinical and business operations roles.
 
-## Clinical Operations
+## Clinical Expertise
 
 - [Clinical Lead](./clinical-lead/)
 - [Clinician](./clinician/)

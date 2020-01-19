@@ -1,10 +1,12 @@
 ---
-title: System Error - I cannot save updates to a form
+title: System Error - Cannot save form updates
+prev: ./README/
+next: false
 ---
 
-# System Error - I cannot save updates to a form
+# System Error - Cannot save form updates
 
-Sometimes data will be locked
+Occasionally data can become locked if two users access it at the same time
 
 1. Log out of GPM
 2. When logging in again **Clear Cache**

@@ -26,11 +26,7 @@ Interfaces to complimentary systems to run operations
 
 ## [Navigation](./ui-navigation/)
 
-Categorised by the main menu navigation
-
-## [FAQs](./faqs/)
-
-Frequently Asked Questions
+Features by main menu navigation
 
 ## [New Features](./new-features/)
 
