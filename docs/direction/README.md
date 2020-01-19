@@ -14,7 +14,7 @@ title: Direction
 2. Does the outlook for next week look good/bad?
 3. Who had a good/bad week|month|qsuarter?
 
-## [Operational Actions](./action-reports/)
+## [Action Reports](./action-reports/)
 
 Refer to frequently to identify:
 
@@ -23,11 +23,23 @@ Refer to frequently to identify:
 - gaps in business procedures
 - staff that are underperforming
 
-## [Performance Insights](./kpis/)
+## [Key Performance Indicators](./kpis/)
 
-Analytical dashboards are subjective but should [tell a story](http://kpilibrary.com/topics/what-makes-for-a-compelling-metrics-story) whether results are aligned with strategic expectations.
+The keyword here is **Indicator** are these numbers are subjective and require further analysis to understand the bigger picture of how they occurred. For example, returning the Saturation percentage for each clinician is not as valuable as returning those whose Saturation is under 70% in order of lowest to highest. This will give you a list of Clinicians to speak with in critical order but won't tell you why their numbers are low. For that you will need to dig into other reports to get a complete picture. Such questions as:
 
-Use KPI analysis check progress is aligned with your [strategic direction](../operations/direction/)
+1. has the Clinician been acting on their Discharge or Rebook report actions?
+2. has the Clinician been Follow Report actions?
+3. is this a new Clinician with a low base of returning clients?
+
+### Sales and Marketing
+
+1. is the Clinician at a newly started site?
+2. is the Clinician is offering a service that is new to the clinic?
+3. lack of intra-referrals from other staff?
+
+### Quality
+
+The Clinician treated an unusually high number of Clients with an injury where either they or the clinic needs to improve the treatment pathway.
 
 ## [Expectations](./expectations/)
 

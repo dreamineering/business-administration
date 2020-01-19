@@ -1,37 +1,41 @@
 ---
-title: Analysis
+title: KPI Analysis
 ---
 
-# Analysis
+# KPI Analysis
 
-Refer to these for trends, to confirm what strategic decisions should be taken.
+Check progress against [expectations](../expectations/) for your [strategic direction](../operations/direction/)
+
+The goal is to [tell a story](http://kpilibrary.com/topics/what-makes-for-a-compelling-metrics-story) whether a Practice, Site or member of Staff has had a good week, month or quarter, by comparing to the previous period (week, month, quarter) or the same period in the previous year.
 
 ## [Finances](./finances/)
 
+Are you generating profits the make the effort worthwhile?
+
 ## [Quality Control](./quality/)
 
-## [Productivity](./productivity/)
-
-## [Marketing](./marketing/)
-
-## [System Admin](./system-admin/)
-
-### Productivity
-
-Focus on creating more successful outcomes
+Are you delivering successful outcomes?
 
 - Injury outcome analysis
 - Planning In-service training
 - Client notes up to standard
 - Treatment plans created
 
-### Marketing
+## [Productivity](./productivity/)
 
-Increase per client spend
+Do you value your time highly enough?
 
-Balance service mix and pricing with available resources, ensure spend on marketing is cost effective. Build up loyal clients with high value return spend (Revenue per Client) till hit saturaton, part of a bigger indicator that operations ready to expand into another site.
+## [Marketing](./marketing/)
 
-- Extracting client lists for Mailchimp et el
-- Planning content creation
-- Creating and posting content
+Are you spending time and money effectively?
+
+Balance service mix and pricing with available resources, ensure spend on marketing is cost-effective. Build up **loyal Clients** with high-value return spend before attracting new Clients.
+
+- Average Revenue per Client
 - Cost of acquistion
+- Why Clients see you
+- Client Goals
+
+## [System Admin](./system-admin/)
+
+Who has been accessing what and when?
