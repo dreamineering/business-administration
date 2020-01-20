@@ -10,6 +10,10 @@ module.exports = {
     prevLinks: true,
     nav: [
       {
+        text: 'Demo',
+        link: '/demo/'
+      },
+      {
         text: 'Journey',
         link: '/practice-journey/'
       },
@@ -41,6 +45,7 @@ module.exports = {
     displayAllHeaders: true,
     sidebar: [
       '/',
+      './demo/',
       './practice-journey/',
       './features/',
       './roles/',

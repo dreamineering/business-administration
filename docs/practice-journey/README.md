@@ -4,17 +4,18 @@ title: Practice Journey
 
 # Practice Journey
 
-## [Business Needs](./needs/)
+## [Initial Assessment](./initial-assessment/)
 
-- Where do you want your business to be?
+- What do you need?
 - What is holding you back?
 
-## [Getting Started](./getting-started/)
+## [Preparation](./preparation/)
 
-- Are we the right fit for you?
-- How can we solve your transition fears?
+- Data Transfer
+- Admin Configuration
+- Training
 
-## [Transition](./transition)
+## [Transition](./transition/)
 
 - Is your team prepared for change?
 - What questions need answers?

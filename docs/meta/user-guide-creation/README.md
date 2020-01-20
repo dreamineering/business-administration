@@ -6,6 +6,11 @@ auditIntent:
 
 # Content Creation Guide
 
+1. Intent
+2. Structure
+3. Substance
+4. Colour
+
 ## Objectives
 
 - Establish Thought Leadership

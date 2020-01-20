@@ -4,11 +4,16 @@ title: Features
 
 # Features
 
-Some highlights of what makes GPM different:
+- **Efficient** save time with navigation shortcuts, treatment shortcodes
+- **Effective** prioritise most valuable actions
+- **Accurate** avoid costly mistakes
+- **Accountability** easily see who has done what
 
-- Accounting application included
-- Can have multiple trading entities with shared organisation data
-- Contracts for Packaged Care
+## What makes GPM different?
+
+- Accounting system included
+- Supports multiple trading vendors
+- Custom Contracts to support Packaged Care
 - Workflow Templates
 - Debt Recovery Plans
 
