@@ -12,4 +12,4 @@ To save yourself time, run through this [checklist](./checklist.md) to confirm t
 
 ## [Install](./install/)
 
-## [Demo Profiles](./demo-profiles.md)
+## [Profiles](./profiles/)
