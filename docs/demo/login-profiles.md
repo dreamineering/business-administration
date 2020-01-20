@@ -1,6 +1,6 @@
 ---
 title: Login Profiles
-prev: ./install
+prev: false
 next: ./application-navigation
 ---
 

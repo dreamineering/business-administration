@@ -9,7 +9,7 @@ To save yourself time, run through this [checklist](./checklist.md) to confirm t
 1. Install
 2. Login
 3. Application Navigation
-4. Clinican
+4. Clinician
 5. Frontdesk
 6. Operations Manager
 7. Accounts and Payroll
@@ -19,4 +19,8 @@ To save yourself time, run through this [checklist](./checklist.md) to confirm t
 
 ## [Login Profiles](./login-profiles.md)
 
-## [Login Profiles](./login-profiles.md)
+## [Application Navigation](./application-navigation.md)
+
+## [Clinician](./Clinical-user.md)
+
+## [Front Desk](./frontdesk-user.md)
