@@ -7,7 +7,7 @@ auditIntent:
 # Content Creation Guide
 
 1. Intent
-2. Structure
+2. [Structure](./content-structure/)
 3. Substance
 4. Colour
 
@@ -22,30 +22,6 @@ Establish **Thought Leadership** by demonstrating knowledge of market challenges
 **How will this be achieved?** By explaining how primary KPIs feedback into a [forecasting tool](../../operations/finances/create-a-cashflow-forecast.md) that will serve as a Trojan Horse by helping owners plan for growth at the same time proving the benefits of functionality where they lack awareness of the business drivers.
 
 ## [Audience](./audience/)
-
-### Buyers
-
-- Practice Owners/Managers
-- Operations Managers
-- Health Practice Accountants
-- Franchise Owners
-
-### Users
-
-- Operations Managers
-- Accountants
-- Accounts Controllers
-- Front Desk
-- Clinicians
-
-## [Content Structure](./content-structure/)
-
-- Practice Journey
-- Foundations
-- Roles
-- Features
-- Direction
-- Success Stories
 
 ## Content Creation Checklist
 

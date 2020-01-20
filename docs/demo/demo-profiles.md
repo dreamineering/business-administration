@@ -1,19 +1,17 @@
 ---
-title: Login Profiles
+title: Demo Profiles
 prev: false
-next: ./application-navigation
+next: ./profiles/application-navigation
 ---
 
-### Login Profiles
+# Demo Profiles
 
-For all the demonstration usernames/roles below you can log in with:
+All demo profiles you can log in with the following details:
 
 | Field        |    Setting    |
 | ------------ | :-----------: |
 | Organisation | Demo Practice |
 | Password     |   Dem0User    |
-
-Get started with the **clinician** username/profile and then work through the various options of interest to learn how GPM might look dependent on the primary business role.
 
 ![GPM Login](https://drive.google.com/uc?id=1a1-c4ygdIjA3VoJ79guyId0u0XReBYNi)
 
@@ -21,14 +19,12 @@ Get started with the **clinician** username/profile and then work through the va
 See the [troubleshooting guide](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/Installation___Troubleshooting/Logging_In.htm?rhtocid=7.1.0_2#) if you have problems
 :::
 
-## Example Roles
-
-Within your own organisation **you have complete flexibility** to configure roles as you desire.
+Get started with the first **Username** in the table below then work through each option in the table below to learn how GPM might look dependent on the primary business role.
 
 | Username  |     Display Name     |                 Focus |
 | --------- | :------------------: | --------------------: |
-| clinician |      Clinician       |      Client Treatment |
 | fd        |      Front Desk      |          Client Sales |
+| clinician |      Clinician       |      Client Treatment |
 | om        |  Operations Manager  |   Business Operations |
 | ap        |  Accounts & Payroll  |   Business Operations |
 | lc        |    Lead Clinician    |   Business Operations |
@@ -38,12 +34,12 @@ Within your own organisation **you have complete flexibility** to configure role
 | gpm       |      GPM Admin       |      GPM Configration |
 | cfb       | Custom Forms Builder |      GPM Configration |
 
-For newcomers, taking in all of GPM's functionality at once can be confusing. Below is a diagram that breaks roles by their primary focus, so you can log into the application and understand the features through different perspectives.
+These profiles are more for educational purposes to breakdown the learning GPM into more manageable chunks. In your organisation you will have complete control to configure roles exactly as you desire.
 
 ![common-health-practice-roles-and-responsibilities](https://drive.google.com/uc?id=1_85fzFafOpCNIkbkKoCnLqtNYTDWdgY2)
 
 ::: tip
-If you hold down the shift key then click on the GPM application in the bottom task bar of windows you can log in with the manager profile, so you can view full functionality.
+If you hold down the shift key then click on the GPM application in the bottom taskbar of windows you can log in with the manager profile, so you can view full functionality.
 :::
 
 Once you are successfully logged in choose an appropriate [demonstration to follow](../demonstration/) to learn the essentials.

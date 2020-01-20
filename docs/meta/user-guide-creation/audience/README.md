@@ -11,6 +11,16 @@ title: audience
 - Health Practice Accountants
 - Franchise Owners
 
-## Existing Customers
+## Existing Users
 
 Roles looking for help to complete an action
+
+- Front Desk
+- Clinicians
+- Operations Managers
+- Accounts and Payroll
+- Accountants
+
+## Investors
+
+People that might want to accelerate growth
