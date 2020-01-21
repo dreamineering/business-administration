@@ -27,11 +27,11 @@ module.exports = {
       },
       {
         text: 'Fundamentals',
-        link: '/fundamentals/'
+        link: '/business-fundamentals/'
       },
       {
-        text: 'Control Loop',
-        link: '/control-loop/'
+        text: 'Control Centre',
+        link: '/control-centre/'
       },
       {
         text: 'Success Stories',
@@ -49,8 +49,8 @@ module.exports = {
       './practice-journey/',
       './features/',
       './roles/',
-      './fundamentals/',
-      './control-loop/',
+      './business-fundamentals/',
+      './control-centre/',
       './success-stories/',
       './support/'
     ]

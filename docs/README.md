@@ -52,10 +52,18 @@ Gensolve Practice Manager's Custom contracts put you in total control to:
 
 ## Demo
 
+Try Gensolve Practice Manager
+
 ## Business Fundamentals
 
-## Control Loop
+Learn how to apply fundamental business principles in GPM
 
 ## Roles
+
+Who does what
+
+## Control Centre
+
+Smart Action Lists, Key Performance Indicators, and Dashboards
 
 ## Success Stories

@@ -4,6 +4,18 @@ title: Vuepress
 
 # Vuepress
 
+## Why?
+
+- Fast to load
+- Fast for getting ideas out
+- Easy to rearrange understand due to folder structure
+- Content can easily be repurposed
+- Edit in VS Code or direct in BitBucket
+- PR to update content
+- [Tailwind Conversion](https://dev.to/vuevixens/build-a-beautiful-website-with-vuepress-and-tailwindcss--3a03)
+
+## Plugins
+
 http://hanxue-it.blogspot.com/2019/07/vuepress-how-to-embed-video-in-markdown.html
 
 ## Markdown Examples

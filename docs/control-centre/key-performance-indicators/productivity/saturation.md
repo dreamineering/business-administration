@@ -4,36 +4,34 @@ title: Saturation
 
 # Saturation
 
-Saturation as two calculation variations
+The percentage of revenue-generating hours out of hours available to customers.
+
+The calculation has two variations
 
 1. Clinical Saturation
 2. Business Saturation
 
-## Calulation
-
 ::: tip Clinical Saturation
-Client Revenue Hours / (Total Available Hours - Business Operations Hours)
+Revenue Generating Hours / (Total Available Hours - Business Operations Hours)
 :::
 
 ::: tip Business Saturation
-(Client Revenue Hours + Business Operations Hours) / Total Available Hours
+(Revenue Generating Hours + Business Operations Hours) / Total Available Hours
 :::
 
-## Decisions
+## Components
 
-### Bad News
+- Revenue Generating Hours
+- Total Available Hours
+- Business Operations Hours
 
-Trigger alert when Clinical Saturation is below
+### Revenue Generating Hours
 
-- Does the Clinician need better training?
+## Expectations
 
-### Good News
+Trigger alert when Clinical Saturation is below 80%
 
-Trigger alert when Clinical Saturation has been above 85% consistently for the past 6 weeks.
-
-- Value add services?
-- Could prices be raised?
-- Commission to Wages
+- does the Clinician need better training?
 
 ## Related Reports
 
@@ -51,7 +49,9 @@ Condition Appointment Hours + Contract Appointment Hours + Scheduled Class Hours
 Occupied hours are counted not the number of appointments multiplied by hours.
 :::
 
-## Timeblocking (Clinician) Appointments
+## Timeblocking Appointments
+
+AKA Administration > Clinician Appointment Types
 
 1. Always set an Appointment Type
 2. Only use one method to block-out leave
@@ -62,7 +62,15 @@ Learn more about time blocking appointments
 
 ### Always set an Appointment Type
 
-### Only use one method to blockout leave
+![provider-appt-type]()
+
+### Only use one method to block-out leave
+
+Either Schedule leave for a Provider or use Provider Appointment that contains the work **LEAVE**. Don't use both.
+
+If using a schedule make sure you first delete any Provider Appointments that have been created within the period that the Provider will be away.
+
+![]
 
 ### Check appointments are inside a schedule
 

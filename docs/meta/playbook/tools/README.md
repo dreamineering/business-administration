@@ -12,14 +12,6 @@ title: Tools
 
 ## [Vuepress](./vuepress/)
 
-### Why?
-
-- Fast for getting ideas out
-- Edit VS Code
-- Easy to rearrange
-- Content could be moved
-- PR to update content (Edit in Github or Bitbucket) can be a public project and encourage outsiders to commit improvements
-
 ## [Figma](./figma/)
 
 ## [Hemingway](./hemingway/)
