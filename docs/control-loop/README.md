@@ -1,12 +1,29 @@
 ---
-title: Direction
+title: Control Loops
 ---
 
-# Direction
+# Control Loops
 
-**Dashboards are for taking action**. Some actions are clear and obvious, others require a coffee followed by a stroll around the park. Different types of dashboard exist in GPM to provide a singular focus where prevention is better than cure.
+Track, connect the dots, close the loop, attribute, summarize and overview. How often do you say you’re going to do these things
 
-> What action should you take right now, that has the greatest value impact?
+Types:
+
+1. Action lists
+2. Predictive
+
+## Action Lists
+
+Based on fundamental truths, identify problems rectify with documented workflows
+
+## Predictive
+
+If we do this, then we **should** get that.
+
+To be capable of knowing the future would be a great magical superpower. Unfortunately, we can't provide magic, but predicting the future is a skill you can develop and is vital to leading a thriving business. All you need is accurate data, and a consistent method based on solid reasoning you can continously evolve. Sometimes the value of results will be out, but the value of thinking ahead is still something you can bank.
+
+Sometimes actions are clear and obvious, others require a coffee and a stroll around the park. Different types of dashboard exist in GPM to provide a singular focus where prevention is better than cure.
+
+> Imagine if each team member of your business knew the single most valuable action they need to take **right now**?
 
 ## Prevention is better than cure
 

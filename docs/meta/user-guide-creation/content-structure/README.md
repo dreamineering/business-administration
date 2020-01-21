@@ -4,14 +4,27 @@ title: Content Structure
 
 # Content Structure
 
+The overall goal is to **cross-reference the below like fuck**
+
+- Demo
 - Practice Journey
-- Foundations
+- Business Foundations
 - Roles
 - Features
 - Direction
 - Success Stories
 
+## Demo
+
+### Intent
+
+1. Get people to install GPM
+2. Give enough that they come with good questions for sales
+3. Qualified Sales Leads
+
 ## Practice Journey
+
+### Intent
 
 From sales to running smoothly in 3 months, with fundamental knowledge how to direct business operations and now ready to scale.
 
@@ -21,14 +34,28 @@ From sales to running smoothly in 3 months, with fundamental knowledge how to di
 4. Create a sales demo that is not dependent of GPM staff, create a story of fictional practice
 5. Explain migration path, get customers to do more legwork
 
-## Foundations
+## Business Foundations
+
+### Intent
+
+- Why things should be done from a business perspective.
+
+The audience includes entrepreneurs outside of healthcare, experienced at operating and scaling a business.
 
 Core Business Foundations taken from reading through multiple consultancy sites, but also considering key areas that impact growth for practice owner.
 
 - UK physio market has low business knowledge
 - Seek good reference site to send to, with strategy later we can build a relationship and get return traffic
 - When picking references get to align ourselves with big names
-- Longer game we can connect our clients to professionals in this area and could handle billing in GPM
+- establish partnerships with professionals we can connect and handle billing in GPM
+
+### Content Type
+
+- Blog style
+- informative
+- conversational
+- copywriting
+- opinionated
 
 ## Roles
 
@@ -38,8 +65,12 @@ Core Business Foundations taken from reading through multiple consultancy sites,
 
 ## Features
 
+### Intent
+
+1. **Audit** does every form have at least one reference article
+
 - system-core
-- ui-navigation
+- navigation
 - workflows
 - integrations
 - time-savers

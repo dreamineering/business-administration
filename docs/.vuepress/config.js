@@ -30,8 +30,8 @@ module.exports = {
         link: '/fundamentals/'
       },
       {
-        text: 'Direction',
-        link: '/direction/'
+        text: 'Control Loop',
+        link: '/control-loop/'
       },
       {
         text: 'Success Stories',
@@ -50,7 +50,7 @@ module.exports = {
       './features/',
       './roles/',
       './fundamentals/',
-      './direction/',
+      './control-loop/',
       './success-stories/',
       './support/'
     ]
