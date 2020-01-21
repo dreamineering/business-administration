@@ -1,7 +1,7 @@
 ---
 title: Front Desk
 prev: ./application-navigation
-next: ./clinical-user
+next: ./clinician
 ---
 
 # Front Desk

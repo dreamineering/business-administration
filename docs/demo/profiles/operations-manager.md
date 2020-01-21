@@ -1,7 +1,7 @@
 ---
 title: Operations Manager
-prev: ./application-navigation
-next: ./clinical-user
+prev: ./lead-clinician
+next: ./accounts-and-payroll
 ---
 
 # Operations Manager

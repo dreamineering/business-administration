@@ -59,5 +59,3 @@ Gensolve Practice Manager's Custom contracts put you in total control to:
 ## Roles
 
 ## Success Stories
-
-##

@@ -1,9 +1,9 @@
 ---
-title: Clinical Lead
-prev: ./application-navigation
-next: ./clinical-user
+title: Lead Clinician
+prev: ./clinician
+next: ./operations-manager
 ---
 
-# Clinical Lead
+# Lead Clinician
 
 Provide [feedback questions](./feedback-questions.md)

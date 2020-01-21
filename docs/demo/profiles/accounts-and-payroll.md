@@ -1,7 +1,7 @@
 ---
 title: Accounts and Payroll
-prev: ./application-navigation
-next: ./clinical-user
+prev: ./operations-manager
+next: ./accountant
 ---
 
 # Accounts and Payroll

@@ -1,10 +1,10 @@
 ---
-title: Clinical User
-prev: ./application-navigation
-next: ./clinical-user
+title: Clinician
+prev: ./frontdesk
+next: ./lead-clinician
 ---
 
-# Clinical User
+# Clinician
 
 - [Create treatment notes](http://docs.gensolve.com/help/gpm_uk/desktop/Videos/Conditions__Medical_Notes/How_to_Create_Daily_Notes.htm)
 

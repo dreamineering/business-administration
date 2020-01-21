@@ -1,7 +1,7 @@
 ---
 title: Application Navigation
-prev: ./login-profiles
-next: ./clinical-user
+prev: ./
+next: ./frontdesk
 ---
 
 # Application Navigation

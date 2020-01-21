@@ -1,7 +1,7 @@
 ---
 title: Install
-prev: ../
-next: ./demo-profiles
+prev: ./
+next: ./
 ---
 
 # Install
