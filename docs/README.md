@@ -27,7 +27,7 @@ Event Templates are an **actionable** versions of your _how-to_ documentation
 
 Constantly mix up cross-functional teams in your organisation, to review your primary workflows. Sketch the flow on paper and then transfer that into Event Template workflow. Each week cycle through all of your workflows with other teams eventually rewiewing an updating each process.
 
-## [Practice Journey
+## Practice Journey
 
 If your patients don’t establish positive habits by following routines you provide them, would you expect successful treatment outcomes? We are not here to run your business, but when you start with GPM we can set-up your configuration to give you a headstart on growing your operational intelligence and profits.
 
