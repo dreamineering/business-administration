@@ -1,5 +1,5 @@
 ---
-title: Growth Stories
+title: Success Stories
 auditAudience:
 auditDesiredAction:
 auditEthos:
@@ -8,5 +8,10 @@ auditLogos:
 auditKairos:
 ---
 
-# Growth Stories
+# Success Stories
 
+## Habit G2G merger
+
+[Habit Group](https://www.linkedin.com/company/habit-group/)
+
+G2G Merger details

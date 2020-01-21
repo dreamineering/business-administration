@@ -51,7 +51,7 @@ The following benefits:
 
 ## Tactics
 
-Use this content to cross-check with marketing intitiatives
+Use this content to cross-check with marketing initiatives
 
 Use recruitment sites to find job specs for each [role](../../roles/) that contributes to growth of a practice and then check how each job/responsibility maps to a workflow in GPM.
 
@@ -66,3 +66,7 @@ Speak to professionals to review in return for adding their reference
 ## Skunk works branch
 
 Send cashflow forecast to test implementation and content with some targets customers.
+
+## Learning
+
+https://www.ihearttechnicalwriting.com/user-guide-checklist/

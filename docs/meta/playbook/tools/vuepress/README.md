@@ -45,3 +45,7 @@ This is a dangerous warning
 ::: details
 This is a details block, which does not work in IE / Edge
 :::
+
+## Links
+
+[Create a blog](https://blog.logrocket.com/how-create-portfolio-blog-using-vuepress-markdown/)

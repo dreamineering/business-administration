@@ -67,3 +67,5 @@ Who does what
 Smart Action Lists, Key Performance Indicators, and Dashboards
 
 ## Success Stories
+
+Read about practices that have grown their operations
