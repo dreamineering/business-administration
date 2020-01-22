@@ -15,23 +15,19 @@ Take the **pain** out of running your business and **start growing** or **share*
 
 > **What is holding you back?**<br>[Start your free trial with GPM](./demo/install/)
 
-## [Practice Journey](./practice-journey/)
+## [Outcome Focused](./practice-journey/)
 
-- Always have a plan for the week ahead
-- Replace your vicious cycles with virtuous
-- Reactive time with constructive time
-- Take yourself out of range, schedule time for deep thinking
-- Empty your head, know what needs to be done when the time is right
-
-If your patients don’t establish positive habits by following routines you provide them, would you expect successful treatment outcomes? We are not here to run your business, but when you start with GPM we can set-up your configuration to give you a headstart on growing your operational intelligence and profits.
+We are not here to run your business, but we hope to plant seeds that will spark your imagination on your path to success.
 
 ![outcome-driven-growth](https://drive.google.com/uc?id=1Rlxj3vrzZB4RxqqNb-ipk4J-DTcj8lUb)
 
-Are you struggling with priortising action for optimum growth? Having a [cashflow forecast](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) is vital for running through various options to grow your business. We have created a workbook you can [download for free](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) that we hope will plant a seed that will spark your imagination to take your first steps towards growth.
+Are you struggling with priortising action for optimum growth? Having a [cashflow forecast](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) is vital for running through various options to grow your business. We have created a workbook you can [download for free](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download).
 
 If you need professional advice we would be happy to introduce you to our [network](./practice-journey/growth/coaching/) that specialise in your area of need.
 
 ## [Features](./features/)
+
+### Customise your Patient Journey
 
 Take control of your outcomes to better **Educate. Monitor. Improve** patient satisfaction and your practice's profitability.
 
@@ -44,11 +40,9 @@ Custom contracts put you in total control to:
 2. Reduce churn, improve planning
 3. Predict and optimise profits
 
-Convert your procedure documentation into actionable checklists
+### Close the loops
 
-::: tip
-Event Templates are an **actionable** versions of your _how-to_ documentation
-:::
+Convert your **how-to** operations documentation into [actionable checklists](./features/workflows/staff-management/how-to-create-operations-checklists/) for improved communication, consistency and accountability.
 
 Constantly mix up cross-functional teams in your organisation, to review your primary workflows. Sketch the flow on paper and then transfer that into Event Template workflow. Each week cycle through all of your workflows with other teams eventually rewiewing an updating each process.
 
