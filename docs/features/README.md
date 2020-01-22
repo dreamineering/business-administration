@@ -9,13 +9,23 @@ title: Features
 - **Accurate** avoid costly mistakes
 - **Accountability** easily see who has done what
 
-## What makes GPM different?
+## What makes Gensolve different?
+
+We've built a lot of stuff and we've been around 20 years!
 
 - Accounting system included
 - Supports multiple trading vendors
 - Custom Contracts to support Packaged Care
 - Workflow Templates
 - Debt Recovery Plans
+
+We also have an Audiology product that runs New Zealand's biggest Audiology business and software that runs a successful trailer hire business in Australia.
+
+We've got organisational smarts within business services too.
+
+- Recruitment
+- Billing
+- Accounting
 
 ## [System](./system/)
 

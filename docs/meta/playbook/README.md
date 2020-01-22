@@ -13,8 +13,12 @@ auditIntent:
 
 ## [Communications](./communications/)
 
+## [Dashboards](./dashboards/)
+
+## [Sales](./salee/)
+
 ## [Tools](./tools/)
 
-## Inpiration
+## Inspiration
 
 1. [thoughtbot](https://thoughtbot.com/playbook)

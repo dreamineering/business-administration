@@ -6,38 +6,13 @@ auditIntent:
 
 # Content Creation Guide
 
-1. Intent
-2. [Structure](./content-structure/)
-3. Substance
-4. Colour
+1. [Intent](./intent/)
+2. [Audience](./audience/)
+3. [Structure](./content-structure/)
+4. [Substance](./substance/)
+5. [Storytelling](./storytelling/)
 
-## Objectives
-
-- Establish Thought Leadership
-- Extract Value out of Support Centre
-- Streamline sales to onboarding
-
-Establish **Thought Leadership** by demonstrating knowledge of market challenges to growing a profitable practice while proving the cost of GPM is insignificant compared to the **opportunity costs** that come from inefficient and inaccurate workflows.
-
-**How will this be achieved?** By explaining how primary KPIs feedback into a [forecasting tool](../../operations/finances/create-a-cashflow-forecast.md) that will serve as a Trojan Horse by helping owners plan for growth at the same time proving the benefits of functionality where they lack awareness of the business drivers.
-
-## [Audience](./audience/)
-
-## Content Creation Checklist
-
-When creating content attempt to relate concepts with the patient treatment pathway, specifically how being **outcome-focused** will improve patient satisfaction but also drive their business towards greater efficiency and growth.
-
-1. [Preparation](./01-preparation/)
-2. [Create a Content Outline](/02-create-a-content-outline/)
-3. [Bulletlists and subheadings](./03-bulletlists-and-subheadings/)
-4. [Direct Language](./04-direct-language/)
-5. [Review Message](./05-review-process/)
-6. [Interlink Pathways](./06-interlinking/)
-7. [Add Screencasts](./07-add-screencasts/)
-8. [Check Accuracy](./08-accuracy/)
-9. [Search Engine Optimisation](./09-search-engine-optimisation/)
-10. [Gather User Feedback](./10-user-feedback/)
-11. [Extract Success Stories](./11-storytelling/)
+All content here on [Google Drive](https://drive.google.com/drive/u/0/folders/1NrD8g-7Optig8uizemwNgZ1Ndm7-Y-d2) anyone can use VS Code to edit.
 
 ## Intended Benefits to Gensolve
 

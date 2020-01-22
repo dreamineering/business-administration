@@ -4,8 +4,12 @@ title: Support
 
 # Support
 
-You can also find [help here](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/The_Workspace/Getting_Help.htm)
+- [Support Centre](http://docs.gensolve.com/help/gpm_uk/)
+- [Submit a ticket](http://support.gensolve.com/)
+- [Request a new feature](https://gensolve.uservoice.com/forums/327429-gensolve-gpm)
 
 ## [System Errors](./system-errors/)
+
+Have you tried **Clearing the cache**?
 
 ## [Frequently Asked Questions](./frequently-asked-questions/)
