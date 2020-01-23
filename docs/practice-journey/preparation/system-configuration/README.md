@@ -76,11 +76,24 @@ You can set this up in the system but it is faster to initially load some settin
 
 ### Reference Settings
 
-| Data                   | Guidance |
-| ---------------------- | -------- |
-| Why did you choose us  |          |
-| How did you hear of us |          |
-| xxxx                   |          |
+| Data                     | Guidance |
+| ------------------------ | -------- |
+| Why did you choose us    |          |
+| How did you hear of us   |          |
+| Company Contact Position |          |
+| Company Type             |          |
+| Contact Address Type     |          |
+| Contact Email Type       |          |
+| Contact Phone Type       |          |
+| Discharge Outcome        |          |
+| Document Action          |          |
+| Main Provider Reason     |          |
+| Other Provider Type      |          |
+| Product Group            |          |
+| Upload File Type         |          |
+| Actvity                  |          |
+| Patient Goal             |          |
+| Cancellation Reason      |          |
 
 ### System Administrator Checklist
 
