@@ -55,7 +55,34 @@ Depending on the size and services your practice offers we have some spreadsheet
 | SOD - No Show Fee                      |          |
 | SOD - Cancellation Fee                 |          |
 
-## System Administrator Checklist
+## Optional
+
+You can set this up in the system but it is faster to initially load some settings compared to entering each record in the user interface
+
+| Data                    | Guidance |
+| ----------------------- | -------- |
+| Timeblocking Appt Types |          |
+| Contract Types          |          |
+| Custom Forms            |          |
+| Debt Recovery Actions   |          |
+| Debtors                 |          |
+| Event Templates         |          |
+| Events                  |          |
+| Expenses                |          |
+| Investigation Types     |          |
+| Letter Templates        |          |
+| Medication Types        |          |
+| Text Shortcuts          |          |
+
+### Reference Settings
+
+| Data                   | Guidance |
+| ---------------------- | -------- |
+| Why did you choose us  |          |
+| How did you hear of us |          |
+| xxxx                   |          |
+
+### System Administrator Checklist
 
 Your system will come loaded with an onboarding checklist of options you can set to fully customise GPM to your needs.
 
