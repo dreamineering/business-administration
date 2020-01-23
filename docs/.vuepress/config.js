@@ -38,6 +38,10 @@ module.exports = {
         link: '/success-stories/'
       },
       {
+        text: 'Glossary',
+        link: '/glossary/'
+      },
+      {
         text: 'Support',
         link: '/support/'
       }
@@ -52,6 +56,7 @@ module.exports = {
       './business-fundamentals/',
       './control-centre/',
       './success-stories/',
+      './glossary/',
       './support/'
     ]
   }

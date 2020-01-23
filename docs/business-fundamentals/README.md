@@ -16,11 +16,6 @@ If you don't achieve operational consistency across your team, measuring the imp
 
 > First we make our habits, then our habits make us
 
-## Goals
-
-- Adapt to new workflows and ideas
-- Establish routines when and why reports must be run.
-
 Review the fundamentals to seed your imagination
 
 ## [Core Skills](./core-skills/)

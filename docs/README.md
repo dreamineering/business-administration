@@ -17,7 +17,7 @@ Take the **pain** out of running your business and **start growing** or **share*
 
 ## [Get Started](./practice-journey/)
 
-Platform + Process + People create Profits. GPM delivers the Platform, we can plant seeds for your Process, it's up to you to connect the People that will put you on that path to success.
+Get started with Gensolve Practice Manager by importing 20 years of operational intelligence into your practice. Platform + Process + People create Profits. GPM delivers the Platform, we can provide checklists to plant the seeds for your Process, it's up to you to connect the People that will put you on that path to success.
 
 ![outcome-driven-growth](https://drive.google.com/uc?id=1Rlxj3vrzZB4RxqqNb-ipk4J-DTcj8lUb)
 

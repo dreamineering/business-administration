@@ -15,13 +15,15 @@ title: Preparation
 
 ## Plan
 
-### [Data Migration](./data-migration/)
-
-**Optional** if you are already using another system and wish to transfer your data into GPM.
-
 ### [Customise configuration](./system-configuration/)
 
 Configure your system to hit the ground running.
+
+![onboarding-data](https://drive.google.com/uc?id=1nv2W5JH8R3lFNCgljOuzdAH5nL1DADKm)
+
+### [Data Migration](./data-migration/)
+
+**Optional** if you are already using another system and wish to transfer your data into GPM.
 
 ### [Training](./training/)
 

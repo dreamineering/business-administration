@@ -4,9 +4,56 @@ title: System Configuration
 
 # System Configuration
 
-## Template Spreadsheets
-
 Depending on the size and services your practice offers we have some spreadsheets we can review together that will significantly speed up and improve tailoring the system to your specific needs when your practice begins using Gensolve to run operations.
+
+### Core
+
+- Organisation
+- Sites
+- Staff
+- Payroll
+- Services
+- Services Whitelist
+- Marketing Groups
+- GPM Installations
+
+#### Organisation Settings
+
+| Setting                                | Guidance |
+| -------------------------------------- | -------- |
+| Vendor                                 |          |
+| Default Site                           |          |
+| Contact Email                          |          |
+| Accounting Method                      |          |
+| Vendor Street                          |          |
+| Vendor Suburb                          |          |
+| Vendor City                            |          |
+| Vendor State                           |          |
+| Vendor Postcode                        |          |
+| Vendor Phone                           |          |
+| Vendor Mobile                          |          |
+| Vendor Fax                             |          |
+| Vendor Email                           |          |
+| Homepage                               |          |
+| Portal URL                             |          |
+| Portal Contact Name                    |          |
+| Portal Google Analytics Code           |          |
+| Portal Google Tag Manager              |          |
+| SMS Reply Name                         |          |
+| SMS Reply Email                        |          |
+| Bank Name                              |          |
+| Bank Branch                            |          |
+| Bank Account Name                      |          |
+| Bank Number                            |          |
+| Bank BSB No                            |          |
+| Bank Account Number                    |          |
+| Bank Account Format                    |          |
+| Vendor - ABN No                        |          |
+| Vendor - GST No                        |          |
+| Vendor - Set Default Site for Payments |          |
+| Prov Appt - Nearest mins               |          |
+| SOD - No Show Fee                      |          |
+| SOD - Cancellation Fee                 |          |
 
 ## System Administrator Checklist
 

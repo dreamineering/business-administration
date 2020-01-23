@@ -26,9 +26,9 @@ Once you have fine-tuned your operational efficiency and communications you can 
 
 In fractured allied health markets, GPM has enabled progressive clinics with the ability to fine-tune their operational intelligence and branding to grow organically or by acquisition
 
-- [organic](./organic/)
-- [acquistion](./acquistion/)
-- [franchise](./franchise/)
+- [Organic](./organic/)
+- [Acquistion](./acquistion/)
+- [Franchise](./franchise/)
 
 ## Successful Outcomes
 
