@@ -14,7 +14,7 @@ module.exports = {
         link: '/demo/'
       },
       {
-        text: 'Journey',
+        text: 'Get Started',
         link: '/practice-journey/'
       },
       {

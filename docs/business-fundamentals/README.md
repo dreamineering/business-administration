@@ -1,5 +1,5 @@
 ---
-title: Business Operations
+title: Business Fundamentals
 auditAudience:
 auditDesiredAction:
 auditEthos: What value?
@@ -8,11 +8,20 @@ auditLogos: Proof
 auditKairos: Timing
 ---
 
-# Business Operations
+# Business Fundamentals
 
 Create a people-centered culture that operates in rapid learning and fast decision cycles with a common purpose that creates value for clients and the practice.
 
-Any business is based on the same core pillars, it is just the names of things that vary. Once you understand the core pillars you just a need to translate terms and you can expand your operation intelligence in any direction.
+If you don't achieve operational consistency across your team, measuring the impact of your strategic direction is guesswork. Grow your organisations operational intelligence with [workflow checklists](../../features/workflows/staff-management/how-to-create-operations-checklists/) to share knowledge efficiently.
+
+> First we make our habits, then our habits make us
+
+## Goals
+
+- Adapt to new workflows and ideas
+- Establish routines when and why reports must be run.
+
+Review the fundamentals to seed your imagination
 
 ## [Core Skills](./core-skills/)
 

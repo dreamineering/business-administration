@@ -20,13 +20,6 @@ title: Practice Journey
 - Is your team prepared for change?
 - What questions need answers?
 
-## [Fundamentals](./fundamentals/)
-
-- Quality: have you defined the path to successful treatment outcomes?
-- Finance: do you have a believable profit forecast?
-- Productivity: are you time blocking your business admin schedule?
-- Marketing: have you identified your ideal customer?
-
 ## [Profit Optimisation](./profit-optimisation/)
 
 - Quality: are you getting positive customer testimonials backed by data?

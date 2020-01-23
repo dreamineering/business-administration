@@ -16,6 +16,8 @@ Practice Managers or those with business administrative responsibilities will ne
 
 > [Download Gensolve Practice Manager](http://software.gensolve.com/gpmuk/install.htm)
 
+If you are interested in our Audiology product please _email sales@gensolve.com_
+
 See [Install Steps](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/Installation___Troubleshooting/Installation.htm?rhtocid=7.1#) for more details.
 
 ::: tip

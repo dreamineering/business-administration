@@ -15,9 +15,9 @@ Take the **pain** out of running your business and **start growing** or **share*
 
 > **What is holding you back?**<br>[Start your free trial with GPM](./demo/install/)
 
-## [Outcome Focused](./practice-journey/)
+## [Get Started](./practice-journey/)
 
-We are not here to run your business, but we hope to plant seeds that will spark your imagination on your path to success.
+Platform + Process + People create Profits. GPM delivers the Platform, we can plant seeds for your Process, it's up to you to connect the People that will put you on that path to success.
 
 ![outcome-driven-growth](https://drive.google.com/uc?id=1Rlxj3vrzZB4RxqqNb-ipk4J-DTcj8lUb)
 

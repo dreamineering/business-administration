@@ -1,37 +1,36 @@
 ---
-title: Getting Started
+title: Preparation
 ---
 
-# Getting Started
+# Preparation
 
-Before wasting your time you can quickly assess if [GPM seems right for you?](./fundamental-questions/)
+## Questions
 
-## [Install](./install/)
+- Do you need to bring data from an existing system?
 
-Install Gensolve Practice Manager.
+## Goals
 
-## [Login](./login/)
+- Explain the onboarding path
+- Ensure you block out time for approval testing
 
-Select the desired login profile to follow a role-based feature demonstration.
+## Plan
 
-## [Learn the Essentials](./demonstration/)
-
-Learn how the application can be configured to be relevant to typical user roles.
-
-## [Data Conversion](./data-conversion/)
+### [Data Migration](./data-migration/)
 
 **Optional** if you are already using another system and wish to transfer your data into GPM.
 
-## [Customise configuration](./system-configuration/)
+### [Customise configuration](./system-configuration/)
 
 Configure your system to hit the ground running.
 
-## [Training](./training/)
+### [Training](./training/)
 
 Get staff to complete role-specific checklists to be ready for transitioning to GPM.
 
 Have a session with Gensolve Trainer to cover areas that need further explanation.
 
-## [Live Data Transfer](./live-data-transfer/)
+### [Live Data Transfer](./live-data-transfer/)
 
 **Optional** transfer final operating data from your existing system.
+
+## Successful Outcomes
