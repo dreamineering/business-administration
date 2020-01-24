@@ -6,18 +6,33 @@ auditIntent:
 
 # Playbook
 
+- How we operate
 - How to use GPM to drive Gensolve's Operations
 - How Gensolve Develops Software
 
-## [Angular](./angular/)
+## [Content Creation](./content-creation/)
+
+Strategy creating customer-focused content that **provides value**
+
+## [Release Planning](./release-planning/)
+
+Work on the **most valuable** problems we are capable of
 
 ## [Communications](./communications/)
 
-## [Dashboards](./dashboards/)
+No email for internal communications, use GPM Diary and Events or JIRA
 
 ## [Sales](./salee/)
 
 ## [Tools](./tools/)
+
+## [Frontend](./frontend/)
+
+## [Dashboards](./dashboards/)
+
+## [DotNet](./dotnet/)
+
+## [Databases](./databases/)
 
 ## Inspiration
 

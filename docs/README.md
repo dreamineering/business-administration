@@ -21,7 +21,7 @@ Get started with Gensolve Practice Manager by importing 20 years of operational 
 
 ![outcome-driven-growth](https://drive.google.com/uc?id=1Rlxj3vrzZB4RxqqNb-ipk4J-DTcj8lUb)
 
-Are you struggling with priortising action for optimum growth? Having a [cashflow forecast](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) is vital for running through various options to grow your business. We have created a workbook you can [download for free](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download).
+Are you struggling to prioritise action for optimum growth? Having a [cashflow forecast](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) is vital for running through various options to grow your business. We have created a workbook you can [download for free](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download).
 
 If you need professional advice we would be happy to introduce you to our [network](./practice-journey/growth/coaching/) that specialise in your area of need.
 
@@ -44,7 +44,7 @@ Custom contracts put you in total control to:
 
 Convert your **how-to** operations documentation into [actionable checklists](./features/workflows/staff-management/how-to-create-operations-checklists/) for improved communication, consistency and accountability.
 
-Constantly mix up cross-functional teams in your organisation, to review your primary workflows. Sketch the flow on paper and then transfer that into Event Template workflow. Each week cycle through all of your workflows with other teams eventually rewiewing an updating each process.
+Constantly mix up cross-functional teams in your organisation, to review your primary workflows. Sketch the flow on paper and then transfer that into Event Template workflow. Each week cycle through all of your workflows with other teams eventually reviewing an updating each process.
 
 ## [Demo](./demo/)
 

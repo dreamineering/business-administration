@@ -18,3 +18,7 @@ When creating content attempt to relate concepts with the patient treatment path
 8. [Check Accuracy](./08-accuracy/)
 9. [Search Engine Optimisation](./09-search-engine-optimisation/)
 10. [Gather User Feedback](./10-user-feedback/)
+
+## Research
+
+[ihearttechnicalwriting](https://www.ihearttechnicalwriting.com/user-guide-checklist/)

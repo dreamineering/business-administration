@@ -16,7 +16,7 @@ If you don't achieve operational consistency across your team, measuring the imp
 
 > First we make our habits, then our habits make us
 
-Review the fundamentals to seed your imagination
+![time blocking](https://drive.google.com/uc?id=1agILVkkPyRAkjOZaLCRW4Ivt3N6mFVgv)
 
 ## [Core Skills](./core-skills/)
 

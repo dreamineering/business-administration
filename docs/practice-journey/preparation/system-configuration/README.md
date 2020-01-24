@@ -91,7 +91,7 @@ You can set this up in the system but it is faster to initially load some settin
 | Other Provider Type      |          |
 | Product Group            |          |
 | Upload File Type         |          |
-| Actvity                  |          |
+| Activity                 |          |
 | Patient Goal             |          |
 | Cancellation Reason      |          |
 

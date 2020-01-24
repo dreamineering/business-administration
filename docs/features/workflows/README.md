@@ -2,7 +2,12 @@
 title: Workflows
 ---
 
-# Operational Concepts
+# Workflows
+
+- What data comes in?
+- What data goes out?
+- Who does what to the data?
+- What can go wrong?
 
 ## [Organisation Structure](./organisation-structure/)
 
@@ -54,6 +59,8 @@ title: Workflows
 
 - [Operations Checklists](./staff-management/how-to-create-operations-checklists/)
 - [Commission vs Wages](./staff-management/commissions/)
+
+## [Payroll](./payroll/)
 
 ## External Communications
 

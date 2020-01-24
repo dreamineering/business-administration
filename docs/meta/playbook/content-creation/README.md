@@ -38,10 +38,29 @@ Speak to professionals to review in return for adding their reference
 4. Marketers
 5. Tech Support
 
-## Skunk works branch
+## Thought exercise
 
-Send cashflow forecast to test implementation and content with some targets customers.
+Focus on the pay off to the business owner, who like a physio patient probably does not understand the root cause of the problems they have.
 
-## Learning
+1. Think of a practice business owner as a physio would an injured person
+2. Think of that practice business owner as a loved one (child)
+3. Considering their problems and goals
+4. What goals outcomes in order would put that person on the path to happiness?
+5. How can you explain it in their language? Knowing you can't be too direct with kids :)
+6. Explain the idea to a kid, get them to explain it back.
 
-https://www.ihearttechnicalwriting.com/user-guide-checklist/
+- What emotion do you need to tap into or the psychological impact?
+- How you want someone to feel? In the case of pain, avoid feeling.
+- What you want them to think about?
+
+## Show some Soul
+
+> We don't work at soulless corporate, why write like one?
+
+I don't recognise the people at [this company](https://www.gensolve.co.uk/about) and Danny has got **way better looking** all of a sudden.
+
+A big part of our established target market is represented by Physios and the tend to be a **spirited** and **light-hearted** bunch.
+
+Examples of site with personality
+
+- [Mailchimp](https://mailchimp.com/)

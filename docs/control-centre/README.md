@@ -4,6 +4,8 @@ title: Control Centre
 
 # Control Centre
 
+_If you cannot measure it, you cannot improve it, but if your processes are inconsistent, what you measure is bullshit_
+
 Track, connect the dots, close the loop, attribute, summarize and overview. How often do you say you’re going to do these things
 
 - [Action lists](./action-lists/)
