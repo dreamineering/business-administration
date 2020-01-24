@@ -14,7 +14,7 @@ title: Features
 We've built a lot of stuff and we've been around 20 years!
 
 - Accounting system included
-- Supports multiple trading vendors
+- Supports multiple trading vendors, to do the equivalent with Xero as an example requires three separate subscriptions/accounts
 - Custom Contracts to support Packaged Care
 - Workflow Templates
 - Debt Recovery Plans

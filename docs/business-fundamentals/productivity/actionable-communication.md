@@ -8,6 +8,7 @@ title: Succinct Communication
 
 - Email chains CC'ing the world
 - Meetings without purpose
+- Load balancing
 
 ## Solution
 

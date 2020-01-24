@@ -63,16 +63,3 @@ Preliminary steps
 6. Delegate
 
 > Discipline equals Freedom
-
-## Links
-
-- [Focus](https://blog.rescuetime.com/context-switching/)
-- [Decision Fatigue](https://www.developgoodhabits.com/decision-fatigue/)
-- [Planning](https://www.themuse.com/advice/how-to-plan-your-week-for-maximum-impact)
-
-- https://www.theladders.com/career-advice/how-to-manage-time-effectively-even-if-your-schedule-is-hectic
-- https://toggl.com/time-blocking/
-- https://blog.rescuetime.com/time-blocking-101/
-- https://zapier.com/blog/daily-schedules-for-productivity/
-- https://www.developgoodhabits.com/time-blocking/
-- https://clockify.me/blog/productivity/time-blocking-planner-templates/

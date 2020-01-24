@@ -1,10 +1,10 @@
 ---
-title: KPI Name
+title: Average Customer Spend
 ---
 
-# Name
+# Average Customer Spend
 
-Intro
+This KPI indicates that you have established a virtuous cycle with low churn/high retention of clients that return to buy more.
 
 ::: tip Calculation
 calculation details
