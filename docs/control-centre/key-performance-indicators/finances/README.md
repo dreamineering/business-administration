@@ -9,3 +9,6 @@ title: Finances
 - Daily takings and Bank reconciliation
 - Invoicing and Debt management
 - Wages and Rent vs Revenue
+
+- [Aged Debt](./aged-debt/)
+- [Provider Margin](./provider-margin/)

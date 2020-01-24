@@ -14,6 +14,8 @@ auditIntent:
 
 Strategy creating customer-focused content that **provides value**
 
+## [Dog Fooding](./dog-fooding/)
+
 ## [Release Planning](./release-planning/)
 
 Work on the **most valuable** problems we are capable of
@@ -22,7 +24,7 @@ Work on the **most valuable** problems we are capable of
 
 No email for internal communications, use GPM Diary and Events or JIRA
 
-## [Sales](./salee/)
+## [Sales](./sales/)
 
 ## [Tools](./tools/)
 

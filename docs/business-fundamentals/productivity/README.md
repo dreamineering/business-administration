@@ -6,33 +6,16 @@ title: Productivity
 
 Planning, communication and accountability.
 
-**Organisation structure:**
-
-- Clear accountable roles
-- Cross-functional teams within the team
-
 **Guiding Principles:**
 
-- Enable experimentation
 - Standardise best practices
 - Information transparency
+- Enable experimentation
 - Continuous learning
-- Action led decision making
+- Enable data-driven decision making
 
-## Skills
-
-### [Time Blocking](./time-blocking/)
-
-### [Effective Meetings](./effective-meetings.md)
-
-### [File Management](./file-management.md)
-
-### [Discipline](./discipline-equals-freedom.md)
-
-### [Succinct Communication](./succinct-communication.md)
-
-## GPM Functionality
-
-- Recurring admin appointments
-- Recurring events
-- Workflow templates
+- [Time Blocking for Success](./time-blocking/)
+- [Accountable Communication](./accountable-communication.md)
+- [Effective Meetings](./effective-meetings.md)
+- [File Management](./file-management.md)
+- [Innovation and Automation](./innovation-and-automation.md)

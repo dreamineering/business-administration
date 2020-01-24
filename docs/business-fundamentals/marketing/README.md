@@ -13,14 +13,14 @@ auditKairos:
 Since marketing and sales will generate revenue, practice owners need to understand their target customers and determine how they will reach them.
 
 - [Strategy checklist](./strategy-checklist.md)
-- [Intelligent pricing](./pricing.md)
 - [Find your ideal customer](./find-your-ideal-customer.md)
+- [Intelligent pricing](./intelligent-pricing.md)
+- [Content marketing workflow](./content-marketing.md)
 - [Net promoter score](./net-promoter-score.md)
 - [Create a virtuous cycle](./create-a-virtous-cycle.md)
 - [The job to be done](./the-job-to-be-done.md)
 - [SMS for Marketing](./sms-for-marketing.md)
 - [Omnipresence](./omnipresence.md)
-- [Content marketing workflow](./content-marketing.md)
 - [Cost of acquisition](./cost-of-acquistion.md)
 
 Most practices use an "**inside-out** approach to marketing in that they list their services based on skills and then look to sell to a vaguely defined group that is **out there**

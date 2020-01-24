@@ -12,11 +12,14 @@ auditKairos: Timing
 
 Create a people-centered culture that operates in rapid learning and fast decision cycles with a common purpose that creates value for clients and the practice.
 
-If you don't achieve operational consistency across your team, measuring the impact of your strategic direction is guesswork. Grow your organisations operational intelligence with [workflow checklists](../../features/workflows/staff-management/how-to-create-operations-checklists/) to share knowledge efficiently.
+1. **Financials** Put more money in the bank than you take out
+2. **Quality** Deliver something that People need
+3. **Productivity** Get more efficient at delivering that thing
+4. **Marketing** Find more People to help
+
+If you can't achieve consistency across your team, measuring the impact of your strategic initiatives is guesswork. Grow your organisations [operational intelligence](../../features/workflows/staff-management/how-to-create-operations-checklists/) to share knowledge efficiently and ensure consistent accountable workflows are adhered to.
 
 > First we make our habits, then our habits make us
-
-![time blocking](https://drive.google.com/uc?id=1agILVkkPyRAkjOZaLCRW4Ivt3N6mFVgv)
 
 ## [Core Skills](./core-skills/)
 
@@ -51,7 +54,7 @@ If you don't achieve operational consistency across your team, measuring the imp
 ## [Technology](./technology/)
 
 - The ideal hardware, software and network package
-- Put latest equipment to work
+- Put the latest technology to work
 
 ## [Compliance](./compliance/)
 
@@ -65,3 +68,5 @@ If you don't achieve operational consistency across your team, measuring the imp
 ## Learn more
 
 [Illustrated Concepts for Master of Business Administration](https://mba-mondays-illustrated.com/)
+
+![time blocking](https://drive.google.com/uc?id=1agILVkkPyRAkjOZaLCRW4Ivt3N6mFVgv)
