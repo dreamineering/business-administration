@@ -4,6 +4,8 @@ title: Vision and Mission
 
 # Vision and Mission
 
+Take inspiration from the [Crusaders Rugby Team](https://www.youtube.com/watch?v=IMmOOzn9R-k&t=10s)
+
 ## Communication
 
 Learn to communicate effectively to insiders and outsiders
