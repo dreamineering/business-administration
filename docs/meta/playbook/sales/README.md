@@ -85,28 +85,39 @@ Ethos, Pathos, Logos, Kairos
 
 1. [Reciprocation](https://www.nngroup.com/articles/reciprocity-principle/)
 2. Authority
-3. Commitment and Consistency
-4. Liking
-5. Scarcity
+3. Social Proof
+4. Commitment and Consistency
+5. Liking
+6. Scarcity
 
 ### Reciprocation
 
-[reciprocity](https://www.nngroup.com/articles/reciprocity-principle/)
+[Reciprocity](https://www.nngroup.com/articles/reciprocity-principle/)
 
-- (https://www.nngroup.com/articles/social-proof-ux/)
+### Social Proof
+
+[Social Proof](https://www.nngroup.com/articles/social-proof-ux/)
 
 ### Authority
 
 - Business Fundamentals
 - Ask partners to write articles
 
+[Authority](https://www.nngroup.com/articles/authority-principle/)
+
 ### Commitment and Consistency
 
+[Commitment and Consistency](https://www.nngroup.com/articles/commitment-consistency-ux/)
+
 ### Liking
+
+- [liking](https://www.nngroup.com/articles/liking-principle-ui-design/)
 
 ### Scarcity
 
 As special one time offer the first 100 customers a free three month trial.
+
+- [Scarcity](https://www.nngroup.com/articles/scarcity-principle-ux/)
 
 ## Pricing
 
@@ -157,7 +168,3 @@ Year of year growth
 ### Revenue Retention
 
 - Upsell revenue per client
-
-## Onboarding
-
-Key to Retention and Virtuous Cycle
