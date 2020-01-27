@@ -21,6 +21,8 @@ If you can't achieve consistency across your team, measuring the impact of your 
 
 > First we make our habits, then our habits make us
 
+[[toc]]
+
 ## [Core Skills](./core-skills/)
 
 - Connection

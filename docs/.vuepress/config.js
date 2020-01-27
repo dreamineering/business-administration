@@ -2,7 +2,7 @@ module.exports = {
   title: 'Gensolve',
   description: 'Practice Management Solutions',
   head: [['link', { rel: 'icon', href: `/logo.svg` }]],
-  plugins: [['@vuepress/google-analytics', { ga: '' }]],
+  plugins: [['@vuepress/google-analytics', { ga: '' }], 'flowchart'],
   themeConfig: {
     // default value is true. Set it to false to hide next page links on all pages
     nextLinks: true,
