@@ -1,6 +1,7 @@
 
 .nuxt
 
+package-lock.json
 desktop.ini
 
 docs/.vuepress/dist

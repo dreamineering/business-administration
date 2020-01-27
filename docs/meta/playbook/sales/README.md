@@ -69,6 +69,8 @@ Use a spreadsheet. Simplification of spreadsheet I created as Project Manager to
 
 The method revolved around a quesitonnaire to get find out certain KPI benchmarks and then extrapolating value. Sales process was slow and complex by comparison but the audience was both tech and financially sophisticated which helped.
 
+![Sales Process](https://drive.google.com/uc?id=13bo-97_8twxsiWxhM7riatQ7pVgNTXtU)
+
 The result was a cash flow and speculative **Net Present Value** gains.
 
 The complexity for GPM is effort to setup an organisation well and the relative tech and business knowledge of our target market.
@@ -77,7 +79,13 @@ The complexity for GPM is effort to setup an organisation well and the relative 
 
 Scoring onboarding success is critical to creating a Virtuous Circle to get faster payoff on Customer Acquistion Cost by proving Business Benefits while the customer is open to listenning to advice.
 
-![sales-control-loop](https://drive.google.com/uc?id=1-l5lH6YCThCioOAAmuJJQEp15LQPqknz)
+We have to do everything we can to ensure customers achieve **and understand** full business benefits of using Gensolve to run their business at lowest possible cost to us.
+
+![knowledge transfer](https://drive.google.com/uc?id=13kqhpyFzk_nYwcvrrrl0C16ilrxE9-GK)
+
+Prove value
+
+![forecast-control-loop](https://drive.google.com/uc?id=1-l5lH6YCThCioOAAmuJJQEp15LQPqknz)
 
 ## Persuasion
 
