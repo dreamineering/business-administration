@@ -59,5 +59,15 @@ module.exports = {
       './glossary/',
       './support/'
     ]
+  },
+  markdown: {
+    extendMarkdown: md => {
+      md.use(require('markdown-it-html5-embed'), {
+        html5embed: {
+          useImageSyntax: true,
+          useLinkSyntax: false
+        }
+      });
+    }
   }
 };

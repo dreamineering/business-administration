@@ -44,8 +44,8 @@ This is a details block, which does not work in IE / Edge
 
 ## Plugins
 
-- [flowchart](https://flowchart.vuepress.ulivz.com/)
-- [embed video](http://hanxue-it.blogspot.com/2019/07/vuepress-how-to-embed-video-in-markdown.html)
+- [Flowchart](https://flowchart.vuepress.ulivz.com/)
+- [Embed Video](https://github.com/cmrd-senya/markdown-it-html5-embed)
 
 ### Flowchart
 
@@ -78,6 +78,25 @@ c2(yes)->io->e
 c2(no)->op2->e
 @flowend
 
+## Embed Video
+
+https://github.com/vuejs/vuepress/issues/870
+
+![Crusaders](https://www.youtube.com/watch?v=IMmOOzn9R-k&t=10s)
+
+<video width="560" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=IMmOOzn9R-k&t=10s" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="240" controls>
+  <source src="https://sample-videos.com/video123/mp4/480/big_buck_bunny_480p_1mb.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bTqVqk7FSmY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Links
 
-[Create a blog](https://blog.logrocket.com/how-create-portfolio-blog-using-vuepress-markdown/)
+- [Create a blog](https://blog.logrocket.com/how-create-portfolio-blog-using-vuepress-markdown/)
+- [Vuepress examples](https://vuepress-examples.netlify.com/demos/video/)
