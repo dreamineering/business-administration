@@ -37,17 +37,16 @@ Adoption with high rewards (business benefit) for low effort and talent.
 
 ### Personas
 
-| Characterics/Questions                             | Newbie | No Manager | Single Site | Multi Site | Entrepreneur |
-| -------------------------------------------------- | ------ | ---------- | ----------- | ---------- | ------------ |
-| FTEs                                               | 1      | 2-3        | 3+          | 8+         | N/a          |
-| Dedicated Practice Manager                         | No     | No         | Yes         | Yes        | N/a          |
-| Dedicated Frontdesk Sales                          | 1      | 2-3        |             |            |              |
-| Growth Focus                                       |        |            |             |            |              |
-| What are they likely to like?                      |        |            |             |            |              |
-| What are they likely to dislike?                   |        |            |             |            |              |
-| What concerns are the likely to have?              |        |            |             |            |              |
-| What will it take for them to complete a purchase? |        |            |             |            |              |
-| Who can approve the money?                         |        |            |             |            |              |
+| Characterics/Questions                             | Newbie | One Person Band  | Single Site    | Multi Site | Entrepreneur |
+| -------------------------------------------------- | ------ | ---------------- | -------------- | ---------- | ------------ |
+| FTEs                                               | 1      | 2-3              | 3+             | 8+         | N/a          |
+| Admin Staff                                        | No     | Remote reception | Yes            | Yes        | N/a          |
+| Growth Focus                                       | Profit | Recruitment      | Quality+Profit | Marketing  | Processes    |
+| What are they likely to like?                      |        |                  |                |            |              |
+| What are they likely to dislike?                   |        |                  |                |            |              |
+| What concerns are the likely to have?              |        |                  |                |            |              |
+| What will it take for them to complete a purchase? |        |                  |                |            |              |
+| Who can approve the money?                         |        |                  |                |            |              |
 
 ### Customer Problems
 
