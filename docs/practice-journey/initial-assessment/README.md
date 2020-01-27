@@ -6,7 +6,7 @@ title: Initial Assessment
 
 > [Complete a cash flow forecast](../../business-administration/finances/create-a-cashflow-forecast.md) to better understand if GPM is the right fit for your growth strategy.
 
-## Questions
+## SaaS Checklist
 
 - Functionality
 - Pricing Terms and Conditions
@@ -23,12 +23,12 @@ title: Initial Assessment
 - Responsiveness to requested enhancements and changes
 - The ability to network or participate in a community
 
-* [What is holding you back?](./common-problems/)
-* [What do you need](./assessment-checklist/)
-
 ## Goals
 
 To understand your needs and goals
+
+- [What is holding you back?](./common-problems/)
+- [What do you need](./assessment-checklist/)
 
 ## Plan
 

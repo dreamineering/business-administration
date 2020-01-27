@@ -13,6 +13,7 @@ title: Release Planning
 
 No more thinking of the product along Country or Windows v Web!!!
 
+- Remove Silos
 - Put place work into best workflows to give job context
 - Have workflow owners, but not exclusive developers
 - Owners of workflows should have Figma accounts

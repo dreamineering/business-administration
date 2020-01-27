@@ -11,6 +11,7 @@ auditIntent:
 3. [Structure](./content-structure/)
 4. [Substance](./substance/)
 5. [Storytelling](./storytelling/)
+6. [Marketing Channels](./marketing-channels/)
 
 All content here on [Google Drive](https://drive.google.com/drive/u/0/folders/1NrD8g-7Optig8uizemwNgZ1Ndm7-Y-d2) anyone can use VS Code to edit.
 

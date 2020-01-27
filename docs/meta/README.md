@@ -8,13 +8,15 @@ auditIntent:
 
 ## Intent
 
+**Tell the story of Gensolve will have a Billion dollar valuation by the end of 2020**
+
 Get Gensolve ready to [scale](https://mastersofscale.com/) and help evolve Genolve's **why** through using GPM to run our internal operations to hone the products **value proposition**.
 
 > The **Meta** of the **Matter** is where the **Money** is
 
 ## [Playbook](./playbook/)
 
-Start of documenting how Gensolve solves problems, the target audience is developers wishing to join Genolve in the future.
+Documenting how Gensolve solves problems, the target audience is developers wishing to join Genolve in the future.
 
 ## What are the most undervalued/differentiating features?
 
