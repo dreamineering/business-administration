@@ -41,7 +41,8 @@ Adoption with high rewards (business benefit) for low effort and talent.
 | -------------------------------------------------- | ------ | ---------- | ----------- | ---------- | ------------ |
 | FTEs                                               | 1      | 2-3        | 3+          | 8+         | N/a          |
 | Dedicated Practice Manager                         | No     | No         | Yes         | Yes        | N/a          |
-| FTEs                                               | 1      | 2-3        |             |            |              |
+| Dedicated Frontdesk Sales                          | 1      | 2-3        |             |            |              |
+| Growth Focus                                       |        |            |             |            |              |
 | What are they likely to like?                      |        |            |             |            |              |
 | What are they likely to dislike?                   |        |            |             |            |              |
 | What concerns are the likely to have?              |        |            |             |            |              |
