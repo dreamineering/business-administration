@@ -25,7 +25,10 @@ Are you struggling to prioritise action for optimum growth? Having a [cashflow f
 
 If you need professional advice we would be happy to introduce you to our [network](./practice-journey/growth/coaching/) that specialise in your area of need.
 
+> Everyone's telling you that the key to profits is Sales & Marketing. Wouldn't be wise to manage the efforts of your staff and measure the effectiveness of your strategy.
+
 ## [Features](./features/)
+
 
 ### Customise your Patient Journey
 
@@ -45,10 +48,6 @@ Custom contracts put you in total control to:
 Convert your **how-to** operations documentation into [actionable checklists](./features/workflows/staff-management/how-to-create-operations-checklists/) for improved communication, consistency and accountability.
 
 Constantly mix up cross-functional teams in your organisation, to review your primary workflows. Sketch the flow on paper and then transfer that into Event Template workflow. Each week cycle through all of your workflows with other teams eventually reviewing an updating each process.
-
-## [Demo](./demo/)
-
-Try Gensolve Practice Manager
 
 ## [Business Fundamentals](./business-fundamentals/)
 
