@@ -39,16 +39,35 @@ Adoption with high rewards (business benefit) for low effort and talent.
 
 ### Personas
 
-| Characterics/Questions                             | Newbie | One Person Band  | Single Site    | Multi Site | Entrepreneur |
-| -------------------------------------------------- | ------ | ---------------- | -------------- | ---------- | ------------ |
-| FTEs                                               | 1      | 2-3              | 3+             | 8+         | N/a          |
-| Admin Staff                                        | No     | Remote reception | Yes            | Yes        | N/a          |
-| Growth Focus                                       | Profit | Recruitment      | Quality+Profit | Marketing  | Processes    |
-| What are they likely to like?                      |        |                  |                |            |              |
-| What are they likely to dislike?                   |        |                  |                |            |              |
-| What concerns are they likely to have?             |        |                  |                |            |              |
-| What will it take for them to complete a purchase? |        |                  |                |            |              |
-| Who can approve the money?                         |        |                  |                |            |              |
+| Characterics/Questions                             | Newbie     | One Person Band  | Single Site    | Multi Site |
+| -------------------------------------------------- | ---------- | ---------------- | -------------- | ---------- |
+| FTEs                                               | 1          | 2-3              | 3+             | 8+         |
+| Market Size (PT)                                   | Graduates? | 1000+            | ?              | ?          |
+| Market Size (Psych)                                | Graduates? | 1000+            | ?              | ?          |
+| Market Size (Audiology)                            | Graduates? | 1000+            | ?              | ?          |
+| Admin Staff                                        | No         | Remote reception | Yes            | Yes        |
+| Growth Focus                                       | Profit     | Recruitment      | Quality+Profit | Marketing  |
+| What are they likely to like?                      |            |                  |                |            |
+| What are they likely to dislike?                   |            |                  |                |            |
+| What concerns are they likely to have?             |            |                  |                |            |
+| What will it take for them to complete a purchase? |            |                  |                |            |
+| Who can approve the money?                         |            |                  |                |            |
+
+#### Entrepreneur
+
+An example of an Entrepreneur could be property investor, wanting stable / higher prices to tenants or someone that has been involved with Franchises.
+
+| Characterics/Questions                             | Entrepreneur                                        |
+| -------------------------------------------------- | --------------------------------------------------- |
+| FTEs                                               | 1                                                   |
+| Market Size                                        | N/a                                                 |
+| Admin Staff                                        | N/a                                                 |
+| Growth Focus                                       | Repeatable Processes                                |
+| What are they likely to like?                      | [Franchisable](/practice-journey/growth/franchise/) |
+| What are they likely to dislike?                   |                                                     |
+| What concerns are they likely to have?             |                                                     |
+| What will it take for them to complete a purchase? |                                                     |
+| Who can approve the money?                         |                                                     |
 
 ### Customer Problems
 
@@ -67,6 +86,7 @@ Adoption with high rewards (business benefit) for low effort and talent.
 1. Trogen Horse
 2. Hands Off Product Demo
 3. Onboarding Experience
+4. Target Practice Accountants
 
 ### Trogen Horse
 
@@ -102,6 +122,11 @@ We have to do everything we can to ensure customers achieve **and understand** f
 Prove value
 
 ![forecast-control-loop](https://drive.google.com/uc?id=1-l5lH6YCThCioOAAmuJJQEp15LQPqknz)
+
+### Target Practice Accountants
+
+- The accountant will have trust
+- Accountants can give quality product feedback
 
 ## Persuasion
 
