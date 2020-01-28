@@ -10,32 +10,15 @@ auditIntent:
 - How to use GPM to drive Gensolve's Operations
 - How Gensolve Develops Software
 
-## [Content Creation](./content-creation/)
+Inspiration from [thoughtbot](https://thoughtbot.com/playbook)
 
-Strategy creating customer-focused content that **provides value**
-
-## [Dog Fooding](./dog-fooding/)
-
-## [Release Planning](./release-planning/)
-
-Work on the **most valuable** problems we are capable of
-
-## [Communications](./communications/)
-
-No email for internal communications, use GPM Diary and Events or JIRA
-
-## [Sales](./sales/)
-
-## [Tools](./tools/)
-
-## [Frontend](./frontend/)
-
-## [Dashboards](./dashboards/)
-
-## [DotNet](./dotnet/)
-
-## [Databases](./databases/)
-
-## Inspiration
-
-1. [thoughtbot](https://thoughtbot.com/playbook)
+1. [Sales](./sales/)
+2. [Content Creation](./content-creation/)
+3. [Experimental](./experimental/)
+4. [Release Planning](./release-planning/)
+5. [Communications](./communications/)
+6. [Tools](./tools/)
+7. [Frontend](./frontend/)
+8. [Dashboards](./dashboards/)
+9. [DotNet](./dotnet/)
+10. [Databases](./databases/)

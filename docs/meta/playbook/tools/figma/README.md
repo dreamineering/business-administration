@@ -4,6 +4,8 @@ title: Figma
 
 # Figma
 
+- [Figma](https://www.figma.com/downloads/)
+
 ## Why?
 
 If we adopt using this product:

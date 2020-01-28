@@ -12,9 +12,19 @@ Use structured communication to create better work patterns for greater efficien
 
 Get to the money person.
 
-Email Daniel
+Email is open loop communication
 
-## Timeblocking
+Time of day for deep work
+Time of day for tasks
+Time of day for clients
+
+Why wait until the end of the day when your brain is tired to solve deep work problems?
+
+- Use structured communication to create better work patterns. For greater efficiency.
+- Import 20 years of intelligence into your practice.
+- Email Daniel
+
+## Time blocking
 
 - [Focus](https://blog.rescuetime.com/context-switching/)
 - [Decision Fatigue](https://www.developgoodhabits.com/decision-fatigue/)
