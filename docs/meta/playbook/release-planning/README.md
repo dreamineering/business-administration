@@ -11,7 +11,7 @@ title: Release Planning
 
 ## Goals
 
-No more thinking of the product along Country or Windows v Web!!!
+No more thinking of the product along Country or Windows v Web! Use [workflows](https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/) to understand how feature connect customers to product benefits.
 
 - Remove Silos
 - Put place work into best workflows to give job context

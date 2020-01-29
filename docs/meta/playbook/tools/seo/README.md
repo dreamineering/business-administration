@@ -4,4 +4,4 @@ title: seo
 
 # SEO
 
-- ubersuggest
+- [ubersuggest](https://neilpatel.com/ubersuggest/)
