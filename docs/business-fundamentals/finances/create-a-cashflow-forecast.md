@@ -19,11 +19,13 @@ As you understand your business better and establish good habits so to will your
 1. Replace items in brackets
 2. Change Currency as required
 
-If you are looking to employ new staff, use a convention to create a placeholder name such _Graduate Physio_ until the recruitment hole has been fulfilled.
+If you are looking to employ new staff, use a convention to create a placeholder name such as _Graduate Physio_ until the recruitment hole has been fulfilled.
 
-A key assumption is that your service price list will be reviewed quarterly. <a href="mailto:mattm@gensolve.com?subject=Performance%20Forecast">Email Matt</a> if you would like some help getting started.
+You can email <a href="mailto:mattm@gensolve.com?subject=Performance%20Forecast">mattm@gensolve.com</a> if you would like some help getting started.
 
 ## Pricing
+
+A key assumption is that your service price list will be reviewed quarterly.
 
 Replace the names of services, with the actual services and prices you offer and those of your competition for sake of quarterly comparison and update.
 

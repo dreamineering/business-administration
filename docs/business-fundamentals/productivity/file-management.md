@@ -4,24 +4,7 @@ title: File Management
 
 # File Management
 
-**Where did I put that file again?** was it Google Drive, Dropbox, or on the computer at home, wasn't Dave working on that last?
-
-Email out to 6 staff
-
-## Reactive Time
-
-- 30 mins looking for the file
-- 10 mins to write the email as staff if they know where it is
-- 3 mins to read
-- 2 research the issue taking 10 mins
-- 2 write back taking 5 mins to explain
-- Everyone reads response 2 mins
-- another two respond taking 5 mins
-- 30 mins later you find the file
-- Notify everyone else 2 mins
-- Everyone reads update 1 min
-
-**Save time** and confusion by knowing where to find files no matter who last worked on them.
+**Where did I put that file again?** was it Google Drive, Dropbox, or on the computer at home, wasn't Dave working on that last? **Save time** and confusion by knowing where to find files no matter who last worked on them.
 
 Files in GPM are saved their owners where you control access to who can see confidential information.
 
