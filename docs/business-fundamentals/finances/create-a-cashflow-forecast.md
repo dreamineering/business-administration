@@ -14,15 +14,14 @@ As you understand your business better and establish good habits so to will your
 
 > [Download Cashflow Forecast](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download)
 
-## General Approach
+## Approach
 
-Replace items in brackets, such as {clinican one} with actual staff names if you are looking to employ new staff, use a convention to create a holder name until the recruitment process is complete.
+1. Replace items in brackets
+2. Change Currency as required
 
-A key assumption is that your service price list will be reviewed quarterly.
+If you are looking to employ new staff, use a convention to create a placeholder name such _Graduate Physio_ until the recruitment hole has been fulfilled.
 
-If you would like assistance completing this spreadsheet email
-
-sales@gensolve.com
+A key assumption is that your service price list will be reviewed quarterly. <a href="mailto:mattm@gensolve.com?subject=Performance%20Forecast">Email Matt</a> if you would like some help getting started.
 
 ## Pricing
 

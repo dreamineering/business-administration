@@ -4,18 +4,12 @@ title: Tools
 
 # Tools
 
-## [Figma](./figma/)
-
-## [Grammarly](./grammarly/)
-
-## [Hemingway](./hemingway/)
-
-## [Now](./now/)
-
-## [Tailwind](./tailwind/)
-
-## [Vuepress](./vuepress/)
-
-## [Zapier](./zapier/)
-
-## [Zendesk](./zendesk/)
+- [Figma](./figma/)
+- [Grammarly](./grammarly/)
+- [Hemingway](/hemingway/)
+- [Now](./now/)
+- [SEO](./seo/)
+- [Tailwind](./tailwind/)
+- [Vuepress](./vueprss/)
+- [Zapier](./zapier/)
+- [Zendesk](./zendesk/)

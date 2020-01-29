@@ -39,19 +39,20 @@ Adoption with high rewards (business benefit) for low effort and talent.
 
 ### Personas
 
-| Characterics/Questions                             | Newbie     | One Person Band  | Single Site    | Multi Site |
-| -------------------------------------------------- | ---------- | ---------------- | -------------- | ---------- |
-| FTEs                                               | 1          | 2-3              | 3+             | 8+         |
-| Market Size (PT)                                   | Graduates? | 1000+            | ?              | ?          |
-| Market Size (Psych)                                | Graduates? | 1000+            | ?              | ?          |
-| Market Size (Audiology)                            | Graduates? | 1000+            | ?              | ?          |
-| Admin Staff                                        | No         | Remote reception | Yes            | Yes        |
-| Growth Focus                                       | Profit     | Recruitment      | Quality+Profit | Marketing  |
-| What are they likely to like?                      |            |                  |                |            |
-| What are they likely to dislike?                   |            |                  |                |            |
-| What concerns are they likely to have?             |            |                  |                |            |
-| What will it take for them to complete a purchase? |            |                  |                |            |
-| Who can approve the money?                         |            |                  |                |            |
+| Characterics/Questions                             | Newbie              | One Person Band  | Single Site    | Multi Site |
+| -------------------------------------------------- | ------------------- | ---------------- | -------------- | ---------- |
+| FTEs                                               | 1                   | 2-3              | 3+             | 8+         |
+| Market Size (PT)                                   | Graduates?          | 1000+            | ?              | ?          |
+| Market Size (Psych)                                | Graduates?          | 1000+            | ?              | ?          |
+| Market Size (Audiology)                            | Graduates?          | 1000+            | ?              | ?          |
+| Admin Staff                                        | No                  | Remote reception | Yes            | Yes        |
+| Growth Focus                                       | Profit              | Recruitment      | Quality+Profit | Marketing  |
+| What are they likely to like?                      |                     |                  |                |            |
+| What are they likely to dislike?                   | Windows & MS Office |                  |                |            |
+| What concerns are they likely to have?             |                     |                  |                |            |
+| What will it take for them to complete a purchase? |                     |                  |                |            |
+| Who can approve the money?                         |                     |                  |                |            |
+| Buy Triggers (JTBD)                                |                     |                  |                |            |
 
 #### Entrepreneur
 
@@ -167,16 +168,6 @@ Ethos, Pathos, Logos, Kairos
 As special one time offer the first 100 customers a free three-month trial.
 
 - [Scarcity](https://www.nngroup.com/articles/scarcity-principle-ux/)
-
-## Pricing
-
-| FTEs  |    £ |
-| ----- | ---: |
-| 1     |  \29 |
-| 2-5   |  \59 |
-| 6-8   |  \89 |
-| 9-12  | \129 |
-| 13-25 | \199 |
 
 ## KPIs
 

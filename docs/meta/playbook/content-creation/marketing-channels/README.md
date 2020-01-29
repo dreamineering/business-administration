@@ -1,9 +1,9 @@
 ---
-title: Social Media
+title: Marketing Channels
 ---
 
-# Social Media
+# Marketing Channels
+
+## SEO
 
 ## LinkedIn
-
-##

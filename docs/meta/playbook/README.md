@@ -10,7 +10,7 @@ auditIntent:
 - How to use GPM to drive Gensolve's Operations
 - How Gensolve Develops Software
 
-Inspiration from [thoughtbot](https://thoughtbot.com/playbook)
+Inspiration from [Thoughtbot](https://thoughtbot.com/playbook), [David Skok](https://drt.fm/david-skok) at Matrix Partners. [Signal vs Noise](https://m.signalvnoise.com/category/greatest-hits/)
 
 1. [Sales](./sales/)
 2. [Content Creation](./content-creation/)
