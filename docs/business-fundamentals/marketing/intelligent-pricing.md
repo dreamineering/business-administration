@@ -22,20 +22,31 @@ What science did you apply when setting the hours and prices you are available t
 
 ## Anchoring
 
-Give your customer's a frame of reference for valuing your product.
+Give your customer's a frame of reference to help them understand the value of returning to complete a full course of treatment.
 
-- Sell memberships
 - Create a tiered pricing strategy
 - Online booking should be for initial appointments
+- Consider creating charges by injury type.
 
-| Appointment      | Cost               |
-| ---------------- | ------------------ |
-| Calendar Booking | Higher             |
-| 5 Treatments     | Discounted         |
-| 10 Treatments    | Further discounted |
+| Appointment        | Cost         |
+| ------------------ | ------------ |
+| Calendar Booking   | Higher       |
+| 6 Treatments       | Discounted   |
+| 10 Treatments      | Discounted++ |
+| Speciality Pathway | Contract     |
 
-4 appointments cost
+It is easier to [sell more to an existing customer](https://hbr.org/2012/07/to-sell-more-focus-on-existing) therefore you can afford to discount for return visits. If you get your customer to pay upfront for a membership then you also save time with cash management and the need to write off potential bad debts.
 
-10
+If you employ front desk staff and have customers making followup bookings something is wrong in your sales and marketing processes.
 
-[todo](https://www.priceintelligently.com/blog/bid/181199/price-anchoring-to-optimize-your-pricing-strategy)
+## Speciality Pathway
+
+For example **Back to Golf** or **Running Performance**
+
+- Who in your area has time and money for extended treatment?
+- What do they desire?
+- What do they lack?
+- What do they have in common?
+- How can you do more for them?
+- How can you prove that value?
+- What triggers a customer to book with you?
