@@ -4,7 +4,7 @@ title: Plan Successful Outcomes
 
 # Plan Successful Outcomes
 
-![treatment-pathway](https://drive.google.com/open?id=1iOC0H5YWShzrAFIXa8boXle53PEZsHyL)
+![treatment-pathway](https://drive.google.com/uc?id=1iOC0H5YWShzrAFIXa8boXle53PEZsHyL)
 
 https://www.gainsight.com/your-success/successful-customer-outcomes/
 https://sixteenventures.com/customer-success-desired-outcome
