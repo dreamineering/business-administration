@@ -15,6 +15,12 @@ title: Preparation
 
 ## Plan
 
+1. Customise your configuration
+2. Transfer your data for testing (optional)
+3. Training
+4. Live data transfer (optional)
+5. Preflight checklist
+
 ### [Customise configuration](./system-configuration/)
 
 Configure your system to hit the ground running.
@@ -35,4 +41,14 @@ Have a session with Gensolve Trainer to cover areas that need further explanatio
 
 **Optional** transfer final operating data from your existing system.
 
+### [Preflight Checklist](./preflight-checklist/)
+
+Final checks to be ready for operations.
+
 ## Successful Outcomes
+
+The person that owns the System Admin role understands the configuraton of application-wide settings such as:
+
+- the ability to send email and text messages
+- online booking configuration.
+- standardisation of email signatures, document headers and footers
