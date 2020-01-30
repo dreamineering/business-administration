@@ -6,7 +6,7 @@ title: Accounts Controller
 
 Secures revenue by verifying and posting receipts; resolving discrepancies, ensures suppliers are paid on time.
 
-## Accounts Receivable
+## Responsibilities
 
 - Posts customer payments by recording cash, checks, and credit card transactions.
 - Posts revenues by verifying and entering transactions form lock box and local deposits.
@@ -21,4 +21,14 @@ Secures revenue by verifying and posting receipts; resolving discrepancies, ensu
 - Updates job knowledge by participating in educational opportunities.
 - Accomplishes accounting and organization mission by completing related results as needed.
 
-## Accounts Payable
+## Recruitment
+
+### Emotional Intelligence
+
+### Qualifications
+
+### Questions
+
+### Resources
+
+## Gensolve Workflows

@@ -11,16 +11,22 @@ auditKairos:
 
 # Roles
 
-An Owner/Director/Manager for setting a strategic vision and correcting the course dependent on results.
+As a practice Owner/Director/Manager you have to _wear many hats_ covering part or all of the roles below dependent on your stage of growth. On top of these responsibilities.
+
+As a vital aspect of attracting and retaining talent, you must communicate the strategic vision for growth and correct the course dependent on results.
 
 Dependent on the size of the organisation may need to cover both clinical and business operations roles.
 
-## Clinical Expertise
+## Customer Services Expertise
+
+Directly responsible for earning the business money for services rendered.
 
 - [Clinical Lead](./clinical-lead/)
 - [Clinician](./clinician/)
 
 ## Business Operations
+
+Ensure the business runs efficiently.
 
 - [Operations Manager](./operations-manager/)
 - [Frontdesk Sales](./frontdesk-sales/)
@@ -32,10 +38,9 @@ Dependent on the size of the organisation may need to cover both clinical and bu
 For smaller organisations these roles would be provided by external resources.
 
 - [Accountant](./accountant/)
-- [Marketing](./marketing/)
-- [Information Technology](./information-technology/)
-- [Property Management](./property-management/)
+- [Marketing](./marketing-manager/)
+- [Property Manager](./property-manager/)
 
-## Recruitment Guidance
+## Recruitment
 
 Meet with a least three candidates before making a final choice when recruiting.

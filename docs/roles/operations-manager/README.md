@@ -8,7 +8,7 @@ Runs the business operations of a medical practice. Responsible for hiring and t
 
 To be successful as a Practice Manager, you should be highly organized and self-motivated. Top candidates will also have great leadership and interpersonal skills.
 
-## Practice Manager Responsibilities
+## Responsibilities
 
 - Managing the day-to-day operations of the practice.
 - Hiring, training, and supervising administrative staff.
@@ -21,7 +21,9 @@ To be successful as a Practice Manager, you should be highly organized and self-
 - Conducting regular staff meetings and performance reviews.
 - Working as a team to ensure the practice runs effectively and meets objectives.
 
-## Practice Manager Requirements
+## Recruitment
+
+### Personal
 
 - Degree in business management or related field.
 - Management experience, preferably in the healthcare sector.
@@ -29,4 +31,12 @@ To be successful as a Practice Manager, you should be highly organized and self-
 - Leadership qualities, with good communication skills.
 - Excellent organizational skills.
 - Solid understanding of finance management.
-- Professional appearance.
+- Professional appearance
+
+### Qualifications
+
+### Questions
+
+### Resources
+
+## Gensolve Workflows

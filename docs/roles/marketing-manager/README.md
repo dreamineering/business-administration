@@ -1,8 +1,8 @@
 ---
-title: System Admin
+title: Marketing Manager
 ---
 
-# System Admin
+# Marketing Manager
 
 ## Responsibilities
 
