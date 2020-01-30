@@ -1,7 +1,5 @@
 ---
 title: Application Navigation
-prev: ./
-next: ./frontdesk
 ---
 
 # Application Navigation
