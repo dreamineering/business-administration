@@ -35,7 +35,7 @@ A frontdesk employee must respond to a variety of challenges on a daily basis. A
 ### Education, Skills and Training
 
 - Basic math and cash handling experience.
-- Have strong phone and computer skills.
+- Have strong phone and computer skills (MS Word and Excel).
 - Previous customer service experience (preferred).
 - Be able to prioritize and perform multiple tasks
 - Work cohesively with others in a fun and fast-paced environment
@@ -43,8 +43,9 @@ A frontdesk employee must respond to a variety of challenges on a daily basis. A
 
 ## Communications and Personal Interactions
 
-Have a strong customer service orientation and be able to communicate effectively with members and guests, prospective clients, vendors, and the franchised location’s management and team.
+Have a strong customer service orientation and be able to communicate effectively with members and guests, prospective clients, vendors, and the management and team.
 Maintain client confidentiality.
-Massage Envy Franchising, LLC (“MEF”) is a national franchisor of independently owned and operated franchised locations. Each individual franchised location, not MEF or any of its affiliates, is the sole employer for all positions posted by a franchised location, and each individual franchised location is not acting as an agent for MEF or any of its affiliates. Hiring criteria, benefits and compensation are set by each individually owned and operated franchised location and may vary from location to location.
 
 ## Questions to ask when recruiting for Front Desk positions
+
+- How did you convert last difficult sale?
