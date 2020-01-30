@@ -16,3 +16,4 @@ The advantage Gensolve has on the proliferation of coaches is that their product
 
 - [Practice Acceleration](https://practiceacceleration.com/podcast/)
 - [Paul Gough](https://www.paulgough.com/podcast/)
+- [John Davie](https://podcast.physiobusinessgrowth.com/pbg-podcast)
