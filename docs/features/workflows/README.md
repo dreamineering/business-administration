@@ -9,6 +9,8 @@ title: Workflows
 - Who does what to the data?
 - What can go wrong?
 
+> Watch your thoughts, they become words. Watch your words, they become actions. Watch your actions, they become habits. Watch your habits, they become character. Watch your character, for it becomes your destiny.
+
 ## [Organisation Structure](./organisation-structure/)
 
 - Vendors

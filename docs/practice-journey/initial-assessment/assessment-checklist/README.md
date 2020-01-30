@@ -52,6 +52,23 @@ Learn more about [compliance with Gensolve](../../business-fundamentals/complian
 
 [Do your results compare well with your profit expectations?](../../business-fundamentals/finances/)
 
+### Quality of Service
+
+Quickly enter comprehensive patient treatment notes following well established treatment paths from injury to performance with customisable client goals and internal outcome results that enable better decisions on where service weak points exist.
+
+- Tailor Treatment Notes by Clinician
+  - Orchard Codes
+  - McKenzie Exam
+  - Sports Data
+- Customisable Text Shortcuts
+- Patient Followup Lists
+- Integrated Discharge Flow
+- Integrated Exercise Prescription
+  - Physitrack (prepare for Telehealth)
+  - Physiotec
+
+[How could you improve the connection to your customers?](../../business-fundamentals/quality/)
+
 ### Productivity
 
 Continually optimise your operational intelligence by improving the ability to schedule nd measure effectiveness of time invested in the [central pillars](../../business-fundamentals/) of running your business.
@@ -68,23 +85,6 @@ Continually optimise your operational intelligence by improving the ability to s
 - Reference files for procedure documents
 
 [How could you improve the productivity of your team?](../business-fundamentals/productivity/)
-
-### Quality of Service
-
-Quickly enter comprehensive patient treatment notes following well established treatment paths from injury to performance with customisable client goals and internal outcome results that enable better decisions on where service weak points exist.
-
-- Tailor Treatment Notes by Clinican
-  - Orchard Codes
-  - McKenzie Exam
-  - Sports Data
-- Customisable Text Shortcuts
-- Patient Followup Lists
-- Integrated Discharge Flow
-- Integrated Exercise Prescription
-  - Physitrack (prepare for Telehealth)
-  - Physiotec
-
-[How could you improve the connection to your customers?](../../business-fundamentals/quality/)
 
 ### Marketing
 

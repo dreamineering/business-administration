@@ -35,7 +35,7 @@ Ensure the business runs efficiently.
 
 ## Professional Services
 
-For smaller organisations these roles would be provided by external resources.
+In smaller organisations, these roles would be provided by external resources.
 
 - [Accountant](./accountant/)
 - [Marketing](./marketing-manager/)
@@ -43,4 +43,4 @@ For smaller organisations these roles would be provided by external resources.
 
 ## Recruitment
 
-Meet with a least three candidates before making a final choice when recruiting. But given your job is meeting people for a living there is a very good chance you will find that the perfect person is **right under your nose**.
+Meet with a least three candidates before making a final choice when recruiting. But given your job is meeting people for a living there is a very good chance you will find that the perfect person is **right under your nose**. [Core skills](./core-skills/) to develop.

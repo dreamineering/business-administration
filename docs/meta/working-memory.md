@@ -10,3 +10,13 @@ title: Working Memory
 - https://medium.com/the-crunch/an-accountants-review-of-profit-first-7f888b5d7b
 - https://www.clinictocloud.com/blog/profitable-medical-practice-business-plan
 - https://blog.projectionhub.com/financial-projections-for-a-startup-medical-practice/
+
+## Jobs
+
+- Unit of work
+- Job to be done Interview
+
+## Tasks
+
+- Copy Roles from GPM Best Practice into Demo prove login
+- Roles with Wo

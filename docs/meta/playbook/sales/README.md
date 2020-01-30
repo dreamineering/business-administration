@@ -12,7 +12,8 @@ Using GPM and Gensolve Operations to create a **data-driven** sales process to t
 
 1. **No Lead Funnel**
 2. Undocumented Sales process
-3. Siloed knowledge (including ZenDesk)
+3. Big system that nobody fully understands the benefits of
+4. Siloed knowledge (answers in ZenDesk)
 
 The Product team can have a massive impact on Sales by adding features that help to optimise the funnel. Everyone should spend some time onsite using the software to help run a business for a customer. Failing that **we have to eat our dog food** if we wish to build knowledge across the organisation and credibility with our target customers.
 
@@ -39,20 +40,40 @@ Adoption with high rewards (business benefit) for low effort and talent.
 
 ### Personas
 
-| Characterics/Questions                             | Newbie              | One Person Band  | Single Site    | Multi Site |
-| -------------------------------------------------- | ------------------- | ---------------- | -------------- | ---------- |
-| FTEs                                               | 1                   | 2-3              | 3+             | 8+         |
-| Market Size (PT)                                   | Graduates?          | 1000+            | ?              | ?          |
-| Market Size (Psych)                                | Graduates?          | 1000+            | ?              | ?          |
-| Market Size (Audiology)                            | Graduates?          | 1000+            | ?              | ?          |
-| Admin Staff                                        | No                  | Remote reception | Yes            | Yes        |
-| Growth Focus                                       | Profit              | Recruitment      | Quality+Profit | Marketing  |
-| What are they likely to like?                      |                     |                  |                |            |
-| What are they likely to dislike?                   | Windows & MS Office |                  |                |            |
-| What concerns are they likely to have?             |                     |                  |                |            |
-| What will it take for them to complete a purchase? |                     |                  |                |            |
-| Who can approve the money?                         |                     |                  |                |            |
-| Buy Triggers (JTBD)                                |                     |                  |                |            |
+Break the system into four business functional areas. With regards to Quality (Client Treatment) can further breakdown analysis by service [modality](./modalities.md).
+
+| Characterics/Questions                          | Solopreneur         | No Manager       | Single Site       | Multi Site |
+| ----------------------------------------------- | ------------------- | ---------------- | ----------------- | ---------- |
+| FTEs                                            | 1                   | 2-3              | 4-7               | 8+         |
+| Cost                                            | Free                | 50               | 80                | 100+       |
+| Market Size (PT)                                | Graduates?          | 1000+            | ?                 | ?          |
+| Market Size (Psych)                             | Graduates?          | 1000+            | ?                 | ?          |
+| Market Size (Audiology)                         | Graduates?          | 1000+            | ?                 | ?          |
+| Admin Staff                                     | Unlikely            | Remote reception | Manager/Frontdesk | Team       |
+| Growth Focus                                    | Profit              | Recruitment      | Quality+Profit    | Marketing  |
+| Buy Triggers (Job To Be Done)                   |                     |                  |                   |            |
+| Value Added Service Introductions               | Accountancy         | Remote Manager   | Recruitment       | Coaching   |
+| Who can approve the money?                      | No problem          |                  |                   |            |
+| What are they likely to like?                   | Price               |                  |                   |            |
+| What are they likely to dislike?                | Windows & MS Office |                  |                   |            |
+| What concerns are they likely to have?          |                     |                  |                   |            |
+| What will it take to OK purchase?               |                     |                  |                   |            |
+| Finance: What are they likely to like?          |                     |                  |                   |            |
+| Finance: What are they likely to dislike?       |                     |                  |                   |            |
+| Finance: What concerns?                         |                     |                  |                   |            |
+| Finance: What will it take to OK purchase?      |                     |                  |                   |            |
+| Quality: What are they likely to like?          |                     |                  |                   |            |
+| Quality: What are they likely to dislike?       |                     |                  |                   |            |
+| Quality: What concerns?                         |                     |                  |                   |            |
+| Quality: What will it take to OK purchase?      |                     |                  |                   |            |
+| Productivity: What are they likely to like?     |                     |                  |                   |            |
+| Productivity: What are they likely to dislike?  |                     |                  |                   |            |
+| Productivity: What concerns?                    |                     |                  |                   |            |
+| Productivity: What will it take to OK purchase? |                     |                  |                   |            |
+| Marketing: What are they likely to like?        |                     |                  |                   |            |
+| Marketing: What are they likely to dislike?     |                     |                  |                   |            |
+| Marketing: What concerns?                       |                     |                  |                   |            |
+| Marketing: What will it take to OK purchase?    |                     |                  |                   |            |
 
 #### Entrepreneur
 
@@ -87,24 +108,17 @@ An example of an Entrepreneur could be property investor, wanting stable / highe
 1. Trogen Horse
 2. Hands Off Product Demo
 3. Onboarding Experience
-4. Target Practice Accountants
+4. Target Existing Relationships
 
 ### Trogen Horse
 
-As a Project Manager of Telco OSS/DSS projects I created a spreadsheet to support Pre Sales, targeting Chief Financial Officer to explain the opportunity cost of not using our software, the reasons being either:
+Use a spreadsheet we can send out and that can be further distributed to grow awareness. So we can:
 
-1. Employees with Specific Domain Knowledge knew there was a problem but could not quantify the money story
-2. Finance directors did not have sufficient Subject Matter knowledge to understand the problem
-3. Middle managers did not want to have poor performance and lack of knowledge exposed
+1. Begin relationships by helping not selling
+2. We learn more about buy triggers and where to focus product improvement
+3. We don't waste time trying to make the wrong customer happy
 
-![Sales Process](https://drive.google.com/uc?id=13bo-97_8twxsiWxhM7riatQ7pVgNTXtU)
-
-By comparison, the target buyer for GPM may not have Cashflow Forecast and are generally less sophisticated with appraising technology and financial implications to make decisions.
-
-The bottom line to the CFO was to help prove the **Net Present Value** story. The greater value for Gensolve is to help educate prospective customers on how to evaluate Practice Management software. If they decide to go for another package that is still fine as:
-
-1. We learn more about buy triggers and where we need to focus on product improvement
-2. We don't waste time trying to make the wrong customer happy
+Can simplify for Solopreneurs.
 
 ### Hands Off Product Demo
 
@@ -112,11 +126,11 @@ Enable prospects to start using the application and try various workflows using 
 
 ### Onboarding Experience
 
-Scoring onboarding success is critical to creating a Virtuous Circle to get faster payoff on Customer Acquistion Cost by proving Business Benefits while the customer is open to listening to advice.
+Scoring onboarding success is critical to creating a Virtuous Circle to get faster payoff on Customer Acquisition Cost by proving the Business Benefits while the customer is open to listening to advice.
 
 The complexity for GPM is effort to set-up an organisation well and the relative tech and business knowledge of our target market. A lot of the complexity, effort to configure the system has been absorbed into the Migration Tool (But we should of this code in the main app)
 
-We have to do everything we can to ensure customers achieve **and understand** full business benefits of using Gensolve to run their business at lowest possible cost to us.
+We have to do everything we can to ensure customers achieve **and understand** full business benefits of using Gensolve to run their business at the lowest possible onboarding cost.
 
 ![knowledge transfer](https://drive.google.com/uc?id=13kqhpyFzk_nYwcvrrrl0C16ilrxE9-GK)
 
@@ -124,12 +138,14 @@ Prove value
 
 ![forecast-control-loop](https://drive.google.com/uc?id=1-l5lH6YCThCioOAAmuJJQEp15LQPqknz)
 
-### Target Practice Accountants
+### Target Existing Relationships
 
 - The accountant will have trust
 - Accountants can give quality product feedback
 
 ## Persuasion
+
+Answer **How much money are you losing?** by quantifying Job to be done, **value stories** by business discipline, Finance, Quality, Productivity and Marketing. See the performance spreadsheet for an example of Productivity and File Management.
 
 Ethos, Pathos, Logos, Kairos
 

@@ -44,9 +44,15 @@ title: Dashboards
 
 ## Architecture
 
+### Human Services Optimisation
+
 ![dashboard-reporting](https://drive.google.com/uc?id=1ptlDTRYffxPZ9LRge3vt41gY10FhgAio)
 
-![telecom-margin-optimisation](https://drive.google.com/uc?id=16TEPbIznajXjnxN5G0f_wEdvryjkFoHQ)
+### Telcos Margin Optimisation
+
+Compared to telcos the ease of creating a reporting analysis tool is a major benefit.
+
+![telecom-margin-optimisation](https://drive.google.com/uc?id=1q2-aNzO33xTDVWEZ1eq06A3E8uNgfoij)
 
 ## Links
 
