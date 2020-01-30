@@ -40,7 +40,7 @@ Adoption with high rewards (business benefit) for low effort and talent.
 
 ### Personas
 
-Break the system into four business functional areas. With regards to Quality (Client Treatment) can further breakdown analysis by service [modality](./modalities.md).
+Break the system into four business functional areas. With regards to Quality (Client Treatment) can further breakdown analysis by service [modality](./modalities/).
 
 | Characterics/Questions                          | Solopreneur         | No Manager       | Single Site       | Multi Site |
 | ----------------------------------------------- | ------------------- | ---------------- | ----------------- | ---------- |
