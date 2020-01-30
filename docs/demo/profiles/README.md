@@ -19,18 +19,18 @@ See the [troubleshooting guide](http://docs.gensolve.com/help/gpm_uk/desktop/Pro
 
 Get started with the first **Username** in the table below then work through each option in the table below to learn how GPM might look dependent on the primary business role.
 
-| Username  |                  Display Name                   |                 Focus |
-| --------- | :---------------------------------------------: | --------------------: |
-| fd        |          [Front Desk](./frontdesk.md)           |          Client Sales |
-| clinician |           [Clinician](./clinician.md)           |      Client Treatment |
-| manager   |  [Operations Manager](./operations-manager.md)  |   Business Operations |
-| ap        | [Accounts & Payroll](./accounts-and-payroll.md) |   Business Operations |
-| lc        |      [Lead Clinician](./lead-clinician.md)      |   Business Operations |
-| acc       |                   Accountant                    | Professional Services |
-| accxero   |                 Xero Accountant                 | Professional Services |
-| mm        |                Marketing Manager                | Professional Services |
-| gpm       |                  System Admin                   |      GPM Configration |
-| cfb       |              Custom Forms Builder               |      GPM Configration |
+| Username  | Display Name                                             | Focus                 |
+| --------- | -------------------------------------------------------- | --------------------- |
+| fd        | [Front Desk](../../roles/frontdesk-sales/)               | Client Sales          |
+| clinician | [Clinician](../../roles/clinician/)                      | Client Treatment      |
+| manager   | [Operations Manager](../../roles/operations-manager/)    | Business Operations   |
+| ap        | [Accounts Controller](../../roles/accounts-conntroller/) | Business Operations   |
+| lc        | [Lead Clinician](../../roles/lead-clinician/)            | Business Operations   |
+| acc       | [Accountant](../../roles/accountant/)                    | Professional Services |
+| accxero   | [Xero Accountant](../../roles/accountant/)               | Professional Services |
+| mm        | [Marketing Manager](../../roles/marketing-manager/)      | Professional Services |
+| gpm       | [System Admin](../../roles/system-admin/)                | GPM Configration      |
+| cfb       | [Custom Forms Builder](../../roles/tech-support/)        | GPM Configration      |
 
 These profiles are more for educational purposes to breakdown the learning GPM into more manageable chunks. In your organisation you will have complete control to configure roles exactly as you desire.
 

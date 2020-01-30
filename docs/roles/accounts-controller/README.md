@@ -32,3 +32,11 @@ Secures revenue by verifying and posting receipts; resolving discrepancies, ensu
 ### Resources
 
 ## Gensolve Workflows
+
+- Insurer billing
+- Corrections
+- Daily Takings
+- Debt Recovery Actions
+- Recurring Invoices
+
+Provide [feedback questions](./feedback-questions.md)

@@ -17,3 +17,9 @@ title: Marketing Manager
 ### Resources
 
 ## Gensolve Workflows
+
+- SMS templates
+- Client Groups
+- Mailout
+
+Provide [feedback questions](../../support/feedback-questions.md)
