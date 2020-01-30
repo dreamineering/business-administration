@@ -6,16 +6,11 @@ title: Modalities
 
 - Acupuncture
 - Dental
-- EP
-- GP
 - Hand Therapist
-- MCS?
-- MT
 - Osteotherapy
 - Physiotherapy
 - Podiatry
 - Psychology
-- Specialist
 - Chiropractor
 - Occupational Therapist
 - Diabetes

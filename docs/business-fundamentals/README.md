@@ -14,14 +14,14 @@ Create a people-centered culture that operates in rapid learning and fast decisi
 
 [Illustrated Concepts for Master of Business Administration](https://mba-mondays-illustrated.com/)
 
-1. [Finances](./finances/) Put more money in the bank than you take out
-2. [Quality](./quality/) Deliver something of value that People need
-3. [Productivity](./productivity/) Get more efficient at delivering that thing
-4. [Marketing](./marketing/) Find new People to help
-5. [Technology](./technology/)
-6. [Compliance](./compliance/)
-7. [Property](./property/)
-8. [Direction](./direction/)
+1. [Finances](./finances/) - put more money in the bank than you take out
+2. [Quality](./quality/) - deliver something of value that People need
+3. [Productivity](./productivity/) - do more with less
+4. [Marketing](./marketing/) - find new People to help
+5. [Technology](./technology/) - keep up with trends
+6. [Compliance](./compliance/) - stay on top of the rules
+7. [Property](./property/) - location, space and cost
+8. [Direction](./direction/) - vision and mission
 
 If you can't achieve consistency across your team, measuring the impact of your strategic initiatives is guesswork. Grow your organisations [operational intelligence](../../features/workflows/staff-management/how-to-create-operations-checklists/) to share knowledge efficiently and ensure consistent accountable workflows are adhered to.
 
