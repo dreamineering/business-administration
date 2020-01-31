@@ -15,7 +15,7 @@ Since marketing and sales will generate revenue, practice owners need to underst
 - [Strategy checklist](./strategy-checklist.md)
 - [Find your ideal customer](./find-your-ideal-customer.md)
 - [Intelligent pricing](./intelligent-pricing.md)
-- [Content marketing workflow](./content-marketing.md)
+- [Content marketing workflow](./content-marketing-calendar.md)
 - [Net promoter score](./net-promoter-score.md)
 - [Create a virtuous cycle](./create-a-virtous-cycle.md)
 - [The job to be done](./the-job-to-be-done.md)
