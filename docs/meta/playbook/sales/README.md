@@ -38,11 +38,17 @@ Adoption with high rewards (business benefit) for low effort and talent.
 - Negate talent
 - Limit effort to establish good habits
 
+### Common Problems
+
+[Customer Problems](./customer-problems.md) use demo to capture [feedback](../../demo/profiles/feedback-quesitons.md) to help generate a standard list.
+
+![provide-feedback](https://drive.google.com/uc?id=1OmnSOuWu5JwAVaY8u43XF1tW_7ZmXdxS)
+
 ### Personas
 
 Break the system into four business functional areas. With regards to Quality (Client Treatment) can further breakdown analysis by service [modality](./modalities/).
 
-| Characterics/Questions                          | Solopreneur         | No Manager       | Single Site       | Multi Site |
+| Characterics/Questions                          | Han Solo            | All Hats         | Single Site       | Multi Site |
 | ----------------------------------------------- | ------------------- | ---------------- | ----------------- | ---------- |
 | FTEs                                            | 1                   | 2-3              | 4-7               | 8+         |
 | Cost                                            | Free                | 50               | 80                | 100+       |
@@ -75,9 +81,27 @@ Break the system into four business functional areas. With regards to Quality (C
 | Marketing: What concerns?                       |                     |                  |                   |            |
 | Marketing: What will it take to OK purchase?    |                     |                  |                   |            |
 
+#### Han Solo
+
+- Alone and happy for now
+- Toe Dipping to test the market
+- Cash on the side
+
+#### All Hats
+
+Knows they can't "rub forever" but struggling to understand how to become a CEO
+
+#### Single Site
+
+#### Multi Site
+
 #### Entrepreneur
 
-An example of an Entrepreneur could be property investor, wanting stable / higher prices to tenants or someone that has been involved with Franchises.
+Entrepreneurs could be:
+
+- Management degree graduate
+- In a human service based startup
+- Property investor, wanting stable/higher prices for tenants
 
 | Characterics/Questions                             | Entrepreneur                                        |
 | -------------------------------------------------- | --------------------------------------------------- |
@@ -90,12 +114,6 @@ An example of an Entrepreneur could be property investor, wanting stable / highe
 | What concerns are they likely to have?             |                                                     |
 | What will it take for them to complete a purchase? |                                                     |
 | Who can approve the money?                         |                                                     |
-
-### Customer Problems
-
-[Customer Problems](./customer-problems.md) use demo to capture [feedback](../../demo/profiles/feedback-quesitons.md) to help generate a standard list.
-
-![provide-feedback](https://drive.google.com/uc?id=1OmnSOuWu5JwAVaY8u43XF1tW_7ZmXdxS)
 
 ## Desired Outcomes
 

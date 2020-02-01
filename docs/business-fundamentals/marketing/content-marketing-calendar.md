@@ -88,7 +88,7 @@ https://contentmarketinginstitute.com/2016/07/define-workflow-content-production
 
 ### Distribution
 
-- https://blog.hubspot.com/marketing/content-distribution
+Great content is a waste if your audience doesn’t know it exists so [content distribution](https://www.google.com/search?ei=LTk1XverEbnQmwWY5pKIAg&q=marketing+content+distribution&oq=marketing+content+distribution&gs_l=psy-ab.3..0j0i30l2j0i8i30l6j0i7i5i30.4395.7755..8258...2.2..0.237.1381.8j2j2......0....1..gws-wiz.......0i71j0i7i30j0i13j0i13i5i30j0i8i7i30j0i8i13i30._oBefxLOcDc&ved=0ahUKEwi39sz9-a_nAhU56KYKHRizBCEQ4dUDCAs&uact=5) has to part of your strategy.
 
 ## Tools
 
@@ -132,9 +132,13 @@ Reference Files
 
 ![complete-the-job](https://drive.google.com/uc?id=1vamic5vemYYZsABivHq1vA1smkvhEMI2)
 
+### SMS
+
+[Run a SMS Campaign](http://docs.gensolve.com/help/gpm_uk/desktop/Videos/Reports/How_to_Run_a_Template_Merge_and_Send_Bulk_SMS.htm)
+
 ### Email
 
-### SMS
+[Email Campaign](http://docs.gensolve.com/help/gpm_uk/desktop/Knowledge_Base/Letters_and_Templates/How_to_Create_Mailshots.htm)
 
 ### Social Media
 
