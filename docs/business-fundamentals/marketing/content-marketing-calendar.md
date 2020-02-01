@@ -69,6 +69,15 @@ Have a hopper for catching a backlog of content creation ideas.
 1. Schedule time for [brainstorming](./https://www.ideou.com/pages/brainstorming)
 2. Create a backlog of marketing ideas to create content at a future date
 
+### Scheduling
+
+Important dates to consider
+
+- Seasonal Sporting Events
+- Key Industry Events
+- National Holidays
+- Commemorative Months
+
 ### Production
 
 Schedule time and resources to write content and produce supporting media.
@@ -86,11 +95,10 @@ https://contentmarketinginstitute.com/2016/07/define-workflow-content-production
 Tools that will help you ace your content creation ambitions.
 
 - [Hemingway App](http://www.hemingwayapp.com/desktop.html)
-- [Zapier]
+- [Buffer](https://buffer.com/)
+- [Zapier](https://zapier.com/learn/automate-apps-examples/social-media/)
 
 ## GPM
-
-Te magic...
 
 - Color-coding. Every type of content and project can have a consistent color. Blog posts, email newsletters, webinars, social media campaigns, and podcast episodes each have a corresponding color.
 - Marketing Campaigns. The color bands at the bottom indicate Marketing Campaigns. This is a feature in CoSchedule that allows you to place multiple related parts of a project or campaign into one folder. Clicking one of these will create a filtered view showing only the items associated with that project.
