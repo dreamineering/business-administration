@@ -12,6 +12,8 @@ title: Customer Acquisition Cost
 
 ### Advertising Creditors
 
+![advertising-creditors](https://drive.google.com/uc?id=1xHJbuTCRwTExzCIBJ1QqeOha_M0e5nkH)
+
 ![advertising-creditor](https://drive.google.com/uc?id=1xMY79q_KNAvB_AdCiQZj-llmagcQQbpJ)
 
 ### Advertising Expenses
@@ -28,8 +30,14 @@ title: Customer Acquisition Cost
 
 ![condition-details](https://drive.google.com/uc?id=10w0pGwDcouZUTybhu4XVx7oNGXrfN8h4)
 
+![condition-business-problems](https://drive.google.com/uc?id=11-4_3r-UkutUThvVRkkGtyhBWfgrMtjS)
+
 ### Referral Sources
+
+![referral-sources](https://drive.google.com/uc?id=1x6pEJevZDQT9dpb61Fw5lMdes4WUeL0v)
 
 ![condition-referral-source-journey](https://drive.google.com/uc?id=10wq71Y_g-1CcxXbtCKLVvRYF8IAwxAZS)
 
 ![condition-referral-source-returning](https://drive.google.com/uc?id=10xK1KMbXNSM05gkDJSUTk36jeMziSqhA)
+
+###

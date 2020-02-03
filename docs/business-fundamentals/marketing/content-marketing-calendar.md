@@ -138,10 +138,24 @@ Reference Files
 
 ### Email
 
+Complete email template
+
+[template-emails](https://drive.google.com/uc?id=10nKbHkzUEb5Buqpd7kJ_7lI1Zn3gtxOL)
+
+Send emails
+
 [Email Campaign](http://docs.gensolve.com/help/gpm_uk/desktop/Knowledge_Base/Letters_and_Templates/How_to_Create_Mailshots.htm)
 
 ### Social Media
 
+![log-social-media-publicaton](https://drive.google.com/uc?id=1woRAabMeHfGlVlHB9yCKasZnYDzTNxcE)
+
 ### Impact Analysis
 
 Customer Acquisition Cost
+
+### Admin
+
+Upload file types
+
+![upload-file-types](https://drive.google.com/uc?id=1vV-49mUiUGLyqsWF1Kp5e0xTOCDfLthM)
