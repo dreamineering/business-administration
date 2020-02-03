@@ -4,6 +4,8 @@ title: Workflows
 
 # Workflows
 
+> First we make our habits, then our habits make us
+
 - What data comes in?
 - What data goes out?
 - Who does what to the data?

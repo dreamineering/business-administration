@@ -33,7 +33,9 @@ Trigger alert when Clinical Saturation is below 80%
 
 - does the Clinician need better training?
 
-## Related Reports
+### Related Action Lists
+
+### Related KPIs
 
 - Clinician Margin
 

@@ -25,7 +25,10 @@ Create a people-centered culture that operates in rapid learning and fast decisi
 
 If you can't achieve consistency across your team, measuring the impact of your strategic initiatives is guesswork. Grow your organisations [operational intelligence](../../features/workflows/staff-management/how-to-create-operations-checklists/) to share knowledge efficiently and ensure consistent accountable workflows are adhered to.
 
-> First we make our habits, then our habits make us
+## [Direction](./direction/)
+
+- Vision and Mission
+- Know your enemy
 
 ## [Finances](./finances/)
 
@@ -60,8 +63,3 @@ If you can't achieve consistency across your team, measuring the impact of your 
 
 - How big
 - Where
-
-## [Direction](./direction/)
-
-- Vision and Mission
-- Know your enemy

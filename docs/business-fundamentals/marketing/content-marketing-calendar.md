@@ -143,3 +143,5 @@ Reference Files
 ### Social Media
 
 ### Impact Analysis
+
+Customer Acquisition Cost

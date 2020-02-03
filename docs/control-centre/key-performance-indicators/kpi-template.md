@@ -1,14 +1,20 @@
 ---
 title: KPI Name
+metaDecisionAction:
+metaRunFrequency:
+metaDateRange:
+metaAccessRoles:
+metaCompareBy:
 ---
 
 # Name
 
-Intro
+## Questions
 
-::: tip Calculation
-calculation details
-:::
+1. What decisions/actions this information will help you to complete
+2. How often you would like to run this report
+3. What range of data are you interested in
+4. Who should be allowed to see the data
 
 ## Expectations
 
@@ -16,8 +22,10 @@ Trigger alert when...
 
 - question one...
 
-## Prerequisites
+## Related Action Lists
 
-## Related Reports
+## Related KPIs
 
--
+## Calculation
+
+### Prerequisites

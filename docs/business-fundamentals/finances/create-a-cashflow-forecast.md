@@ -4,7 +4,7 @@ title: Create a Cashflow Forecast
 
 # Create a Cashflow Forecast
 
-The initial goal is not perfection, something you can continually improve.
+Before you pay your expenses, take your profit first. Run your business based on what you can afford to do today, not what you hope to be able to afford someday. When profit comes first, it is the focus, and it is never forgotten.
 
 > Plans are of little importance, but planning is essential - Winston Churchill
 
@@ -27,7 +27,7 @@ You can email <a href="mailto:mattm@gensolve.com?subject=Performance%20Forecast"
 
 A key assumption is that your service price list will be reviewed quarterly.
 
-Replace the names of services, with the actual services and prices you offer and those of your competition for sake of quarterly comparison and update.
+Replace the names of services, with the actual services and prices you offer and those of your competition for the sake of quarterly comparison and update.
 
 For each service consider whether you can differentiate via marketing and new pricing band, if a clinician with 20+ years of experience is charging at the same rate as recent graduate.
 
@@ -59,7 +59,7 @@ Think of different services/pricing bands that each clinician provides treatment
 Steps
 
 1. Match Clinicians in Schedule
-2. Create worst and best-case scenarios for what percentage of time each clinician spends performing each service. As an example you would want to limit the percentage of time an Clinician of 20 years spends peforming low priced insurance work.
+2. Create worst and best-case scenarios for what percentage of time each clinician spends performing each service. As an example you would want to limit the percentage of time an Clinician of 20 years spends performing low priced insurance work.
 3. Enter the worst and best case ratio and an averaged hourly rate based on the quarter
 
 _GPM service will automatically be calculated based on the total providers scheduled hours._
