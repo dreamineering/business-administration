@@ -9,5 +9,5 @@ Balance service mix and pricing with available resources, ensure spend on market
 Help **evangelists** tell your **value story**
 
 - [Average Customer Spend](./average-customer-spend.md)
-- [Customer Acquisition Cost](./customer-acquistion-cost.md)
+- [Customer Acquisition Cost](./customer-acquisition-cost.md)
 - Client Goals
