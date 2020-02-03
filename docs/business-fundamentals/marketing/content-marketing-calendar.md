@@ -140,7 +140,9 @@ Reference Files
 
 Complete email template
 
-[template-emails](https://drive.google.com/uc?id=10nKbHkzUEb5Buqpd7kJ_7lI1Zn3gtxOL)
+![template-emails](https://drive.google.com/uc?id=10nKbHkzUEb5Buqpd7kJ_7lI1Zn3gtxOL)
+
+![template influencer email](https://drive.google.com/uc?id=12r9k4O6d6sNcLcqHGCJ-SrdXpom88azD)
 
 Send emails
 
