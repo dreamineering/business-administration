@@ -126,7 +126,7 @@ Workflow recipe
 
 Reference Files > create the content
 
-![blog-post](https://drive.google.com/uc?id=1vW_q1wncVCvtYxDWHiuz9cPryPdQwHmZ)
+![blog-post](https://drive.google.com/uc?id=1wXFZajF09CMtUIVOxOyfrthjXSTlNMAX)
 
 Reference Files
 
@@ -147,6 +147,8 @@ Send emails
 [Email Campaign](http://docs.gensolve.com/help/gpm_uk/desktop/Knowledge_Base/Letters_and_Templates/How_to_Create_Mailshots.htm)
 
 ### Social Media
+
+![social-media-template](https://drive.google.com/uc?id=10iavch22zmI5h1q5zxKz1hsXikmoHQ-B)
 
 ![log-social-media-publicaton](https://drive.google.com/uc?id=1woRAabMeHfGlVlHB9yCKasZnYDzTNxcE)
 

@@ -4,6 +4,12 @@ title: Customer Acquisition Cost
 
 # Customer Acquisition Cost
 
+## Control Loop
+
+![control-loop](https://drive.google.com/uc?id=11-EsJ-XpTFMgOEMnYzrV1BMGybuUm-Vc)
+
+### Client Details
+
 ![client-details](https://drive.google.com/uc?id=1veWxrf1LNz1u3e5oJ8lwRmoS9K3noe3y)
 
 ### Advertising Ledger
@@ -40,4 +46,6 @@ title: Customer Acquisition Cost
 
 ![condition-referral-source-returning](https://drive.google.com/uc?id=10xK1KMbXNSM05gkDJSUTk36jeMziSqhA)
 
-###
+### Why Choose Us
+
+![why-choose-us](https://drive.google.com/uc?id=1x11CQVgmaCwnKhH4IKRqgWPHVf6FyCHO)
