@@ -156,10 +156,4 @@ Send emails
 
 ### Impact Analysis
 
-Customer Acquisition Cost
-
-### Admin
-
-Upload file types
-
-![upload-file-types](https://drive.google.com/uc?id=1vV-49mUiUGLyqsWF1Kp5e0xTOCDfLthM)
+Key Performance Indicator [Customer Acquisition Cost](../../control-centre/key-performance-indicators/customer-acquisition-cost.md)
