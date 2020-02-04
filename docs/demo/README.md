@@ -9,7 +9,9 @@ title: Demo
 3. Learn navigation essentials
 4. View GPM through different perspectives
 
-Try the appropriate web app for your location [Australia](https://augpm.gensolve.com/index.html), [New Zealand](https://nzgpm.gensolve.com/index.html) [United Kingdom](https://ukgpm.gensolve.com/index.html). Or [install the application](./install/) if your role has business administrative responsilbilites.
+Try the web app [AUS](https://augpm.gensolve.com/index.html), [NZL](https://nzgpm.gensolve.com/index.html) [GBR](https://ukgpm.gensolve.com/index.html) if you just want to focus on working with your Clients.
+
+Install the full-featured [Desktop Application](./install/) for more business administration focused tasks.
 
 ## Profiles
 
