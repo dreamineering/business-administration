@@ -17,7 +17,7 @@ As a vital aspect of attracting and retaining talent, you must communicate the s
 
 Dependent on the size of the organisation may need to cover both clinical and business operations roles.
 
-## Customer Services Expertise
+## Customers Services
 
 Directly responsible for earning the business money for services rendered.
 
