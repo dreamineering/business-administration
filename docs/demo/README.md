@@ -13,7 +13,9 @@ Try the web app [AUS](https://augpm.gensolve.com/index.html), [NZL](https://nzgp
 
 Install the full-featured [Desktop Application](./install/) for more business administration focused tasks.
 
-## Navigation Essentials
+## Sign In
+
+To learn the navigation essentials you can sign-in with the following credentials:
 
 | Field        | Setting       |
 | ------------ | ------------- |
@@ -44,6 +46,10 @@ For the following profiles have these sign-in credentials in common:
 
 Get started with the first **Username/Profile** in the table below then work through each option in the table below to learn how GPM might look dependent on the primary business role.
 
+::: tip
+If you hold down the shift key then click on the GPM application in the bottom taskbar of windows you can log in with the manager profile, so you can view full functionality.
+:::
+
 | Username  | Display Name                                             | Focus                 |
 | --------- | -------------------------------------------------------- | --------------------- |
 | fd        | [Front Desk](../../roles/frontdesk-sales/)               | Client Sales          |
@@ -57,12 +63,6 @@ Get started with the first **Username/Profile** in the table below then work thr
 | gpm       | [System Admin](../../roles/system-admin/)                | GPM Configration      |
 | cfb       | [Custom Forms Builder](../../roles/tech-support/)        | GPM Configration      |
 
-These profiles are more for educational purposes to breakdown the learning GPM into more manageable chunks. In your organisation you will have complete control to configure roles exactly as you desire.
+These profiles for _educational purposes_ to breakdown the learning GPM into traditional business functions. In your organisation **you have complete control** to configure roles exactly as you desire.
 
 ![common-health-practice-roles-and-responsibilities](https://drive.google.com/uc?id=1_85fzFafOpCNIkbkKoCnLqtNYTDWdgY2)
-
-::: tip
-If you hold down the shift key then click on the GPM application in the bottom taskbar of windows you can log in with the manager profile, so you can view full functionality.
-:::
-
-Once you are successfully logged in choose an appropriate [demonstration to follow](../demonstration/) to learn the essentials.
