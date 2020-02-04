@@ -1,7 +1,5 @@
 ---
 title: Install
-prev: ./
-next: ./
 ---
 
 # Install
