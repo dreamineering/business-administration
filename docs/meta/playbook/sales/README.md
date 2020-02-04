@@ -23,11 +23,13 @@ We can use client groups in GPM to track progress through the funnel
 
 ## Goals
 
+An [onboarding process](./onboarding/) second to none across any SaaS solution.
+
 Repeatable growth process
 
 1. What is working well, and what needs to be improved?
 2. What levers can drive growth in the business?
-3. Hit the accelerator, or the brakes?
+3. Hit the accelerator or the brakes?
 4. Impact on cash and profit/loss of hitting the accelerator?
 
 ## Customers
