@@ -14,9 +14,9 @@ auditIntent:
 
 Predictable, Repeatable Growth that is not reliant on any particular Knowledge Worker so that Gensolve can [scale](https://mastersofscale.com/) at the optimum rate, avoiding unproductive, morale destroying **Fire-Fighting**.
 
-Evolve Genolve's **why** through using GPM to optimise internal business operations so that we can evole and pass on value creating [workflows](../../features/workflows/) ideas to our customers.
+Evolve Genolve's **why** through using GPM to optimise internal business operations so that we can evolve and pass on value-creating [workflows](../../features/workflows/) ideas to our customers.
 
-> The **Meta** of the **Matter** is where the **Value** lies
+## [If it is written down, it doesn't exist](https://www.chiefexecutiveboards.com/briefings/briefing210.htm)
 
 1. [Direction](./direction/)
 2. [Sales](./sales/)

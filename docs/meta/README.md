@@ -12,8 +12,6 @@ auditIntent:
 
 Predictable, Repeatable Growth that is not reliant on any particular Knowledge Worker so that Gensolve can [scale](https://mastersofscale.com/) at the optimum rate, avoiding unproductive, morale destroying **Fire-Fighting**.
 
-Evolve Genolve's **why** through using GPM to run our internal operations to hone the products **value proposition**.
-
 > The **Meta** of the **Matter** is where the **Money** is
 
 ## [Playbook](./playbook/)
