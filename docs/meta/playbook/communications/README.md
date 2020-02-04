@@ -4,6 +4,8 @@ title: Communications
 
 # Communications
 
+Unstructured communication (email) is just noise. Effective communication protocol is essential for productivity
+
 Email is the work of the devil, google drive is the younger sibling.
 
 1. No internal communication should be allowed via email. Use EVENTS and time-blocking appointments

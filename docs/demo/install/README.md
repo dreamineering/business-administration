@@ -6,12 +6,6 @@ next: ./
 
 # Install
 
-GPM has two different interface options, for essential practice treatment operations a web app is available for each of the following countries:
-
-- [Australia](https://augpm.gensolve.com/index.html)
-- [New Zealand](https://nzgpm.gensolve.com/index.html)
-- [United Kingdom](https://ukgpm.gensolve.com/index.html)
-
 Practice Managers or those with business administrative responsibilities will need to install the windows application.
 
 > [Download Gensolve Practice Manager](http://software.gensolve.com/gpmuk/install.htm)
@@ -21,7 +15,7 @@ If you are interested in our Audiology product please _email sales@gensolve.com_
 See [Install Steps](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/Installation___Troubleshooting/Installation.htm?rhtocid=7.1#) for more details.
 
 ::: tip
-Right-click on the GPM icon in the bottom taskbar and select **Pin to taskbar**. This is enable you to quickly start GPM when starting your machine.
+Right-click on the GPM icon in the bottom taskbar and select **Pin to taskbar**. This will enable you to quickly start GPM when starting your machine.
 :::
 
 ## System Requirements
