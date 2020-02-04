@@ -13,22 +13,36 @@ Try the web app [AUS](https://augpm.gensolve.com/index.html), [NZL](https://nzgp
 
 Install the full-featured [Desktop Application](./install/) for more business administration focused tasks.
 
-## Profiles
+## Navigation Essentials
 
-All demo profiles you can log in with the following details:
+| Field        | Setting       |
+| ------------ | ------------- |
+| Organisation | Demo Practice |
+| Username     | fd            |
+| Password     | Dem0User      |
+
+::: tip
+See the [troubleshooting guide](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/Installation___Troubleshooting/Logging_In.htm?rhtocid=7.1.0_2#) if you have problems
+:::
+
+1. [Tour the Workspace](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/The_Workspace/Touring_the_Workspace.htm)
+2. [Top Menu](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/The_Workspace/Top_Menu.htm)
+3. [Client Header]()
+4. [Main Menu](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/The_Workspace/Main_Menu.htm)
+5. [Appointment Book](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/The_Workspace/Appointment_Book.htm)
+
+Provide [feedback questions](../support/feedback-questions.md)
+
+## User Profiles
+
+For the following profiles have these sign-in credentials in common:
 
 | Field        | Setting       |
 | ------------ | ------------- |
 | Organisation | Demo Practice |
 | Password     | Dem0User      |
 
-![GPM Login](https://drive.google.com/uc?id=1a1-c4ygdIjA3VoJ79guyId0u0XReBYNi)
-
-::: tip
-See the [troubleshooting guide](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/Installation___Troubleshooting/Logging_In.htm?rhtocid=7.1.0_2#) if you have problems
-:::
-
-Get started with the first **Username** in the table below then work through each option in the table below to learn how GPM might look dependent on the primary business role.
+Get started with the first **Username/Profile** in the table below then work through each option in the table below to learn how GPM might look dependent on the primary business role.
 
 | Username  | Display Name                                             | Focus                 |
 | --------- | -------------------------------------------------------- | --------------------- |
@@ -52,13 +66,3 @@ If you hold down the shift key then click on the GPM application in the bottom t
 :::
 
 Once you are successfully logged in choose an appropriate [demonstration to follow](../demonstration/) to learn the essentials.
-
-## Navigation Essentials
-
-1. [Tour the Workspace](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/The_Workspace/Touring_the_Workspace.htm)
-2. [Top Menu](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/The_Workspace/Top_Menu.htm)
-3. [Client Header]()
-4. [Main Menu](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/The_Workspace/Main_Menu.htm)
-5. [Appointment Book](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/The_Workspace/Appointment_Book.htm)
-
-Provide [feedback questions](../support/feedback-questions.md)
