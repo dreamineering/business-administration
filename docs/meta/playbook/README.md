@@ -18,16 +18,17 @@ Evolve Genolve's **why** through using GPM to optimise internal business operati
 
 > The **Meta** of the **Matter** is where the **Value** lies
 
-1. [Sales](./sales/)
-2. [Content Creation](./content-creation/)
-3. [Experimental](./experimental/)
-4. [Release Planning](./release-planning/)
-5. [Communications](./communications/)
-6. [Tools](./tools/)
-7. [Frontend](./frontend/)
-8. [Dashboards](./dashboards/)
-9. [DotNet](./dotnet/)
-10. [Databases](./databases/)
+1. [Direction](./direction/)
+2. [Sales](./sales/)
+3. [Content Creation](./content-creation/)
+4. [Experimental](./experimental/)
+5. [Release Planning](./release-planning/)
+6. [Communications](./communications/)
+7. [Tools](./tools/)
+8. [Frontend](./frontend/)
+9. [Dashboards](./dashboards/)
+10. [DotNet](./dotnet/)
+11. [Databases](./databases/)
 
 Inspiration from [Thoughtbot](https://thoughtbot.com/playbook), [David Skok](https://drt.fm/david-skok) at Matrix Partners. [Signal vs Noise](https://m.signalvnoise.com/category/greatest-hits/)
 

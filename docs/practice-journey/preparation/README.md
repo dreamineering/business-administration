@@ -15,11 +15,11 @@ title: Preparation
 
 ## Plan
 
-1. Customise your configuration
-2. Transfer your data for testing (optional)
-3. Training
-4. Live data transfer (optional)
-5. Preflight checklist
+1. [Customise your configuration](./system-configuration/)
+2. [Transfer your data for testing](./data-migration/)
+3. [Training](./training/)
+4. [Live data transfer](./live-data-transfer/)
+5. [Preflight checklist](./preflight-checklist/)
 
 ### [Customise configuration](./system-configuration/)
 

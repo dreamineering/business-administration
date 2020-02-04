@@ -10,6 +10,6 @@ title: Tools
 - [Now](./now/)
 - [SEO](./seo/)
 - [Tailwind](./tailwind/)
-- [Vuepress](./vueprss/)
+- [Vuepress](./vuepress/)
 - [Zapier](./zapier/)
 - [Zendesk](./zendesk/)
