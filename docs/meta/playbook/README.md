@@ -10,7 +10,13 @@ auditIntent:
 - How to use GPM to drive Gensolve's Operations
 - How Gensolve Develops Software
 
-Inspiration from [Thoughtbot](https://thoughtbot.com/playbook), [David Skok](https://drt.fm/david-skok) at Matrix Partners. [Signal vs Noise](https://m.signalvnoise.com/category/greatest-hits/)
+## Goal
+
+Predictable, Repeatable Growth that is not reliant on any particular Knowledge Worker so that Gensolve can [scale](https://mastersofscale.com/) at the optimum rate, avoiding unproductive, morale destroying **Fire-Fighting**.
+
+Evolve Genolve's **why** through using GPM to optimise internal business operations so that we can evole and pass on value creating [workflows](../../features/workflows/) ideas to our customers.
+
+> The **Meta** of the **Matter** is where the **Value** lies
 
 1. [Sales](./sales/)
 2. [Content Creation](./content-creation/)
@@ -22,3 +28,7 @@ Inspiration from [Thoughtbot](https://thoughtbot.com/playbook), [David Skok](htt
 8. [Dashboards](./dashboards/)
 9. [DotNet](./dotnet/)
 10. [Databases](./databases/)
+
+Inspiration from [Thoughtbot](https://thoughtbot.com/playbook), [David Skok](https://drt.fm/david-skok) at Matrix Partners. [Signal vs Noise](https://m.signalvnoise.com/category/greatest-hits/)
+
+> [**Simplicity** is the ultimate sophistication](https://articles.uie.com/simplicity/) but there is better money in chaotic complexity.
