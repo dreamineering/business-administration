@@ -16,7 +16,12 @@ Predictable, Repeatable Growth that is not reliant on any particular Knowledge W
 
 Evolve Genolve's **why** through using GPM to optimise internal business operations so that we can evolve and pass on value-creating [workflows](../../features/workflows/) ideas to our customers.
 
-## [If it is written down, it doesn't exist](https://www.chiefexecutiveboards.com/briefings/briefing210.htm)
+## If it is written down, it doesn't exist
+
+- [Executive perspective](https://www.chiefexecutiveboards.com/briefings/briefing210.htm)
+- [Coding perspective](https://blog.codinghorror.com/if-it-isnt-documented-it-doesnt-exist/)
+
+Good process starts with writing. If you want a duplication machine, you must have great processes! All of the Gensolve team need to be contributing freely, without friction as much as they can.
 
 1. [Direction](./direction/)
 2. [Sales](./sales/)
