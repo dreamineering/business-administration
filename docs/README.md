@@ -1,7 +1,7 @@
 ---
 home: true
 actionText:
-footer: Gensolve Practice Management Solutions
+footer: Gensolve Business Management Solutions
 sidebar: auto
 auditAudience:
 auditDesiredAction:
@@ -11,10 +11,14 @@ auditLogos:
 auditKairos:
 ---
 
-<h1>How much money are you losing?</h1>
+<h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you make money helping others strive for their dreams. <span style="color:#D70014;font-weight:bold">We would love to help you achieve those ambitions</span></h2>
 
-Take the **pain** out of running your business and **start growing** or **share** extra **time** with those you **love**. Whatever practice management solution you’re currently using, we’re ready to help you.
+How much are you losing? Our free [performance analysis](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) can help you to:
 
-> Just looking? Use our free [performance analysis](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) spreadsheet to create a forecast budget.
+1. Put food on the table by thinking, [profit first](https://anchor.fm/paul-gough2/episodes/EP-44-Profit-First-For-Physical-Therapists---With-Mike-Michalowicz-e4c3vc)
+2. Understand if you need a better business solution
+3. Evaluate your options
 
-What is holding you back? Let's find the treatment path that will [save you time and increase your profits](./demo/install/)
+## If helping others has become more painful than you imagined
+
+Take the **pain** out of running your business and [take your time back now](./demo/install/)
