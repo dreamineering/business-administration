@@ -11,7 +11,7 @@ auditLogos:
 auditKairos:
 ---
 
-<h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you make money helping others strive for their dreams. We would <span style="color:#D70014;font-weight:bold">love</span> to help you achieve your ambitions</h2>
+<h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you make money helping others strive for their dreams. We <span style="color:#D70014;font-weight:bold">love</span> helping peop,e like you</h2>
 
 How much are you losing? Our free [performance analysis](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) can help you to:
 
@@ -19,6 +19,6 @@ How much are you losing? Our free [performance analysis](https://drive.google.co
 2. understand if you need a better business solution
 3. evaluate your options when adopting a new software solution
 
-## If helping others has become more painful than you imagined
+Helping others has become more painful than you imagined?
 
 Take the **pain** out of running your business and [take your time back now](./demo/install/)
