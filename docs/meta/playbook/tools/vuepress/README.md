@@ -4,6 +4,10 @@ title: Vuepress
 
 # Vuepress
 
+- [Create a blog](https://blog.logrocket.com/how-create-portfolio-blog-using-vuepress-markdown/)
+- [Vuepress examples](https://vuepress-examples.netlify.com/demos/video/)
+- [Tailwind Conversion](https://dev.to/vuevixens/build-a-beautiful-website-with-vuepress-and-tailwindcss--3a03)
+
 ## Why?
 
 - Fast to load
@@ -12,7 +16,6 @@ title: Vuepress
 - Content can easily be repurposed
 - Edit in VS Code or direct in BitBucket
 - PR to update content
-- [Tailwind Conversion](https://dev.to/vuevixens/build-a-beautiful-website-with-vuepress-and-tailwindcss--3a03)
 
 ## Markdown Examples
 
@@ -96,8 +99,3 @@ using an iframe sometimes works with YouTube
 " type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-## Links
-
-- [Create a blog](https://blog.logrocket.com/how-create-portfolio-blog-using-vuepress-markdown/)
-- [Vuepress examples](https://vuepress-examples.netlify.com/demos/video/)

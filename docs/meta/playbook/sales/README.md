@@ -129,7 +129,7 @@ Entrepreneurs could be:
 
 ## How
 
-1. Trogen Horse
+1. Trogen Horse to close the value loop
 2. Hands Off Product Demo
 3. Onboarding Experience
 4. Target Existing Relationships
@@ -142,17 +142,19 @@ Use a spreadsheet we can send out and that can be further distributed to grow aw
 2. We learn more about buy triggers and where to focus product improvement
 3. We don't waste time trying to make the wrong customer happy
 
-Can simplify for Solopreneurs.
+![close the value loop](https://drive.google.com/uc?id=1IZsBcqjQ3iLuci3mOM1Afk7GRCl7kKDV)
 
 ### Hands Off Product Demo
 
 Enable prospects to start using the application and try various workflows using login roles that are aligned with common business functions.
 
+[Read more](./hands-off-demo/)
+
 ### Onboarding Experience
 
-Scoring onboarding success is critical to creating a Virtuous Circle to get faster payoff on Customer Acquisition Cost by proving the Business Benefits while the customer is open to listening to advice.
+Scoring [onboarding success](./onboarding/) is critical to creating a Virtuous Circle to get faster payoff on Customer Acquisition Cost by proving the Business Benefits while the customer is open to listening to advice.
 
-The complexity for GPM is effort to set-up an organisation well and the relative tech and business knowledge of our target market. A lot of the complexity, effort to configure the system has been absorbed into the Migration Tool (But we should of this code in the main app)
+A lot of the complexity and effort to configure the system has been absorbed into the Migration Tool.
 
 We have to do everything we can to ensure customers achieve **and understand** full business benefits of using Gensolve to run their business at the lowest possible onboarding cost.
 
@@ -162,52 +164,20 @@ Prove value
 
 ![forecast-control-loop](https://drive.google.com/uc?id=1-l5lH6YCThCioOAAmuJJQEp15LQPqknz)
 
+[Read more](./onboarding/)
+
 ### Target Existing Relationships
 
 - The accountant will have trust
 - Accountants can give quality product feedback
 
-## Persuasion
+[Read more](./onboarding/)
+
+## Psychology
 
 Answer **How much money are you losing?** by quantifying Job to be done, **value stories** by business discipline, Finance, Quality, Productivity and Marketing. See the performance spreadsheet for an example of Productivity and File Management.
 
-Ethos, Pathos, Logos, Kairos
-
-1. [Reciprocation](https://www.nngroup.com/articles/reciprocity-principle/)
-2. [Authority](https://www.nngroup.com/articles/authority-principle/)
-3. [Social Proof](https://www.nngroup.com/articles/social-proof-ux/)
-4. [Commitment and Consistency](https://www.nngroup.com/articles/commitment-consistency-ux/)
-5. [Liking](https://www.nngroup.com/articles/liking-principle-ui-design/)
-6. [Scarcity](https://www.nngroup.com/articles/scarcity-principle-ux/)
-
-### Reciprocation
-
-[Reciprocity](https://www.nngroup.com/articles/reciprocity-principle/)
-
-### Social Proof
-
-[Social Proof](https://www.nngroup.com/articles/social-proof-ux/)
-
-### Authority
-
-- Business Fundamentals
-- Ask partners to write articles
-
-[Authority](https://www.nngroup.com/articles/authority-principle/)
-
-### Commitment and Consistency
-
-[Commitment and Consistency](https://www.nngroup.com/articles/commitment-consistency-ux/)
-
-### Liking
-
-- [liking](https://www.nngroup.com/articles/liking-principle-ui-design/)
-
-### Scarcity
-
-As special one time offer the first 100 customers a free three-month trial.
-
-- [Scarcity](https://www.nngroup.com/articles/scarcity-principle-ux/)
+[Read more](./psychology.md)
 
 ## KPIs
 
@@ -238,18 +208,4 @@ Subsidiary Reports
 - Converted Leads
 - Teamwork Index
 
-### Customer Acquistion Cost
-
-Marketing Spend (Channel) + Sales + Migration + Onboarding
-
-### Customer Retention
-
-Year of year growth
-
-### Revenue Retention
-
-- Upsell revenue per client
-
-### Teamwork Index
-
-[Crusaders Rugby Team](https://www.youtube.com/watch?v=IMmOOzn9R-k&t=10s)
+[Read more](./kpis/)

@@ -32,8 +32,7 @@ Good process starts with writing. If you want a duplication machine, you must ha
 7. [Tools](./tools/)
 8. [Frontend](./frontend/)
 9. [Dashboards](./dashboards/)
-10. [DotNet](./dotnet/)
-11. [Databases](./databases/)
+10. [Development](./development/)
 
 Inspiration from [Thoughtbot](https://thoughtbot.com/playbook), [David Skok](https://drt.fm/david-skok) at Matrix Partners. [Signal vs Noise](https://m.signalvnoise.com/category/greatest-hits/)
 
