@@ -1,8 +1,8 @@
 ---
-title: Payroll
+title: How to integrate with a Payroll solution
 ---
 
-# Payroll
+# How to integrate with a Payroll solution
 
 Gensolve does not offer a full payroll system, but does have the capacity to upload that information.
 

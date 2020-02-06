@@ -82,19 +82,20 @@ c2(no)->op2->e
 
 https://github.com/vuejs/vuepress/issues/870
 
-![Crusaders](https://www.youtube.com/watch?v=IMmOOzn9R-k&t=10s)
-
-<video width="560" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=IMmOOzn9R-k&t=10s" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 <video width="560" height="240" controls>
   <source src="https://sample-videos.com/video123/mp4/480/big_buck_bunny_480p_1mb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+using an iframe sometimes works with YouTube
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bTqVqk7FSmY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<video width="560" height="240" controls>
+  <source src="http://gensolve-docs.s3.amazonaws.com/GPM/6.1/Videos/Banking%20and%20Daily%20Takings/How_to_Create_Daily_Takings.mp4
+" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Links
 

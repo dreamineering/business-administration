@@ -13,46 +13,12 @@ title: Workflows
 
 Evolve your [recurring workflows](./staff-management/how-to-create-recurring-workflows/) to take control of what happens when by who in your business. Ask about our library of workflows to help get started. **If you are business advisor** workflows are a great way for you to help ensure that the customers you are advising can practice the intellectual property that you preach.
 
-## [Organisation Structure](./organisation-structure/)
-
-- Vendors
-- Sites
-- Users and roles
-- Employees and wages
-- Clinicians and services
-
-## [Service Types](./service-types/)
-
-- Allowable Sites
-- Allowable Providers
-- Revenue Stream
-- Standard Contracts
-
-## [Client Details](./client-details/)
-
-- Demographics
-- GP and referring specialist
-- How did you hear of us?
-- Why Us?
-- Next of kin
-- Marketing Segment Groups
-
-## Appointment Book
-
-- Clinical Appointments
-- Class Appointments
-- Time-blocking Appointments
-- Recurring Appointments
-- Book again
-- Waiting lists
-
-## Treatment Pathway
-
-- Conditions vs Contracts
-- Initial Assessment
-- Goals and Plans
-- Progressive Appointment Notes
-- Completion Outcomes
+- [Organisation Structure](./organisation-structure/)
+- [Service Charges](./service-types/)
+- [Client Details](./client-details/)
+- [Appointment Book](./appointment-book/)
+-
+- [Treatment Pathway](./treatment-pathway/)
 
 ## [Online Booking](./online-booking/)
 

@@ -4,12 +4,19 @@ title: Apppointment Book
 
 # Appointment Book
 
-Types of appointments
+- Clinical Appointments
+- Class Appointments
+- Time-blocking Appointments
+- Recurring Appointments
+- Book again
+- Waiting lists
+
+## Types of appointments
 
 - Client Condition
 - Client Contract
 - Classes
-- Time Blocking for business administation
+- Time Blocking for business administration
 
 ## Scheduling
 

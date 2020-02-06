@@ -4,12 +4,15 @@ title: Treatment
 
 # Treatment
 
+- Conditions vs Contracts
+- Initial Assessment
+- Goals and Plans
+- Progressive Appointment Notes
+- Completion Outcomes
 - Condition
 - Patient Goals
 - Appointment Treatment Notes
 - Treatment Outcomes
-
-PSFS - Patient Specific Functional Scale
 
 ## Goals
 

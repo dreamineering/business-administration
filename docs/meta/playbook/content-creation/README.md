@@ -6,6 +6,8 @@ auditIntent:
 
 # Content Creation Guide
 
+Read [the discipline of content strategy](https://alistapart.com/article/thedisciplineofcontentstrategy/) to gain a quick idea of what content strategy is about.
+
 1. [Intent](./intent/)
 2. [Audience](./audience/)
 3. [Structure](./content-structure/)
