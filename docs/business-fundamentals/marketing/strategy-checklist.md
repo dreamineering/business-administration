@@ -10,15 +10,22 @@ auditKairos:
 
 # Marketing Strategy Checklist
 
-1. Identify your Ideal Customer
-2. Messaging
-3. Competitive Advantage
-4. Message Channels
-5. Followup Process
-6. Differentiation
-7. Pricing
-8. Average Revenue per Customer
-9. Promise and Brand
+- Be a Genuine Human
+- Identify your Ideal Customer
+- Messaging
+- Competitive Advantage
+- Message Channels
+- Followup Process
+- Differentiation
+- Pricing
+- Average Revenue per Customer
+- Promise and Brand
+
+## Be a genuine Human
+
+Be the good person that you are, write what you care about and [what you know](https://www.youtube.com/watch?v=zTJyDe7a2bo).
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zTJyDe7a2bo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Identify your Primary Customer
 
