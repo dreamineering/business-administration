@@ -10,7 +10,7 @@ auditKairos:
 
 # Marketing Strategy Checklist
 
-- Be a Genuine Human
+- Be Genuine
 - Identify your Ideal Customer
 - Messaging
 - Competitive Advantage
@@ -21,9 +21,9 @@ auditKairos:
 - Average Revenue per Customer
 - Promise and Brand
 
-## Be a genuine Human
+## Be Genuine
 
-Be the good person that you are, write what you care about and [what you know](https://www.youtube.com/watch?v=zTJyDe7a2bo).
+Don't be afraid to show the genuinely caring and authentic human that you are. Just write about [what you know](https://www.youtube.com/watch?v=zTJyDe7a2bo).
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=zTJyDe7a2bo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
