@@ -11,7 +11,9 @@ title: Workflows
 - Who does what to the data?
 - What can go wrong?
 
-> Watch your thoughts, they become words. Watch your words, they become actions. Watch your actions, they become habits. Watch your habits, they become character. Watch your character, for it becomes your destiny.
+Create [recurring workflows](./staff-management/how-to-create-recurring-workflows/) to take control of what happens when by who. Ask about our library of workflows.
+
+**If you are business advisor** workflows are a great way for you to help ensure that the customers you are advising can practice what you preach.
 
 ## [Organisation Structure](./organisation-structure/)
 
@@ -74,3 +76,5 @@ title: Workflows
 ## [Payment](./payment/)
 
 ## [Accounting](./accounting/)
+
+> Watch your thoughts, they become words. Watch your words, they become actions. Watch your actions, they become habits. Watch your habits, they become character. Watch your character, for it becomes your destiny.

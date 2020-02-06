@@ -6,6 +6,10 @@ title: Sales
 
 Using GPM and Gensolve Operations to create a **data-driven** sales process to track how many are coming in, how good are we at converting.
 
+- [leads](./leads)
+- [onboarding](./onboarding/)
+- [partners](./partners/)
+
 ## Problems
 
 > Everyone in SaaS organisation needs to know how to contribute to the sales funnel

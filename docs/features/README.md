@@ -4,14 +4,25 @@ title: Features
 
 # Features
 
-- **Efficient** save time with navigation shortcuts, treatment shortcodes
-- **Effective** prioritise most valuable actions
-- **Accurate** avoid costly mistakes
-- **Accountability** easily see who has done what
+Gensolve development principles are guided by:
+
+1. **Accurate** avoid costly mistakes
+2. **Efficient** save time with navigation shortcuts, treatment shortcodes
+3. **Effective** prioritise most valuable actions
+4. **Accountability** easily see who has done what
+
+Functionality by category
+
+- [System](./system/)
+- [Workflows](./workflows/)
+- [Integrations](./integrations/)
+- [Navigation](./ui-navigation/)
+- [Latest Features](./latest-features/)
+- [Development Pipeline](./development-pipeline/)
 
 ## What makes Gensolve different?
 
-We've built a lot of stuff and we've been around 20 years!
+We've been helping businesses grow for over 18 years!
 
 - Accounting system included
 - Supports multiple trading vendors, to do the equivalent with Xero as an example requires three separate subscriptions/accounts
@@ -43,7 +54,7 @@ Interfaces to complimentary systems to run operations
 
 Features by main menu navigation
 
-## [New Features](./new-features/)
+## [Latest Features](./latest-features/)
 
 Features that have recently been added.
 

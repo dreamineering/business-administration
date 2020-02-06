@@ -1,5 +1,5 @@
 ---
-title: How to Create a Recurring Event Checklist
+title: How to Create Recurring Workflows
 auditAudience:
 auditIntention:
 auditReadability:
@@ -8,7 +8,7 @@ auditImages:
 auditVideos:
 ---
 
-# How to Create a Recurring Event Checklist
+# How to Create Recurring Workflows
 
 1. Create an Event Template
 2. Enter details of each step that needs to checked-off
@@ -40,7 +40,7 @@ Adding business context makes events easier to find and follow-up on at a later 
 
 1. Select when recurrence frequency
 2. Select recurrence range
-3. Create the recurring events
+3. Create recurring events
 
 ## Example Checklists
 
