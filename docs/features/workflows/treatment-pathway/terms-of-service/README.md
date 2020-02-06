@@ -16,7 +16,7 @@ Rebook current condition, Close and Upsell or Discharge.
 
 ## Financials
 
-Compared to [contracts](../contracts/) there no obligation that the client will complete the full course of treatment
+Compared to [contracts](./contracts/) there no obligation that the client will complete the full course of treatment
 
 ## Scerario
 

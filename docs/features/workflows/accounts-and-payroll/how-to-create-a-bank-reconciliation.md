@@ -4,13 +4,13 @@ title: How to Create a Bank Reconciliation
 
 # How to Create a Bank Reconciliation
 
-|               |                       |
-| ------------- | --------------------- |
-| Frequency     | End of shift OR Daily |
-| col 2 is      | centered              |
-| zebra stripes | are neat              |
+|               |                           |
+| ------------- | ------------------------- |
+| Frequency     | End of shift or **Daily** |
+| col 2 is      | centered                  |
+| zebra stripes | are neat                  |
 
-Important to perform this task Monthly, because your hasn't really made money until it is in your bank account.
+Important to perform this task Monthly, because you have not made money until it is in your bank account.
 
 <video width="560" height="240" controls>
   <source src="http://gensolve-docs.s3-ap-southeast-2.amazonaws.com/GPM/6.5/Videos/Accounting/How%20to%20Create%20a%20Manual%20Bank%20Reconciliation/How_to_Create_a_Manual_Bank_Reconciliation_UK.mp4" type="video/mp4">
