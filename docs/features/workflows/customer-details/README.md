@@ -1,5 +1,5 @@
 ---
-title: Client Details
+title: Customer Details
 auditAudience:
 auditIntention:
 auditReadability:
@@ -8,7 +8,7 @@ auditImages:
 auditVideos:
 ---
 
-# Client Details
+# Customer Details
 
 - Demographics
 - GP and referring specialist
