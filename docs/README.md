@@ -21,4 +21,4 @@ How much are you losing? Our free [performance analysis](https://drive.google.co
 
 Helping others has become more painful than you imagined?
 
-Take the **pain** out of running your business and [take your time back now](./demo/install/)
+Wisdom for the **pain** is overrated! Start **running your business** and [take your time back now](./demo/install/) and save yourself from looking back on what might have been.

@@ -27,6 +27,8 @@ Don't be afraid to show the genuinely caring and authentic human that you are. J
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=zTJyDe7a2bo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+> _"Writing is overlooked as a game-changing skill. If you can practice your writing skills and pay attention to great writers, that will pay off significantly over time. Improving your writing skills is probably one of the best things a business owner can do."_ [Jason Fied](https://drt.fm/jason-fried-2)
+
 ## Identify your Primary Customer
 
 Demographics
@@ -91,7 +93,3 @@ From easist to hardest to get into the practice
 Perception is key
 
 - Automated process to turn problems into success stories
-
-## Further reading
-
-- https://www.lyfemarketing.com/blog/category/healthcare/
