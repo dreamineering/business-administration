@@ -4,11 +4,9 @@ title: How to Create a Bank Reconciliation
 
 # How to Create a Bank Reconciliation
 
-|               |                           |
-| ------------- | ------------------------- |
-| Frequency     | End of shift or **Daily** |
-| col 2 is      | centered                  |
-| zebra stripes | are neat                  |
+::: tip
+Run **monthly** or quarterly at worst
+:::
 
 Important to perform this task Monthly, because you have not made money until it is in your bank account.
 
