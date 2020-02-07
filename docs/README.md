@@ -19,6 +19,4 @@ Are you concerned that you are losing money? Try our free [performance analysis]
 2. understand if you need a better business solution
 3. evaluate your options when adopting a new software solution
 
-## Helping others has become more painful than you imagined?
-
 Wisdom for the **pain** is overrated! Start **running** your business and [claim your time back now](./demo/install/) to save yourself from looking back on what might have been.
