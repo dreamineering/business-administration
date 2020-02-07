@@ -4,11 +4,25 @@ title: Sales
 
 # Sales
 
+Gensolve flies in the face of commmon wisdom, focus one thing do it really well.
+
+Is the products problem or just that the buyers don't have the sophistication to take in the big picture?
+
 Using GPM and Gensolve Operations to create a **data-driven** sales process to track how many are coming in, how good are we at converting.
 
-- [leads](./leads)
-- [onboarding](./onboarding/)
-- [partners](./partners/)
+- [Market](./market/)
+- [Onboarding](./onboarding/)
+- [Partners](./partners/)
+- [Sales Demos](./hands-off-demo/)
+- [Partners](./partners/)
+- [Key Performance Indicators](./kpis/)
+
+## Questions
+
+- What do these guys have that we don't?
+- What do we have that they don't?
+- Who is in the stronger position?
+- What problems do we have in common with our customers?
 
 ## Desired Outcomes
 
