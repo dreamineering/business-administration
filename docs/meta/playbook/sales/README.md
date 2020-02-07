@@ -4,18 +4,25 @@ title: Sales
 
 # Sales
 
-Gensolve flies in the face of commmon wisdom, focus one thing do it really well.
+Gensolve flies in the face of commmon wisdom, focus one thing do that thing really well.
 
-Is the products problem or just that the buyers don't have the sophistication to take in the big picture?
+Is it the products problem or just that the buyers don't have the sophistication to take in the big picture?
 
 Using GPM and Gensolve Operations to create a **data-driven** sales process to track how many are coming in, how good are we at converting.
 
-- [Market](./market/)
-- [Onboarding](./onboarding/)
-- [Partners](./partners/)
-- [Sales Demos](./hands-off-demo/)
-- [Partners](./partners/)
-- [Key Performance Indicators](./kpis/)
+Disruption is about creating a new market where there are no competitors.
+
+- [Business Advisors](./business-advisors.md)
+- [Customer Problems](./customer-problems.md)
+- [Sales Demos](./hands-off-demo.md)
+- [Insiders](./insiders.md)
+- [Market](./market.md)
+- [Onboarding](./onboarding.md)
+- [Partners](./partners.md)
+- [Performance Spreadsheet](./performance-spreadsheet.md)
+- [Pricing](./pricing.md)
+- [Psychology](./psychology.md)
+- [Key Performance Indicators](./kpis.md)
 
 ## Questions
 

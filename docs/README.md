@@ -20,3 +20,9 @@ Are you concerned that you are losing money? Try our free [performance analysis]
 3. evaluate your options when adopting a new software solution
 
 Wisdom for the **pain** is overrated! Start **running** your business and [claim your time back now](./demo/install/) to save yourself from looking back on what might have been.
+
+With Gensolve you get three applications in one
+
+- The main app for running the clinic
+- The accounting system for managing your books
+- The web app for clinicians when treating patients
