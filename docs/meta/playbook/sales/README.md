@@ -10,13 +10,19 @@ Using GPM and Gensolve Operations to create a **data-driven** sales process to t
 - [onboarding](./onboarding/)
 - [partners](./partners/)
 
-## Problems
+## Desired Outcomes
 
-> Everyone in SaaS organisation needs to know how to contribute to the sales funnel
+> Everyone in our organisation knows how to contribute to the sales funnel and how they will be **rewarded** for their efforts
+
+1. Acquire Customers
+2. Retain Customers
+3. Monetize Customers
+
+## Problems
 
 1. **No Lead Funnel**
 2. Undocumented Sales process
-3. Big system that nobody fully understands the benefits of
+3. Gensolve is **BIG** system that nobody fully understands the benefits of
 4. Siloed knowledge (answers in ZenDesk)
 
 The Product team can have a massive impact on Sales by adding features that help to optimise the funnel. Everyone should spend some time onsite using the software to help run a business for a customer. Failing that **we have to eat our dog food** if we wish to build knowledge across the organisation and credibility with our target customers.
@@ -40,99 +46,31 @@ Repeatable growth process
 
 Adoption with high rewards (business benefit) for low effort and talent.
 
+- The tendency to see business as a necessary evil
 - Negate fear of transition
 - Negate talent
 - Limit effort to establish good habits
 
-### Common Problems
+### Market
 
-[Customer Problems](./customer-problems.md) use demo to capture [feedback](../../demo/profiles/feedback-quesitons.md) to help generate a standard list.
+Break the system into four business functional areas. With regards to Quality (Client Treatment) can further breakdown analysis by service [modality](./market/).
 
-![provide-feedback](https://drive.google.com/uc?id=1OmnSOuWu5JwAVaY8u43XF1tW_7ZmXdxS)
+1. Solopreneur
+2. Lone Wolf
+3. All Hats
+4. Mom and Pop
+5. Multisite
+6. Entrepreneur
 
-### Personas
-
-Break the system into four business functional areas. With regards to Quality (Client Treatment) can further breakdown analysis by service [modality](./modalities/).
-
-| Characterics/Questions                          | Han Solo            | All Hats         | Single Site       | Multi Site |
-| ----------------------------------------------- | ------------------- | ---------------- | ----------------- | ---------- |
-| FTEs                                            | 1                   | 2-3              | 4-7               | 8+         |
-| Cost                                            | Free                | 50               | 80                | 100+       |
-| Market Size (PT)                                | Graduates?          | 1000+            | ?                 | ?          |
-| Market Size (Psych)                             | Graduates?          | 1000+            | ?                 | ?          |
-| Market Size (Audiology)                         | Graduates?          | 1000+            | ?                 | ?          |
-| Admin Staff                                     | Unlikely            | Remote reception | Manager/Frontdesk | Team       |
-| Growth Focus                                    | Profit              | Recruitment      | Quality+Profit    | Marketing  |
-| Buy Triggers (Job To Be Done)                   |                     |                  |                   |            |
-| Value Added Service Introductions               | Accountancy         | Remote Manager   | Recruitment       | Coaching   |
-| Who can approve the money?                      | No problem          |                  |                   |            |
-| What are they likely to like?                   | Price               |                  |                   |            |
-| What are they likely to dislike?                | Windows & MS Office |                  |                   |            |
-| What concerns are they likely to have?          |                     |                  |                   |            |
-| What will it take to OK purchase?               |                     |                  |                   |            |
-| Finance: What are they likely to like?          |                     |                  |                   |            |
-| Finance: What are they likely to dislike?       |                     |                  |                   |            |
-| Finance: What concerns?                         |                     |                  |                   |            |
-| Finance: What will it take to OK purchase?      |                     |                  |                   |            |
-| Quality: What are they likely to like?          |                     |                  |                   |            |
-| Quality: What are they likely to dislike?       |                     |                  |                   |            |
-| Quality: What concerns?                         |                     |                  |                   |            |
-| Quality: What will it take to OK purchase?      |                     |                  |                   |            |
-| Productivity: What are they likely to like?     |                     |                  |                   |            |
-| Productivity: What are they likely to dislike?  |                     |                  |                   |            |
-| Productivity: What concerns?                    |                     |                  |                   |            |
-| Productivity: What will it take to OK purchase? |                     |                  |                   |            |
-| Marketing: What are they likely to like?        |                     |                  |                   |            |
-| Marketing: What are they likely to dislike?     |                     |                  |                   |            |
-| Marketing: What concerns?                       |                     |                  |                   |            |
-| Marketing: What will it take to OK purchase?    |                     |                  |                   |            |
-
-#### Han Solo
-
-- Alone and happy for now
-- Toe Dipping to test the market
-- Cash on the side
-
-#### All Hats
-
-Knows they can't "rub forever" but struggling to understand how to become a CEO
-
-#### Single Site
-
-#### Multi Site
-
-#### Entrepreneur
-
-Entrepreneurs could be:
-
-- Management degree graduate
-- In a human service based startup
-- Property investor, wanting stable/higher prices for tenants
-
-| Characterics/Questions                             | Entrepreneur                                        |
-| -------------------------------------------------- | --------------------------------------------------- |
-| FTEs                                               | 1                                                   |
-| Market Size                                        | N/a                                                 |
-| Admin Staff                                        | N/a                                                 |
-| Growth Focus                                       | Repeatable Processes                                |
-| What are they likely to like?                      | [Franchisable](/practice-journey/growth/franchise/) |
-| What are they likely to dislike?                   |                                                     |
-| What concerns are they likely to have?             |                                                     |
-| What will it take for them to complete a purchase? |                                                     |
-| Who can approve the money?                         |                                                     |
-
-## Desired Outcomes
-
-1. Acquire Customers
-2. Retain Customers
-3. Monetize Customers
+[Read more](./market/)
 
 ## How
 
-1. Trogen Horse to close the value loop
-2. Hands Off Product Demo
-3. Onboarding Experience
-4. Target Existing Relationships
+1. [Trogen Horse to close the value loop](./performance-spreadsheet.md)
+2. [Hands Off Product Demo](./hands-off-demo/)
+3. [Onboarding Experience](./onboarding/)
+4. [Target Existing Relationships](./market/)
+5. [Create insiders](./insiders/)
 
 ### Trogen Horse
 
@@ -144,7 +82,38 @@ Use a spreadsheet we can send out and that can be further distributed to grow aw
 
 ![close the value loop](https://drive.google.com/uc?id=1IZsBcqjQ3iLuci3mOM1Afk7GRCl7kKDV)
 
+#### Business Concept
+
+Marketing style copywriting
+
+- Who what why and when
+- Pain trigger to pleasure goals
+- What outcomes to measure success
+- Link to how in GPM
+- Link to how to measure results in GPM
+
+#### Workflow
+
+Factual direct writing
+
+- Who, When and How
+- Preconditions - link to other _how-tos_
+- Other workflows
+- Link to measure results
+- Link back to the business concept(s)
+
+#### Performance
+
+- Who, When and How
+- Preconditions - Link back to _how-to_
+- Link to relates KPIs and GPM reports
+- Link back to the business concept(s)
+
 ### Hands Off Product Demo
+
+> Do you like salespeople coming up to you when you first go into a shop?
+
+Nobody does, we need to enable prospective customers to look around in their own free time.
 
 Enable prospects to start using the application and try various workflows using login roles that are aligned with common business functions.
 
@@ -170,8 +139,9 @@ Prove value
 
 - The accountant will have trust
 - Accountants can give quality product feedback
+- Snoop in on social media content of the evergrowing list of business advisors
 
-[Read more](./onboarding/)
+[Read more](./market/)
 
 ## Psychology
 

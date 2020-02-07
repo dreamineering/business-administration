@@ -8,7 +8,7 @@ Before you pay your expenses, take your profit first. Run your business based on
 
 > Plans are of little importance, but planning is essential - Winston Churchill
 
-The true value of your forecast is not in the numbers but the critical thinking in considering goals, obstacles and tasks that must be navigated to steer results towards expectations. **Don't think of this as static file to be completed and left aside**, instead return frequently to tweak and create different scenarios that fit with your options for growth.
+The true value of your forecast is not in the numbers but the critical thinking in considering goals, obstacles and tasks that must be navigated to steer results towards expectations. Return frequently to tweak and create different scenarios that fit with your options for growth.
 
 As you understand your business better and establish good habits so to will your ability to predict the future profits related to plans for expansion.
 
@@ -16,7 +16,9 @@ As you understand your business better and establish good habits so to will your
 
 ## Approach
 
-1. Replace items in brackets
+Improve your [excel skills](https://edu.gcfglobal.org/en/excel2016/) if needed.
+
+1. Replace items in the {brackets} with people in your organisation
 2. Change Currency as required
 
 If you are looking to employ new staff, use a convention to create a placeholder name such as _Graduate Physio_ until the recruitment hole has been fulfilled.
