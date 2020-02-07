@@ -63,6 +63,6 @@ If you hold down the shift key then click on the GPM application in the bottom t
 | gpm       | [System Admin](../../roles/system-admin/)                | GPM Configration      |
 | cfb       | [Custom Forms Builder](../../roles/tech-support/)        | GPM Configration      |
 
-If you are an owner and operator of your business you will **need to wear many hats**.In your case, these profiles are for _educational purposes_ to help you to **wear the right hat** so you can explore functionality in that context. In your organisation **you have complete control** to [configure roles exactly as you desire](../features/system/security/).
+Practice business administrators generally **need to wear many hats**. Therefore these profiles are for _educational purposes_ to help to explore functionality within the context of the primary focus of each potential role in an organisation. When it comes to running your own organisation **you have complete control** to [configure roles exactly as you desire](../features/system/security/).
 
 ![common-health-practice-roles-and-responsibilities](https://drive.google.com/uc?id=1_85fzFafOpCNIkbkKoCnLqtNYTDWdgY2)
