@@ -9,9 +9,9 @@ title: Demo
 3. Learn navigation essentials
 4. View GPM through different perspectives
 
-Try the web app [AUS](https://augpm.gensolve.com/index.html), [NZL](https://nzgpm.gensolve.com/index.html) [GBR](https://ukgpm.gensolve.com/index.html) if you just want to focus on working with your Clients.
+> Install the full-featured [Desktop Application](./install/) for more business administration.
 
-Install the full-featured [Desktop Application](./install/) for more business administration focused tasks.
+Or use the web app [AUS](https://augpm.gensolve.com/index.html), [NZL](https://nzgpm.gensolve.com/index.html) [GBR](https://ukgpm.gensolve.com/index.html) if you just want to focus on working with your Clients.
 
 ## Sign In
 

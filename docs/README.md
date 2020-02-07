@@ -21,7 +21,7 @@ Are you concerned that you are losing money? Try our free [performance analysis]
 
 Wisdom for the **pain** is overrated! Start **running** your business and [claim your time back now](./demo/install/) to save yourself from looking back on what might have been.
 
-With Gensolve you get three applications in one
+With Gensolve you get three applications for the price of one
 
 - The main app for running the clinic
 - The accounting system for managing your books
