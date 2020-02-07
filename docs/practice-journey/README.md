@@ -4,6 +4,12 @@ title: Practice Journey
 
 # Practice Journey
 
+1. [Initial Assessment](./initial-assessment/)
+2. [Preparation](./preparation/)
+3. [Transition](./transition/)
+4. [Profit Optimisation](./profit-optimisation/)
+5. [Growth](./growth/)
+
 ## [Initial Assessment](./initial-assessment/)
 
 What do you need?
