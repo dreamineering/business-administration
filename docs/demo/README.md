@@ -9,9 +9,9 @@ title: Demo
 3. Learn navigation essentials
 4. View GPM through different perspectives
 
-> Install the full-featured [Desktop Application](./install/) for more business administration.
+> Install the full-featured [Desktop Application](./install/)
 
-Or use the web app [AUS](https://augpm.gensolve.com/index.html), [NZL](https://nzgpm.gensolve.com/index.html) [GBR](https://ukgpm.gensolve.com/index.html) if you just want to focus on working with your Clients.
+Or use the web app [AUS](https://augpm.gensolve.com/index.html), [NZL](https://nzgpm.gensolve.com/index.html) [GBR](https://ukgpm.gensolve.com/index.html) for calendar management and patient treatment notes on any device.
 
 ## Sign In
 

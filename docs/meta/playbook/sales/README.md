@@ -4,9 +4,9 @@ title: Sales
 
 # Sales
 
-Gensolve flies in the face of commmon wisdom, focus one thing do that thing really well.
+Gensolve flies in the face of common wisdom, focus on one thing do one thing well.
 
-Is it the products problem or just that the buyers don't have the sophistication to take in the big picture?
+Is it a product problem? or just that customers don't have the sophistication to take in the big picture?
 
 Using GPM and Gensolve Operations to create a **data-driven** sales process to track how many are coming in, how good are we at converting.
 
@@ -16,19 +16,19 @@ Disruption is about creating a new market where there are no competitors.
 - [Customer Problems](./customer-problems.md)
 - [Sales Demos](./hands-off-demo.md)
 - [Insiders](./insiders.md)
+- [Key Performance Indicators](./kpis.md)
 - [Market](./market.md)
 - [Onboarding](./onboarding.md)
 - [Partners](./partners.md)
 - [Performance Spreadsheet](./performance-spreadsheet.md)
 - [Pricing](./pricing.md)
 - [Psychology](./psychology.md)
-- [Key Performance Indicators](./kpis.md)
+- [Trigger Stories](./trigger-stories.md)
 
 ## Questions
 
-- What do these guys have that we don't?
+- What do [these guys](./business-advisors.md) have that we don't?
 - What do we have that they don't?
-- Who is in the stronger position?
 - What problems do we have in common with our customers?
 
 ## Desired Outcomes
@@ -74,7 +74,7 @@ Adoption with high rewards (business benefit) for low effort and talent.
 
 ### Market
 
-Break the system into four business functional areas. With regards to Quality (Client Treatment) can further breakdown analysis by service [modality](./market/).
+Break the system into four business functional areas. With regards to Quality (Client Treatment) can further breakdown analysis by service [modality](./market.md).
 
 1. Solopreneur
 2. Lone Wolf
@@ -83,15 +83,15 @@ Break the system into four business functional areas. With regards to Quality (C
 5. Multisite
 6. Entrepreneur
 
-[Read more](./market/)
+[Read more](./market.md)
 
 ## How
 
 1. [Trogen Horse to close the value loop](./performance-spreadsheet.md)
-2. [Hands Off Product Demo](./hands-off-demo/)
-3. [Onboarding Experience](./onboarding/)
-4. [Target Existing Relationships](./market/)
-5. [Create insiders](./insiders/)
+2. [Hands Off Product Demo](./hands-off-demo.md)
+3. [Onboarding Experience](./onboarding.md)
+4. [Target Existing Relationships](./market.md)
+5. [Create insiders](./insiders.md)
 
 ### Trogen Horse
 
@@ -138,11 +138,11 @@ Nobody does, we need to enable prospective customers to look around in their own
 
 Enable prospects to start using the application and try various workflows using login roles that are aligned with common business functions.
 
-[Read more](./hands-off-demo/)
+[Read more](./hands-off-demo.md)
 
 ### Onboarding Experience
 
-Scoring [onboarding success](./onboarding/) is critical to creating a Virtuous Circle to get faster payoff on Customer Acquisition Cost by proving the Business Benefits while the customer is open to listening to advice.
+Scoring [onboarding success](./onboarding.md) is critical to creating a Virtuous Circle to get faster payoff on Customer Acquisition Cost by proving the Business Benefits while the customer is open to listening to advice.
 
 A lot of the complexity and effort to configure the system has been absorbed into the Migration Tool.
 
@@ -154,7 +154,7 @@ Prove value
 
 ![forecast-control-loop](https://drive.google.com/uc?id=1-l5lH6YCThCioOAAmuJJQEp15LQPqknz)
 
-[Read more](./onboarding/)
+[Read more](./onboarding.md)
 
 ### Target Existing Relationships
 
@@ -162,7 +162,7 @@ Prove value
 - Accountants can give quality product feedback
 - Snoop in on social media content of the evergrowing list of business advisors
 
-[Read more](./market/)
+[Read more](./market.md)
 
 ## Psychology
 
@@ -199,4 +199,4 @@ Subsidiary Reports
 - Converted Leads
 - Teamwork Index
 
-[Read more](./kpis/)
+[Read more](./kpis.md)

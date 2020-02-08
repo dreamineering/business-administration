@@ -21,8 +21,24 @@ Are you concerned that you are losing money? Try our free [performance analysis]
 
 Wisdom for the **pain** is overrated! Start **running** your business and [claim your time back now](./demo/install/) to save yourself from looking back on what might have been.
 
-With Gensolve you get three applications for the price of one
+<h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">Get three applications for the price of one</h2>
 
 - The main app for running the clinic
 - The accounting system for managing your books
 - The web app for clinicians when treating patients
+
+## Finances
+
+The only system on the market where you can track cashflow through to your balance sheet without leaving the application.
+
+## Quality of Treatment
+
+Notes
+
+## Productivity
+
+Manage your clincians and your administration team.
+
+## Marketing
+
+Create a content calendar, distributing your message and measure the effectiveness of your strategy.
