@@ -1,8 +1,8 @@
 ---
-title: GPM Functionality by Navigation
+title: Practice Manager Application
 ---
 
-# GPM Functionality by Navigation
+# Practice Manager Application
 
 ## Desktop Interface
 

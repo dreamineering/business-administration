@@ -6,56 +6,47 @@ title: Features
 
 Learn more about functionality by application
 
+## Applications
+
 - [Accounting](./accounting/)
-- [Audiology](./audiology/)
 - [Practice Manager](./practice-manager/)
 
-## Functionality by category
+Also have an [Audiology](./audiology/) application.
 
-- [System](./system/)
+## By Category
+
+- [System Security](./system-security/)
 - [Workflows](./workflows/)
 - [Integrations](./integrations/)
 - [Latest Features](./latest-features/)
 - [Development Pipeline](./development-pipeline/)
 
-## What makes Gensolve different?
-
-We've been helping businesses grow for over 18 years!
-
-- Accounting system included
-- Supports multiple trading vendors, to do the equivalent with Xero as an example requires three separate subscriptions/accounts
-- Custom Contracts to support Packaged Care
-- Workflow Templates
-- Debt Recovery Plans
-
-We also have an Audiology product that runs New Zealand's biggest Audiology business and software that runs a successful trailer hire business in Australia.
-
-We've got organisational smarts within business services too.
-
-- Recruitment
-- Billing
-- Accounting
-
-## [System](./system/)
-
-Security, navigation shortcuts
-
-## [Workflows](./workflows/)
+## Workflows
 
 Core workflows of running a practice
 
-## [Integrations](./integrations/)
+[Learn more](./workflows/)
+
+### System Security
+
+Security, navigation shortcuts
+
+[Learn more](./system-security/)
+
+### Integrations
 
 Interfaces to complimentary systems to run operations
 
-## [Navigation](./ui-navigation/)
+[Learn more](./integrations/)
 
-Features by main menu navigation
-
-## [Latest Features](./latest-features/)
+### Latest Features
 
 Features that have recently been added.
 
-## [Development Pipeline](./development-pipeline/)
+[Learn more](./latest-features/)
+
+### Development Pipeline
 
 Appraisal
+
+[Learn more](./development-pipeline/)

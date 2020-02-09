@@ -1,5 +1,5 @@
 ---
-title: Accounting
+title: Accounting Application
 ---
 
-# Accounting
+# Accounting Application

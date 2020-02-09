@@ -1,7 +1,7 @@
 ---
-title: Audiology
+title: Audiology Application
 ---
 
-# Audiology
+# Audiology Application
 
-Differentiating features from Gensolve Practice Manager.
+Shares the Accounting Application.
