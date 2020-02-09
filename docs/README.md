@@ -23,9 +23,10 @@ Wisdom for the **pain** is overrated! Start **running** your business and [claim
 
 <h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">Get three applications for the price of one</h2>
 
-- The main app for running the clinic
-- The accounting system for managing your books
-- The web app for clinicians when treating patients
+1. **Accurate** avoid costly mistakes
+2. **Efficient** save time with navigation shortcuts, treatment shortcodes
+3. **Effective** prioritise most valuable actions
+4. **Accountability** easily see who has done what
 
 ## Finances
 

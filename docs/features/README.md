@@ -4,19 +4,17 @@ title: Features
 
 # Features
 
-Gensolve development principles are guided by:
+Learn more about functionality by application
 
-1. **Accurate** avoid costly mistakes
-2. **Efficient** save time with navigation shortcuts, treatment shortcodes
-3. **Effective** prioritise most valuable actions
-4. **Accountability** easily see who has done what
+- [Accounting](./accounting/)
+- [Audiology](./audiology/)
+- [Practice Manager](./practice-manager/)
 
-Functionality by category
+## Functionality by category
 
 - [System](./system/)
 - [Workflows](./workflows/)
 - [Integrations](./integrations/)
-- [Navigation](./ui-navigation/)
 - [Latest Features](./latest-features/)
 - [Development Pipeline](./development-pipeline/)
 
