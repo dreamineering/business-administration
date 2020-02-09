@@ -1,5 +1,5 @@
 ---
-title: Administration Menu
+title: Banking and Daily Takings
 ---
 
-# Administration Menu
+# Banking and Daily Takings
