@@ -1,8 +1,8 @@
 ---
-title: Accounting Reports
+title: Accounting > Reports
 ---
 
-# Accounting Reports
+# Accounting > Reports
 
 ## Balance Sheet
 
