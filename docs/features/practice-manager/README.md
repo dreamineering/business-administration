@@ -13,14 +13,12 @@ title: Practice Manager Application
 - [Banking and Daily Takings](./banking-daily-takings/)
 - [Front Office](./front-office/)
 - [Products](./products/)
+- [Administration](./administration/)
 
 ### Reporting
 
 - [Reports](./reports/)
-
-### Admin
-
-- [Administration](./administration/)
+- [Data Export](./data-export/)
 
 ## Web Interface
 
