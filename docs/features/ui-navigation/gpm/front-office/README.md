@@ -4,6 +4,19 @@ title: Front Office
 
 # Front Office
 
-## [Events](./events/)
+## Todo
 
-## [Reassign Events](./reassign-events/)
+- [Events](./events.md)
+- [Reassign Events](./reassign-events.md)
+- [Recurring Events](./recurring-events.md)
+- [Claim Reviews](./claim-reviews.md)
+
+## Cash Sales
+
+- [Cash Sales](./cash-sales.md)
+
+## Companies
+
+## Custom Forms
+
+## Other

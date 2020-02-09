@@ -1,8 +1,8 @@
 ---
-title: reassign events
+title: Front Office > Reassign Events
 ---
 
-# Reassign Events
+# Front Office > Reassign Events
 
 ## Overview
 

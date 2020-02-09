@@ -10,8 +10,6 @@ title: Market
 - In a human service based startup
 - Property investor, wanting stable/higher prices for tenants
 
-                     |                                                     |
-
 ## Channels
 
 | Modality | Persona | Channel                                                                                                        |
