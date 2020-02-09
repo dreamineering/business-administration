@@ -11,6 +11,14 @@ title: Appointments
 - [Class Appointments](./class-appointments.md)
 - [Business Appointments](./business-appointments.md)
 
+## Waiting List Appointments
+
 ## Quick Appointments
 
 ## Condition Appointments
+
+## Contract Appointments
+
+## Class Appointments
+
+## Business Appointments

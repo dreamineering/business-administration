@@ -1,8 +1,8 @@
 ---
-title: Client Appointments without Service Charges
+title: Reports > Client Appointments without Service Charges
 ---
 
-# Client Appointments without Service Charges
+# Reports > Client Appointments without Service Charges
 
 This is a RED FLAG report.
 

@@ -13,7 +13,6 @@ Run these daily to complete jobs that have been left unfinished.
 - [Client Appointments with Service Charges](./client-appointments-without-service-charges.md)
 - [Appointments Not Completed](./appointments-not-completed.md)
 - [Appointments Without Conditions](./appointments-without-conditions.md)
-- [Missing Treatment Notes]-
 
 ## Business
 
@@ -38,7 +37,6 @@ Run these daily to complete jobs that have been left unfinished.
 - [Client Appointment Treatments](./client-appointment-treatments.md)
 - [Client Condition Goals](./client-condition-goals.md)
 - [Clinician Appointment Schedule](./clinician-appointment-schedule.md)
-- [Clinician Appointment Schedule - Detailed
 - [Clinician Appointment Treatments](./clinician-appointment-treatments.md)
 - [Clinician Summary Report](./clinician-summary-report.md)
 - [Condition Appointment Allowed Status](./condition-appointment-allowed-status.md)
@@ -87,6 +85,5 @@ Run these daily to complete jobs that have been left unfinished.
 - [GP Client Referral Source](./gp-client-referral-source.md)
 - [New Clients](./new-clients.md)
 - [Online Booking](./online-booking.md)
-- [Referral Source - Clients](./referral-source.md)
-- [Referral Source - Conditions](./Referral Source - Conditions.md)
+- [Referral Source](./referral-source.md)
 - [Why Choose Us](./why-choose-us.md)
