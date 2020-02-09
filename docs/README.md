@@ -37,7 +37,7 @@ Notes
 
 ## Productivity
 
-Manage your clincians and your administration team.
+Manage your clincians and your administration team. Schedule recurring activities to save effort
 
 ## Marketing
 
