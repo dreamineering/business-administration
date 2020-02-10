@@ -1,5 +1,5 @@
 ---
-title: Reports > Rename
+title: Reports > Condition Discharge Export
 ---
 
-# Reports > Rename
+# Reports > Condition Discharge Export

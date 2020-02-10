@@ -23,4 +23,3 @@ title: Practice Manager Application
 ## Web Interface
 
 - [Client Details](./web-client-details/)
-- [Appointments]()
