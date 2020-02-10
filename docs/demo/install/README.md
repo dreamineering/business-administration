@@ -10,7 +10,11 @@ Practice Managers or those with business administrative responsibilities will ne
 
 If you are interested in our Audiology product please _email sales@gensolve.com_
 
-See [Install Steps](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/Installation___Troubleshooting/Installation.htm?rhtocid=7.1#) for more details.
+::: warning
+If you have antivirus software you will need to configure approval. [Learn more...](../support/antivirus/)
+:::
+
+See [Install Steps](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/Installation___Troubleshooting/Installation.htm) for more details.
 
 ::: tip
 Right-click on the GPM icon in the bottom taskbar and select **Pin to taskbar**. This will enable you to quickly start GPM when starting your machine.
@@ -39,4 +43,4 @@ If you get a timeout warning when logging into GPM please refer to Microsoft's [
 
 ### Antivirus
 
-If you are using Antivirus software you can try our [troubleshooting guidance](./antivirus/)
+If you are using Antivirus software you can try our [troubleshooting guidance](../support/antivirus/)

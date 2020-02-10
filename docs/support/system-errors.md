@@ -1,10 +1,10 @@
 ---
-title: System Error - Cannot save form updates
-prev: ./
-next: false
+title: System Errors
 ---
 
-# System Error - Cannot save form updates
+# System Errors
+
+## System Error > Cannot save form updates
 
 Occasionally data can become locked if two users access it at the same time
 

@@ -17,6 +17,7 @@ Evolve your [recurring workflows](./staff-management/how-to-create-recurring-wor
 - [Accounts and Payroll](./accounts-and-payroll/)
 - [Appointment Book](./appointment-book/)
 - [Connnections](./connections/)
+- [Custom Forms](./custom-forms/)
 - [Customer Sales](./customer-sales/)
 - [Customer Details](./customer-details/)
 - [External Communications](./external-communications/)
