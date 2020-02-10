@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Debtor Revenue Summary
+title: Accounting > Debtor Revenue Summary
 ---
 
-# Accounting Reports > Debtor Revenue Summary
+# Accounting > Debtor Revenue Summary

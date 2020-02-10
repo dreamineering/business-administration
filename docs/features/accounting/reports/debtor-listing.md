@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Debtor Listing
+title: Accounting > Debtor Listing
 ---
 
-# Accounting Reports > Debtor Listing
+# Accounting > Debtor Listing

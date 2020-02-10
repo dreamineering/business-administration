@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Clinician Appointment Revenue
+title: Accounting > Clinician Appointment Revenue
 ---
 
-# Accounting Reports > Clinician Appointment Revenue
+# Accounting > Clinician Appointment Revenue

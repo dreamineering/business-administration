@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Ledger Posting Monthly Summary
+title: Accounting > Ledger Posting Monthly Summary
 ---
 
-# Accounting Reports > Ledger Posting Monthly Summary
+# Accounting > Ledger Posting Monthly Summary

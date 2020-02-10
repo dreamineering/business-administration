@@ -10,6 +10,16 @@ auditKairos:
 
 # Success Stories
 
+## Gensolve and the Surface Pro, the perfect combination for taking Patient Notes
+
+_Customers say iPad when the are thinking tablet. Which customer is our most would be our greatest advocate for this combination?_
+
+_Which is using web app the most?_
+
+- [Website]() [LinkedIn]() [Facebook]()  [LinkedIn]()
+
+[Read their story](./habit-group/)
+
 ## [Habit Group](./habit-group/)
 
 - API for KPIs

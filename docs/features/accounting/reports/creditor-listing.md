@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Creditor Listing
+title: Accounting > Creditor Listing
 ---
 
-# Accounting Reports > Creditor Listing
+# Accounting > Creditor Listing

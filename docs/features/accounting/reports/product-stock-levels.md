@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Product Stock Levels
+title: Accounting > Product Stock Levels
 ---
 
-# Accounting Reports > Product Stock Levels
+# Accounting > Product Stock Levels

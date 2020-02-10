@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Aged Creditors
+title: Accounting > Aged Creditors
 ---
 
-# Accounting Reports > Aged Creditors
+# Accounting > Aged Creditors

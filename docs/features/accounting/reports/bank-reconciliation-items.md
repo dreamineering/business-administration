@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Bank Reconciliation Items
+title: Accounting > Bank Reconciliation Items
 ---
 
-# Accounting Reports > Bank Reconciliation Items
+# Accounting > Bank Reconciliation Items

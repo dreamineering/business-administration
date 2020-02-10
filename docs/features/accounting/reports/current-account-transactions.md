@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Current Account Transactions
+title: Accounting > Current Account Transactions
 ---
 
-# Accounting Reports > Current Account Transactions
+# Accounting > Current Account Transactions

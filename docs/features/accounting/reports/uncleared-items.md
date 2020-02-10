@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Uncleared Items
+title: Accounting > Uncleared Items
 ---
 
-# Accounting Reports > Uncleared Items
+# Accounting > Uncleared Items

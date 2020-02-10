@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Client Grouping Revenue
+title: Accounting > Client Grouping Revenue
 ---
 
-# Accounting Reports > Client Grouping Revenue
+# Accounting > Client Grouping Revenue

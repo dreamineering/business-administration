@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Balance Sheet
+title: Accounting > Balance Sheet
 ---
 
-# Accounting Reports > Balance Sheet
+# Accounting > Balance Sheet

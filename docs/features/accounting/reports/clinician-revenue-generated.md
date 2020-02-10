@@ -1,8 +1,8 @@
 ---
-title: Accounting Reports > Clinician Revenue Generated
+title: Accounting > Clinician Revenue Generated
 ---
 
-# Accounting Reports > Clinician Revenue Generated
+# Accounting > Clinician Revenue Generated
 
 - Summary
 - Detailed

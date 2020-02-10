@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Revenue Details Report
+title: Accounting > Revenue Details Report
 ---
 
-# Accounting Reports > Revenue Details Report
+# Accounting > Revenue Details Report

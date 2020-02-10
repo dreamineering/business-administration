@@ -1,8 +1,8 @@
 ---
-title: Accounting Reports > Revenue Item Details
+title: Accounting > Revenue Item Details
 ---
 
-# Accounting Reports > Revenue Item Details
+# Accounting > Revenue Item Details
 
 - Details
 - Cash

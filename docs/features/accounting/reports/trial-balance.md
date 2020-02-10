@@ -1,8 +1,8 @@
 ---
-title: Accounting Reports > Trial Balance
+title: Accounting > Trial Balance
 ---
 
-# Accounting Reports > Trial Balance
+# Accounting > Trial Balance
 
 - as at a date
 - date range

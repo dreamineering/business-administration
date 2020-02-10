@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Aged Debtors
+title: Accounting > Aged Debtors
 ---
 
-# Accounting Reports > Aged Debtors
+# Accounting > Aged Debtors

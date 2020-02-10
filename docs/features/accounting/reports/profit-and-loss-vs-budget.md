@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Profit and Loss vs Budget
+title: Accounting > Profit and Loss vs Budget
 ---
 
-# Accounting Reports > Profit and Loss vs Budget
+# Accounting > Profit and Loss vs Budget

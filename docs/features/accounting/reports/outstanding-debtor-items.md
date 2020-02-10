@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Outstanding Debtor Items
+title: Accounting > Outstanding Debtor Items
 ---
 
-# Accounting Reports > Outstanding Debtor Items
+# Accounting > Outstanding Debtor Items

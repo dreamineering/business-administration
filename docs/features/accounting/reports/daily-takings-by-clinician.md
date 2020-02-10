@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Daily Takings by Clinician
+title: Accounting > Daily Takings by Clinician
 ---
 
-# Accounting Reports > Daily Takings by Clinician
+# Accounting > Daily Takings by Clinician

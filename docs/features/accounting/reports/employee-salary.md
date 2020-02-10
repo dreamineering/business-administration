@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Employee Salary
+title: Accounting > Employee Salary
 ---
 
-# Accounting Reports > Employee Salary
+# Accounting > Employee Salary

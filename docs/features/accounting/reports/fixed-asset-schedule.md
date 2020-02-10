@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Fixed Asset Schedule
+title: Accounting > Fixed Asset Schedule
 ---
 
-# Accounting Reports > Fixed Asset Schedule
+# Accounting > Fixed Asset Schedule

@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Insurer Revenue
+title: Accounting > Insurer Revenue
 ---
 
-# Accounting Reports > Insurer Revenue
+# Accounting > Insurer Revenue

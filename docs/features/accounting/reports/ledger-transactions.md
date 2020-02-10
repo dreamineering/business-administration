@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Ledger Transactions
+title: Accounting > Ledger Transactions
 ---
 
-# Accounting Reports > Ledger Transactions
+# Accounting > Ledger Transactions

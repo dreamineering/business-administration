@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Expenses
+title: Accounting > Expenses
 ---
 
-# Accounting Reports > Expenses
+# Accounting > Expenses

@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Write Off Item Details
+title: Accounting > Write Off Item Details
 ---
 
-# Accounting Reports > Write Off Item Details
+# Accounting > Write Off Item Details

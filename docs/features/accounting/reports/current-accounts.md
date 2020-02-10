@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Current Accounts
+title: Accounting > Current Accounts
 ---
 
-# Accounting Reports > Current Accounts
+# Accounting > Current Accounts

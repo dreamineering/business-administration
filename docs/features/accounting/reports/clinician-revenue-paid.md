@@ -1,8 +1,8 @@
 ---
-title: Accounting Reports > Clinician Revenue Paid
+title: Accounting > Clinician Revenue Paid
 ---
 
-# Accounting Reports > Clinician Revenue Paid
+# Accounting > Clinician Revenue Paid
 
 - Summary
 - Details

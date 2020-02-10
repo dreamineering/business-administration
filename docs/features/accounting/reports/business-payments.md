@@ -1,5 +1,5 @@
 ---
-title: Accounting Reports > Business Payments
+title: Accounting > Business Payments
 ---
 
-# Accounting Reports > Business Payments
+# Accounting > Business Payments
