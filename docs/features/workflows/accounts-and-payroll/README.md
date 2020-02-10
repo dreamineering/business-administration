@@ -11,7 +11,7 @@ How to:
 - [integrate with a payroll solution](./how-to-integrate-with-your-payroll-solution.md)
 - [pay your staff commission](./how-to-pay-staff-commission.md)
 
-Note: _Gensolve **does not offer** a full payroll system_.
+Note: _Gensolve **does not offer** a full payroll system_
 
 ## Operations Overview
 
@@ -32,3 +32,7 @@ cond(no)->sub1(left)->op1
 c2(yes)->io->e
 c2(no)->op2->e
 @flowend
+
+## Related
+
+- [Receiving Payment](../receiving-payment/)

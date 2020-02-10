@@ -16,43 +16,35 @@ _Customers say iPad when the are thinking tablet. Which customer is our most wou
 
 _Which is using web app the most?_
 
-- [Website]() [LinkedIn]() [Facebook]()  [LinkedIn]()
+[Read their story](./surface-pro-treatment-notes.md)
 
-[Read their story](./habit-group/)
+- [Website]() [LinkedIn]() [Facebook]() [Instagram]()
 
-## [Habit Group](./habit-group/)
+## Habit Group
 
 - API for KPIs
 - G2G Merger
 
-[LinkedIn](https://www.linkedin.com/company/habit-group/)
+[Read their story](./habit-group.md)
 
-[read their story](./habit-group/)
+- [Website]() [LinkedIn](https://www.linkedin.com/company/habit-group/) [Facebook]() [Instagram]()
 
-## [Kesson Physio](./kesson-physio/)
+## Triton Audiology
 
-[Kesson Physio](https://www.linkedin.com/company/habit-group/)
-
-Single Site start, ambitions to grow away from NHS dependency.
-
-Data came from a previously unknown system.
-
-[read their story](./habit-group/)
-
-## [Triton Audiology](./triton-audiology/)
-
-[Kesson Physio](https://www.linkedin.com/company/habit-group/)
+- [LinkedIn](https://www.linkedin.com/company/habit-group/)
 
 Growing national business by streamlining communication processes.
 
-[read their story](./triton-audiology/)
+[Read their story](./triton-audiology.md)
 
-## [Cliniko Migration](./cliniko-migration/)
+- [Website]() [LinkedIn](https://www.linkedin.com/company/habit-group/) [Facebook]() [Instagram]()
 
-## [Houston Migration](./houston-migration/)
+## Cliniko Migration
 
-## [Nookal Migration](./nookal-migration/)
+## Houston Migration
 
-## [PPMP Migration](./ppmp-migration/)
+## Nookal Migration
 
-## [TM2 Migration](./tm2-migration/)
+## PPMP Migration
+
+## TM2 Migration

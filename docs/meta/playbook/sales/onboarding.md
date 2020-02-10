@@ -20,3 +20,7 @@ We have a complex product, the onboarding and migration tool can work together t
 During the process extract their [trigger story](./trigger-story.md)
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=blTNLVuRU6k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Testing
+
+Create a custom for to test new users, see if they have done reviewed training materials
