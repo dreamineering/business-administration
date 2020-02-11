@@ -21,7 +21,7 @@ Are you concerned that you are losing money? Try our free [performance analysis]
 
 Wisdom for the **pain** is overrated! Start **running** your business and [claim your time back now](./demo/install/) to save yourself from looking back on what might have been.
 
-<h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">Get three applications for the price of one to improve:</h2>
+<h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">Three applications for the price of one to improve:</h2>
 
 1. **Accuracy** avoid costly mistakes
 2. **Efficiency** save time with automation and shortcuts
