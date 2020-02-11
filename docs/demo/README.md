@@ -9,7 +9,7 @@ title: Demo
 3. Learn navigation essentials
 4. View GPM through different perspectives
 
-> Install the full-featured [Desktop Application](./install/)
+> Install the full-featured [Desktop Application](../support/installation-guide.md)
 
 Or use the web app [AUS](https://augpm.gensolve.com/index.html), [NZL](https://nzgpm.gensolve.com/index.html) [GBR](https://ukgpm.gensolve.com/index.html) for calendar management and patient treatment notes on any device.
 
@@ -24,7 +24,7 @@ To learn the navigation essentials you can sign-in with the following credential
 | Password     | Dem0User      |
 
 ::: tip
-See the [troubleshooting guide](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/Installation___Troubleshooting/Logging_In.htm?rhtocid=7.1.0_2#) if you have problems
+See the [troubleshooting guide](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/Installation___Troubleshooting/Logging_In.htm?rhtocid=7.1.0_2#) if you have problems logging in
 :::
 
 1. [Tour the Workspace](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/The_Workspace/Touring_the_Workspace.htm)
@@ -63,6 +63,6 @@ If you hold down the shift key then click on the GPM application in the bottom t
 | gpm       | [System Admin](../../roles/system-admin/)                | GPM Configration      |
 | cfb       | [Custom Forms Builder](../../roles/tech-support/)        | GPM Configration      |
 
-Practice business administrators generally **need to wear many hats**. Therefore these profiles are for _educational purposes_ to help to explore functionality within the context of the primary focus of each potential role in an organisation. When it comes to running your own organisation **you have complete control** to [configure roles exactly as you desire](../features/system/security/).
+Practice business administrators generally **need to wear many hats**. Therefore these profiles are for _educational purposes_ to help to explore functionality within the context of the primary focus of each potential role in an organisation. When it comes to running your organisation **you have complete control** to [configure roles exactly as you desire](../features/system/security/).
 
 ![common-health-practice-roles-and-responsibilities](https://drive.google.com/uc?id=1_85fzFafOpCNIkbkKoCnLqtNYTDWdgY2)

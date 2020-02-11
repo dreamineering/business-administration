@@ -34,7 +34,20 @@ The only system on the market where you can track cashflow through to your balan
 
 ## Quality of Treatment
 
-Notes
+Our Patient Records allow you to **deliver and measure the effectiveness of your plan of care** with all a patient information efficiently recorded and stored in one place.
+
+GPM has extensive clinical notes out of the box, where **each clinician** can completely customise their optimum treatment pathway.
+
+- Treatment and Analysis plans
+- Customisable Text Shortcuts
+- General Health and Patient History
+- Goal and Full Medical History Reports
+- Document and Video uploads
+- Referrals, Investigations and Discharges
+
+Subjective charts are used to display standard body diagrams (or other images depending on specialty) and can easily be drawn on by the practitioner. Notes can be edited or extended on the day. With state-of-the-art audit trails and security features, GPM ensures that once recorded, patient notes cannot be tampered with.
+
+> _As a Tertiary Educational Provider we feel it is important to train students with real-world products that they will be expected to use upon graduation. Gensolve is one such product._ Auckland University of Technology
 
 ## Productivity
 
