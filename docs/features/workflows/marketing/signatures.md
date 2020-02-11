@@ -1,14 +1,14 @@
 ---
-title: How to standardise correspondence signatures
+title: How to set correspondence signatures
 ---
 
-# How to standardise correspondence signatures
+# How to set correspondence signatures
 
 ::: warning
 You will only see Vendors, Sites or System Users on the Administration menu if your role permissions allow this
 :::
 
-## Add Email Signature for each Site
+## Add Site Email Signature
 
 Go to Administration > Sites
 
@@ -21,7 +21,7 @@ Go to Administration > Sites
 It is easier to edit in MS Word then copy and paste your required text and formatting
 :::
 
-## Add Email Signature for each System User
+## Add User Email Signature
 
 Go to Administration > System Users
 
@@ -35,7 +35,7 @@ Go to Administration > System Users
 To add a hyperlink select the text for example gensolve.co.uk then type _ctrl-k_
 :::
 
-## Add Footer Text to an Invoice
+## Add Invoice Footer text
 
 Go to Administration > Vendors
 
