@@ -47,3 +47,20 @@ Custom text to be shown at the bottom (footer) of an invoice is configured in th
 4. Click Save.
 
 ![Vendor Invoice Text](https://drive.google.com/uc?id=1m1zrOcC7IbE9XrLQOm_tNUJ75fdfmKwT)
+
+## Add Custom Graphics to your Headers and Footers
+
+Your company logo can be uploaded to GPM and displayed on the splash screen (when GPM is opened) and on the invoice header (used on printed invoices).
+
+The graphics should be in the ".png" format with dimensions 344 by 88 pixels for the splash screen and 700 by 124 pixels for the invoice header.
+
+However, there is also an Auto Resize feature that attempts to format the image to the correct dimensions.
+
+At a Vendor (Global) or Site level you can customise the graphics for:
+
+- Invoice/Reciept Header
+- Receipt Footer
+- Invoice Footer
+- Discharge Report Header
+
+![Admin Custom Graphics](https://drive.google.com/uc?id=1m7ofP6jaFnvPmPKL1Pwu7LzRT7gZdCVk)
