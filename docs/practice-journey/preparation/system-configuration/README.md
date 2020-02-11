@@ -8,97 +8,36 @@ Depending on the size and services your practice offers we have some spreadsheet
 
 ## New Organisation
 
-| Setting            | Guidance |
-| ------------------ | -------- |
-| Organisation       |          |
-| Sites              |          |
-| Staff              |          |
-| Payroll            |          |
-| Services           |          |
-| Services Whitelist |          |
-| Marketing Groups   |          |
-| GPM Installations  |          |
-
-### Organisation Settings
-
-| Setting                                | Guidance |
-| -------------------------------------- | -------- |
-| Vendor                                 |          |
-| Default Site                           |          |
-| Contact Email                          |          |
-| Accounting Method                      |          |
-| Vendor Street                          |          |
-| Vendor Suburb                          |          |
-| Vendor City                            |          |
-| Vendor State                           |          |
-| Vendor Postcode                        |          |
-| Vendor Phone                           |          |
-| Vendor Mobile                          |          |
-| Vendor Fax                             |          |
-| Vendor Email                           |          |
-| Homepage                               |          |
-| Portal URL                             |          |
-| Portal Contact Name                    |          |
-| Portal Google Analytics Code           |          |
-| Portal Google Tag Manager              |          |
-| SMS Reply Name                         |          |
-| SMS Reply Email                        |          |
-| Bank Name                              |          |
-| Bank Branch                            |          |
-| Bank Account Name                      |          |
-| Bank Number                            |          |
-| Bank BSB No                            |          |
-| Bank Account Number                    |          |
-| Bank Account Format                    |          |
-| Vendor - ABN No                        |          |
-| Vendor - GST No                        |          |
-| Vendor - Set Default Site for Payments |          |
-| Prov Appt - Nearest mins               |          |
-| SOD - No Show Fee                      |          |
-| SOD - Cancellation Fee                 |          |
+- [Organisation](./config-organisation.md)
+- [Sites](./config-sites.md)
+- [Staff](./config-staff.md)
+- [Payroll](./config-payroll.md)
+- [Services](./config-service-charges.md)
+- [Services Whitelist](./config-services-whitelist.md)
+- [Marketing Groups](./config-marketing-groups.md)
+- [GPM Installations](./config-product-installations.md)
 
 ### Optional
 
 You can set this up in the system but it is faster to initially load some settings compared to entering each record in the user interface
 
-| Data                    | Guidance |
-| ----------------------- | -------- |
-| Timeblocking Appt Types |          |
-| Contract Types          |          |
-| Custom Forms            |          |
-| Debt Recovery Actions   |          |
-| Debtors                 |          |
-| Event Templates         |          |
-| Events                  |          |
-| Expenses                |          |
-| Investigation Types     |          |
-| Letter Templates        |          |
-| Medication Types        |          |
-| Text Shortcuts          |          |
+[Common Meta Data](./config-common-meta-data.md)
 
-### Reference Settings
-
-| Data                     | Guidance |
-| ------------------------ | -------- |
-| Why did you choose us    |          |
-| How did you hear of us   |          |
-| Company Contact Position |          |
-| Company Type             |          |
-| Contact Address Type     |          |
-| Contact Email Type       |          |
-| Contact Phone Type       |          |
-| Discharge Outcome        |          |
-| Document Action          |          |
-| Main Provider Reason     |          |
-| Other Provider Type      |          |
-| Product Group            |          |
-| Upload File Type         |          |
-| Activity                 |          |
-| Patient Goal             |          |
-| Cancellation Reason      |          |
+| Data                                                                         | Guidance           |
+| ---------------------------------------------------------------------------- | ------------------ |
+| [Business Appt Types](./config-business-appt-types.md)                       | Operations Manager |
+| [Events & Workflows](/config-events-and-workflows.md)                        | Operations Manager |
+| [Debt Recovery Actions](/config-debt-recovery-actions.md)                    | Accounts & Payroll |
+| [Debtors, Creditors and Expenses](/config-debtors-creditors-and-expenses.md) | Accounts & Payroll |
+| [Letter Templates](/config-letter-templates.md)                              | Clinical Director  |
+| [Medication Types](/config-medication-types.md)                              | Clinical Director  |
+| [Investigation Types](/config-investigation-types.md)                        | Clinical Director  |
+| [Text Shortcuts](/config-text-shortcuts.md)                                  | Clinical Director  |
+| [Custom Forms](/config-custom-forms.md)                                      | Clinical Director  |
+| [Custom Contracts](/config-custom-contracts.md)                              | Clinical Director  |
 
 ## System Administrator Checklist
 
-Your system will come loaded with an onboarding checklist of options you can set to fully customise GPM to your needs.
+Your system will be loaded with a checklist of admin settings you need to confirm as OK for your operations before take off.
 
 Some of these tasks are vital to be ready to fully operations on **Go Live** day, others are simply so your practice manager has a basic knowledge of what is possible and know where to look for help when the time is right to make further customisations. This list will be reviewed with a Gensolve onboarding expert, before and after completion to clear up any questions.
