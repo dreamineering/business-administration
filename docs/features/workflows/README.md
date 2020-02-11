@@ -19,6 +19,7 @@ Evolve your [recurring workflows](./staff-management/how-to-create-recurring-wor
 - [Connnections](./connections/)
 - [Custom Forms](./custom-forms/)
 - [Customer Sales](./customer-sales/)
+- [Custom Data Capture](./custom-forms/)
 - [Customer Details](./customer-details/)
 - [External Communications](./external-communications/)
 - [File Management](./file-management/)

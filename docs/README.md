@@ -11,7 +11,7 @@ auditLogos:
 auditKairos:
 ---
 
-<h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you <span style="color:#D70014;font-weight:bold">love</span> helping others strive for their dreams. We <span style="color:#D70014;font-weight:bold">love</span> helping people like you</h2>
+<h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you <span style="color:#D70014;font-weight:bold">love</span> helping others strive for their dreams<br>We <span style="color:#D70014;font-weight:bold">love</span> helping people like you</h2>
 
 Are you concerned that you are losing money? Try our free [performance analysis](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) tool to help you:
 
