@@ -6,18 +6,20 @@ title: System Configuration
 
 Depending on the size and services your practice offers we have some spreadsheets we can review together that will significantly speed up and improve tailoring the system to your specific needs when your practice begins using Gensolve to run operations.
 
-### Core
+## New Organisation
 
-- Organisation
-- Sites
-- Staff
-- Payroll
-- Services
-- Services Whitelist
-- Marketing Groups
-- GPM Installations
+| Setting            | Guidance |
+| ------------------ | -------- |
+| Organisation       |          |
+| Sites              |          |
+| Staff              |          |
+| Payroll            |          |
+| Services           |          |
+| Services Whitelist |          |
+| Marketing Groups   |          |
+| GPM Installations  |          |
 
-#### Organisation Settings
+### Organisation Settings
 
 | Setting                                | Guidance |
 | -------------------------------------- | -------- |
@@ -55,7 +57,7 @@ Depending on the size and services your practice offers we have some spreadsheet
 | SOD - No Show Fee                      |          |
 | SOD - Cancellation Fee                 |          |
 
-## Optional
+### Optional
 
 You can set this up in the system but it is faster to initially load some settings compared to entering each record in the user interface
 
@@ -95,7 +97,7 @@ You can set this up in the system but it is faster to initially load some settin
 | Patient Goal             |          |
 | Cancellation Reason      |          |
 
-### System Administrator Checklist
+## System Administrator Checklist
 
 Your system will come loaded with an onboarding checklist of options you can set to fully customise GPM to your needs.
 
