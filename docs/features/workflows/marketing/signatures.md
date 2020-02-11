@@ -14,11 +14,26 @@ Go to Administration > Sites
 
 ![Default Site Email Signature](https://drive.google.com/uc?id=1m4Zzp1m87UPmQrO2lVYgXnxHgRfWY3bV)
 
+1. Click on the **Email Settings** tab
+2. Enter the signature as required
+
+::: tip
+It is easier to edit in MS Word then copy and paste your required text and formatting
+:::
+
 ## Add Email Signature for each System User
 
 Go to Administration > System Users
 
 ![System User Email Signature Override](https://drive.google.com/uc?id=1m7_NToIPcbVA9ZFY5Ela8-Z8YyvMAf91)
+
+1. Click on the **Email Settings** tab
+2. Enter the signature as required
+3. If you want to override the site default check **Use my own signature**
+
+::: tip
+To add a hyperlink select the text for example gensolve.co.uk then type _ctrl-k_
+:::
 
 ## Add Footer Text to an Invoice
 
