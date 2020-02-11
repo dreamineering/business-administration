@@ -21,18 +21,16 @@ Are you concerned that you are losing money? Try our free [performance analysis]
 
 Wisdom for the **pain** is overrated! Start **running** your business and [claim your time back now](./demo/install/) to save yourself from looking back on what might have been.
 
-<h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">Get three applications for the price of one</h2>
+<h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">Get three applications for the price of one to improve:</h2>
 
-1. **Accurate** avoid costly mistakes
-2. **Efficient** save time with navigation shortcuts, treatment shortcodes
-3. **Effective** prioritise most valuable actions
+1. **Accuracy** avoid costly mistakes
+2. **Efficiency** save time with automation and shortcuts
+3. **Effectiveness** prioritise the most valuable actions
 4. **Accountability** easily see who has done what
 
-## Finances
-
-The only system on the market where you can track cashflow through to your balance sheet without leaving the application.
-
 ## Quality of Treatment
+
+> [Be so good they can't ignore you](https://www.youtube.com/watch?v=DFjTD8v7xuw)
 
 Our Patient Records allow you to **deliver and measure the effectiveness of your plan of care** with all a patient information efficiently recorded and stored in one place.
 
@@ -48,6 +46,10 @@ GPM has extensive clinical notes out of the box, where **each clinician** can co
 Subjective charts are used to display standard body diagrams (or other images depending on specialty) and can easily be drawn on by the practitioner. Notes can be edited or extended on the day. With state-of-the-art audit trails and security features, GPM ensures that once recorded, patient notes cannot be tampered with.
 
 > _As a Tertiary Educational Provider we feel it is important to train students with real-world products that they will be expected to use upon graduation. Gensolve is one such product._ Auckland University of Technology
+
+## Finances
+
+The only system on the market where you can track cashflow through to your balance sheet without leaving the application.
 
 ## Productivity
 
