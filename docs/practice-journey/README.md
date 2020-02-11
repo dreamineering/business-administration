@@ -6,26 +6,26 @@ title: Practice Journey
 
 1. [Initial Assessment](./initial-assessment/)
 2. [Preparation](./preparation/)
-3. [Transition](./transition/)
+3. [Onboarding](./onboarding/)
 4. [Profit Optimisation](./profit-optimisation/)
 5. [Growth](./growth/)
 
-## [Initial Assessment](./initial-assessment/)
+## Initial Assessment
 
-What do you need?
+Discovery of what do and what you need?
 
-## [Preparation](./preparation/)
+## Preparation
 
 Preliminary system configuration and management training.
 
-## [Transition](./transition/)
+## Onboarding
 
-What to expect in your first month with Gensolve Practice Manager.
+What to expect in your first month with Gensolve Practice Manager. Set you up with good habits to continue.
 
-## [Profit Optimisation](./profit-optimisation/)
+## Profit Optimisation
 
-Ensure standards of quality across for all workflows across business disciplines and staff.
+Take our seed ideas and make them your own. Ensure standards of quality across for all workflows across business disciplines and staff.
 
-## [Growth](./growth/)
+## Growth
 
-- What next?
+- Cash-out, or team up? What next?
