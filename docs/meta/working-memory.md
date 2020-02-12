@@ -19,6 +19,10 @@ title: Working Memory
 ## Tasks
 
 - Copy Roles from GPM Best Practice into Demo prove login
-- Roles with Wo
+- Research Practice Recruitment boards for Job Descriptions
 
 https://onepagelove.com/
+
+## Links
+
+- [HPSNZ](https://www.google.com/search?q=HPSNZ+gensolve&oq=hp&aqs=chrome.0.69i59j69i57j0l4j69i60l2.3441j0j4&sourceid=chrome&ie=UTF-8)

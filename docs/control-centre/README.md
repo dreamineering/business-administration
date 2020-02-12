@@ -47,6 +47,48 @@ The Clinician treated an unusually high number of Clients with an injury where e
 
 Set targets that drive action or strategic decisions to be made. To help with setting expectations you should regularly review a profit forecast spreadsheet where you can run scenario analysis.
 
+## Desktop
+
+**Roles:**
+
+- CN: Clinician - Service
+- CD: Clinical Director - Quality Control
+- FD: Front Desk - Sales
+- AP: Accounts and Payroll - Cashflow
+- OP: Operations Manager - Load Balancing
+- MM: Marketing Manager - Attraction
+
+## Action Lists
+
+| Report name                                 | Roles | Frequency     |
+| ------------------------------------------- | ----- | ------------- |
+| Appointments Owing                          |       | Close of Day  |
+| Client Appointments without Service Charges |       | Close of Day  |
+| Appointments Not Completed                  |       | Close of Day  |
+| Appointments Without Conditions             |       | Close of Day  |
+| Incomplete Exams                            |       | Close of Day  |
+| Intra Referrals Report                      |       | Close of Day  |
+| Clients Not Seen or Discharged              |       | Close of Day  |
+| Clients Not Seen                            |       | Close of Day  |
+| Appointments to invoice                     |       | Close of Week |
+
+## KPI Reports
+
+| Report name                                                                                         | Roles          | Frequency        |
+| --------------------------------------------------------------------------------------------------- | -------------- | ---------------- |
+| [Condition Discharge Export](../../features/practice-manager/reports/condition-discharge-export.md) | CN, CD         | Weekly - Monthly |
+| Condition Followups                                                                                 | CN, CD         | Weekly           |
+| Discharge Summary                                                                                   | CN, CD         | Weekly           |
+| Clinician Capacity                                                                                  | CN, CD, OM, MM | Weekly           |
+| New Clients                                                                                         | CD, OM, MM     | Weekly           |
+| Referral Source - Clients                                                                           | CD, OM, MM     | Weekly           |
+| Referral Source - Conditions                                                                        | CD, OM, MM     | Weekly           |
+| Why Choose Us - Clients                                                                             | CD, MM         | Weekly - Monthly |
+| Clinician Appointment Revenue                                                                       | CD, AP         | Weekly - Monthly |
+| Clinician Revenue Generated                                                                         | CD, AP         | Weekly - Monthly |
+| Clinician Revenue Paid                                                                              | AP             | Weekly - Monthly |
+| Aged Debtors                                                                                        | AP             | Weekly           |
+
 ## Further learning
 
 - [Operational, Analytical and Tactical Dashboards](https://www.datapine.com/blog/strategic-operational-analytical-tactical-dashboards/)
