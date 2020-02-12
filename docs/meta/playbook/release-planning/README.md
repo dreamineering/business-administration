@@ -6,6 +6,8 @@ title: Release Planning
 
 > A problem solved is a problem forgotten
 
+PT Meeting Features [Google Sheet](https://docs.google.com/spreadsheets/d/1ZS9Kg0S2je1Gy9KCHfQdA1cTT5M66FBF8VMuNCp6ZSI/edit#gid=0)
+
 ## Questions
 
 - What are the most valuable problems?
@@ -22,7 +24,7 @@ title: Release Planning
 
 ## Goals
 
-No more thinking of the product along Country or Windows v Web! Use [workflows](https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/) to understand how feature connect customers to product benefits.
+No more thinking of the product along Country or Windows v Web! Use [workflows](https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/) to understand how a feature connects customers to product benefits.
 
 - Remove Silos
 - Put place work into best workflows to give job context

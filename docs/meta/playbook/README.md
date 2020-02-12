@@ -10,6 +10,8 @@ auditIntent:
 - How to use GPM to drive Gensolve's Operations
 - How Gensolve Develops Software
 
+They say that when writing a novel you should write the ending first. If we apply this thinking to the story of our customers. What is their end goal/legacy of running their business? In other words, what is the desired exit?
+
 ## Goal
 
 Predictable, Repeatable Growth that is not reliant on any particular Knowledge Worker so that Gensolve can [scale](https://mastersofscale.com/) at the optimum rate, avoiding unproductive, morale destroying **Fire-Fighting**.
