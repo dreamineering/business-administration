@@ -16,15 +16,9 @@ PT Meeting Features [Google Sheet](https://docs.google.com/spreadsheets/d/1ZS9Kg
 - How to test Riskiest Assumptions?
 - Do we have resources?
 
-## Problems
+## Goals
 
 [position, position, position](https://www.youtube.com/watch?v=blTNLVuRU6k)
-
-- GPM is not just _Practice Management_ software
-- GPM so big it takes a long time to understand all functionality
-- Who cries last and loudest is not a way to run operations
-
-## Goals
 
 No more thinking of the product along Country or Windows v Web! Use [workflows](https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/) to understand how a feature connects customers to product benefits.
 
@@ -37,13 +31,11 @@ No more thinking of the product along Country or Windows v Web! Use [workflows](
 
 Take inspiration from [Getting Real](https://www.youtube.com/channel/UCdx5Dk3EWTe2i8YDA7bfl6g/playlists)
 
-### Press Release
+### Write the Press Release First
 
 _In the modern world of business, it is useless to be a creative, original thinker unless you can also sell what you create_
 
 - [Amazon - Press Release](http://the-amazon-way.com/blog/amazon-future-press-release/)
 - [Basecamp - How we work](https://www.youtube.com/watch?v=ATpJBeuknaQ)
-- https://medium.com/@fagnerbrack/a-smart-programmer-understands-the-problems-worth-fixing-dcf15871f943
-- https://www.businessnewsdaily.com/5693-bcg-matrix.html
 
 ![planning](https://drive.google.com/uc?id=1Ngx7-hTRde74rJyKvXjnn_Ww0Dww-0xF)

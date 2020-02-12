@@ -68,7 +68,8 @@ Why wait until the end of the day when your brain is tired to solve deep work pr
 - https://clockify.me/blog/productivity/time-blocking-planner-templates/
 - http://www.calnewport.com/blog/2013/12/21/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/
 - https://blog.hubstaff.com/time-blocking-simple-guide/
-
 - https://www.thepowerhousevancouver.com/time-blocking/
 - https://medium.com/@edricsubur/how-i-ditched-to-dos-and-use-google-calendar-to-manage-my-life-f1e895efd9dc
 - https://gusto.com/blog/growth/google-calendar-hacks
+- https://medium.com/@fagnerbrack/a-smart-programmer-understands-the-problems-worth-fixing-dcf15871f943
+- https://www.businessnewsdaily.com/5693-bcg-matrix.html
