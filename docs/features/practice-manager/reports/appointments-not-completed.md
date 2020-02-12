@@ -4,6 +4,8 @@ title: Reports > Appointments Not Completed
 
 # Reports > Appointments Not Completed
 
+The value this report provides, action to take or decision indicator
+
 **Importance:**
 
 **Run Frequency:**
@@ -11,12 +13,12 @@ title: Reports > Appointments Not Completed
 **Roles:**
 
 - [CN: Clinician](/roles/clinician.md)
-- CD: Clinical Director
-- FD: Front Desk
-- AP: Accounts and Payroll
-- OP: Operations Manager
-- MM: Marketing Manager
+- [CD: Clinical Director](/roles/clinical-director.md)
+- [FD: Front Desk](/roles/frontdesk-sales.md)
+- [AP: Accounts and Payroll](/roles/accounts-and-payroll.md)
+- [OP: Operations Manager](/roles/operations-manager.md)
+- [MM: Marketing Manager](/roles/marketing-manager.md)
 
 **Related Workflows:**
 
-- Daily Takings Reconciliation
+- [a workflow](/features/workflows/)
