@@ -18,6 +18,10 @@ Predictable, Repeatable Growth that is not reliant on any particular Knowledge W
 
 Evolve Genolve's **why** through using GPM to optimise internal business operations so that we can evolve and pass on value-creating [workflows](../../features/workflows/) ideas to our customers.
 
+A clear cut process that explains how features are prioritised across all products and countries
+
+![Priority Decision Making Process](https://drive.google.com/uc?id=1oTS40FKMoSb8XA8OzYpIL-qorNT4-LbZ)
+
 ## If it is written down, it doesn't exist
 
 - [Executive perspective](https://www.chiefexecutiveboards.com/briefings/briefing210.htm)

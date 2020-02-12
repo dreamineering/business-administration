@@ -15,7 +15,7 @@ Read [the discipline of content strategy](https://alistapart.com/article/thedisc
 5. [Storytelling](./storytelling/)
 6. [Marketing Channels](./marketing-channels/)
 
-All content here on [Google Drive](https://drive.google.com/drive/u/0/folders/1NrD8g-7Optig8uizemwNgZ1Ndm7-Y-d2) anyone can use VS Code to edit.
+![link up content](https://drive.google.com/uc?id=1oQX5ZWoeVanE5Izp1wJeo7T64j_yVAcu)
 
 ## Intended Benefits to Gensolve
 

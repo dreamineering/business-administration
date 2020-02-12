@@ -8,6 +8,8 @@ title: Release Planning
 
 PT Meeting Features [Google Sheet](https://docs.google.com/spreadsheets/d/1ZS9Kg0S2je1Gy9KCHfQdA1cTT5M66FBF8VMuNCp6ZSI/edit#gid=0)
 
+![Priority Decision Making Process](https://drive.google.com/uc?id=1oTS40FKMoSb8XA8OzYpIL-qorNT4-LbZ)
+
 ## Questions
 
 - What are the most valuable problems?
