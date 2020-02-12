@@ -13,3 +13,5 @@ Predictable, Repeatable Growth that is not reliant on any particular Knowledge W
 ## [Playbook](./playbook/)
 
 Documenting how Gensolve solves problems, the target audience is developers wishing to join Genolve in the future.
+
+![link up content](https://drive.google.com/uc?id=1oQX5ZWoeVanE5Izp1wJeo7T64j_yVAcu)
