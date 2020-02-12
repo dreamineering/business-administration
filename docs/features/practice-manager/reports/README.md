@@ -6,14 +6,6 @@ title: Reports
 
 [google sheet matrix](https://docs.google.com/spreadsheets/d/1q5ZJTmDu5L17uKkRTmDXXcqxOaX_ccQyRswQ2sYfl2o/edit#gid=1839637863)
 
-## RED FLAGS
-
-Run these daily to complete jobs that have been left unfinished.
-
-- [Client Appointments with Service Charges](./client-appointments-without-service-charges.md)
-- [Appointments Not Completed](./appointments-not-completed.md)
-- [Appointments Without Conditions](./appointments-without-conditions.md)
-
 ## Business
 
 - [Appointments Owing](./appointments-owing.md)

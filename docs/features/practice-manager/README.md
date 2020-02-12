@@ -6,7 +6,7 @@ title: Practice Manager Application
 
 ## Desktop Interface
 
-- [Client Details](./client-details/)
+- [Client Records](./client-records/)
 - [Appointments](./appointments/)
 - [Treatment Pathway](./treatment-pathway/)
 - [Contracts](./contracts/)

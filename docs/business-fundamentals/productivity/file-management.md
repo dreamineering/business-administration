@@ -29,18 +29,18 @@ Important to constantly review opportunities to fine-tune operations by creating
 
 ## File Locations and Security
 
-| Menu           |      Form       | Upload Files? | Create from Templates? | Suggested Security |
-| -------------- | :-------------: | ------------: | ---------------------- | ------------------ |
-| Administration |     Vendors     |          TRUE | FALSE                  | Senior Management  |
-| Client Header  | Client Details  |          TRUE | TRUE                   | All Staff          |
-| Client Header  |   Conditions    |          TRUE | TRUE                   | All Staff          |
-| An Appointment | Treatment Notes |          TRUE | TRUE                   | Clinician          |
-| Contracts      |    Contracts    |          TRUE | TRUE                   | All Staff          |
-| Front Office   | Reference Files |          TRUE | FALSE                  | All Staff          |
-| Front Office   |    Referrers    |          TRUE | TRUE                   | All Staff          |
-| Money In       |     Debtors     |          TRUE | TRUE                   | Accounts & Payroll |
-| Money Out      |    Expenses     |          TRUE | TRUE                   | Accounts & Payroll |
-| Payroll        |    Employees    |          TRUE | TRUE                   | Accounts & Payroll |
+| Menu           | Form            | Upload Files? | Create from Templates? | Suggested Security |
+| -------------- | :-------------- | ------------- | ---------------------- | ------------------ |
+| Administration | Vendors         | TRUE          | FALSE                  | Senior Management  |
+| Client Header  | Client Details  | TRUE          | TRUE                   | All Staff          |
+| Client Header  | Conditions      | TRUE          | TRUE                   | All Staff          |
+| An Appointment | Treatment Notes | TRUE          | TRUE                   | Clinician          |
+| Contracts      | Contracts       | TRUE          | TRUE                   | All Staff          |
+| Front Office   | Reference Files | TRUE          | FALSE                  | All Staff          |
+| Front Office   | Referrers       | TRUE          | TRUE                   | All Staff          |
+| Money In       | Debtors         | TRUE          | TRUE                   | Accounts & Payroll |
+| Money Out      | Expenses        | TRUE          | TRUE                   | Accounts & Payroll |
+| Payroll        | Employees       | TRUE          | TRUE                   | Accounts & Payroll |
 
 ### Vendors
 
