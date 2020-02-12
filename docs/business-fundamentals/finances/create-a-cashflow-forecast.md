@@ -6,24 +6,30 @@ title: Create a Cashflow Forecast
 
 Before you pay your expenses, take your profit first. Run your business based on what you can afford to do today, not what you hope to be able to afford someday. When profit comes first, it is the focus, and it is never forgotten.
 
+> [Download Cashflow Forecast](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download)
+
+## Goal
+
 > Plans are of little importance, but planning is essential - Winston Churchill
 
-The true value of your forecast is not in the numbers but the critical thinking in considering goals, obstacles and tasks that must be navigated to steer results towards expectations. Return frequently to tweak and create different scenarios that fit with your options for growth.
+The true value of your forecast is not just the numbers but the critical thinking in considering how to negotiate obstacles on the path to achieving your goals.
 
-As you understand your business better and establish good habits so to will your ability to predict the future profits related to plans for expansion.
+As you evolve better business habits based on performance analysis so to will your ability to predict the future profits related to plans for expansion.
 
-> [Download Cashflow Forecast](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download)
+![Anticipate the future](https://drive.google.com/uc?id=1obm1r8KITApGbYIszQi1QDKqwAQCT6Tw)
 
 ## Approach
 
 Improve your [excel skills](https://edu.gcfglobal.org/en/excel2016/) if needed.
 
 1. Replace items in the {brackets} with people in your organisation
-2. Change Currency as required
+2. Change the Currency format as required
 
-If you are looking to employ new staff, use a convention to create a placeholder name such as _Graduate Physio_ until the recruitment hole has been fulfilled.
+If you are planning to employ new staff, use a convention to create a placeholder name such as _Graduate Physio_ until the recruitment hole has been fulfilled.
 
-You can email <a href="mailto:mattm@gensolve.com?subject=Performance%20Forecast">mattm@gensolve.com</a> if you would like some help getting started.
+To add a new employee copy and paste the entire rows of another employee and then paste insert.
+
+Email <a href="mailto:info@gensolve.com?subject=Performance%20Forecast">info@gensolve.com</a> if you need help getting started.
 
 ## Pricing
 
