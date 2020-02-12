@@ -14,7 +14,7 @@ They say that when writing a novel you should write the ending first. If we appl
 
 ## Goal
 
-Predictable, Repeatable Growth that is not reliant on any particular Knowledge Worker so that Gensolve can [scale](https://mastersofscale.com/) at the optimum rate, avoiding unproductive, morale destroying **Fire-Fighting**.
+Predictable, Repeatable Growth that is not reliant on any particular Knowledge Worker so that Gensolve can [scale](https://mastersofscale.com/) at the optimum rate, avoiding unproductive, morale destroying **Fire-Fighting - Endless cycles of rework**.
 
 Evolve Genolve's **why** through using GPM to optimise internal business operations so that we can evolve and pass on value-creating [workflows](../../features/workflows/) ideas to our customers.
 
@@ -25,16 +25,21 @@ Evolve Genolve's **why** through using GPM to optimise internal business operati
 
 Good process starts with writing. If you want a duplication machine, you must have great processes! All of the Gensolve team need to be contributing freely, without friction as much as they can.
 
-1. [Direction](./direction/)
-2. [Sales](./sales/)
-3. [Content Creation](./content-creation/)
-4. [Experimental](./experimental/)
-5. [Release Planning](./release-planning/)
-6. [Communications](./communications/)
-7. [Tools](./tools/)
-8. [Frontend](./frontend/)
-9. [Dashboards](./dashboards/)
-10. [Development](./development/)
+- [Communications](./communications/)
+- [Content Creation](./content-creation/)
+- [Custom Forms](./custom-forms/)
+- [Dashboards](./dashboards/)
+- [Development](./development/)
+- [Direction](./direction/)
+- [Experimental](./experimental/)
+- [Frontend](./frontend/)
+- [Marketing Sites](./marketing-sites/)
+- [Professional Services](./professional-services/)
+- [Release Planning](./release-planning/)
+- [Sales](./sales/)
+- [Staff Management](./staff-management/)
+- [Tools](./tools/)
+- [User Experience](./user-experience/)
 
 Inspiration from [Thoughtbot](https://thoughtbot.com/playbook), [David Skok](https://drt.fm/david-skok) at Matrix Partners. [Signal vs Noise](https://m.signalvnoise.com/category/greatest-hits/)
 

@@ -58,9 +58,17 @@ However, there is also an Auto Resize feature that attempts to format the image 
 
 At a Vendor (Global) or Site level you can customise the graphics for:
 
-- Invoice/Reciept Header
+- Invoice/Receipt Header
 - Receipt Footer
 - Invoice Footer
 - Discharge Report Header
 
 ![Admin Custom Graphics](https://drive.google.com/uc?id=1m7ofP6jaFnvPmPKL1Pwu7LzRT7gZdCVk)
+
+## How to set correct Invoice or Receipt contact details for the business
+
+In GPM, Vendor Name and Site Name usually represents a physical location.
+
+You can specify a Vendor or Site Trading Name for accounting purposes (receipts and invoices) if the trading name differs from the name of the physical location.
+
+[How to choose Vendor or Site contact details for an invoice or receipt](http://docs.gensolve.com/help/gpm_uk/desktop/Knowledge_Base/Billing_and_Payments/How_to_display_the_site_name_on_a_invoice_or_receipt.htm)
