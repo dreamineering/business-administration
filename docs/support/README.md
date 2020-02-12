@@ -32,11 +32,13 @@ Have you tried **Clearing the cache?**
 
 ## Submit a Ticket
 
-1. if required take a screenshot
-2. While in Gensolve hit **F1** or [click here](http://support.gensolve.com/)
+Read [this guide](http://docs.gensolve.com/help/gpm_uk/desktop/Using_the_Support_Centre___Accessing_Information/Support_Centre_-_Submit_a_Ticket.htm) but in short:
+
+1. if required take a screenshot of the issue
+2. While in Gensolve hit **F2** or [click here](http://support.gensolve.com/)
 3. Copy and Paste issue
 4. Enter the name of the form
-5. Enter the record particulars
+5. Enter details of the problem and **desired outcome**
 6. Enter the action triggered the problem
 7. Enter frequency
 8. Anything different to normal
