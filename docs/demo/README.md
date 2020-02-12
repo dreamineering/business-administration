@@ -50,19 +50,22 @@ Get started with the first **Username/Profile** in the table below then work thr
 If you hold down the shift key then click on the GPM application in the bottom taskbar of windows you can log in with the manager profile, so you can view full functionality.
 :::
 
-| Username  | Display Name                                             | Focus                 |
-| --------- | -------------------------------------------------------- | --------------------- |
-| fd        | [Front Desk](../../roles/frontdesk-sales/)               | Client Sales          |
-| clinician | [Clinician](../../roles/clinician/)                      | Client Treatment      |
-| manager   | [Operations Manager](../../roles/operations-manager/)    | Business Operations   |
-| accounts  | [Accounts Controller](../../roles/accounts-conntroller/) | Business Operations   |
-| lc        | [Lead Clinician](../../roles/lead-clinician/)            | Business Operations   |
-| acc       | [Accountant](../../roles/accountant/)                    | Professional Services |
-| accxero   | [Xero Accountant](../../roles/accountant/)               | Professional Services |
-| mm        | [Marketing Manager](../../roles/marketing-manager/)      | Professional Services |
-| gpm       | [System Admin](../../roles/system-admin/)                | GPM Configration      |
-| cfb       | [Custom Forms Builder](../../roles/tech-support/)        | GPM Configration      |
+A _Practice Manager_ is a composite of many other roles where a single person will **need to wear many hats** to meet the demands of the job at different times.
 
-Practice business administrators generally **need to wear many hats**. Therefore these profiles are for _educational purposes_ to help to explore functionality within the context of the primary focus of each potential role in an organisation. When it comes to running your organisation **you have complete control** to [configure roles exactly as you desire](../features/system/security/).
+| Username | Display Name                                                      | Focus                |
+| -------- | ----------------------------------------------------------------- | -------------------- |
+| RR       | [Remote Reception](../../roles/remote-reception.md)               | Sales                |
+| FD       | [Front Desk](../../roles/frontdesk-sales.md)                      | Sales                |
+| CN       | [Clinician](../../roles/clinician.md)                             | Client Treatment     |
+| CD       | [Clinical Director](../../roles/clinical-director.md)             | Quality of Service   |
+| OP       | [Operations Manager](../../roles/operations-manager.md)           | Productivity         |
+| AP       | [Accounts Controller](../../roles/accounts-and-payroll.md)        | Cashflow             |
+| AC       | [Accountant](../../roles/accountant.md)                           | Financial Compliance |
+| AX       | [Xero Accountant](../../roles/accountant.md)                      | Financial Compliance |
+| MM       | [Marketing Manager](../../roles/marketing-manager.md)             | Attracting Customers |
+| CF       | [Custom Forms Freelancer](../../roles/custom-forms-freelancer.md) | GPM Configration     |
+| GPM      | [System Admin](../../roles/system-admin.md)                       | GPM Configration     |
+
+. Therefore these profiles are for _educational purposes_ to help to explore functionality within the context of the primary focus of each potential role in an organisation. When it comes to running your organisation **you have complete control** to [configure roles exactly as you desire](../features/system/security/).
 
 ![common-health-practice-roles-and-responsibilities](https://drive.google.com/uc?id=1_85fzFafOpCNIkbkKoCnLqtNYTDWdgY2)

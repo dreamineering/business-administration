@@ -21,25 +21,32 @@ Dependent on the size of the organisation may need to cover both clinical and bu
 
 Directly responsible for earning the business money for services rendered.
 
-- [Clinical Lead](./clinical-lead/)
-- [Clinician](./clinician/)
+- CN: Clinician
+- CD: Clinical Director
+- FD: Front Desk
+- AP: Accounts and Payroll
+- OM: Operations Manager
+- MM: Marketing Manager
+
+- [**CN:** Clinician](./clinician.md)
+- [**CD:** Clinical Director](./clinical-director.md)
 
 ## Business Operations
 
 Ensure the business runs efficiently.
 
-- [Operations Manager](./operations-manager/)
-- [Frontdesk Sales](./frontdesk-sales/)
-- [Accounts Controller](./accounts-controller/)
-- [Systems Admin](./system-admin/)
+- [**FD:** Frontdesk Sales](./frontdesk-sales/)
+- [**OP:** Operations Manager](./operations-manager.md)
+- [**AP:** Accounts and Payroll](./accounts-and-payroll.md)
+- [**GPM:** Systems Admin](./system-admin.md)
 
 ## Professional Services
 
 In smaller organisations, these roles would be provided by external resources.
 
-- [Accountant](./accountant/)
-- [Marketing](./marketing-manager/)
-- [Property Manager](./property-manager/)
+- [**AC:** Accountant](./accountant.md)
+- [**MM:** Marketing Manager](./marketing-manager.md)
+- [**PM:** Property Manager](./property-manager.md)
 
 ## Recruitment
 

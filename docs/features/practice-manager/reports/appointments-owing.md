@@ -1,17 +1,25 @@
 ---
 title: Reports > Appointments Owing
+metaImportance: Critical
+metaFrequency:
+metaRoles:
+metaWorkflows:
+metaDevIssue:
+metaNeedsWork:
 ---
 
 # Reports > Appointments Owing
 
-| Name       | Rating             |
-| ---------- | ------------------ |
-| Importance | Very High          |
-| Frequency  | Daily Close        |
-| Role(s)    | Accounts & Payroll |
-
 Review that daily reconciliation of appointments and payment status is correct.
 
-Related Workflows:
+**Importance:** High
+
+**Run Frequency:** Daily Close
+
+**Roles:**
+
+- Accounts & Payroll
+
+**Related Workflows:**
 
 - Daily Takings Reconciliation

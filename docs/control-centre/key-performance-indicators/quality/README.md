@@ -1,8 +1,8 @@
 ---
-title: Quality Control
+title: Quality Control KPIs
 ---
 
-# Quality Control
+# Quality Control KPIs
 
 Drive continuous improvement of quality of service.
 
