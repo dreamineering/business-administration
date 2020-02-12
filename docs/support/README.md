@@ -32,8 +32,8 @@ Have you tried **Clearing the cache?**
 
 ## Submit a Ticket
 
-1. Take a screenshot
-2. Hit F1
+1. if required take a screenshot
+2. While in Gensolve hit **F1** or [click here](http://support.gensolve.com/)
 3. Copy and Paste issue
 4. Enter the name of the form
 5. Enter the record particulars
