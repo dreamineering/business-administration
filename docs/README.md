@@ -94,18 +94,17 @@ Medicare Easyclaim is now also integrated and fully certified with Gensolve’s 
 
 Manage your clinicians and your administration team. Schedule recurring activities to save effort
 
-Efficiently manage Clinician working hours: Easily set up your Clinicians’ normal working schedule, leave periods and staff meetings.
-Multi-site configuration: Configure Clinicians to work across multiple sites, maintaining a single consolidated view for each Clinician’s availability.
-Task manager: Using the in-built Task Manager, practices can easily assign tasks and actions to the appointment book or clinical notes, saving on time and creating more efficient patient follow up.
-Waiting room: Track a patient from the time they arrive in the practice until they leave and share this information in real-time across your practice.
-Cancellation and no-show management: Monitor no-shows and cancellations and link the information to patients’ files.
-SMS reminders: Send SMS Reminders of appointments in bulk to clients.
+- Multi-site configuration: Configure Clinicians to work across multiple sites, maintaining a single consolidated view for each Clinician’s availability.
+- Task manager: Using the in-built Task Manager, practices can easily assign tasks and actions to the appointment book or clinical notes, saving on time and creating more efficient patient follow up
+- Waiting room: Track a patient from the time they arrive in the practice until they leave and share this information in real-time across your practice.
+- Cancellation and no-show management: Monitor no-shows and cancellations and link the information to patients’ files.
+- SMS reminders: Send SMS Reminders of appointments in bulk to clients.
 
 [Learn more](/growth/)
 
 ## Marketing
 
-Create a content calendar, distributing your message and measure the effectiveness of your strategy
+If marketing is a dark art to you, don't worry it is all pretty straightforward. With Gensolve you can create a content calendar, distributing your message and measure the effectiveness of your strategy and probably save yourself spending money without understanding where it is going.
 
 [Learn more](/growth/)
 
