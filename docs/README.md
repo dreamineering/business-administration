@@ -23,7 +23,7 @@ Wisdom for the **pain** is overrated! Start **running** your business and [claim
 
 <h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">Three applications for the price of one</h2>
 
-How can you afford not to:
+How can you afford not to improve your:
 
 1. **Accuracy** avoid costly mistakes
 2. **Efficiency** save time with automation and shortcuts
