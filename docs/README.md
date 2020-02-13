@@ -27,12 +27,10 @@ How can you afford not to:
 
 1. **Accuracy** avoid costly mistakes
 2. **Efficiency** save time with automation and shortcuts
-3. **Effectiveness** prioritise the most valuable actions
-4. **Accountability** easily see who has done what
+3. **Effectiveness** prioritise your most valuable decisions
+4. **Accountability** easily see who has been doing what
 
 ## Quality of Treatment
-
-> [Be so good they can't ignore you](https://www.youtube.com/watch?v=DFjTD8v7xuw)
 
 Our Patient Records allow you to **deliver and measure the effectiveness of your plan of care** with all a patient information efficiently recorded and stored in one place.
 
@@ -49,14 +47,22 @@ Subjective charts are used to display standard body diagrams (or other images de
 
 > _As a Tertiary Educational Provider we feel it is important to train students with real-world products that they will be expected to use upon graduation. Gensolve is one such product._ Auckland University of Technology
 
+[Learn more](/growth/)
+
 ## Finances
 
 The only system on the market where you can track cashflow through to your balance sheet without leaving the application.
 
+[Learn more](/growth/)
+
 ## Productivity
 
-Manage your clincians and your administration team. Schedule recurring activities to save effort
+Manage your clinicians and your administration team. Schedule recurring activities to save effort
+
+[Learn more](/growth/)
 
 ## Marketing
 
 Create a content calendar, distributing your message and measure the effectiveness of your strategy
+
+[Learn more](/growth/)
