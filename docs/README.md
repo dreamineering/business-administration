@@ -51,42 +51,11 @@ Subjective charts are used to display standard body diagrams (or other images de
 
 ## Finances
 
-The only system on the market where you can track cashflow through to your balance sheet without leaving the application.
+The only system on the market where you can track cashflow through to your balance sheet without leaving the application and strong financial controls are the core of any business. You can give your accountant access to Gensolve for free and then they can directly provide real-time valuable advice on how to configure your revenue channels for better analysis of results versus your growth strategy.
 
-An extensive financial software package is an essential part of any core business application. A good financial software function will enable the business to more easily manage its financial data and flow.
+Don't take our word for it, [invite your accountant](/roles/accountant.md) to take look now.
 
-Gensolve Practice Manager has integrated an industry leading accounting package into its software application, to further ensure this practice management software is a solution as comprehensive for your practice as it can be.
-
-The Accounting application within Gensolve Practice Manager manages the flow of critical financial data. Our innovative software simplifies many parts of your business including accounting, payroll, retail POS, CRM, tax, and more. Run your business and access your accounts from wherever you need to; at work, home or on the go. You can also invite your bookkeeper or accountant to view your accounts and provide valuable real-time advice.
-
-In addition to this, your data is completely secure in the Gensolve software application even if your computer is lost or stolen. This just adds to the reassurance you can rely on when using Gensolve practice management software.
-
-Overview of GPM
-Access anywhere
-Patient Records & Management
-Appointment Book Software
-Financials & Online Accounting
-Electronic Billing & Claim Processing
-KPI Reporting For Clinical & Business
-Stock & Inventory Management Software
-Business Marketing Tool
-Pricing
-Online Booking Software
-Custom Forms
-SMS Alerts
-Gensolve and Medicare Online Native Integration
-
-ACC (New Zealand)
-
-Electronic Billing to ACC for appointment and other miscellaneous charges is a seamless function within Gensolve’s practice management software. Once the appointments or charges are completed and meet the billing criteria, a simple process creates an electronic file that can be processed by the ACC website. This removes the need for time consuming and expensive paper invoices. On payment, remittance advices can also be easily uploaded into Gensolve Practice Manager, automatically matching items being paid.
-
-Gensolve Practice Manager monitors and tracks injury treatment allowances and time frames for each injury ensuring timely and accurate control of the allowed treatment profiles, pro-actively alerting to potential treatment extension approvals.
-
-HICAPS & Medicare (Australia)
-
-Gensolve Practice Manager ensures HICAPS claim processing is even more easy for you. This is because we are now fully integrated with the ability to access the HICAPS terminal, identify a patient’s rebate details and then apply them to the patient’s account. You can make claims, send quotations to health funds to instantly find out the benefits and make EFTPOS payments both with credit and debit cards.
-
-Medicare Easyclaim is now also integrated and fully certified with Gensolve’s practice management software. This Medicare Easyclaim integration will enable your patients to have their Medicare benefit processed at the point of sale. With this integration in place, this complete solution allows you to simplify your HICAPS, Medicare Easyclaim and EFTPOS transactions and reporting
+If your accountant loves [Xero](https://www.xero.com/) no dramas either, Gensolve has full integration with [Xero](https://www.xero.com/) too.
 
 [Learn more](/growth/)
 
@@ -110,13 +79,12 @@ If marketing is a dark art to you, don't worry it is all pretty straightforward.
 
 ## Do It Your Way
 
-You have the flexibility and control to treat your patients and run your business exactly how you want. With full support for multi-disciplinary clinics, GPM enables customisation that enable...
+Just like Frank you can leave your regrets behind and take complete control of your patient experience and run your business exactly how you want. With full support for multi-disciplinary clinics, GPM enables customisation that enable:
 
 Clinical Directors to:
 
-- plan dedicated treatment of care plans
-- capture data for custom objective and subjective analysis
-- capture data for a specific injury or rehabilitation type analysis
+- plan the optimum journey to follow for quality control of treatment plans
+- capture objective, subjective, specific injury or rehabilitation type analysis
 
 Operations Managers to capture:
 
@@ -125,18 +93,17 @@ Operations Managers to capture:
 
 Marketing Managers to capture:
 
-- Net Promoter Scores
-- Outcome success testimonials
+- Net Promoter Scores and Testimonial Surveys
 - Friends and Family referrals
 
 Financial Managers to budget operating margin with contract charges for established plans of care.
 
-Everyone can run reports specific to your custom forms
-
-## Control Your Course
+## Control
 
 _If you cannot measure it, you cannot improve it, if your processes are inconsistent, what you measure is bul... not much use_
 
 Track performance, connect the dots, close the loop, review your strategy and adjust to take control of your destiny.
+
+**We take security seriously!** With Gensolve you can lock down access to certain computers or even the time of day when access is allowed. So even if your computer is lost or stolen you can terminate access immediately and if you are following best working practices [no client files should be on your hard drive](/growth/compliance/file-management.md) when using Gensolve so you are safe.
 
 [Learn more](./control/)
