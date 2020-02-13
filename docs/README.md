@@ -11,10 +11,6 @@ auditLogos:
 auditKairos:
 ---
 
-Wisdom for the **pain** is overrated! Start **running** your business and [claim your time back](/journey/demo/)
-
-If you are you concerned that you are losing money? Try our free [performance analysis](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) tool to help you feel more comfortable with your plans for the future.
-
 <h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">Three applications for the price of one</h2>
 
 How can you afford not to improve your:
@@ -103,3 +99,7 @@ Track performance, connect the dots, close the loop, review your strategy and ad
 [Learn more](./control/)
 
 <h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you <span style="color:#D70014;font-weight:bold">love</span> helping others strive for their dreams<br>We <span style="color:#D70014;font-weight:bold">love</span> helping people like you</h2>
+
+Wisdom for the **pain** is overrated! Start **running** your business and [claim your time back](/journey/demo/)
+
+If you are you concerned that you are losing money try our free [budgeting](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) tool to feel more comfortable about your plans for the future.
