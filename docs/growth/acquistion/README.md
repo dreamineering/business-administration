@@ -6,6 +6,8 @@ title: Growth by Acquisition
 
 Accumulate talented service providers or under-performing assets.
 
+In fractured allied health markets, GPM has enabled progressive clinics with the ability to fine-tune their operational intelligence and branding to grow organically or by acquisition
+
 ## GPM to GPM Migrations
 
 We've helped many practices to leverage having a centralised administration team to realise the benefits of economies of scale.

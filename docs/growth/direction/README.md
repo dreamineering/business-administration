@@ -26,3 +26,10 @@ This important area is, in a sense, the "brain" of your business operation. All 
 Also, strategists should analyze the competitive landscape and markets to determine where the opportunity for the business lies, and how they will access that opportunity.
 
 When forming a strategy, determine exactly in what market you will be operating, and then perform a SWOT (Strengths, Weaknesses, Opportunities and Threats) analysis on your main competitors and yourself. This will provide a good picture of where you fit in the competitive landscape. This will also help you determine your market access strategy, which involves positioning, differentiating from competitors and branding.
+
+- Have you reached critical mass and operational intelligence to scale your business?
+- What is the smartest way to grow given **end game** goals?
+- Could you franchise your brand and operations?
+- Are you planning to take over another organisation using GPM?
+- Are you joining with other practices using GPM to create a new business?
+- Are you leaving an existing practice using GPM to start a practice of your own?
