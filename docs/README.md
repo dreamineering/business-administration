@@ -11,15 +11,9 @@ auditLogos:
 auditKairos:
 ---
 
-<h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you <span style="color:#D70014;font-weight:bold">love</span> helping others strive for their dreams<br>We <span style="color:#D70014;font-weight:bold">love</span> helping people like you</h2>
+Wisdom for the **pain** is overrated! Start **running** your business and [claim your time back](/journey/demo/)
 
-Are you concerned that you are losing money? Try our free [performance analysis](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) tool to help you:
-
-1. Think [profit first](https://anchor.fm/paul-gough2/episodes/EP-44-Profit-First-For-Physical-Therapists---With-Mike-Michalowicz-e4c3vc)
-2. understand if you need a better business solution
-3. evaluate your options when adopting a new software solution
-
-Wisdom for the **pain** is overrated! Start **running** your business and [claim your time back now](/journey/demo/install/) to save yourself from looking back on what might have been.
+If you are you concerned that you are losing money? Try our free [performance analysis](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) tool to help you feel more comfortable with your plans for the future.
 
 <h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">Three applications for the price of one</h2>
 
@@ -107,3 +101,5 @@ Track performance, connect the dots, close the loop, review your strategy and ad
 **We take security seriously!** With Gensolve you can lock down access to certain computers or even the time of day when access is allowed. So even if your computer is lost or stolen you can terminate access immediately and if you are following best working practices [no client files should be on your hard drive](/growth/compliance/file-management.md) when using Gensolve so you are safe.
 
 [Learn more](./control/)
+
+<h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you <span style="color:#D70014;font-weight:bold">love</span> helping others strive for their dreams<br>We <span style="color:#D70014;font-weight:bold">love</span> helping people like you</h2>
