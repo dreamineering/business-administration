@@ -16,16 +16,16 @@ Discovery of what do and what you need?
 
 ## Preparation
 
-Preliminary system configuration and management training.
+Preconfiguration of system administration settings to customise your experience and management training.
+
+[Learn more](./preparation.md)
 
 ## Onboarding
 
 What to expect in your first month with Gensolve Practice Manager. Set you up with good habits to continue.
 
-## Profit Optimisation
-
-Take our seed ideas and make them your own. Ensure standards of quality across for all workflows across business disciplines and staff.
+[Learn more](./onboarding.md)
 
 ## Growth
 
-- Cash-out, or team up? What next?
+- Go your own way or team up? [What next?](/growth/)

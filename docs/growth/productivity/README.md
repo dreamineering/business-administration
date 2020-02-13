@@ -1,10 +1,10 @@
 ---
-title: Productivity
+title: Productivity - Staff Management and Engagement
 ---
 
 # Productivity
 
-Planning, communication and accountability.
+Planning, communication, and accountability.
 
 **Guiding Principles:**
 

@@ -10,12 +10,8 @@ module.exports = {
     prevLinks: true,
     nav: [
       {
-        text: 'Demo',
-        link: '/demo/'
-      },
-      {
-        text: 'Get Started',
-        link: '/practice-journey/'
+        text: 'Start your journey',
+        link: '/journey/'
       },
       {
         text: 'Features',
@@ -26,16 +22,16 @@ module.exports = {
         link: '/roles/'
       },
       {
-        text: 'Fundamentals',
-        link: '/business-fundamentals/'
+        text: 'Control',
+        link: '/control/'
       },
       {
-        text: 'Control Centre',
-        link: '/control-centre/'
+        text: 'Growth',
+        link: '/growth/'
       },
       {
-        text: 'Success Stories',
-        link: '/success-stories/'
+        text: 'Success',
+        link: '/success/'
       },
       {
         text: 'Glossary',
@@ -49,15 +45,14 @@ module.exports = {
     displayAllHeaders: true,
     sidebar: [
       '/',
-      './demo/',
-      './practice-journey/',
+      './journey/',
       './features/',
       './roles/',
-      './business-fundamentals/',
-      './control-centre/',
-      './success-stories/',
-      './glossary/',
-      './support/'
+      './control/',
+      './growth/',
+      './success/',
+      './support/',
+      './glossary/'
     ]
   },
   markdown: {
