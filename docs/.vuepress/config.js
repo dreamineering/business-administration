@@ -43,17 +43,7 @@ module.exports = {
       }
     ],
     displayAllHeaders: true,
-    sidebar: [
-      '/',
-      './journey/',
-      './features/',
-      './roles/',
-      './control/',
-      './growth/',
-      './success/',
-      './support/',
-      './glossary/'
-    ]
+    sidebar: ['/', './journey/', './features/', './roles/', './control/', './growth/', './support/']
   },
   markdown: {
     extendMarkdown: md => {
