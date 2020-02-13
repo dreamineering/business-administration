@@ -73,3 +73,7 @@ Why wait until the end of the day when your brain is tired to solve deep work pr
 - https://gusto.com/blog/growth/google-calendar-hacks
 - https://medium.com/@fagnerbrack/a-smart-programmer-understands-the-problems-worth-fixing-dcf15871f943
 - https://www.businessnewsdaily.com/5693-bcg-matrix.html
+
+https://nav.al/finding-time
+
+https://stdlib.com/
