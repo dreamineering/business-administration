@@ -4,14 +4,6 @@ title: Growth by Acquisition
 
 # Growth by Acquisition
 
-32 G2G Migrations in past 2 years
-
-Including:
-
-- A merger that involved around 200,000 patients and 1500 providers (Habit / Southern Rehab)
-- Helping a podiatry business expand with 4 G2G migrations in 3 months due to purchases of other clinics that already used Gensolve (Resonance Podiatry)
-- A consolidation project of 7 existing vendors into one Org for ease of business admin for the client (Motus)
-
 Accumulate talented service providers or under-performing assets.
 
 In fractured allied health markets, GPM has enabled progressive clinics with the ability to fine-tune their operational intelligence and branding to grow organically or by acquisition.
@@ -47,9 +39,7 @@ Some of the biggest mistakes we see with companies who decide to grow through ac
 
 ## Growth Migrations
 
-We've helped many practices to leverage having a centralised administration team to realise the benefits of economies of scale.
-
-Compared to the headaches that have to be accepted with most mergers. The beautiful thing with a _G2G migration_ is that from one day to the next your operations remain the same, leaving your team free to focus on customer service not boring administration tasks.
+Gensolve has facilitated 30+ G2G migrations over the past two years. Compared to the headaches accepted with most mergers the beautiful thing with a _G2G migration_ is that from one day to the next your operations remain the same, leaving your team free to focus on customer service not boring administration tasks.
 
 [Learn more](./growth-migrations)
 

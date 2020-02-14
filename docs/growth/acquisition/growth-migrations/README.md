@@ -23,15 +23,17 @@ Company A absorbs operations and gains talent from Company B
 
 - Company B closes operations
 
-### Vendor Merger
+### Frannchise
 
-Business smarts shared at an organisational level but a seperate trading entity is created.
+Business smarts shared at an organisation level but a seperate trading entity is created.
 
 Franchisor **Company A** agrees to bring in **Company B**
 
 - A new Organisation Vendor is created
 - Data is migrated into the new Vendor
 - Company B is closed
+
+[Learn more about franchises](../franchise/)
 
 ### Merger
 
@@ -46,10 +48,17 @@ Clinicians from an existing Gensolve organisation have an agreement they can tak
 
 ## Migration Types
 
-1. G2G: Gensolve to Gensolve
-2. C2G: Competitors PMS into Gensolve
-
 Gensolve to Gensolve migrations are very comprehensive, bringing in practices from other systems has other complexities to resolve but the process is still very smooth.
+
+### G2G: Gensolve to Gensolve
+
+Gensolve has facilitated 30+ G2G migrations over the past two years enabling:
+
+- A merger of 200,000+ patients and 1500+ clinicians
+- A single podiatry business rapidly expand with four migrations in just three months
+- The consolidation of 7 existing trading entities into one trading entity
+
+### C2G: Competitor PMS to Gensolve
 
 ## Assessment
 

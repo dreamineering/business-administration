@@ -46,9 +46,9 @@ Franchisees can hit the ground running to get their sites off to a great start.
 
 Provide a business model that includes:
 
-1. Franchisor provide the playbook to grow a business
+1. Franchisor provides the playbook to grow a business
 2. Franchisee will invest their own money, responsible for all loans
-3. Franchisee pays an agreed commission to franchisor on sales
+3. Franchisee pays an agreed commission to the franchisor on sales
 4. Franchisee buys supplies and equipment from the Franchisor
 
 ### Relevant GPM Features
