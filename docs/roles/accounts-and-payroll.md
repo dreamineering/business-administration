@@ -31,8 +31,6 @@ Secures revenue by verifying and posting receipts; resolving discrepancies, ensu
 
 ### Resources
 
-## Gensolve Workflows
-
 - Insurer billing
 - Corrections
 - Daily Takings
@@ -40,3 +38,13 @@ Secures revenue by verifying and posting receipts; resolving discrepancies, ensu
 - Recurring Invoices
 
 Provide [feedback questions](./feedback-questions.md)
+
+## Gensolve
+
+Try a [demo](/journey/demo/)
+
+| Field        | Setting       |
+| ------------ | ------------- |
+| Organisation | Demo Practice |
+| Username     | AP            |
+| Password     | Dem0User      |

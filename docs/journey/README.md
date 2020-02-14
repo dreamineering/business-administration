@@ -4,15 +4,19 @@ title: Practice Journey
 
 # Practice Journey
 
-1. [Initial Assessment](./initial-assessment/)
-2. [Preparation](./preparation/)
-3. [Onboarding](./onboarding/)
-4. [Profit Optimisation](./profit-optimisation/)
-5. [Growth](./growth/)
+[[toc]]
+
+## Demonstration
+
+Take a look around on your own time, and if you want to know more email hello@gensolve.com
+
+[Learn more](./demo/)
 
 ## Initial Assessment
 
 Discovery of what do and what you need?
+
+[Learn more](./initial-assessment/)
 
 ## Preparation
 

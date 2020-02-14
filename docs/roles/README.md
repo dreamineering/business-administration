@@ -21,13 +21,6 @@ Dependent on the size of the organisation may need to cover both clinical and bu
 
 Directly responsible for earning the business money for services rendered.
 
-- CN: Clinician
-- CD: Clinical Director
-- FD: Front Desk
-- AP: Accounts and Payroll
-- OM: Operations Manager
-- MM: Marketing Manager
-
 - [**CN:** Clinician](./clinician.md)
 - [**CD:** Clinical Director](./clinical-director.md)
 

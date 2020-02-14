@@ -27,7 +27,7 @@ Picking the right accountant is a vital business decision.
 
 Try a [demo](/journey/demo/)
 
-Full accounting features in GPM
+To see the full Gensolve Accounting package
 
 | Field        | Setting       |
 | ------------ | ------------- |

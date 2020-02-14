@@ -6,13 +6,12 @@ title: Sales
 
 Gensolve flies in the face of common startup wisdom (dogma), focus on one thing and do that one thing exceptionally well.
 
-But is it really a product problem? Or the fact it is very hard to sell the benefits of solutions to problems to customers can't recognise there is a problem.
+But is it a product problem? Or the fact it is very hard to sell the benefits of problem solutions to customers that can't recognise there is a problem.
 
 Using GPM and Gensolve Operations to create a **data-driven** sales process to track how many are coming in, how good are we at converting.
 
-Disruption (I prefer Dreamineering) is ability to create a new market where there are no competitors. This is an opportunity Gensolve has if you free yourself from thinking of the product through its graphical interface.
+Disruption (Dreamineering) is ability to create a new market where there are no competitors. This is an opportunity Gensolve has if you free yourself from thinking of the product through its graphical interface.
 
-- [Business Advisors](./business-advisors.md)
 - [Customer Problems](./customer-problems.md)
 - [Sales Demos](./hands-off-demo.md)
 - [Insiders](./insiders.md)

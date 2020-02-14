@@ -14,14 +14,12 @@ title: Roles > Clinican
 
 Provide [feedback questions](../../support/feedback-questions.md)
 
-acupuncturist
-chiropractor
-counselor
-dietian
-hand therapist
-occupational therapist
-osteopath
-physiotherapist
-podiatrist
-psychologist
-personal trainer
+## Gensolve
+
+Try a [demo](/journey/demo/)
+
+| Field        | Setting       |
+| ------------ | ------------- |
+| Organisation | Demo Practice |
+| Username     | CN            |
+| Password     | Dem0User      |
