@@ -64,6 +64,8 @@ Provide a business model that includes:
 
 ## Preparation
 
+Creating a franchise will kickstart expansion must faster and force introspection and discipline to create [best practice workflows](/features/workflows/).
+
 - Must have quality control standards
 - Must have a well prepared growth plan
 - What structure? Single site or area?
@@ -84,11 +86,14 @@ Whichever option you choose is dependent on how involved you want to be versus d
 
 ## How to find potential franchisees
 
+1. Attend the right industry events
+2. Foster a strong company culture
+3. Identify brand advocates
+4. Create a strong online presence
+
 ## Further Reading
 
-Manager of franchise sites, carry the risk of good operation; they're personally invested in success, so tend to be responible and reliable.
-
-Creating a franchise will kickstart expansion must faster and force introspection and dispiplen to create best practice workflows.
+Managers of franchise sites, carry the risk of good operation; they're personally invested in success, so tend to be responible and reliable.
 
 Reduce managerial headaches, of finding new locations and hiring staff as franchisee will do this.
 

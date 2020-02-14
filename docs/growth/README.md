@@ -93,7 +93,7 @@ Gensolve has facilitated 30+ G2G migrations over the past two years. Compared to
 
 ## Coaching
 
-[MBA Mondays](https://mba-mondays-illustrated.com/) by noted venture capitalist Fred Wilson is a great way to learn some of the fundamentals of growing a successful business.
+[MBA Mondays](https://mba-mondays-illustrated.com/) by noted venture capitalist Fred Wilson is a great way to learn the fundamentals of growing a successful business.
 
 If you need guidance steering your decision making here is a list of business professionals that you can talk to about following the right track.
 
