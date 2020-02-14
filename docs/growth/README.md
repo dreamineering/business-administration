@@ -89,9 +89,9 @@ Location, Location, Location and are you filling your available space effectivel
 
 [Learn more](./acquisition/)
 
-[Illustrated Concepts for Master of Business Administration](https://mba-mondays-illustrated.com/)
-
 ## Coaching
+
+[MBA Mondays](https://mba-mondays-illustrated.com/) by noted venture capitalist Fred Wilson is a great way to learn some of the fundamentals of growing a successful business.
 
 If you need guidance steering your decision making here is a list of business professionals that you can talk to about following the right track.
 
