@@ -8,6 +8,8 @@ Not just financially but as humans.
 
 If you can't achieve consistency across your team, measuring the impact of your strategic initiatives is guesswork. Grow your organisations [operational intelligence](/features/workflows/staff-management/how-to-create-operations-checklists/) to share knowledge efficiently and ensure consistent accountable workflows are adhered to.
 
+[[toc]]
+
 ## Direction
 
 If you don't know where you are going how can you expect to lead others?
