@@ -10,16 +10,19 @@ We are confident that whatever strategy you agree to from working with these pro
 
 [[toc]]
 
-## Growth Accountants
+## Acquisitions
+
+Helping to create growth through acquisitions
 
 - [thembogroup](http://www.thembogroup.com/)
 
 ## Physiotherapy & PT Business Advisors
 
-- [Elevate](https://elevateyourclinic.com)
+- [Elevate Your Clinic](https://elevateyourclinic.com)
+- [Health Business Profits](https://www.healthbusinessprofits.com/)
+- [Practice Acceleration](https://practiceacceleration.com/) | [Podcast](https://practiceacceleration.com/podcast/)
 - [PT Profit Academy](https://www.ptprofitacademy.com/) | [Podcast](https://www.paulgough.com/podcast/) | [Instagram](https://www.instagram.com/ThePaulGough/) | [Twitter](https://twitter.com/ThePaulGough) |[YouTube](https://www.youtube.com/channel/UCFRPdBgTAvHlMrZjBRdxFuQ) | [Facebook](https://www.facebook.com/ThePaulGough)
-- Practice Acceleration - [Website](https://practiceacceleration.com/) | [Podcast](https://practiceacceleration.com/podcast/)
-- John Davie | [Podcast](https://podcast.physiobusinessgrowth.com/pbg-podcast)
+- [Physio Business Growth](https://www.physiobusinessgrowth.com/welcome) | [Podcast](https://podcast.physiobusinessgrowth.com/pbg-podcast)
 
 ## Join the Platform
 
