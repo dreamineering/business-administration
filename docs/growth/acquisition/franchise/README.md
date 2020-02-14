@@ -51,14 +51,13 @@ Provide a business model that includes:
 3. Franchisee pays an agreed commission to the franchisor on sales
 4. Franchisee buys supplies and equipment from the Franchisor
 
-### Relevant GPM Features
+## Brand
 
-1. Multi-Vendor Accounting system
-2. Can centralise core business administration
-3. Commission built into transactions
-4. Operating transparency
-5. Centralised pricing control
-6. Actionable workflows to back documented playbook
+What is that your practice is uniquely capable of offering?
+
+- a strong marketing strategy that backs patient journey that is proven to improve the lives of your customers?
+- strong operational knowledge and efficiency of core business administrative functions?
+- ability to connect franchisees to support networks
 
 ![franchise-operations](https://drive.google.com/uc?id=1aNDqO1QCUpHTymX95FcU7FzFJSKYw1EU)
 
@@ -76,9 +75,8 @@ Must have a playbook explaining how you will work with your franchisees, that wi
 1. Fixed set of rules to follow
 2. Goals and steps to achieve them
 
-Single site could involve finding a premise then having the franchisee rent back from you
-
-Area would be a certain number of site in an agreed-upon area.
+- Single site could involve finding a premise then having the franchisee rent back from you
+- Area would be a certain number of site in an agreed-upon area.
 
 You could also sub-franchise and provide another individual the rights to act and franchisor in a specific region. If your branding is strong enough this also applie internationally.
 
@@ -91,27 +89,7 @@ Whichever option you choose is dependent on how involved you want to be versus d
 3. Identify brand advocates
 4. Create a strong online presence
 
-## Further Reading
-
-Managers of franchise sites, carry the risk of good operation; they're personally invested in success, so tend to be responible and reliable.
-
-Reduce managerial headaches, of finding new locations and hiring staff as franchisee will do this.
-
-to become a franchise, businesses must prove ability to create value with a reproducible operating model.
-
-To create the desire for franchisees to identify with your brand by proving your edge over competitors.
-
-What is that your practice is uniquely capable of offering?
-
-- a strong marketing strategy that backs patient journey that is proven to improve the lives of your customers?
-- strong operational knowledge and efficiency of core business administrative functions?
-- ability to connect franchisees to support networks
-
-The great thing about GPM is that replicating your business model is greatly simplified due to the architecture of the application, and reporting that will quickly identify if a franchisee is sliding off the rails.
-
-Enable franchisee to concentrate on delivering satisfaction and building deeper connections with a loyal customer base.
-
-## Personal
+## Personal Qualities
 
 - Future ambitions
 - Leadership
@@ -154,6 +132,25 @@ From winning over franchisees to creating a franchise business plan to establish
 
 Next time you think those franchisees whose numbers are always outstanding don’t need that monthly meeting with you, think again! Though it’s tempting to shift your time, money and support to branches that need the extra help, it’s essential that you never stop caring about any of your franchisees. Rather than creating an imbalance in your attention and resources across branches, tailor different kinds of support to each franchisee’s needs. Even successful branches have the potential to do better!
 
-## Further learning
+Managers of franchise sites, carry the risk of good operation; they're personally invested in success, so tend to be responible and reliable.
+
+- Reduce managerial headaches, of finding new locations and hiring staff as franchisee will do this.
+- To become a franchise, businesses must prove ability to create value with a reproducible operating model.
+- To create the desire for franchisees to identify with your brand by proving your edge over competitors.
+
+## Gensolve
+
+The great thing about Gensolve is that replicating your business model is greatly simplified due to the architecture of the application, and reporting that will quickly identify if a franchisee is sliding off the rails.
+
+Enable franchisee to concentrate on delivering satisfaction and building deeper connections with a loyal customer base.
+
+1. Multi-Vendor Accounting system
+2. Can centralise core business administration
+3. Commission built into transactions
+4. Operating transparency
+5. Centralised pricing control
+6. Actionable workflows to back documented playbook
+
+## Related Articles
 
 - [How McDonalds makes money](https://www.investopedia.com/articles/markets/032015/how-mcdonalds-makes-its-money-mcd.asp)
