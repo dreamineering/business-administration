@@ -6,7 +6,7 @@ title: Sales
 
 Gensolve flies in the face of common wisdom, focus on one thing do one thing well.
 
-Is it a product problem? or just that customers don't have the sophistication to take in the big picture?
+Is it a product problem? It is very hard to sell the benefits of solutions to problems to customers can't recognise there is a problem.
 
 Using GPM and Gensolve Operations to create a **data-driven** sales process to track how many are coming in, how good are we at converting.
 
