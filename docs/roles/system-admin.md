@@ -6,18 +6,6 @@ title: System Admin
 
 ## Responsibilities
 
-## Recruitment
-
-### Personal
-
-### Qualifications
-
-### Questions
-
-### Resources
-
-## Gensolve Workflows
-
 During onboarding we will guide a member of your team through the essential configuration options.
 
 - Vendor Configuration
@@ -29,6 +17,20 @@ During onboarding we will guide a member of your team through the essential conf
 
 The administrator role give full access to everything, is not provided Demo Practice.
 
-### Custom Forms
+### Personal
+
+### Qualifications
+
+### Questions
+
+## Gensolve
+
+Try a [demo](/journey/demo/)
+
+| Field        | Setting       |
+| ------------ | ------------- |
+| Organisation | Demo Practice |
+| Username     | GPM           |
+| Password     | Dem0User      |
 
 Provide [feedback questions](./feedback-questions.md)

@@ -39,4 +39,14 @@ To be successful as a Practice Manager, you should be highly organized and self-
 
 ### Resources
 
-## Gensolve Workflows
+## Gensolve
+
+Try a [demo](/journey/demo/)
+
+| Field        | Setting       |
+| ------------ | ------------- |
+| Organisation | Demo Practice |
+| Username     | OM            |
+| Password     | Dem0User      |
+
+Provide [feedback questions](/support/feedback-questions.md)

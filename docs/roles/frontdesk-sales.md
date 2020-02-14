@@ -1,8 +1,8 @@
 ---
-title: Front Desk Sales
+title: Frontdesk Sales
 ---
 
-# Front Desk Sales
+# Frontdesk Sales
 
 This is primarily a **SALES** position, their primary goal is to ensure that all clients leave having booked a return appointment.
 
@@ -19,6 +19,10 @@ A front desk employee must respond to a variety of challenges on a daily basis. 
 - Staying updated on the benefits of retail products
 - Recognizing and supporting team goals
 - Maintaining positive relationships with all team members
+- [Client Appointments without Service Charges](../../)
+- [Appointments Not Completed]()
+- [Appointments Without Conditions]()
+- [DNA / Cancellations Report]()
 
 ## Recruitment
 
@@ -38,11 +42,14 @@ Maintain client confidentiality.
 
 ### Questions
 
-- How did you convert last difficult sale?
+- How did you convert your last difficult sale call?
 
-## Gensolve Workflows
+## Gensolve
 
-- [Client Appointments without Service Charges](../../)
-- [Appointments Not Completed]()
-- [Appointments Without Conditions]()
-- [DNA / Cancellations Report]()
+Try a [demo](/journey/demo/)
+
+| Field        | Setting       |
+| ------------ | ------------- |
+| Organisation | Demo Practice |
+| Username     | FD            |
+| Password     | Dem0User      |

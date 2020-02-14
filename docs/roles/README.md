@@ -28,7 +28,8 @@ Directly responsible for earning the business money for services rendered.
 
 Ensure the business runs efficiently.
 
-- [**FD:** Frontdesk Sales](./frontdesk-sales/)
+- [**RR:** Remote Reception](./remote-reception.md)
+- [**FD:** Frontdesk Sales](./frontdesk-sales.md)
 - [**OP:** Operations Manager](./operations-manager.md)
 - [**AP:** Accounts and Payroll](./accounts-and-payroll.md)
 - [**GPM:** Systems Admin](./system-admin.md)
@@ -39,7 +40,6 @@ In smaller organisations, these roles would be provided by external resources.
 
 - [**AC:** Accountant](./accountant.md)
 - [**MM:** Marketing Manager](./marketing-manager.md)
-- [**PM:** Property Manager](./property-manager.md)
 
 ## Recruitment
 
