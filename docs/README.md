@@ -11,14 +11,9 @@ auditLogos:
 auditKairos:
 ---
 
-<h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">Three applications for the price of one</h2>
+<h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you <span style="color:#D70014;font-weight:bold">love</span> helping others strive for their dreams<br>We <span style="color:#D70014;font-weight:bold">love</span> helping people like you</h2>
 
-How can you afford not to improve your:
-
-1. **Accuracy** avoid costly mistakes
-2. **Efficiency** save time with automation and shortcuts
-3. **Effectiveness** prioritise your most valuable decisions
-4. **Accountability** easily see who has been doing what
+With Gensolve you get four business applications for the price of one, where the business model you can support is only limited by your imagination.
 
 ## Quality of Treatment
 
@@ -98,8 +93,13 @@ Track performance, connect the dots, close the loop, review your strategy and ad
 
 [Learn more](./control/)
 
-<h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you <span style="color:#D70014;font-weight:bold">love</span> helping others strive for their dreams<br>We <span style="color:#D70014;font-weight:bold">love</span> helping people like you</h2>
+## Three applications for the price of one
 
-Wisdom for the **pain** is overrated! Take [control](/control/) of your business and [claim back your time](/journey/demo/)
+Wisdom for the **pain** is overrated! Take [control](/control/) of your business and [claim back your time](/journey/demo/). How can you afford not to improve your:
+
+1. **Accuracy** avoid costly mistakes
+2. **Efficiency** save time with automation and shortcuts
+3. **Effectiveness** prioritise your most valuable decisions
+4. **Accountability** easily see who has been doing what
 
 If you are concerned that your business is losing money try our free [peformance analysis](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) tool to understand where you have areas to improve on feel more comfortable with your plans for future growth.
