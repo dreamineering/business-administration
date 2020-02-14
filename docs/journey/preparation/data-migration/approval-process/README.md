@@ -6,7 +6,7 @@ title: Migration Approval Checklist
 
 Run throught this process to confirm the migration logic is acceptable for going live with GPM.
 
-Comparing a view of calendar for a recent past or future busy week and check
+Comparing a view of the calendar for a recent past or future busy week and check
 
 - No Missing data (Clients, Appointments etc)
 - Nothing imported that should have been ignored
