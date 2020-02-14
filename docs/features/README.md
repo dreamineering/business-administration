@@ -4,7 +4,7 @@ title: Features
 
 # Features
 
-Learn more about functionality by application
+Learn what Gensolve is capable of and how these features can help you run a more accurate, efficient, profitable and happier business.
 
 [[toc]]
 
