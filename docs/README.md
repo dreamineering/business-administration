@@ -58,7 +58,7 @@ Manage your clinicians and your administration team. Schedule recurring activiti
 
 ## Marketing
 
-If marketing is a dark art to you, don't worry it is all pretty straightforward. With Gensolve you can create a content calendar, distributing your message and measure the effectiveness of your strategy and probably save yourself spending money without understanding where it is going.
+set-up a content calendar distribution plan for your messages and then measure the effectiveness of your strategy.
 
 [Learn more](/growth/)
 
