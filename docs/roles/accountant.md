@@ -23,10 +23,22 @@ Picking the right accountant is a vital business decision.
 3. Are we a good match?
 4. Who needs to do what, when?
 
-### Resources
+## Gensolve
 
-- [UK Metricaccountants](https://www.metricaccountants.co.uk/)
+Try a [demo](/journey/demo/)
 
-## Gensolve Workflows
+Full accounting features in GPM
 
-- [Accounting]()
+| Field        | Setting       |
+| ------------ | ------------- |
+| Organisation | Demo Practice |
+| Username     | AC            |
+| Password     | Dem0User      |
+
+Or shared accounting with Xero
+
+| Field        | Setting       |
+| ------------ | ------------- |
+| Organisation | Demo Practice |
+| Username     | AX            |
+| Password     | Dem0User      |
