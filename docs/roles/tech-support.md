@@ -1,19 +1,15 @@
 ---
-title: Tech Support
+title: Roles > Tech Support
 ---
 
-# Tech Support
+# Roles > Tech Support
 
 ## Responsibilities
 
 ## Recruitment
 
-### Personal
+## Personal
 
-### Qualifications
+## Qualifications
 
-### Questions
-
-### Resources
-
-## Gensolve Workflows
+## Recruitment Questions

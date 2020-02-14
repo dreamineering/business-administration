@@ -1,12 +1,14 @@
 ---
-title: Frontdesk Sales
+title: Roles > Frontdesk Sales
 ---
 
-# Frontdesk Sales
+# Roles > Frontdesk Sales
 
 This is primarily a **SALES** position, their primary goal is to ensure that all clients leave having booked a return appointment.
 
 A front desk employee must respond to a variety of challenges on a daily basis. A lack of systems to follow results in poor productivity, lost income, high cancellation rates, high staff turnover, low morale and missed opportunities.
+
+[[toc]]
 
 ## Responsibilities
 
@@ -24,14 +26,12 @@ A front desk employee must respond to a variety of challenges on a daily basis. 
 - [Appointments Without Conditions]()
 - [DNA / Cancellations Report]()
 
-## Recruitment
-
-### Emotional Intelligence
+## Personal
 
 Have a strong customer service orientation and be able to communicate effectively with members and guests, prospective clients, vendors, and the management and team.
 Maintain client confidentiality.
 
-### Qualifications
+## Qualifications
 
 - Basic math and cash handling experience.
 - Have strong phone and computer skills (MS Word and Excel).
@@ -40,7 +40,7 @@ Maintain client confidentiality.
 - Work cohesively with others in a fun and fast-paced environment
 - Possess general knowledge of services and modalities
 
-### Questions
+## Recruitment Questions
 
 - How did you convert your last difficult sale call?
 

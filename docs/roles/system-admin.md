@@ -1,8 +1,10 @@
 ---
-title: System Admin
+title: Roles > System Admin
 ---
 
-# System Admin
+# Roles > System Admin
+
+[[toc]]
 
 ## Responsibilities
 
@@ -17,11 +19,11 @@ During onboarding we will guide a member of your team through the essential conf
 
 The administrator role give full access to everything, is not provided Demo Practice.
 
-### Personal
+## Personal
 
-### Qualifications
+## Qualifications
 
-### Questions
+## Recruitment Questions
 
 ## Gensolve
 

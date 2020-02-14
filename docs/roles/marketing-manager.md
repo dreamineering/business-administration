@@ -1,26 +1,22 @@
 ---
-title: Marketing Manager
+title: Roles > Marketing Manager
 ---
 
-# Marketing Manager
+# Roles > Marketing Manager
+
+[[toc]]
 
 ## Responsibilities
-
-## Recruitment
-
-### Personal
-
-### Qualifications
-
-### Questions
-
-### Resources
-
-## Gensolve Workflows
 
 - SMS templates
 - Client Groups
 - Mailout
+
+## Personal
+
+## Qualifications
+
+## Recruitment Questions
 
 ## Gensolve
 

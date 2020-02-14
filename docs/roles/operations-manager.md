@@ -1,12 +1,14 @@
 ---
-title: Operations Manager
+title: Roles > Operations Manager
 ---
 
-# Operations Manager
+# Roles > Operations Manager
 
 Runs the business operations of a medical practice. Responsible for hiring and training administrative staff, managing budgets and payments, organizing records, and ensuring that the practice delivers good customer service.
 
 To be successful as a Practice Manager, you should be highly organized and self-motivated. Top candidates will also have great leadership and interpersonal skills.
+
+[[toc]]
 
 ## Responsibilities
 
@@ -21,9 +23,7 @@ To be successful as a Practice Manager, you should be highly organized and self-
 - Conducting regular staff meetings and performance reviews.
 - Working as a team to ensure the practice runs effectively and meets objectives.
 
-## Recruitment
-
-### Personal
+## Personal
 
 - Degree in business management or related field.
 - Management experience, preferably in the healthcare sector.
@@ -33,11 +33,9 @@ To be successful as a Practice Manager, you should be highly organized and self-
 - Solid understanding of finance management.
 - Professional appearance
 
-### Qualifications
+## Qualifications
 
-### Questions
-
-### Resources
+## Recruitment Questions
 
 ## Gensolve
 

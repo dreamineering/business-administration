@@ -1,8 +1,8 @@
 ---
-title: Roles > Clinican
+title: Roles > Provider
 ---
 
-# Roles > Clinician
+# Roles > Provider
 
 [[toc]]
 

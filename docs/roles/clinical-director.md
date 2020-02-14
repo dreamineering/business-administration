@@ -1,24 +1,20 @@
 ---
-title: Clinical Lead
+title: Roles > Clinical Lead
 ---
 
-# Clinical Lead
+# Roles > Clinical Lead
 
-Provide [feedback questions](../../support/feedback-questions.md)
+[[toc]]
 
-## Modailities
+## Responsibilities
 
-- Acupuncturist
-- Chiropractor
-- Counselor
-- Dietian
-- Hand therapist
-- Occupational therapist
-- Osteopath
-- Physiotherapist
-- Podiatrist
-- Psychologist
-- Personal trainer, Music teacher, Dance Instructor etc
+- [Modalities](./clinician-modalities/)
+
+## Personal
+
+## Qualifications
+
+## Recruitment Questions
 
 ## Gensolve
 
@@ -29,3 +25,5 @@ Try a [demo](/journey/demo/)
 | Organisation | Demo Practice |
 | Username     | CD            |
 | Password     | Dem0User      |
+
+Provide [feedback questions](/support/feedback-questions.md)

@@ -1,22 +1,22 @@
 ---
-title: Accountant
+title: Roles > Accountant
 ---
 
-# Accountant
+# Roles > Accountant
 
 Choosing the right accountant is one of the most important decisions a small business can make. A good one can save you time and help your business grow; a bad one could cost you much needed money. With thousands to choose from, it can be a daunting call to make.
 
-## Responsibilities
+[[toc]]
 
-## Recruitment
+## Responsibilities
 
 Picking the right accountant is a vital business decision.
 
-### Emotional Intelligence
+## Personal
 
-### Qualifications
+## Qualifications
 
-### Questions
+## Recruitment Questions
 
 1. Why should I hire you?
 2. Could my money work harder?

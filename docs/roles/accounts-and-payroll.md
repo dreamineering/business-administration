@@ -1,10 +1,12 @@
 ---
-title: Accounts Controller
+title: Roles > Accounts and Payroll
 ---
 
-# Accounts Controller
+# Roles > Accounts and Payroll
 
-Secures revenue by verifying and posting receipts; resolving discrepancies, ensures suppliers are paid on time.
+Secures revenue by verifying and posting receipts; resolving discrepancies, ensures suppliers are paid on time. Your link between your business strategy and your accountant is of vital importance.
+
+[[toc]]
 
 ## Responsibilities
 
@@ -21,13 +23,11 @@ Secures revenue by verifying and posting receipts; resolving discrepancies, ensu
 - Updates job knowledge by participating in educational opportunities.
 - Accomplishes accounting and organization mission by completing related results as needed.
 
-## Recruitment
+## Personal
 
-### Emotional Intelligence
+## Qualifications
 
-### Qualifications
-
-### Questions
+## Recruitment Questions
 
 ### Resources
 
