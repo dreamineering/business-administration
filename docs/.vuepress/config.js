@@ -1,6 +1,5 @@
 module.exports = {
-  title: 'Gensolve',
-  description: 'we value your time',
+  title: 'Gensolve Practice Manager',
   head: [['link', { rel: 'icon', href: `/logo.svg` }]],
   plugins: [['@vuepress/google-analytics', { ga: '' }], 'flowchart'],
   themeConfig: {
