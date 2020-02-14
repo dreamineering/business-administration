@@ -10,6 +10,8 @@ In fractured allied health markets, GPM has enabled progressive clinics with the
 
 If properly executed, we have seen practices use this strategy to grow their businesses {number} fold and greater in under {number} years
 
+[[toc]]
+
 The dynamics for growth through acquisitions is very compelling and include:
 
 - With the increasing numbers of private companies coming up for sale, pricing and deal structuring can be advantageous to the buyer.
@@ -21,6 +23,8 @@ The dynamics for growth through acquisitions is very compelling and include:
 While the potential gains from this strategy are enormous, the risks are very real. Studies of public companies’ acquisitions have shown that the majority of acquisitions don’t add to shareholder value.
 
 And given the relatively limited resources available to most private companies, these risks can be even more dangerous.
+
+## Risks
 
 Some of the biggest mistakes we see with companies who decide to grow through acquisitions include:
 
@@ -35,13 +39,17 @@ Some of the biggest mistakes we see with companies who decide to grow through ac
 9. Overestimating the synergies
 10. Going after the next deal too quickly
 
-[Start a franchise](./franchise/)
-
 ## Growth Migrations
 
 Gensolve has facilitated 30+ G2G migrations over the past two years. Compared to the headaches accepted with most mergers the beautiful thing with a _G2G migration_ is that from one day to the next your operations remain the same, leaving your team free to focus on customer service not boring administration tasks.
 
 [Learn more](./growth-migrations)
+
+## Franchise
+
+If you have a thriving practice, rather than taking all of the expansion risks it could be that starting a franchise be the best option to expand your business.
+
+[Learn more](./franchise/)
 
 ## Professional Guidance
 

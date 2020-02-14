@@ -4,9 +4,7 @@ title: Growth
 
 # Growth
 
-Not just financially but as humans.
-
-If you can't achieve consistency across your team, measuring the impact of your strategic initiatives is guesswork. Grow your organisations [operational intelligence](/features/workflows/staff-management/how-to-create-operations-checklists/) to share knowledge efficiently and ensure consistent accountable workflows are adhered to.
+Not just financially but as humans. If you can't achieve consistency across your team, measuring the impact of your strategic initiatives is guesswork. Grow your organisation's [operational intelligence](/features/workflows/) to share knowledge efficiently and ensure consistent accountable workflows are adhered to.
 
 [[toc]]
 
@@ -88,6 +86,8 @@ Location, Location, Location and are you filling your available space effectivel
 [Learn more](./property/)
 
 ## Acquisition
+
+Gensolve has facilitated 30+ G2G migrations over the past two years. Compared to the headaches accepted with most mergers the beautiful thing with a _G2G migration_ is that from one day to the next your operations remain the same, leaving your team free to focus on customer service not boring administration tasks.
 
 [Learn more](./acquisition/)
 
