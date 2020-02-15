@@ -28,19 +28,15 @@ GPM has extensive clinical notes out of the box, where **each clinician** can co
 - Document and Video uploads
 - Referrals, Investigations and Discharges
 
-Subjective charts are used to display standard body diagrams (or other images depending on specialty) and can easily be drawn on by the practitioner. Notes can be edited or extended on the day. With state-of-the-art audit trails and security features, GPM ensures that once recorded, patient notes cannot be tampered with.
-
 > _As a Tertiary Educational Provider we feel it is important to train students with real-world products that they will be expected to use upon graduation. Gensolve is one such product._ Auckland University of Technology
 
 [Learn more](/growth/)
 
 ## Finances
 
-The only system on the market where you can track cashflow through to your balance sheet without leaving the application and strong financial controls are the core of any business. You can give your accountant access to Gensolve for free and then they can directly provide real-time valuable advice on how to configure your revenue channels for better analysis of results versus your growth strategy.
+The only system on the market where you can track cashflow through to your balance sheet without leaving the application and strong financial controls are the core of any business. You can give your accountant access to Gensolve for free and then they can directly provide real-time valuable advice on how to configure your revenue channels for better analysis of results versus your growth strategy. [Invite your accountant](/roles/accountant.md) to take look.
 
-Don't take our word for it, [invite your accountant](/roles/accountant.md) to take look now.
-
-If your accountant loves [Xero](https://www.xero.com/) no dramas either, Gensolve has full integration with [Xero](https://www.xero.com/) too.
+If your accountant uses [Xero](https://www.xero.com/) no problems, Gensolve has [integration](/features/integrations/) with Xero too.
 
 [Learn more](/growth/)
 

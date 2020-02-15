@@ -6,21 +6,20 @@ auditIntent:
 
 # Playbook
 
-If it is written down, it doesn't exist
-
-- [Executive perspective](https://www.chiefexecutiveboards.com/briefings/briefing210.htm)
-- [Coding perspective](https://blog.codinghorror.com/if-it-isnt-documented-it-doesnt-exist/)
-- How we operate
-- How to use GPM to drive Gensolve's Operations
-- How Gensolve Develops Software
-
 [[toc]]
 
-## Goal
+## Goals
+
+1. Predictable Growth through building a Sales Engine
+2. Greater Product Knowledge, laser focus on adding value
+3. Process Optimisation, eliminate rework
+4. Documented Framework for Decision Prioritisation
 
 Predictable, Repeatable Growth that is not reliant on any particular Knowledge Worker so that Gensolve can [scale](https://mastersofscale.com/) at the optimum rate, avoiding unproductive, morale destroying **Fire-Fighting - Endless cycles of rework**.
 
-Evolve Genolve's **why** through using GPM to optimise internal business operations so that we can evolve and pass on value-creating [workflows](../../features/workflows/) ideas to our customers.
+> Feel the pain of using our product to run our own business so that we have a laser focus on what needed to run an appointment based revenue business more efficiently.
+
+Optimise internal business operations so that we pass on valuable [workflow](/features/workflows/) ideas to our customers.
 
 A clear cut process that explains how features are prioritised across all products and countries
 
@@ -30,13 +29,24 @@ Inspiration from [Thoughtbot](https://thoughtbot.com/playbook), [David Skok](htt
 
 ## Communications
 
+If it is written down, it doesn't exist, [Executive perspective](https://www.chiefexecutiveboards.com/briefings/briefing210.htm), [Coding perspective](https://blog.codinghorror.com/if-it-isnt-documented-it-doesnt-exist/)
+
+- How we operate
+- How to Develop Software
+- How GPM can improve our Business Operations
+- Email is a very inefficient protocol for internal communications
+
 [More](./communications/)
 
 ## Content Creation
 
+A checklist for how we create marketing style copy vs technical _how to_ writing
+
 [More](./content-creation/)
 
 ## Custom Form
+
+How we can use custom forms internally and pass on ideas to customers
 
 [More](./custom-forms/)
 

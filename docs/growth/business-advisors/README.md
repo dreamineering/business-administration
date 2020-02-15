@@ -1,8 +1,8 @@
 ---
-title: Coaching
+title: Business Advisors
 ---
 
-# Coaching
+# Business Advisors
 
 We are happy to provide some ideas on the best use of Gensolve but we are not business consultants. If you need help prioritising works efforts to optimise value creation, below is a list of resources you can talk to.
 
@@ -16,7 +16,7 @@ Helping to create growth through acquisitions
 
 - [thembogroup](http://www.thembogroup.com/)
 
-## Physiotherapy & PT Business Advisors
+## Physiotherapy & PT Coaching
 
 - [Elevate Your Clinic](https://elevateyourclinic.com)
 - [Health Business Profits](https://www.healthbusinessprofits.com/)

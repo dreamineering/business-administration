@@ -97,4 +97,4 @@ Gensolve has facilitated 30+ G2G migrations over the past two years. Compared to
 
 If you need guidance steering your decision making here is a list of business professionals that you can talk to about following the right track.
 
-[Learn more](./coaching/)
+[Learn more](./business-advisors/)
