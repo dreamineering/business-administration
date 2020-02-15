@@ -1,7 +1,7 @@
 ---
 home: true
 actionText:
-footer: Gensolve Business Solutions | We Walue Your Time
+footer: Gensolve Business Solutions | We Value Your Time
 sidebar: auto
 auditAudience:
 auditDesiredAction:

@@ -6,6 +6,8 @@ auditIntent:
 
 # Playbook
 
+> [A rising tide lifts all boats](https://en.wikipedia.org/wiki/A_rising_tide_lifts_all_boats) - [JFK](https://www.townandcountrymag.com/leisure/arts-and-culture/news/g1324/the-best-jfk-quotes-of-all-time/)
+
 [[toc]]
 
 ## Goals
