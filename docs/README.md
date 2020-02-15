@@ -1,7 +1,7 @@
 ---
 home: true
 actionText:
-footer: Gensolve Business Solutions | We Value Your Time
+footer: Gensolve Business Solutions | We Walue Your Time
 sidebar: auto
 auditAudience:
 auditDesiredAction:
@@ -11,9 +11,9 @@ auditLogos:
 auditKairos:
 ---
 
-<h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you <span style="color:#D70014;font-weight:bold">love</span> helping others strive for their dreams<br>We <span style="color:#D70014;font-weight:bold">love</span> helping people like you</h2>
+<h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you <span style="color:#D70014;font-weight:bold">love</span> helping people strive for their dreams<br>We <span style="color:#D70014;font-weight:bold">love</span> helping people like you</h2>
 
-With Gensolve you get four business applications for the price of one, where the business model you can support is only limited by your imagination.
+If you earn your living by training others to reach their potential Gensolve will take care of the boring stuff so you can concentrate on delivering the greatest possible experience to your customers.
 
 ## Quality of Treatment
 

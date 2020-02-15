@@ -45,6 +45,20 @@ This is a dangerous warning
 This is a details block, which does not work in IE / Edge
 :::
 
+Custom
+
+::: danger STOP
+Danger zone, do not proceed
+:::
+
+::: details Click me to view the code
+
+```js
+console.log('Hello, VuePress!');
+```
+
+:::
+
 ## Plugins
 
 - [Flowchart](https://flowchart.vuepress.ulivz.com/)

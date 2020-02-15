@@ -25,9 +25,11 @@ Improve your [excel skills](https://edu.gcfglobal.org/en/excel2016/) if needed.
 1. Replace items in the {brackets} with people in your organisation
 2. Change the Currency format as required
 
-If you are planning to employ new staff, use a convention to create a placeholder name such as _Graduate Physio_ until the recruitment hole has been fulfilled.
+If you are planning to employ new staff, use placeholder names such as _New Graduate Physio_ until the recruitment hole has been fulfilled.
 
-To add a new employee copy and paste the entire rows of another employee and then paste insert.
+::: tip
+To add a new employee copy all relevant rows of another employee and then [insert paste](https://www.exceltip.com/excel-editing/inserting-a-copied-cells-without-overwriting-existing-data.html) then adjust as required.
+:::
 
 Email <a href="mailto:info@gensolve.com?subject=Performance%20Forecast">info@gensolve.com</a> if you need help getting started.
 
@@ -37,9 +39,9 @@ A key assumption is that your service price list will be reviewed quarterly.
 
 Replace the names of services, with the actual services and prices you offer and those of your competition for the sake of quarterly comparison and update.
 
-For each service consider whether you can differentiate via marketing and new pricing band, if a clinician with 20+ years of experience is charging at the same rate as recent graduate.
-
 These numbers do not automatically feed into other sheets in this workbook. But you will need to reference this sheet when estimating the maximum hourly rate of each clinician could earn, assuming 100% (Saturation) time is spent with a paying client.
+
+[Learn more](/growth/marketing/intelligent-pricing.md)
 
 ## Scheduled Hours
 

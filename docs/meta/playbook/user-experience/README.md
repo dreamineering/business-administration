@@ -4,10 +4,14 @@ title: User Experience
 
 # User Experience
 
-### Rules
+> [**Simplicity** is the ultimate sophistication](https://articles.uie.com/simplicity/) but there is better money in chaotic complexity.
 
-#### The Law of Four
+[[toc]]
 
-### Interface Design
+## Rules
+
+## The Law of Four
+
+## Interface Design
 
 - [Refactoring UI](https://refactoringui.com/)
