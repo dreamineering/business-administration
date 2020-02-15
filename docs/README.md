@@ -83,9 +83,9 @@ Financial Managers to budget operating margin with contract charges for establis
 
 _If you cannot measure it, you cannot improve it, if your processes are inconsistent, what you measure is bul... not much use_
 
-Track performance, connect the dots, close the loop, review your strategy and adjust to take control of your destiny.
+Track performance, connect the dots, close the loop, review your strategy and adjust your plans to take control of your destiny.
 
-**We take security seriously!** With Gensolve you can lock down access to certain computers or even the time of day when access is allowed. So even if your computer is lost or stolen you can terminate access immediately and if you are following best working practices [no client files should be on your hard drive](/growth/compliance/file-management.md) when using Gensolve so you are safe.
+**We take security seriously!** With Gensolve you can lock down access to certain computers or even the time of day when access is allowed. So even if your computer is lost or stolen you can terminate access immediately and if you are following best working practices [business files should be on your hard drive](/growth/compliance/file-management.md).
 
 [Learn more](./control/)
 
@@ -95,7 +95,7 @@ Gensolve has facilitated over 30 practice mergers in the past two years. Compare
 
 [Learn more](/growth/growth-migrations/)
 
-## Three applications for the price of one
+## 3 Applications for the Price of One
 
 Wisdom for the **pain** is overrated! Take [control](/control/) of your business and [claim back your time](/journey/demo/). How can you afford not to improve your:
 
