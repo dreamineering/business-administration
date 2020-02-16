@@ -34,11 +34,9 @@ GPM has extensive clinical notes out of the box, where **each clinician** can co
 
 ## Finances
 
-The only system on the market where you can track cashflow through to your balance sheet without leaving the application and strong financial controls are the core of any business. You can give your accountant access to Gensolve for free and then they can directly provide real-time valuable advice on how to configure your revenue channels for better analysis of results versus your growth strategy. [Invite your accountant](/roles/accountant.md) to take look.
+Track cashflow through to your balance sheet with your accountant without leaving the application. Strong financial controls are fundamental to the success of any business. With Gensolve your Accountant can directly implement real-time value by guiding how to configure your ledgers for better analysis of results versus your growth strategy. [Invite your accountant](/roles/accountant.md) to take look. If your accountant already uses [Xero](https://www.xero.com/) no problems, Gensolve has [integration](/features/integrations/) covered.
 
-If your accountant uses [Xero](https://www.xero.com/) no problems, Gensolve has [integration](/features/integrations/) with Xero too.
-
-[Learn more](/growth/)
+[Learn more](/growth/finances/)
 
 ## Productivity
 

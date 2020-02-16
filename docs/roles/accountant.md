@@ -42,3 +42,7 @@ Or shared accounting with Xero
 | Organisation | Demo Practice |
 | Username     | AX            |
 | Password     | Dem0User      |
+
+## Resources
+
+- [Profit First Chiro](https://www.profitfirstchiro.com/)

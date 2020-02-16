@@ -10,13 +10,17 @@ We are confident that whatever strategy you agree to from working with these pro
 
 [[toc]]
 
+## Accountants
+
+- [Profit First Chiro](https://www.profitfirstchiro.com/)
+
 ## Acquisitions
 
 Helping to create growth through acquisitions
 
 - [thembogroup](http://www.thembogroup.com/)
 
-## Physiotherapy & PT Coaching
+## Coaching - Physiotherapy & PT
 
 - [Elevate Your Clinic](https://elevateyourclinic.com)
 - [Health Business Profits](https://www.healthbusinessprofits.com/)
