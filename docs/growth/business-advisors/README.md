@@ -4,9 +4,9 @@ title: Business Advisors
 
 # Business Advisors
 
-We are happy to provide some ideas on the best use of Gensolve but we are not business consultants. If you need help prioritising works efforts to optimise value creation, below is a list of resources you can talk to.
+We are happy to provide ideas on how to apply fundamental business concepts with Gensolve but we are not consultants.
 
-We are confident that whatever strategy you agree to from working with these professionals will be actionable in Gensolve.
+Below is a list of resources you can talk to about growing your business. We are confident that whatever strategy you agree to from working with these professionals will be actionable in Gensolve.
 
 [[toc]]
 
@@ -18,7 +18,7 @@ We are confident that whatever strategy you agree to from working with these pro
 
 Helping to create growth through acquisitions
 
-- [thembogroup](http://www.thembogroup.com/)
+- [The MBO Group](http://www.thembogroup.com/)
 
 ## Coaching - Physiotherapy & PT
 
@@ -30,4 +30,4 @@ Helping to create growth through acquisitions
 
 ## Join the Platform
 
-We are working on something to help you help your customers better with proof of your value proposition. If you offer professional services that you think could benefit business owners using Gensolve, then email partners@gensolve.com and we'd be happy to have a chat on how we can help each other.
+If you are a consultant we can help you to help your customers implement your strategies easier with proof of your value proposition. If you offer services that would benefit business owners using Gensolve, then email partners@gensolve.com and we'd be happy to have a chat on how we can help each other help practice owners run more rewarding businesses.
