@@ -1,8 +1,8 @@
 ---
-title: audience
+title: Playbook > audience
 ---
 
-# Audience
+# Playbook > Audience
 
 ## Buyers
 

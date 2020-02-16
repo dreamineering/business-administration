@@ -1,18 +1,18 @@
 ---
-title: Content Creation Guide
+title: Playbook > Content Creation Guide
 auditAudience:
 auditIntent:
 ---
 
-# Content Creation Guide
+# Playbook > Content Creation Guide
 
 Read [the discipline of content strategy](https://alistapart.com/article/thedisciplineofcontentstrategy/) to gain a quick idea of what content strategy is about.
 
-1. [Intent](./intent/)
-2. [Audience](./audience/)
-3. [Structure](./content-structure/)
+1. [Intent](./intent.md)
+2. [Audience](./audience.md)
+3. [Structure](./structure.md)
 4. [Substance](./substance/)
-5. [Storytelling](./storytelling/)
+5. [Storytelling](./storytelling.md)
 6. [Marketing Channels](./marketing-channels/)
 
 ![link up content](https://drive.google.com/uc?id=1oQX5ZWoeVanE5Izp1wJeo7T64j_yVAcu)

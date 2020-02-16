@@ -1,8 +1,8 @@
 ---
-title: Angular
+title: Playbook > Frontend
 ---
 
-# Angular
+# Playbook > Frontend
 
 [Angular Markdown Pipe](https://markrabey.com/2019/05/31/angular-markdown-pipe/)
 

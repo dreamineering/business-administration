@@ -1,8 +1,8 @@
 ---
-title: Direction
+title: Playbook > Direction
 ---
 
-# Direction
+# Playbook > Direction
 
 ## Scalability
 

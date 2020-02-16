@@ -1,8 +1,8 @@
 ---
-title: Dashboards
+title: Playbook > Dashboards
 ---
 
-## Dashboards
+# Playbook > Dashboards
 
 ## Design
 

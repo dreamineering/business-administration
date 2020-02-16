@@ -1,8 +1,8 @@
 ---
-title: Communications
+title: Playbook > Communications
 ---
 
-# Communications
+# Playbook > Communications
 
 Unstructured communication (email) is just noise. Effective communication protocol is essential for productivity
 

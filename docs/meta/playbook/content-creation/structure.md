@@ -1,8 +1,8 @@
 ---
-title: Content Structure
+title: Playbook > Content Structure
 ---
 
-# Content Structure
+# Playbook > Content Structure
 
 The overall goal is to **cross-reference the below like fuck**
 

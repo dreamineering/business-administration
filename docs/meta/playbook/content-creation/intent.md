@@ -1,8 +1,8 @@
 ---
-title: Intent
+title: Playbook > Intent
 ---
 
-## Intent
+## Playbook > Intent
 
 - Establish Thought Leadership
 - Extract Value out of Support Centre

@@ -1,8 +1,8 @@
 ---
-title: Experimental
+title: Playbook > Experimental
 ---
 
-## Experimental
+# Playbook > Experimental
 
 Have an experimental branch to help solve our internal workflow and reporting demands, that we can pass on lessons to customers knowing things are well tested.
 

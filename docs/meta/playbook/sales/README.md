@@ -1,8 +1,8 @@
 ---
-title: Sales
+title: Playbook > Sales
 ---
 
-# Sales
+# Playbook > Sales
 
 Gensolve flies in the face of common startup wisdom (dogma), focus on one thing and do that one thing exceptionally well. But is it a product problem? Or the fact it is very hard to sell the benefits of problem solutions to customers that can't recognise there is a problem.
 
