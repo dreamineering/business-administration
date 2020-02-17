@@ -1,8 +1,8 @@
 ---
-title: Condition Details
+title: Client Condition Details
 ---
 
-# Condition Details
+# Client Condition Details
 
 ## Shared with all tabs
 

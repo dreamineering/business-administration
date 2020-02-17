@@ -1,5 +1,5 @@
 ---
-title: Client Accounts Invoices
+title: Client Memberships
 ---
 
-# Client Accounts Invoices
+# Client Memberships
