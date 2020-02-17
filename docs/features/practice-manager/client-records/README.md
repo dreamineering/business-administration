@@ -58,50 +58,30 @@ title: Client Records
 
 [Learn more](./client-memberships.md)
 
-## Condition Appointments
+## Client Conditions
 
-[Learn more](./condition-appointments.md)
+[Learn more](./client-conditions.md)
 
-## Condition Provider History
+## Client Condition Appointments
 
-[Learn more](./condition-provider-history.md)
+[Learn more](./client-condition-appointments.md)
 
-## Condition Referrals and Discharges
+## Client Condition Provider History
 
-[Learn more](./condition-referrals-and-discharges.md)
+[Learn more](./client-condition-provider-history.md)
 
-## Conditions
+## Client Condition Daily Notes Assessments
 
-[Learn more](./conditions.md)
+[Learn more](./client-condition-daily-notes-assessments.md)
 
-## Daily Notes Assessment - Image Notes
+## Client Condition Daily Notes Assessment Exams
 
-[Learn more](./daily-notes-assessment-image-notes.md)
+[Learn more](./client-condition-daily-notes-assessment-exams.md)
 
-## Daily Notes Assessment - McKenzie
+## Client Condition Daily Notes McKenzie Assessments
 
-[Learn more](./daily-notes-assessment-mckenzie.md)
+[Learn more](./client-condition-daily-notes-mckenzie-assessments.md)
 
-## Daily Notes Assessment - Rehab
+## Client Condition Referrals, Investigations and Discharges
 
-[Learn more](./daily-notes-assessment-rehab.md)
-
-## Daily Notes Assessment - Standard
-
-[Learn more](./daily-notes-assessment-standard.md)
-
-## Daily Notes Assessment - Simple
-
-[Learn more](./daily-notes-assessment-simple.md)
-
-## Daily Notes Assessment - Simple Consultation
-
-[Learn more](./daily-notes-assessment-simple-consultation.md)
-
-## Daily Notes Assessment - SOAPER
-
-[Learn more](./daily-notes-assessment-soaper.md)
-
-## Daily Notes Assessment - SOTAP
-
-[Learn more](./daily-notes-assessment-sotap.md)
+[Learn more](./client-condition-referrals-investigations-discharges.md)
