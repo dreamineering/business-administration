@@ -8,8 +8,6 @@ We are happy to provide ideas on how to apply fundamental business concepts with
 
 If you need help with making tough decisions below is a list of resources you can talk to about growing your business. We are confident that whatever strategy you agree to from working with these professionals will be actionable in Gensolve.
 
-Before you recruit a consultant we highly recommend reading [Trillion Dollar Coach](https://www.trilliondollarcoach.com/) so you know what to look for.
-
 [[toc]]
 
 ## Accountants
