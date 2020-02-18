@@ -17,7 +17,7 @@ As a vital aspect of attracting and retaining talent, you must communicate the s
 
 Dependent on the size of the organisation may need to cover both clinical and business operations roles.
 
-## Customers Services
+## Customer Services
 
 Directly responsible for earning the business money for services rendered.
 
@@ -40,6 +40,10 @@ In smaller organisations, these roles would be provided by external resources.
 
 - [**AC:** Accountant](./accountant.md)
 - [**MM:** Marketing Manager](./marketing-manager.md)
+
+## Executive
+
+- [Director](./director.md)
 
 ## Recruitment
 

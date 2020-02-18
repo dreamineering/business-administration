@@ -1,8 +1,8 @@
 ---
-title: Treatment
+title: Treatment Pathway
 ---
 
-# Treatment
+# Treatment Pathway
 
 - Conditions vs Contracts
 - Initial Assessment
@@ -13,6 +13,10 @@ title: Treatment
 - Patient Goals
 - Appointment Treatment Notes
 - Treatment Outcomes
+
+## Overview
+
+![Treatment Pathway Overview](https://drive.google.com/open?id=1pJAE9mkyqqebob3vybvAqLfVNDGymrbT)
 
 ## Goals
 

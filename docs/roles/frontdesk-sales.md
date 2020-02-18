@@ -8,6 +8,8 @@ This is primarily a **SALES** position, their primary goal is to ensure that all
 
 A front desk employee must respond to a variety of challenges on a daily basis. A lack of systems to follow results in poor productivity, lost income, high cancellation rates, high staff turnover, low morale and missed opportunities.
 
+[Google search](https://www.google.com/search?q=front+office+jobs+%22gensolve%22&sa=X&ved=2ahUKEwjOn7q8xtrnAhXtx6YKHeoUB8QQ5t4CMA16BAgBEAk&biw=1500&bih=868&dpr=2)
+
 [[toc]]
 
 ## Responsibilities

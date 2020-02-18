@@ -6,6 +6,30 @@ title: Client Records
 
 [[toc]]
 
+## Client Details
+
+[Learn more](./client-details.md)
+
+## Client Contact Details
+
+[Learn more](./client-contact-details.md)
+
+## Client Appointments
+
+[Learn more](./client-appointments.md)
+
+## Client Events
+
+[Learn more](./client-events.md)
+
+## Client Full History
+
+[Learn more](./client-full-history.md)
+
+## Client Letters and Uploads
+
+[Learn more](./client-letters-and-uploads.md)
+
 ## Client Accounts Charges
 
 [Learn more](./client-accounts-charges.md)
@@ -25,30 +49,6 @@ title: Client Records
 ## Client Accounts Write-offs
 
 [Learn more](./client-accounts-write-offs.md)
-
-## Client Appointments
-
-[Learn more](./client-appointments.md)
-
-## Client Contact Details
-
-[Learn more](./client-contact-details.md)
-
-## Client Details
-
-[Learn more](./client-details.md)
-
-## Client Events
-
-[Learn more](./client-events.md)
-
-## Client Full History
-
-[Learn more](./client-full-history.md)
-
-## Client Letters and Uploads
-
-[Learn more](./client-letters-and-uploads.md)
 
 ## Client Medical Notes
 
