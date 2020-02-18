@@ -13,7 +13,11 @@ auditKairos:
 
 <h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you <span style="color:#D70014;font-weight:bold">love</span> helping people strive for their dreams<br>We <span style="color:#D70014;font-weight:bold">love</span> helping people like you</h2>
 
-If you earn your living by training others to reach their potential Gensolve will take care of the boring stuff so you can concentrate on delivering the greatest possible experience to your customers.
+Are you thriving or barely surviving? Download our **free practice profitability tool** to assess the health of your practice. No need to sign up! If you earn your living by helping others reach their potential, we like to help take care of the boring stuff so you can concentrate on delivering the greatest possible experience to your customers.
+
+<a
+  href="https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download"
+  style="font-size:2em;margin:2rem auto 3rem;width:300px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 4rem;border-radius:60px">Download Now!</a>
 
 ## Quality of Treatment
 
@@ -93,13 +97,15 @@ Gensolve has facilitated over 30 practice mergers in the past two years. Compare
 
 [Learn more](/growth/growth-migrations/)
 
-## 3 Applications for the Price of One
-
-Wisdom for the **pain** is overrated! Take [control](/control/) of your business and [claim back your time](/journey/demo/). How can you afford not to improve your:
+**Get three Applications for the Price of One.** Wisdom for the **pain** is overrated! Take [control](/control/) of your business and [claim back your time](/journey/demo/). Can you afford not to improve your:
 
 1. **Accuracy** avoid costly mistakes
 2. **Efficiency** save time with automation and shortcuts
 3. **Effectiveness** prioritise your most valuable decisions
 4. **Accountability** easily see who has been doing what
 
-If you are concerned that your business is losing money try our free [peformance analysis](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) tool to understand where you have areas to improve on feel more comfortable with your plans for future growth.
+If you have concerns your business is not as profitable as it should be, download our free [peformance analysis tool](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) to feel more comfortable with your plans for the future.
+
+<a
+  href="https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download"
+  style="font-size:2em;margin:2rem auto 3rem;width:300px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 4rem;border-radius:60px">Download Now!</a>
