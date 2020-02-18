@@ -12,51 +12,31 @@ title: Client Records
 
 - [Web Client Details](./web-client-details/)
 
-## Client Contact Details
+### Contacts
 
 [Learn more](./client-contact-details.md)
 
-## Client Appointments
+### Appointments
 
 [Learn more](./client-appointments.md)
 
-## Client Events
+### Events
 
 [Learn more](./client-events.md)
 
-## Client Full History
+### Full History
 
 [Learn more](./client-full-history.md)
 
-## Client Letters and Uploads
+### Letters and Uploads
 
 [Learn more](./client-letters-and-uploads.md)
 
-## Client Accounts Charges
-
-[Learn more](./client-accounts-charges.md)
-
-## Client Accounts Invoices
-
-[Learn more](./client-accounts-invoices.md)
-
-## Client Accounts Payments
-
-[Learn more](./client-accounts-payments.md)
-
-## Client Accounts Statements
-
-[Learn more](./client-accounts-statements.md)
-
-## Client Accounts Write-offs
-
-[Learn more](./client-accounts-write-offs.md)
-
-## Client Medical Notes
+### Medical Notes
 
 [Learn more](./client-medical-notes.md)
 
-## Client Memberships
+### Memberships
 
 [Learn more](./client-memberships.md)
 
@@ -64,26 +44,48 @@ title: Client Records
 
 [Learn more](./client-conditions.md)
 
-## Client Condition Appointments
+### Condition Appointments
 
 [Learn more](./client-condition-appointments.md)
 
-## Client Condition Provider History
+### Condition Provider History
 
 [Learn more](./client-condition-provider-history.md)
 
-## Client Condition Daily Notes Assessments
+### Condition Referrals, Investigations and Discharges
+
+[Learn more](./client-condition-referrals-investigations-discharges.md)
+
+## Daily Notes
+
+### Assessments
 
 [Learn more](./client-condition-daily-notes-assessments.md)
 
-## Client Condition Daily Notes Assessment Exams
+### Assessment Exams
 
 [Learn more](./client-condition-daily-notes-assessment-exams.md)
 
-## Client Condition Daily Notes McKenzie Assessments
+### McKenzie Assessments
 
 [Learn more](./client-condition-daily-notes-mckenzie-assessments.md)
 
-## Client Condition Referrals, Investigations and Discharges
+## Client Accounts
 
-[Learn more](./client-condition-referrals-investigations-discharges.md)
+[Learn more](./client-accounts-charges.md)
+
+### Invoices
+
+[Learn more](./client-accounts-invoices.md)
+
+### Payments
+
+[Learn more](./client-accounts-payments.md)
+
+### Statements
+
+[Learn more](./client-accounts-statements.md)
+
+### Write-offs
+
+[Learn more](./client-accounts-write-offs.md)

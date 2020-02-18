@@ -19,7 +19,7 @@ Are you thriving or barely surviving? Download our **free practice profitability
   href="https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download"
   style="font-size:2em;margin:2rem auto 3rem;width:300px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 4rem;border-radius:60px">Download Now!</a>
 
-## Quality of Treatment
+## Quality of Service
 
 Our Patient Records allow you to **deliver and measure the effectiveness of your plan of care** with all a patient information efficiently recorded and stored in one place.
 
