@@ -95,6 +95,6 @@ Gensolve has facilitated 30+ G2G migrations over the past two years. Compared to
 
 [MBA Mondays](https://mba-mondays-illustrated.com/) by noted venture capitalist Fred Wilson is a great way to learn the fundamentals of growing a successful business.
 
-If you need guidance steering your decision making here is a list of business professionals that you can talk to about following the right track.
+We are happy to provide ideas on how to apply fundamental business concepts with Gensolve but we do not offer professional advice. But we understand that building a strong professional network around your business is critical to your success. If you need guidance steering your decision making, to save you time, we have gathered a list of business professionals you can talk to about following the right track for you.
 
 [Learn more](./business-advisors/)

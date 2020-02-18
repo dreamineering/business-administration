@@ -92,9 +92,9 @@ How we can use custom forms internally and pass on ideas to customers
 
 [More](./sales/)
 
-## Staff Management
+## Talent
 
-[More](./staff-management/)
+[More](./talent.md)
 
 ## Tools
 
