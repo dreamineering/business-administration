@@ -48,11 +48,15 @@ title: Client Records
 
 [Learn more](./client-condition-appointments.md)
 
-### Condition Provider History
+### Provider History
 
 [Learn more](./client-condition-provider-history.md)
 
-### Condition Referrals, Investigations and Discharges
+### Goals and Treatment Plans
+
+[Learn more](./client-condition-goals-plans.md)
+
+### Referrals, Investigations and Discharges
 
 [Learn more](./client-condition-referrals-investigations-discharges.md)
 

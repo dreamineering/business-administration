@@ -1,29 +1,31 @@
 ---
-title: Client Condition Daily Notes Assessments
+title: Daily Notes Assessments
 ---
 
-# Client Condition Daily Notes Assessments
+# Daily Notes Assessments
 
-## Daily Notes Assessment - Rehab
+[[toc]]
+
+## Rehab
 
 [Learn more](./daily-notes-assessment-rehab.md)
 
-## Daily Notes Assessment - Standard
+## Standard
 
 [Learn more](./daily-notes-assessment-standard.md)
 
-## Daily Notes Assessment - Simple
+## Simple
 
 [Learn more](./daily-notes-assessment-simple.md)
 
-## Daily Notes Assessment - Simple Consultation
+## Simple Consultation
 
 [Learn more](./daily-notes-assessment-simple-consultation.md)
 
-## Daily Notes Assessment - SOAPER
+## SOAPER
 
 [Learn more](./daily-notes-assessment-soaper.md)
 
-## Daily Notes Assessment - SOTAP
+## SOTAP
 
 [Learn more](./daily-notes-assessment-sotap.md)
