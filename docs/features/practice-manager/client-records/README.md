@@ -10,6 +10,8 @@ title: Client Records
 
 [Learn more](./client-details.md)
 
+- [Web Client Details](./web-client-details/)
+
 ## Client Contact Details
 
 [Learn more](./client-contact-details.md)

@@ -4,22 +4,40 @@ title: Practice Manager Application
 
 # Practice Manager Application
 
-## Desktop Interface
+[[toc]]
 
-- [Client Records](./client-records/)
-- [Appointments](./appointments/)
-- [Treatment Pathway](./treatment-pathway/)
-- [Contracts](./contracts/)
-- [Banking and Daily Takings](./banking-daily-takings/)
-- [Front Office](./front-office/)
-- [Products](./products/)
-- [Administration](./administration/)
+## Client Records
 
-### Reporting
+[Features](./client-records/)
 
-- [Reports](./reports/)
-- [Data Export](./data-export/)
+## Calendar
 
-## Web Interface
+[Features](./appointments/)
 
-- [Client Details](./web-client-details/)
+## Contracts
+
+[Features](./contracts/)
+
+## Banking and Daily Takings
+
+[Features](./banking-daily-takings/)
+
+## Front Office
+
+[Features](./front-office/)
+
+## Products
+
+[Features](./products/)
+
+## Reporting
+
+[Features](./reports/)
+
+## Data Export API
+
+[Features](./data-export/)
+
+## Administration
+
+[Features](./administration/)

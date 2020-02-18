@@ -8,11 +8,17 @@ Learn what Gensolve is capable of and how these features can help you run a more
 
 [[toc]]
 
-## Applications
+## Practice Manager App
+
+[Features](./practice-manager/)
+
+## Audiology App
+
+[Features](./audiology/)
+
+## Accounting App
 
 - [Accounting](./accounting/)
-- [Audiology](./audiology/)
-- [Practice Manager](./practice-manager/)
 
 ## Workflows
 

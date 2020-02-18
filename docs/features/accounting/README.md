@@ -4,10 +4,32 @@ title: Accounting Application
 
 # Accounting Application
 
-- [Money In](./money-in/)
-- [Money Out](./money-out/)
-- [Payroll](./payroll/)
-- [Banking](./banking/)
-- [Chart of Accounts](./chart-of-accounts/)
-- [Taxes](./taxes/)
-- [Reports](./reports/)
+[[toc]]
+
+## Money In
+
+[Features](./money-in/)
+
+## Money Out
+
+[Features](./money-out/)
+
+## Payroll
+
+[Features](./payroll/)
+
+## Banking
+
+[Features](./banking/)
+
+## Chart of Accounts
+
+[Features](./chart-of-accounts/)
+
+## Taxes
+
+[Features](./taxes/)
+
+## Accounting Reports
+
+[Features](./reports/)
