@@ -16,7 +16,7 @@ title: Treatment Pathway
 
 ## Overview
 
-![Treatment Pathway Overview](https://drive.google.com/open?id=1pJAE9mkyqqebob3vybvAqLfVNDGymrbT)
+![Treatment Pathway Overview](https://drive.google.com/uc?id=1pJAE9mkyqqebob3vybvAqLfVNDGymrbT)
 
 ## Goals
 
