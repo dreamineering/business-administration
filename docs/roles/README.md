@@ -34,6 +34,8 @@ Ensure the business runs efficiently.
 - [**AP:** Accounts and Payroll](./accounts-and-payroll.md)
 - [**GPM:** Systems Admin](./system-admin.md)
 
+We know that a great deal of [Practices](https://www.indeed.co.uk/Practice-Manager-jobs) combine all of the above in one person, but for the sake of greater productivity and ease of understanding think of the above as the different hats that need to be worn at different times.
+
 ## Professional Services
 
 In smaller organisations, these roles would be provided by external resources.
