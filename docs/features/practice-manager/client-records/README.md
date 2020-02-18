@@ -52,7 +52,7 @@ title: Client Records
 
 [Learn more](./client-condition-provider-history.md)
 
-### Goals and Treatment Plans
+### Treatment Analysis Plans
 
 [Learn more](./client-condition-goals-plans.md)
 
