@@ -108,7 +108,7 @@ Gensolve has facilitated over 30 practice mergers in the past two years. Compare
 3. **Effectiveness** prioritise your most valuable decisions
 4. **Accountability** easily see who has been doing what
 
-Download our free [cashflow forecasting tool](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) to feel more comfortable with your plans for the future.
+Download our free [cashflow forecasting tool](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) to start planning your successful future.
 
 <a
   href="https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download"
