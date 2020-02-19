@@ -8,6 +8,8 @@ Setting up a new practice represents a significant financial investment. It will
 
 There are various factors to think about when you're choosing a medical facility property. How can you ensure the location you pick is just what you need?
 
+[[toc]]
+
 ## Consider the Distance from the Competition
 
 Even if an area can use another practice, setting up too close to existing practices is not a good idea. Unless patients are extremely dissatisfied with the service they're getting at the other practice, you may struggle to get customers for some time. Try and find a property that's not too close to the existing medical practices in the area.

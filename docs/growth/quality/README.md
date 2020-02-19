@@ -2,13 +2,17 @@
 title: Quality
 auditAudience:
 auditDesiredAction:
-auditEthos:
-auditPathos:
-auditLogos:
 auditKairos:
 ---
 
 # Quality
 
-- [Patient Journey](./patient-journey.md)
-- [Plan Successful Outcomes](./plan-successful-outcomes.md)
+[[toc]]
+
+## Patient Journey
+
+[Learn more](./patient-journey.md)
+
+## Create Successful Outcomes
+
+[Learn more](./create-successful-outcomes.md)

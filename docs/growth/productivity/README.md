@@ -6,10 +6,24 @@ title: Productivity - Staff Management and Engagement
 
 Planning, communication, and accountability.
 
-**Guiding Principles:**
+[[toc]]
 
-- [Accountable Communication](./accountable-communication.md)
-- [Effective Meetings](./effective-meetings.md)
-- [Innovation and Automation](./innovation-and-automation.md)
-- [Staff Engagement](./staff-engagement.md)
+## Accountable Communication
+
+[Learn more](./accountable-communication.md)
+
+## Effective Meetings
+
+[Learn more](./effective-meetings.md)
+
+## Innovation and Automation
+
+[Learn more](./innovation-and-automation.md)
+
+## Staff Engagement
+
+[Learn more](./staff-engagement.md)
+
+## Timeblocking for Success
+
 - [Time Blocking for Success](./time-blocking/)
