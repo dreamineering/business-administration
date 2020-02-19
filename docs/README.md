@@ -13,11 +13,13 @@ auditKairos:
 
 <h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you <span style="color:#D70014;font-weight:bold">love</span> helping people strive for their dreams<br>We <span style="color:#D70014;font-weight:bold">love</span> helping people like you</h2>
 
-Are you thriving or barely surviving? Download our **free practice profitability tool** to assess the health of your practice. No need to sign up! If you earn your living by helping others reach their potential, we like to help take care of the boring stuff so you can concentrate on delivering the greatest possible experience to your customers.
+Are you thriving or barely surviving? Download our **free practice profitability tool** to assess the health of your practice. If you earn your living by helping others reach their potential, we like to help take care of the boring stuff so you can concentrate on delivering the greatest possible experience to your customers.
 
 <a
   href="https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download"
   style="font-size:2em;margin:2rem auto 3rem;width:240px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 2rem;border-radius:60px">Download Now!</a>
+
+No need to sign up!
 
 ## Quality of Service
 
