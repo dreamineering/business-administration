@@ -17,7 +17,7 @@ Are you thriving or barely surviving? Download our **free practice profitability
 
 <a
   href="https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download"
-  style="font-size:2em;margin:2rem auto 3rem;width:300px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 4rem;border-radius:60px">Download Now!</a>
+  style="font-size:2em;margin:2rem auto 3rem;width:240px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 2rem;border-radius:60px">Download Now!</a>
 
 ## Quality of Service
 
@@ -30,7 +30,7 @@ GPM has extensive clinical notes out of the box, where **each clinician** can co
 - General Health and Patient History
 - Goal and Full Medical History Reports
 - Document and Video uploads
-- Referrals, Investigations and Discharges
+- Referrals, Investigations, and Discharges
 
 > _As a Tertiary Educational Provider we feel it is important to train students with real-world products that they will be expected to use upon graduation. Gensolve is one such product._ Auckland University of Technology
 
@@ -56,7 +56,9 @@ Manage your clinicians and your administration team. Schedule recurring activiti
 
 ## Marketing
 
-set-up a content calendar distribution plan for your messages and then measure the effectiveness of your strategy.
+Since marketing and sales will generate revenue, you need to understand your target customers and determine how you will reach them. Most practices use an "**inside-out** approach to marketing in that they list their services based on skills and then look to sell to a vaguely defined group that is **out there**
+
+The **build it and they will come** approach usually results in wasted effort and failure. Assess the needs of your intended client's bearing in mind that upwards of 80% of them are likely to come from within a 10km radius.
 
 [Learn more](/growth/)
 
@@ -83,11 +85,11 @@ Financial Managers to budget operating margin with contract charges for establis
 
 ## Control
 
-_If you cannot measure it, you cannot improve it, if your processes are inconsistent, what you measure is bul... not much use_
+_If you cannot measure it, you cannot improve it, if your processes are inconsistent, what you measure is boll... not much use_
 
 Track performance, connect the dots, close the loop, review your strategy and adjust your plans to take control of your destiny.
 
-**We take security seriously!** With Gensolve you can lock down access to certain computers or even the time of day when access is allowed. So even if your computer is lost or stolen you can terminate access immediately and if you are following best working practices [business files should be on your hard drive](/growth/compliance/file-management.md).
+**We take security seriously!** With Gensolve you can lock down access to certain computers or even the time of day when access is allowed. So even if your computer is lost or stolen you can terminate access immediately and if you are following Gensolve's best practices [no files should be on your hard drive](/growth/compliance/file-management.md).
 
 [Learn more](./control/)
 

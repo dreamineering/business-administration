@@ -225,4 +225,4 @@ Additional functionality that will require additional time, Investment and resou
 - Complex Content Transfers and Content Revisions
 - High Volume Content Transfers and Clean Up
 - Lengthy Time for Review Feedback, Revisions and Approvals
-- Agressive SEO Plans
+- Aggressive SEO Plans

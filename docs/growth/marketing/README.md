@@ -10,7 +10,7 @@ auditKairos:
 
 # Marketing
 
-Since marketing and sales will generate revenue, you need to understand their target customers and determine how they will reach them. Most practices use an "**inside-out** approach to marketing in that they list their services based on skills and then look to sell to a vaguely defined group that is **out there**
+Since marketing and sales will generate revenue, you need to understand your target customers and determine how you will reach them. Most practices use an "**inside-out** approach to marketing in that they list their services based on skills and then look to sell to a vaguely defined group that is **out there**.
 
 The **build it and they will come** approach usually results in wasted effort and failure. Assess the needs of your intended client's bearing in mind that upwards of 80% of them are likely to come from within a 10km radius.
 
