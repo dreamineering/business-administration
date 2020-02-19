@@ -6,6 +6,17 @@ title: Growth
 
 Not just financially but as humans. If you can't achieve consistency across your team, measuring the impact of your strategic initiatives is guesswork. Grow your organisation's [operational intelligence](/features/workflows/) to share knowledge efficiently and ensure consistent accountable workflows are adhered to.
 
+1. Be exceptional at something people will pay good money for
+2. Master selling that thing face to face
+3. Teach someone else how to master selling that thing
+4. Teach someone else how to do what you do
+5. Quantify success metrics
+6. Distribute success stories
+7. Get employees to train others
+8. Manage staff based on success metrics
+9. Become exceptional at something else people will pay good money for
+10. Scale
+
 [[toc]]
 
 ## Direction

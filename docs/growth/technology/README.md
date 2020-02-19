@@ -19,3 +19,19 @@ This involves not only equipment needed to operate the business, but such concer
 ## The ultimate treatment room
 
 [Learn more](./the-ultimate-treatment-room.md)
+
+## Hardware
+
+[Learn more](./hardware.md)
+
+## Software
+
+[Learn more](./software.md)
+
+## Products
+
+[Learn more](./products.md)
+
+## Equipment
+
+[Learn more](./equipment.md)
