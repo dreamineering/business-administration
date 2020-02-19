@@ -108,8 +108,10 @@ Gensolve has facilitated over 30 practice mergers in the past two years. Compare
 3. **Effectiveness** prioritise your most valuable decisions
 4. **Accountability** easily see who has been doing what
 
-If you have concerns your business is not as profitable as it should be, download our free [peformance analysis tool](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) to feel more comfortable with your plans for the future.
+Download our free [cashflow forecasting tool](https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download) to feel more comfortable with your plans for the future.
 
 <a
   href="https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download"
-  style="font-size:2em;margin:2rem auto 3rem;width:300px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 4rem;border-radius:60px">Download Now!</a>
+  style="font-size:2em;margin:2rem auto 0;width:240px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 2rem;border-radius:60px">Download Now!</a>
+
+<p style="margin:1rem auto;width:220px;text-align:center;display:block;border:none;padding:0 2rem;border-radius:60px">No need to sign up!</p>
