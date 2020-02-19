@@ -4,8 +4,6 @@ title: Chart of Accounts > Ledger Budgets
 
 # Chart of Accounts > Ledger Budgets
 
-[Managing Ledger Budgets](http://docs.gensolve.com/help/gpm_nz/desktop/Processes/Accounting/Managing_Ledger_Budgets.htm)
+[Managing Ledger Budgets](http://docs.gensolve.com/help/gpm_nz/desktop/Processes/Accounting/Managing_Ledger_Budgets.htm) is made easier by editing in excel so you can upload (via migration tool) a worst-case and a best-case scenario where numbers can be updated as you edit the excel file.
 
-By using the Migration Tool can upload the cashflow sheet from the Cashflow Forecast spreadsheet.
-
-Two budgets are created in Gensolve Accounting, a worst-case and a best-case scenario where numbers can be updated as circumstances change.
+This activity will help you to customise your ledger configuration to get the granularity of reporting that will help understand the success of your strategy.
