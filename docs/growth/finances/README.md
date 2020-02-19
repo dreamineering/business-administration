@@ -26,9 +26,9 @@ Effective Cash Management
 
 [Learn more](./effective-cash-management.md)
 
-## Payroll
+## Managing Commission
 
-[Learn more](./payroll.md)
+[Learn more](./managing-commission.md)
 
 ## Track Revenue Streams
 

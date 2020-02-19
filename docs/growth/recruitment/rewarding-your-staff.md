@@ -10,7 +10,7 @@ title: Rewarding your staff
 
 TODO - Explain decision making, pros and cons
 
-[How-to manage wages and commissions](../../feature/workflows/payroll/paying-wages-and-commissions) with Gensolve.
+[How-to manage wages and commissions](/feature/workflows/payroll/paying-wages-and-commissions) with Gensolve.
 
 ## How to with Gensolve
 
