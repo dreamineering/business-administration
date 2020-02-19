@@ -6,6 +6,8 @@ title: Vision and Mission
 
 Take inspiration from the [Crusaders Rugby Team](https://www.youtube.com/watch?v=IMmOOzn9R-k&t=10s)
 
+Strategists should analyze the competitive landscape and markets to determine where the opportunity for the business lies, and how they will access that opportunity.
+
 ## Communication
 
 Learn to communicate effectively to insiders and outsiders

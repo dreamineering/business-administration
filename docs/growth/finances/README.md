@@ -8,10 +8,28 @@ Every business must have a [Cashflow Forecast](./create-a-cashflow-forecast.md) 
 
 A business manager should always know how healthy their financial operations are. This requires a realistic prediction of cash flow, even though it can be difficult to forecast the future.
 
+[[toc]]
+
 > [Create a cashflow forecast](./create-a-cashflow-forecast.md)
 
-- [Focus on Profit First](./create-a-cashflow-forecast.md)
-- [Effective Cash Management](./effective-cash-management.md)
-- [Track Revenue Streams](./track-revenue-streams.md)
-- [Wages and Commission](./wages-vs-commission.md)
-- [Accounting cycle](./accounting-cycle-checklist.md)
+## Cashflow Forecasting
+
+[Learn more](./create-a-cashflow-forecast.md)
+
+## Accounting Cycle
+
+[Learn more](./accounting-cycle-checklist.md)
+
+## Profit First
+
+Effective Cash Management
+
+[Learn more](./effective-cash-management.md)
+
+## Payroll
+
+[Learn more](./payroll.md)
+
+## Track Revenue Streams
+
+[Learn more](./track-revenue-streams.md)
