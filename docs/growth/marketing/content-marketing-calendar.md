@@ -14,6 +14,8 @@ Content creation is the ultimate inbound marketing practice. When you create con
 
 - [why content is important](https://blog.hubspot.com/marketing/content-creation)
 
+[[toc]]
+
 ## Workflow
 
 1. Strategy
@@ -21,11 +23,7 @@ Content creation is the ultimate inbound marketing practice. When you create con
 3. Production
 4. Distribution
 
-- https://coschedule.com/blog/annual-content-calendar-template/
-- https://coschedule.com/blog/content-marketing-workflow-templates/
-- https://www.process.st/content-marketing-workflow/
-
-### Strategy
+## Strategy
 
 **Why Should I Use A Content Calendar?**
 
@@ -62,14 +60,14 @@ Which content channels are you working with?
   Anything else you’re working on. If its a marketing project, you can organize it on a calendar.
   Make a list so you can lay it all out.
 
-### Ideation
+## Ideation
 
 Have a hopper for catching a backlog of content creation ideas.
 
 1. Schedule time for [brainstorming](./https://www.ideou.com/pages/brainstorming)
 2. Create a backlog of marketing ideas to create content at a future date
 
-### Scheduling
+## Scheduling
 
 Important dates to consider
 
@@ -78,7 +76,7 @@ Important dates to consider
 - National Holidays
 - Commemorative Months
 
-### Production
+## Production
 
 Schedule time and resources to write content and produce supporting media.
 
@@ -86,7 +84,7 @@ Talk to an [expert](https://devilboyproductions.com/) if you are lost.
 
 https://contentmarketinginstitute.com/2016/07/define-workflow-content-production/
 
-### Distribution
+## Distribution
 
 Great content is a waste if your audience doesn’t know it exists so [content distribution](https://www.google.com/search?ei=LTk1XverEbnQmwWY5pKIAg&q=marketing+content+distribution&oq=marketing+content+distribution&gs_l=psy-ab.3..0j0i30l2j0i8i30l6j0i7i5i30.4395.7755..8258...2.2..0.237.1381.8j2j2......0....1..gws-wiz.......0i71j0i7i30j0i13j0i13i5i30j0i8i7i30j0i8i13i30._oBefxLOcDc&ved=0ahUKEwi39sz9-a_nAhU56KYKHRizBCEQ4dUDCAs&uact=5) has to part of your strategy.
 
@@ -104,25 +102,25 @@ Tools that will help you ace your content creation ambitions.
 - Marketing Campaigns. The color bands at the bottom indicate Marketing Campaigns. This is a feature in CoSchedule that allows you to place multiple related parts of a project or campaign into one folder. Clicking one of these will create a filtered view showing only the items associated with that project.
 - Filters. These can be used to filter content on the calendar by type, team member, tag, color label, and more.
 
-### Schedule Work
+## Schedule Work
 
 ![marketing-calendar](https://drive.google.com/uc?id=1vc16yjEso8x7vHoPCSnMV5T9soSk8SCk)
 
-### Marketing Job Types
+## Marketing Job Types
 
 ![marketing-job-types](https://drive.google.com/uc?id=1vo11ooTnf1JdGac2TH27mQ8wzkd26-gE)
 
-### Pick a Job
+## Pick a Job
 
 ![marketing-jobs](https://drive.google.com/uc?id=1vXpMyAyCXC5hr-66M92Xo2O4LMHMM7Ft)
 
-### Pick a checklist
+## Pick a checklist
 
 Workflow recipe
 
 ![marketing-job-recipe](https://drive.google.com/uc?id=1veWxrf1LNz1u3e5oJ8lwRmoS9K3noe3y)
 
-### Create the content
+## Create the content
 
 Reference Files > create the content
 
@@ -132,11 +130,11 @@ Reference Files
 
 ![complete-the-job](https://drive.google.com/uc?id=1vamic5vemYYZsABivHq1vA1smkvhEMI2)
 
-### SMS
+## SMS
 
 [Run a SMS Campaign](http://docs.gensolve.com/help/gpm_uk/desktop/Videos/Reports/How_to_Run_a_Template_Merge_and_Send_Bulk_SMS.htm)
 
-### Email
+## Email
 
 Complete email template
 
@@ -148,12 +146,12 @@ Send emails
 
 [Email Campaign](http://docs.gensolve.com/help/gpm_uk/desktop/Knowledge_Base/Letters_and_Templates/How_to_Create_Mailshots.htm)
 
-### Social Media
+## Social Media
 
 ![social-media-template](https://drive.google.com/uc?id=10iavch22zmI5h1q5zxKz1hsXikmoHQ-B)
 
 ![log-social-media-publicaton](https://drive.google.com/uc?id=1woRAabMeHfGlVlHB9yCKasZnYDzTNxcE)
 
-### Impact Analysis
+## Impact Analysis
 
 Key Performance Indicator [Customer Acquisition Cost](../../control-centre/key-performance-indicators/customer-acquisition-cost.md)

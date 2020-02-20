@@ -6,14 +6,14 @@ title: Workflows
 
 > First we make our habits, then our habits make us
 
+Evolve your [recurring workflows](./staff-management/how-to-create-recurring-workflows/) to take control of what happens when by who in your business. Ask about our library of workflows to help get started. **If you are business advisor** workflows are a great way for you to help ensure that the customers you are advising can get the most out of your teachings.
+
 - What data comes in?
 - What data goes out?
 - Who does what to the data?
 - What can go wrong?
 
 [[toc]]
-
-Evolve your [recurring workflows](./staff-management/how-to-create-recurring-workflows/) to take control of what happens when by who in your business. Ask about our library of workflows to help get started. **If you are business advisor** workflows are a great way for you to help ensure that the customers you are advising can get the most out of your teachings.
 
 ## Accounting Cycle
 
