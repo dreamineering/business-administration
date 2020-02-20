@@ -75,16 +75,16 @@ From easiest to hardest to get into the practice
 
 [Learn more](./content-marketing-calendar.md)
 
-## Distribute your message
+## Omnipresence
 
-What is the best method to reach your primary customers?
+Distribute your message. What is the best method to reach your primary customers?
 
 1. Kickstart with paid search ads
 2. SEO
 3. SMS Campaign
 4. Email Campaign
 
-[Learn more](./content-marketing-calendar.md)
+[Learn more](./omnipresence.md)
 
 ## Differentiation
 

@@ -16,6 +16,8 @@ CAC = (Marketing Exp + Sales Exp)/(New Customers - Client Referrals)
 
 Paid marketing remains an integral part of many products’ acquisition channels, and one of the key metrics is Cost of Customer Acquisition.
 
+[[toc]]
+
 https://andrewchen.co/how-to-actually-calculate-cac/
 
 This could be actual costs like buying google ads or sponsoring a local competition or the hours spent on creating marketing material to post to Facebook, Instagram, Twitter etc.

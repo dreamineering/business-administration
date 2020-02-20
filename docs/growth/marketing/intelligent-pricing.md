@@ -24,6 +24,8 @@ What science did you apply when setting the hours and prices you are available t
 Should a person with 20+ years of experience be charging the same rate for services as a recent graduate?
 :::
 
+[[toc]]
+
 ## Anchoring
 
 Give your customer's a frame of reference to help them understand the value of returning to complete a full course of treatment.
