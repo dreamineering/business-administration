@@ -35,8 +35,9 @@ Maintain client confidentiality.
 
 ## Qualifications
 
+- Very strong phone skills
+- Strong [MS Office](https://www.wiseowl.co.uk/ms-office/skill/) skills - [take a test](https://www.wiseowl.co.uk/ms-office/skill/)
 - Basic math and cash handling experience.
-- Have strong phone and computer skills (MS Word and Excel).
 - Previous customer service experience (preferred).
 - Be able to prioritize and perform multiple tasks
 - Work cohesively with others in a fun and fast-paced environment
