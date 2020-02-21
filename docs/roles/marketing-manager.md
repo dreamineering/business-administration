@@ -29,3 +29,18 @@ Try a [demo](/journey/demo/)
 | Password     | Dem0User      |
 
 Provide [feedback questions](/support/feedback-questions.md)
+
+### Reports
+
+- Client Appointment Service Charge Summary
+- Condition Referral Details
+- Condition Referrer/Clinic Summary
+- GP Client Referral Source Report
+- New Clients
+- Online Booking Report
+- Referral Source - Clients
+- Referral Source - Conditions
+- Client Condition Goals Report
+- Client Referral Detail
+- Why Choose Us - Clients
+- Accounting - Client Grouping Revenue Report

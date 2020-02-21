@@ -12,7 +12,13 @@ If you need help with making tough decisions below is a list of resources you ca
 
 ## Accountants
 
-- [Profit First Chiro](https://www.profitfirstchiro.com/)
+### Profit First Chiro
+
+- [Website](https://www.profitfirstchiro.com/) | [Podcast](https://player.fm/series/grow-my-accounting-practice-tips-for-accountants-bookkeepers-to-grow-their-business-1376362/debra-cassera-focus-on-a-niche-and-attract-clients)
+
+### Profit First Professionals
+
+[Website](https://profitfirstprofessionals.com/) | [Podcast](https://profitfirstprofessionals.com/category/grow-my-accounting-practice-podcast/)
 
 ## Acquisitions
 
@@ -51,6 +57,18 @@ Helping to create growth through acquisitions
 ### PT Profit Academy
 
 [Website](https://www.ptprofitacademy.com/) | [Podcast](https://www.paulgough.com/podcast/) | [Instagram](https://www.instagram.com/ThePaulGough/) | [Twitter](https://twitter.com/ThePaulGough) |[YouTube](https://www.youtube.com/channel/UCFRPdBgTAvHlMrZjBRdxFuQ) | [Facebook](https://www.facebook.com/ThePaulGough)
+
+## Modalities
+
+### Chews Health
+
+[Podcast](https://chewshealth.co.uk/blog/)
+
+## Video Production
+
+### Devil Boy Productions
+
+[Website](https://devilboyproductions.com/)
 
 ## Join the Platform
 
