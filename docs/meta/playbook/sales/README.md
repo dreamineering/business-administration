@@ -4,7 +4,7 @@ title: Playbook > Sales
 
 # Playbook > Sales
 
-Gensolve flies in the face of common startup wisdom (dogma), focus on one thing and do that one thing exceptionally well. But is it a product problem? Or the fact it is very hard to sell the benefits of problem solutions to customers that can't recognise there is a problem.
+Gensolve flies in the face of common startup wisdom (dogma), focus on one thing and do that one thing exceptionally well. But is it a product problem? Or the fact it is very hard to sell the benefits of problem solutions to customers that don't have the fundamental business knowledge to recognise there is a problem.
 
 > A complaint is a gift. Don't attempt to sell features. Empathise with problems and guide to the value of solutions.
 
