@@ -6,7 +6,7 @@ title: Playbook > Sales
 
 Gensolve flies in the face of common startup wisdom (dogma), focus on one thing and do that one thing exceptionally well. But is it a product problem? Or the fact it is very hard to sell the benefits of problem solutions to customers that don't have the fundamental business knowledge to recognise there is a problem.
 
-> A complaint is a gift. Don't attempt to sell features. Empathise with problems and guide to the value of solutions.
+> [A complaint is a gift](https://www.customerthermometer.com/customer-service/a-complaint-is-a-gift/). Don't attempt to sell features. Empathise with problems and guide to the value of solutions.
 
 Using GPM and Gensolve Operations to create a **data-driven** sales process to track how many are coming in, how good are we at converting and ensure new customers have an exceptional onboarding experience. Raising new customer's operational IQ in a matter of weeks.
 
