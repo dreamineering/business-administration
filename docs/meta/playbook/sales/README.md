@@ -19,21 +19,24 @@ Disruption is the ability to create a new market where there are no competitors.
 - What do [these guys](/growth/business-advisors.md) have that we don't?
 - What do we have that they don't?
 - What problems do we have in common with our customers?
+- What are our greatest obstacles to making sales?
 
 ## Desired Outcomes
 
 > Everyone in our organisation knows how to contribute to the sales funnel and how they will be **rewarded** for their efforts
 
-1. Acquire Customers
-2. Retain Customers
-3. Monetize Customers
+1. Grow Product Awareness
+2. Acquire Customers
+3. Retain Customers
+4. Monetize Customers
 
 ## Problems
 
 1. **No Lead Funnel**
-2. Undocumented Sales process
+2. No _real_ strategy or Sales process
 3. Gensolve is **BIG** system that nobody fully understands the benefits of
 4. Siloed knowledge (answers in ZenDesk)
+5. Bottlenecks and single points of failure
 
 The Product team can have a massive impact on Sales by adding features that help to optimise the funnel. Everyone should spend some time onsite using the software to help run a business for a customer. Failing that **we have to eat our dog food** if we wish to build knowledge across the organisation and credibility with our target customers.
 
@@ -45,7 +48,7 @@ Adoption with high rewards (business benefit) for low effort and talent.
 
 - The tendency to see business as a necessary evil
 - Negate fear of transition
-- Negate talent
+- Reduce the demand for prior knowledge
 - Limit effort to establish good habits
 
 [Read more](./customer-trigger-stories.md)
@@ -154,3 +157,9 @@ Generate an [insiders](./insiders.md) culture for those that want to participate
 ## Pricing and Incentives
 
 [Read more](./pricig-and-incentives.md)
+
+## Action Plan
+
+The plan of action to take, quarter by quarter to help drive up sales.
+
+[Read more](./action-plan.md)

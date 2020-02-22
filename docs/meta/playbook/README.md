@@ -29,6 +29,14 @@ A clear cut process that explains how features are prioritised across all produc
 
 Inspiration from [Thoughtbot](https://thoughtbot.com/playbook), [David Skok](https://drt.fm/david-skok) at Matrix Partners. [Signal vs Noise](https://m.signalvnoise.com/category/greatest-hits/)
 
+## Problems
+
+1. **No Lead Funnel**
+2. No _real_ strategy or Sales process
+3. Gensolve is **BIG** system that nobody fully understands the benefits of
+4. Siloed knowledge (answers in ZenDesk)
+5. Bottlenecks and Single points of failure
+
 ## Communications
 
 If it is written down, it doesn't exist, [Executive perspective](https://www.chiefexecutiveboards.com/briefings/briefing210.htm), [Coding perspective](https://blog.codinghorror.com/if-it-isnt-documented-it-doesnt-exist/)
@@ -89,6 +97,8 @@ How we can use custom forms internally and pass on ideas to customers
 [More](./remote-working/)
 
 ## Sales
+
+Gensolve flies in the face of common startup wisdom (dogma), focus on one thing and do that one thing exceptionally well. But is it a product problem? Or the fact it is very hard to sell the benefits of problem solutions to customers that don't have the fundamental business knowledge to recognise there is a problem.
 
 [More](./sales/)
 

@@ -24,9 +24,10 @@ Excel is still depended upon by [half a billion people worldwide](https://irisht
 
 Customers such as au, nz, uk using a surface pro with a stylus have reports dramatic improvement to:
 
-1. Accuracy
+1. Stylus
 2. Speed
-3. More useful information to analyse by
+
+More comprehensive information to analyse on in reports to interpret how the quality of service can be improved.
 
 ## Productivity Hacks
 
