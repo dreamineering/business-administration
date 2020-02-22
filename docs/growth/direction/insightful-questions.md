@@ -7,17 +7,18 @@ title: Insightful Questions
 - Why not?
 - What if?
 - Whose example can we adapt?
+- What is your profit reinvestment strategy?
 - What is the opposite way of looking at this?
 - [Who or what is the enemy?](./enemy.md)
 - Have you reached critical mass and operational intelligence to scale your business?
 - What is the smartest way to grow given **end game** goals?
 - Could you franchise your brand and operations?
-- Are you planning to take over another organisation using GPM?
-- Are you joining with other practices using GPM to create a new business?
-- Are you leaving an existing practice using GPM to start a practice of your own?
+- How could you improve economies of scale.
 
 ## Quarterly Review
 
+- Is your profit reinvestment strategy working?
+- Do you need to raise capital to chase new opportunities?
 - What were the 4 top highlights
 - What were the 4 worst lows?
 - What enabled or motivated you to reach those highs?

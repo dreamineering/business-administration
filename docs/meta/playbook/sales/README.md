@@ -19,7 +19,9 @@ Disruption is the ability to create a new market where there are no competitors.
 - What do [these guys](/growth/business-advisors.md) have that we don't?
 - What do we have that they don't?
 - What problems do we have in common with our customers?
+- What is our advantage do we have over our customers?
 - What are our greatest obstacles to making sales?
+
 
 ## Desired Outcomes
 

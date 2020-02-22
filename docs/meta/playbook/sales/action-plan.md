@@ -17,4 +17,6 @@ We can ask him to review and rate GPM's _with customer experience_ when taking n
 
 The benefit is that this podcast is purely treatment-related and Jack hosts many other Physios to talk about treatment matters so if he has a surface there is a chance he will show others.
 
-https://business-administration.now.sh/growth/quality/treatment-notes-with-surface.html
+[Sell the benefits of Surface for Notes](https://business-administration.now.sh/growth/quality/treatment-notes-with-surface.html)
+
+Can get Pauls backing but would be great to get AUT
