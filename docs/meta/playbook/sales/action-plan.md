@@ -6,20 +6,19 @@ title: Action Plan
 
 [[toc]]
 
-## Send a Surface Pro
+## Surface Pros with GPM Installed
+
+We need to address the perception that an iPad is **the tablet** and [sell the benefits of Surface for Notes](https://business-administration.now.sh/growth/quality/treatment-notes-with-surface.html)
+
+We could buy Surface Pros with lowest required spec and deliver it to
 
 ### Chews Health
 
-We need to address the perception that an iPad is **the tablet**.
-
-Buy a surface pro with lowest required spec and deliver it to [Jack Chew](https://twitter.com/JackAChew) of
-[Chews Health]() who runs the [Physio Matters Podcast](https://twitter.com/TPMPodcast) over 20k followers on Twitter.
+[Jack Chew](https://twitter.com/JackAChew) of [Chews Health]() who runs the [Physio Matters Podcast](https://twitter.com/TPMPodcast) over 20k followers on Twitter.
 
 We can ask him to review and rate GPM's _with customer experience_ when taking notes.
 
 The benefit is that this podcast is purely treatment-related and Jack hosts many other Physios to talk about treatment matters so if he has a surface there is a chance he will show others.
-
-[Sell the benefits of Surface for Notes](https://business-administration.now.sh/growth/quality/treatment-notes-with-surface.html)
 
 ### Active VIII
 
@@ -44,10 +43,8 @@ _Can get Pauls backing but would be great to get AUT_
 
 ## Other Ideas
 
-I've always said **the greatest value of the KPI Dashboards was to drive Gensolve's sales**. So the content and the budgeting tool you find here is about that, and how we can use both to penetrate the UK (future) markets. In short use KPIs to prove value the proposition by tying results to a forecast.
+**The greatest value of the KPIs work was to drive Gensolve's sales**. So the content and the budgeting tool you find here is about explaining that, and how we can use both to penetrate the UK (future) markets. In short use KPIs to prove value the proposition by tying results to a forecast.
 
-The key point **that I am still trying to make** is that we have to start using GPM ourselves to drive internal operations and improve our marketing messaging by **scratching your own itch** How can you expect to sell the virtues of a system that solves all kinds of problems Gensolve needs to solve, when don't even believe in your product enough to use it yourselves?
-
-By **really feel the customer's pain** where things don't work as smoothly will improve product workflows and reduce the demands on the QA team, making releases less stressful.
+The key point is that we have to start using GPM ourselves to drive internal operations and improve our marketing messaging by **scratching your own itch** How can you expect to sell the virtues of a system that solves all kinds of problems Gensolve needs to solve, when don't even believe in your product enough to use it yourselves? By **feeling the customer's pain** where things don't work as smoothly will improve product workflows and reduce the demands on the QA team, making releases less stressful.
 
 For example, just imagine if you had spent the last two years and the money on HubSpot instead using GPM and improving the marketing experience and marketing content in GPM. You just need to spend 10 mins listenning to the crowded market of would-be business advisors to understand the value of this to your potential sales.
