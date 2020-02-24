@@ -44,13 +44,15 @@ _Can get Pauls backing but would be great to get AUT_
 
 ## Other Ideas
 
-As you might remember I've always said **the most important thing about the work on the KPI Dashboards was to drive Gensolve's sales**. So this is what this content and the budgeting tool has been about, and is the fruition of the ideas I explained to Jamie about how we need to approach penetrating the UK market. In short use KPIs to prove value the proposition. But a key to that is to show how to make a budget.
+As you might remember I've always said **the most important thing about the work on the KPI Dashboards was to drive Gensolve's sales**. So this is what this content and the budgeting tool is about, and is the fruition of the ideas I explained to Jamie about how we need to approach penetrating the UK market. In short use KPIs to prove value the proposition. But a key to that is to show how to make a budget.
 
-Unfortunately, we did not follow the plan of spending three months on development work to get UKs biggest physio provider who was all over us four years ago, and would have shot GPM to the top of the credibility chain. Do you remember saying _"we won't repeat the Australia insurance billing mistakes?"_ Andy Hosgood confirmed also this would be a vital cog in strategy to gain acceptance is the UK.
+Unfortunately, we did not follow the first step of the plan of spending three months on development work on **healthcode** to get UKs biggest physio provider who was all over us four years ago, and would have shot GPM to the top of the credibility chain. Do you remember saying _"we won't repeat the Australia insurance billing mistakes?"_ Andy Hosgood confirmed also this would be a vital cog in strategy to gain acceptance in the UK. To be clear, **I am not holding the Colombian team to blame for this**. From my expeience you have never really been in a position to support UK development. But I also see this country centric approach as extremely flawed.
 
-The key point I was making four years ago, **that I am still trying to make** is that you guys would do your internal operations and reporting and product development the world of good if you just started showing some love for the system you developed of the past 18 years by using it and backing up the message you are trying to promote with real experience of **scratching your own itch**
+The key point I tried to make four years ago, **that I am still trying to make** is that you guys would do your internal operations and reporting and product development the world of good if you just started showing some love for the system you developed of the past 18 years by using it and backing up the message you are trying to promote with real experience of **scratching your own itch**
 
 How can you expect to sell the virtues of system that solves all kinds of problems you need to solve, when don't even believe in your product enough to use it yourselves? And **really feel the customer's pain** where things don't work as smoothly as the could.
+
+Imagine if you had just spend two years and the money you spent on HubSpot with using GPM and improving the marketing workflows....
 
 Before you leave BH I expect to have **written clarity** from your perspective:
 
