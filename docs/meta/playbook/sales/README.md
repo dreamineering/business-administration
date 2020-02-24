@@ -8,7 +8,7 @@ Gensolve flies in the face of common startup wisdom (dogma), focus on one thing 
 
 > [A complaint is a gift](https://www.customerthermometer.com/customer-service/a-complaint-is-a-gift/). Don't attempt to sell features. Empathise with problems and guide to the value of solutions.
 
-Using GPM and Gensolve Operations to create a **data-driven** sales process to track how many are coming in, how good are we at converting and ensure new customers have an exceptional onboarding experience. Raising new customer's operational IQ in a matter of weeks.
+Create a [Data Driven](https://hbr.org/2020/02/data-driven-decisions-start-with-these-4-questions) sales process to track how many are coming in, how good are we at converting and ensure new customers have an exceptional onboarding experience to raise new customer's operational IQ in a matter of weeks.
 
 Disruption is the ability to create a new market where there are no competitors. This is an opportunity Gensolve has if you free yourself from thinking of the product through its graphical interface.
 
@@ -19,13 +19,12 @@ Disruption is the ability to create a new market where there are no competitors.
 - What do [these guys](/growth/business-advisors.md) have that we don't?
 - What do we have that they don't?
 - What problems do we have in common with our customers?
-- What is our advantage do we have over our customers?
+- What advantage do we have that our customers need?
 - What are our greatest obstacles to making sales?
-
 
 ## Desired Outcomes
 
-> Everyone in our organisation knows how to contribute to the sales funnel and how they will be **rewarded** for their efforts
+> Everyone in the organisation knows how to contribute to the sales funnel and how they will be **rewarded** for their efforts
 
 1. Grow Product Awareness
 2. Acquire Customers

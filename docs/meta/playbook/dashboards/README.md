@@ -4,6 +4,16 @@ title: Playbook > Dashboards
 
 # Playbook > Dashboards
 
+## Data
+
+Get out of OLTP Database!
+
+Here is a guide [how to migrate Oracle database to Postgresql on AWS](https://aws.amazon.com/blogs/database/how-to-migrate-your-oracle-database-to-postgresql/)
+
+- https://aws.amazon.com/dms/
+- https://www.youtube.com/watch?v=3Kd_eQ-Ig10
+- https://www.youtube.com/watch?v=P-WiP1_tmcs
+
 ## Design
 
 - Worst First
