@@ -96,11 +96,11 @@ Location, Location, Location and are you filling your available space effectivel
 
 [Learn more](./property/)
 
-## Acquisition
+## Expansion
 
 Gensolve has facilitated 30+ G2G migrations over the past two years. Compared to the headaches accepted with most mergers the beautiful thing with a _G2G migration_ is that from one day to the next your operations remain the same, leaving your team free to focus on customer service not boring administration tasks.
 
-[Learn more](./acquisition/)
+[Learn more](./expansion/)
 
 ## Coaching
 
