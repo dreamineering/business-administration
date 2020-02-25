@@ -18,13 +18,17 @@ Then follow [these instructions](/support/installation-guide.md) to install.
 
 ## Light Web Application
 
-The Web Application is designed specifically to provide **essential capabilities to treat patients on any device**. Therefore any user can use their Phone or an iPad to check the Appointment Book or for clincians to enter Patient Treatment Notes.
+100% of your client treatment requirements are possible via the optional web application. This means you can use iPads or other tablets in your treatment rooms or your phone when you out and about to run your Appointment Book.
 
 - [AUS](https://augpm.gensolve.com/index.html)
 - [GBR](https://ukgpm.gensolve.com/index.html)
 - [NZL](https://nzgpm.gensolve.com/index.html)
 
 For more business orientated tasks or system customisation you will need to install the windows desktop application.
+
+::: tip
+If you want the Native App experience combined with a tablet then using GPM with a Surface Pro is the best option for you.
+:::
 
 ## Sign In
 

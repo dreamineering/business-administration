@@ -85,7 +85,7 @@ Stay on the right side of the law.
 
 Create a people-centered culture that operates in rapid learning and fast decision cycles with a common purpose that creates value for clients and the practice.
 
-[Learn more](./recruitment/)
+[Learn more](./human-resources/)
 
 ## Property
 
