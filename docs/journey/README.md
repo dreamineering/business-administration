@@ -8,7 +8,7 @@ title: Practice Journey
 
 ## Demonstration
 
-Take a look around on your own time, and if you want to know more email hello@gensolve.com
+Take a look around on your own time, and if you want to know more email info@gensolve.com
 
 [Learn more](./demo/)
 

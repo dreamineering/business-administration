@@ -4,30 +4,49 @@ title: Demo
 
 # Demo
 
-1. Download
-2. Install
-3. Sign in
-4. Learn the essentials
-5. Pick a role
-6. Nosy around
+[[toc]]
 
-> Download your countries desktop application [AUS](http://software.gensolve.com/gpmuk/install.htm) [GBR](http://software.gensolve.com/gpmuk/install.htm) [NZL](http://software.gensolve.com/gpmuk/install.htm)
+## Full Featured Native Windows Application
 
-Then follow the [instructions](/support/installation-guide.md) to install.
+Download the appropriate desktop application for your location
 
-Or use the web version [AUS](https://augpm.gensolve.com/index.html) [GBR](https://ukgpm.gensolve.com/index.html) [NZL](https://nzgpm.gensolve.com/index.html) for calendar management and patient treatment notes on any device.
+- [AUS](http://software.gensolve.com/gpmuk/install.htm)
+- [GBR](http://software.gensolve.com/gpmuk/install.htm)
+- [NZL](http://software.gensolve.com/gpmuk/install.htm)
+
+Then follow [these instructions](/support/installation-guide.md) to install.
+
+## Light Web Application
+
+The Web Application is designed specifically to provide **essential capabilities to treat patients on any device**. Therefore any user can use their Phone or an iPad to check the Appointment Book or for clincians to enter Patient Treatment Notes.
+
+- [AUS](https://augpm.gensolve.com/index.html)
+- [GBR](https://ukgpm.gensolve.com/index.html)
+- [NZL](https://nzgpm.gensolve.com/index.html)
+
+For more business orientated tasks or system customisation you will need to install the windows desktop application.
 
 ## Sign In
 
-To learn the navigation essentials you can sign-in with the following credentials:
+To start your journey of understanding what GPM offers you can log into either the Native or Web applications with the following credentials.
 
 | Field        | Setting       |
 | ------------ | ------------- |
 | Organisation | Demo Practice |
-| Username     | fd            |
+| Username     | CN            |
 | Password     | Dem0User      |
 
-::: tip
+CN represents a Clinician and provides an example of a fully customisable user role we have created for demonstrating what GPM could appear to a user with this focus.
+
+::: tip Review all features
+Hold down the shift key then click on the GPM icon to open another application in parallel. Sign in using **PM** as the username.
+:::
+
+::: warning
+By configuration the ability to create data entries has been restricted in order to keep the intergrity of Demo in tact with walkthrough introduction.
+:::
+
+::: warning Troubleshoot Signing In
 See the [troubleshooting guide](http://docs.gensolve.com/help/gpm_uk/desktop/Processes/Installation___Troubleshooting/Logging_In.htm?rhtocid=7.1.0_2#) if you have problems logging in
 :::
 
@@ -41,7 +60,7 @@ See the [troubleshooting guide](http://docs.gensolve.com/help/gpm_uk/desktop/Pro
 
 Provide [feedback questions](/support/feedback-questions.md)
 
-## Pick a Role
+## Investigate Further
 
 For the following profiles have these sign-in credentials in common:
 
