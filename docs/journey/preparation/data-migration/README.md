@@ -37,7 +37,9 @@ Below is a baseline critical path, but date and times vary dependent on workload
 
 See if your Practice Management System is on the established migration path list below.
 
-## Transfer data from Cliniko
+## Established Connections
+
+### From Cliniko
 
 - AUS, GBR, NZL
 
@@ -45,65 +47,65 @@ Transferring data from Cliniko is very straightforward.
 
 [Learn more](./migrate-to-gensolve-from-cliniko.md)
 
-## Transfer data from Cloud Appts
+### From Cloud Appts
 
 [Learn more](./migrate-to-gensolve-from-cloud-appts.md)
 
-## Transfer data from Comsense
+### From Comsense
 
 [Learn more](./migrate-to-gensolve-from-comsense.md)
 
-## Transfer data from Core Plus
+### From Core Plus
 
 [Learn more](./migrate-to-gensolve-from-core-plus.md)
 
-## Transfer data from Freehand
+### From Freehand
 
 - GBR
 
 [Learn more](./migrate-to-gensolve-from-freehand.md)
 
-## Transfer data from Frontdesk
+### From Frontdesk
 
 [Learn more](./migrate-to-gensolve-from-frontdesk.md)
 
-## Transfer data from Gumnut
+### From Gumnut
 
 - AUS
 
 [Learn more](./migrate-to-gensolve-from-gumnut.md)
 
-## Transfer data from Houston
+### From Houston
 
 [Learn more](./migrate-to-gensolve-from-houston.md)
 
-## Transfer data from MedTech
+### From MedTech
 
 [Learn more](./migrate-to-gensolve-from-medtech.md)
 
-## Transfer data from MyPractice
+### From MyPractice
 
 [Learn more](./migrate-to-gensolve-from-mypractice.md)
 
-## Transfer data from Peak
+### From Peak
 
 [Learn more](./migrate-to-gensolve-from-peak.md)
 
-## Transfer data from PPMP
+### From PPMP
 
 [Learn more](./migrate-to-gensolve-from-ppmp.md)
 
-## Transfer data from Profile
+### From Profile
 
 [Learn more](./migrate-to-gensolve-from-profile.md)
 
-## Transfer data from TM2/3
+### From TM2/3
 
 - AU or UK
 
 [Learn more](./migrate-to-gensolve-from-tm3.md)
 
-## Transfer data from WinTAPS
+### From WinTAPS
 
 - UK Only
 
