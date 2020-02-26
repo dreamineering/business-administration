@@ -47,7 +47,7 @@ Hold down the shift key then click on the GPM icon to open another application i
 :::
 
 ::: warning
-By configuration the ability to create data entries has been restricted in order to keep the intergrity of Demo in tact with walkthrough introduction.
+By configuration the ability to create data entries has been restricted in order to keep the integrity of Demo intact with walkthrough introduction.
 :::
 
 ::: warning Troubleshoot Signing In

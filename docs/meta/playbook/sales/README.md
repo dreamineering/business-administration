@@ -104,7 +104,7 @@ Using the performance analysis spreadsheet we can send out and that can be furth
 
 ![close the value loop](https://drive.google.com/uc?id=1IZsBcqjQ3iLuci3mOM1Afk7GRCl7kKDV)
 
-## Automated Demonstrations
+## Product Demonstrations
 
 > Do you like salespeople coming up to you when you first go into a shop?
 
