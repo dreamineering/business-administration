@@ -7,6 +7,8 @@ title: Pricing
 ## Free for Sole Operators
 
 - [Basecamp](https://3.basecamp.com/3423993/projects/990175)
+- Can't add Clinicians
+- Can't add Users ( We can add users from Professional Network)
 
 ## Strategy
 

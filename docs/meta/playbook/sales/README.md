@@ -112,7 +112,7 @@ Nobody does, we need to enable prospective customers to look around in their own
 
 Enable prospects to start using the application and try various workflows using login roles that are aligned with common business functions.
 
-[Read more](./automated-product-demonstations.md)
+[Read more](./product-demonstations.md)
 
 ## Exceptional Onboarding Experience
 
@@ -157,7 +157,9 @@ Generate an [insiders](./insiders.md) culture for those that want to participate
 
 ## Pricing and Incentives
 
-[Read more](./pricig-and-incentives.md)
+Copy the [Basecamp](https://3.basecamp.com/3423993/projects/990175) strategy, but that will require the smartest thinking in the business will need to focus on internal operations and automating the optimum onboarding experience.
+
+[Read more](./pricing-and-incentives.md)
 
 ## Action Plan
 
