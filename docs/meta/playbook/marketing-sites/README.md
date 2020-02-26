@@ -4,9 +4,11 @@ title: Marketing Sites
 
 # Marketing Sites
 
-https://land-book.com/
+## Resources
 
-https://vuejsexamples.com/a-powerful-markdown-components-for-vue/
+- https://land-book.com/
+- https://onepagelove.com/
+- https://vuejsexamples.com/a-powerful-markdown-components-for-vue/
 
 ## Project Plan
 

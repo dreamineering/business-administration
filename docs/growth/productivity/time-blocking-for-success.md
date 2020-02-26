@@ -15,14 +15,14 @@ The most effective business leaders plan their week b
 Preliminary steps
 
 - Create an Admin site
-- Add Admin Staff as Clincians
+- Add Admin Staff as Clinicians
 
 ## Create a baseline
 
 - What jobs to you expect each employee to complete in a typical week?
 - When is the best time to focus on completing those jobs?
 - How long should they work on that job?
-- What business discipline best categorises the job?
+- What business discipline is the best category for the job?
 
 1. Enter details into [your operations budget](../finances/create-a-cashflow-forecast.md)
 2. Create appropriately named Clinician Appointment Types
