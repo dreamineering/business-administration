@@ -18,7 +18,11 @@ Or [mckinsey matrix](http://www.quickmba.com/strategy/matrix/ge-mckinsey/)
 
 ## Channels
 
-| Modality | Persona | Channel                                                                                                        |
-| -------- | ------- | -------------------------------------------------------------------------------------------------------------- |
-| Physio   | All     | [Reddit](https://www.reddit.com/r/physiotherapy/)                                                              |
-| Physio   | Solo    | [Birmingham Uni](https://www.birmingham.ac.uk/schools/sport-exercise/our-students/physiotherapy-profiles.aspx) |
+### Physio
+
+- [Reddit](https://www.reddit.com/r/physiotherapy/)
+
+### Podiatry
+
+- [the-podiatry-business-podcast](https://www.stitcher.com/podcast/the-podiatry-business-podcast/e/67358616)
+- [Top 10 Schools](https://www.studyin-uk.in/study-guide/study-podiatry-uk/)

@@ -20,24 +20,14 @@ _Which is using web app the most?_
 
 - [Website]() [LinkedIn]() [Facebook]() [Instagram]()
 
-## Habit Group
+## G2G Migrations
 
 - API for KPIs
 - G2G Merger
 
-[Read their story](./habit-group.md)
-
-- [Website]() [LinkedIn](https://www.linkedin.com/company/habit-group/) [Facebook]() [Instagram]()
-
-## Triton Audiology
-
-- [LinkedIn](https://www.linkedin.com/company/habit-group/)
+## Audiology
 
 Growing national business by streamlining communication processes.
-
-[Read their story](./triton-audiology.md)
-
-- [Website]() [LinkedIn](https://www.linkedin.com/company/habit-group/) [Facebook]() [Instagram]()
 
 ## Cliniko Migration
 
