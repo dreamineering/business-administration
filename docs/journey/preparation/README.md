@@ -39,10 +39,6 @@ Get staff to complete role-specific checklists to be ready for transitioning to 
 
 Have a session with Gensolve Trainer to cover areas that need further explanation.
 
-### [Live Data Transfer](./live-data-transfer/)
-
-**Optional** transfer final operating data from your existing system.
-
 ### [Preflight Checklist](./preflight-checklist/)
 
 Final checks to be ready for operations.
