@@ -4,7 +4,7 @@ title: Live Migration Checklist
 
 # Live Migration Checklist
 
-- Confirm Appointments have the correct date and time to avoid potiential double bookings
+- Confirm Appointments have the correct date and time to avoid potential double bookings
 - Check Aged Debtors balances are correct against your existing system
 - Check active Conditions have correct private / insurance settings ( Hour One, Day One - Critical) then (Week One | Month One - As time permits)
 - Future Appointments need service charges ( Hour One, Day One - Critical) then ( Week One | Month One - As time permits)

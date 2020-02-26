@@ -4,6 +4,8 @@ title: Preparation
 
 # Preparation
 
+[[toc]]
+
 ## Questions
 
 - Do you need to bring data from an existing system?

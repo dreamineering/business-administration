@@ -22,13 +22,19 @@ Discovery of what do and what you need?
 
 Preconfiguration of system administration settings to customise your experience and management training.
 
-[Learn more](./preparation.md)
+[Learn more](./preparation/)
+
+## Preflight Checklist
+
+Last checks to make sure you are ready to start running your practice Gensolve.
+
+[Learn more](./preflight-checklist/)
 
 ## Onboarding
 
 What to expect in your first month with Gensolve Practice Manager. Set you up with good habits to continue.
 
-[Learn more](./onboarding.md)
+[Learn more](./onboarding/)
 
 ## Growth
 
