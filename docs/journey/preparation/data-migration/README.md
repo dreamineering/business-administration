@@ -1,12 +1,12 @@
 ---
-title: Data Migration
+title: Data Transfer
 ---
 
-# Data Migration
+# Data Transfer
 
 [[toc]]
 
-## Process Overview
+## Extract Transform and Load
 
 1. Extract
 2. Transform
