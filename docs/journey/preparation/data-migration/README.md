@@ -41,6 +41,8 @@ See if your Practice Management System is on the established migration path list
 
 - AUS, GBR, NZL
 
+Transferring data from Cliniko is very straightforward.
+
 [Learn more](./migrate-to-gensolve-from-cliniko.md)
 
 ## Transfer data from Cloud Appts
@@ -111,7 +113,7 @@ See if your Practice Management System is on the established migration path list
 
 If your current Practice Management System is not in the list, creating new data transfer logic requires significant analysis and testing time, to justify the cost of development we first need to judge how much of the market a competitor's solution has which we will take into account when evaluating migration charges.
 
-When dealing with data from a system we have not seen before **we are reliant on your team to guide us** as we are often working blind and don't know your data as you do. If your team dutifully runs the migration approval checklist will provide then the logic should be confirmed ready for running the **Go Live** migration within two iterations.
+When dealing with data from a system we have not seen before **we are reliant on your team to guide us** as we are working blind and don't know your data as you do. If your team dutifully runs the migration approval checklist will provide then the logic should be confirmed ready for running the **Go Live** migration within two iterations.
 
 ![all-migration-options](https://drive.google.com/uc?id=1bt2ihOU2wTvLQ47ZBvNOV4UVBgWOWpl7)
 
