@@ -4,8 +4,10 @@ title: Working Memory > Wik
 
 # Working Memory > Wik
 
-- https://www.entrepreneur.com/article/76418
 - https://quaderno.io/blog/create-your-profit-forecast-easy-way/
+
+## Profit First
+
 - https://readingraphics.com/book-summary-profit-first/
 - https://medium.com/the-crunch/an-accountants-review-of-profit-first-7f888b5d7b
 - https://www.clinictocloud.com/blog/profitable-medical-practice-business-plan

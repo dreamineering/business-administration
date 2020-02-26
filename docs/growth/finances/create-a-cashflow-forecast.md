@@ -1,8 +1,8 @@
 ---
-title: Create a Cashflow Forecast
+title: Your medical practice's secret to success - the essentials of a profitable business strategy
 ---
 
-# Create a Cashflow Forecast
+# Your medical practice's secret to success - the essentials of a profitable business strategy
 
 Before you pay your expenses, take your profit first. Run your business based on what you can afford to do today, not what you hope to be able to afford someday. When profit comes first, it is the focus, and it is never forgotten.
 
