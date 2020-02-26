@@ -13,7 +13,9 @@ auditKairos:
 
 <h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you <span style="color:#D70014;font-weight:bold">love</span> helping people strive for their dreams<br>We <span style="color:#D70014;font-weight:bold">love</span> helping people like you</h2>
 
-Are you thriving or barely surviving? Download our **free practice profitability tool** to assess the health of your practice and if needed we'd be happy to help you take care of the boring stuff so you can concentrate on delivering the greatest possible experience to your customers.
+If you are struggling to run your practice, Gensolve Practice Manager comes packed with features that take care of the boring stuff enabling you to concentrate on delivering the greatest possible experience to your customers.
+
+Every business no matter what stage of growth requires an accurate profit forecast. But building forecasts with any degree of accuracy takes time and expertise. But few investors will put money in your business if you're unable to provide a set of thoughtful forecasts. More important, proper financial forecasts will help you develop operational and staffing plans that will help make your business a success. To help you take a huge step in the right direction you can download our profit forecast template for free and without obligation.
 
 <a
   href="https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download"
