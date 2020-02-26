@@ -13,6 +13,8 @@ Evolve your [recurring workflows](./staff-management/how-to-create-recurring-wor
 - Who does what to the data?
 - What can go wrong?
 
+[Inject 18 years of operational intelligence into your practice's business operations](https://drive.google.com/open?id=1r9dQCe5NGNoT_Kaucqs2lxtQGxOWKyz_)
+
 [[toc]]
 
 ## Accounting Cycle

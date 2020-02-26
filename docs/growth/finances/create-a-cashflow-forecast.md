@@ -18,6 +18,12 @@ As you evolve better business habits based on performance analysis so to will yo
 
 ![Anticipate the future](https://drive.google.com/uc?id=1obm1r8KITApGbYIszQi1QDKqwAQCT6Tw)
 
+- How many patients will visit your practice per week?
+- What is your fee per consultation?
+- What’s your desired weekly income?
+- Your number of referrers and referrals per month?
+- How many clinicians vs support staff do you need?
+
 ## Approach
 
 Improve your [excel skills](https://edu.gcfglobal.org/en/excel2016/) if needed.
