@@ -8,11 +8,11 @@ title: Data Transfer
 
 ## Extract Transform and Load
 
-1. Extract
-2. Transform
-3. Load
+**Extract** - your current supplier exports data and makes it available to you or a secure place we can access it.
 
-**Extract** - your current supplier exports data and makes it available to you or a secure place we can access it. **Transform** - data from your old system is transformed into a format that can be used in GPM. **Load** - transformed data is loaded into GPM. Depending on the size of your business this can take 30 mins to an entire weekend. Most migrations take approximately 2 hours to complete.
+**Transform** - data from your old system is transformed into a format that can be used in GPM.
+
+**Load** - transformed data is loaded into GPM. Depending on the size of your business this can take 30 mins to an entire weekend. Most migrations take approximately 2 hours to complete.
 
 ## Timeline
 
