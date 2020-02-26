@@ -15,7 +15,7 @@ auditKairos:
 
 If you are struggling to run your practice, Gensolve Practice Manager comes packed with features that take care of the boring stuff enabling you to concentrate on delivering the greatest possible experience to your customers.
 
-Every business no matter what stage of growth requires an accurate profit forecast. But building forecasts with any degree of accuracy takes time and expertise. But few investors will put money in your business if you're unable to provide a set of thoughtful forecasts. More important, proper financial forecasts will help you develop operational and staffing plans that will help make your business a success. To help you take a huge step in the right direction you can download our profit forecast template for free and without obligation.
+Every business no matter what stage of growth requires an accurate profit forecast. But building forecasts with any degree of accuracy takes time and expertise. But few investors will put money in your business if you're unable to provide a set of thoughtful forecasts. More important, proper financial forecasts will help you develop operational and staffing plans that will help make your business a success. To help you take a huge step in the right direction you can download our profit forecast template for free and without obligation. Don't worry it is not as hard as it might sound :)
 
 <a
   href="https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download"
