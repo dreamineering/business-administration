@@ -4,11 +4,17 @@ title: Time Blocking
 
 # Time Blocking
 
-**Time** is your greatest asset, don't waste it. As a business owner you need to remember you are managing a business, not working in a job. So the management of all aspects of the business should carry equal weight. Don't fall into the trap of doing what you comfortable **doing**, ignoring other important aspects of running a profitable business.
+**Time** is your greatest asset, Every business owner **needs to do more** with the time they have.
+
+> Do you value your time highly enough?
 
 Not planning a schedule, committing to too many tasks or events, and dealing with the many life distractions can all lead to wasted time and anxiety about how to get things done.
 
-> Color code your brain by **theming** your days
+As a business owner you need to remember you are leading a business, not working in a job. So the management of all aspects of the business should carry equal weight. Don't fall into the trap of doing what you comfortable **doing**, ignoring other important aspects of running a profitable business.
+
+::: tip
+Color code your brain by **theming** your days
+:::
 
 The most effective business leaders plan their week b
 
@@ -16,6 +22,8 @@ Preliminary steps
 
 - Create an Admin site
 - Add Admin Staff as Clinicians
+
+## Don’t be scared to sync your work and personal calendars
 
 ## Create a baseline
 
@@ -66,6 +74,9 @@ Preliminary steps
 
 ## Learn more
 
+- [Finding Time](https://nav.al/finding-time)
 - [Deep Work](https://www.youtube.com/watch?v=gTaJhjQHcf8)
 - [When - How to get time on your side](https://www.strategy-business.com/article/How-to-Get-Time-on-Your-Side?gko=501ef)
 - [Flow](https://www.ted.com/talks/mihaly_csikszentmihalyi_flow_the_secret_to_happiness?language=en)
+- [Focus](https://blog.rescuetime.com/context-switching/)
+- [Decision Fatigue](https://www.developgoodhabits.com/decision-fatigue/)

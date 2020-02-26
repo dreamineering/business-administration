@@ -2,6 +2,12 @@
 title: Market
 ---
 
+# Market
+
+[bcg matrix](https://www.businessnewsdaily.com/5693-bcg-matrix.html) - has been used since 1968 to help companies gain insights on what products best help them capitalize on market share growth opportunities.
+
+Or [mckinsey matrix](http://www.quickmba.com/strategy/matrix/ge-mckinsey/)
+
 ## Personas
 
 ### Entrepreneurs

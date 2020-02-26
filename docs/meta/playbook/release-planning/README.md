@@ -39,3 +39,5 @@ _In the modern world of business, it is useless to be a creative, original think
 - [Basecamp - How we work](https://www.youtube.com/watch?v=ATpJBeuknaQ)
 
 ![planning](https://drive.google.com/uc?id=1Ngx7-hTRde74rJyKvXjnn_Ww0Dww-0xF)
+
+A [valuable programmer understands the problems worth fixing](https://medium.com/@fagnerbrack/a-smart-programmer-understands-the-problems-worth-fixing-dcf15871f943)

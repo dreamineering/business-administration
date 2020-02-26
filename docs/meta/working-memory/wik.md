@@ -13,18 +13,6 @@ title: Working Memory > Wik
 - https://www.clinictocloud.com/blog/profitable-medical-practice-business-plan
 - https://blog.projectionhub.com/financial-projections-for-a-startup-medical-practice/
 
-## Jobs
-
-- Unit of work
-- Job to be done Interview
-
-## Tasks
-
-- Copy Roles from GPM Best Practice into Demo prove login
-- Research Practice Recruitment boards for Job Descriptions
-
-https://onepagelove.com/
-
 ## Links
 
 - [HPSNZ](https://www.google.com/search?q=HPSNZ+gensolve&oq=hp&aqs=chrome.0.69i59j69i57j0l4j69i60l2.3441j0j4&sourceid=chrome&ie=UTF-8)
@@ -42,24 +30,8 @@ Why wait until the end of the day to do your business admin? Isn't this time whe
 
 Use structured communication to create better work patterns for greater efficiency.
 
-Get to the money person.
-
-Email is open loop communication
-
-Time of day for deep work
-Time of day for tasks
-Time of day for clients
-
-Why wait until the end of the day when your brain is tired to solve deep work problems?
-
-- Use structured communication to create better work patterns. For greater efficiency.
-- Import 20 years of intelligence into your practice.
-- Email Daniel
-
 ## Time blocking
 
-- [Focus](https://blog.rescuetime.com/context-switching/)
-- [Decision Fatigue](https://www.developgoodhabits.com/decision-fatigue/)
 - [Planning](https://www.themuse.com/advice/how-to-plan-your-week-for-maximum-impact)
 
 - https://www.theladders.com/career-advice/how-to-manage-time-effectively-even-if-your-schedule-is-hectic
@@ -73,15 +45,3 @@ Why wait until the end of the day when your brain is tired to solve deep work pr
 - https://www.thepowerhousevancouver.com/time-blocking/
 - https://medium.com/@edricsubur/how-i-ditched-to-dos-and-use-google-calendar-to-manage-my-life-f1e895efd9dc
 - https://gusto.com/blog/growth/google-calendar-hacks
-- https://medium.com/@fagnerbrack/a-smart-programmer-understands-the-problems-worth-fixing-dcf15871f943
-- https://www.businessnewsdaily.com/5693-bcg-matrix.html
-
-https://nav.al/finding-time
-
-https://stdlib.com/
-
-## Accounting Search
-
-https://www.google.com/search?biw=1500&bih=819&ei=ZoRRXsX7IMCGwPAPsLCA-Ac&q=accountants+united+kingdom+health+practice&oq=accountants+united+kingdom+health+practice&gs_l=psy-ab.3..33i160.35049.56417..57140...3.2..0.417.4733.0j20j6j0j1......0....1..gws-wiz.......0i71j0i7i30j0i30j0i8i30j0i5i30j0i22i30j33i21j33i22i29i30j33i10i160j33i10.amAlwkX-5Bk&ved=0ahUKEwjFxpbU9eXnAhVAAxAIHTAYAH8Q4dUDCAs&uact=5
-
-https://www.xero.com/uk/why-xero/your-business/healthcare/
