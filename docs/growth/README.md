@@ -102,7 +102,7 @@ Gensolve has facilitated 30+ G2G migrations over the past two years. Compared to
 
 [Learn more](./expansion/)
 
-## Coaching
+## Business Advisors
 
 [MBA Mondays](https://mba-mondays-illustrated.com/) by noted venture capitalist Fred Wilson is a great way to learn the fundamentals of growing a successful business.
 

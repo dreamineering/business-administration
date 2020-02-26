@@ -26,4 +26,4 @@ Planning, communication, and accountability.
 
 ## Timeblocking for Success
 
-- [Time Blocking for Success](./time-blocking/)
+[Learn more](./time-blocking-for-success.md)

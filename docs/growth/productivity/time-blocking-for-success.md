@@ -8,7 +8,7 @@ title: Time Blocking
 
 Not planning a schedule, committing to too many tasks or events, and dealing with the many life distractions can all lead to wasted time and anxiety about how to get things done.
 
-> Color code your brain by **theming** your days by [business discipline](../../)
+> Color code your brain by **theming** your days
 
 The most effective business leaders plan their week b
 
@@ -43,7 +43,7 @@ Preliminary steps
 - no Inbound Phones Call or Emails before lunchtime
 - make important outbound phones calls early as possible
 - save task-based work and [meetings](../effective-meetings.md) for the afternoon
-- have a [close-down routine](../../../features/workflows/staff-management/how-to-create-operations-checklists/)
+- have a [close-down routine](/features/workflows/staff-management/how-to-create-operations-checklists/)
   :::
 
 ## At the end of the week
@@ -63,3 +63,9 @@ Preliminary steps
 6. Delegate
 
 > Discipline equals Freedom
+
+## Learn more
+
+- [Deep Work](https://www.youtube.com/watch?v=gTaJhjQHcf8)
+- [When - How to get time on your side](https://www.strategy-business.com/article/How-to-Get-Time-on-Your-Side?gko=501ef)
+- [Flow](https://www.ted.com/talks/mihaly_csikszentmihalyi_flow_the_secret_to_happiness?language=en)

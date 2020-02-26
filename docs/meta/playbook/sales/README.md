@@ -88,6 +88,8 @@ What are their [trigger points?](./trigger-stories.md)
 
 ## How
 
+All Leads to be tracked, reported, worked and won on by all sales staff and to have all information about them in one location.
+
 1. [Trogen Horse](./performance-spreadsheet.md)
 2. [Automated Demos](./hands-off-demo.md)
 3. [Exceptional Onboarding Experience](./onboarding.md)
