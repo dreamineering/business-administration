@@ -58,6 +58,8 @@ Manage your clinicians and your administration team. Schedule recurring activiti
 - Cancellation and no-show management: Monitor no-shows and cancellations and link the information to patients’ files.
 - SMS reminders: Send SMS Reminders of appointments in bulk to clients.
 
+Wouldn't you like to [inject 18 years of operational intelligence into your practice?](/features/workflows/).
+
 [Learn more](/growth/)
 
 ## Marketing
