@@ -99,7 +99,9 @@ Track performance, connect the dots, close the loop, review your strategy and ad
 
 ## Ready to Grow?
 
-Gensolve has facilitated over 30 practice mergers in the past two years. Compared to the headaches accepted with most mergers the beautiful thing with a _G2G migration_ is that from one day to the next your operations remain the same, leaving your team free to focus on customer service not boring administration tasks.
+Smart business operators have leveraged Gensolve's ability to deliver economies of scale on centralised business adminstration hub to grow nationwide business operations. Combine that with our second to none data migration support and you have a very rare combination to rapidly scale while maintaining control of key processes.
+
+In fact Gensolve has facilitated over 30 practice mergers in the past two years. Compared to the headaches accepted with most mergers the beautiful thing with a _G2G migration_ is that from one day to the next your operations remain the same, leaving your team free to focus on customer service not boring administration tasks.
 
 [Learn more](/growth/growth-migrations/)
 
