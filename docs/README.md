@@ -19,7 +19,7 @@ Every business no matter what stage of growth requires an accurate profit foreca
 
 <a
   href="https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download"
-  style="font-size:2em;margin:2rem auto 0;width:240px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 2rem;border-radius:60px">Forecast Your Growth</a>
+  style="font-size:2em;margin:2rem auto 0;width:260px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 2rem;border-radius:60px">Plan Your Growth</a>
 
 <p style="margin:1rem auto;width:220px;text-align:center;display:block;border:none;padding:0 2rem;border-radius:60px">No need to sign up!</p>
 
@@ -116,6 +116,6 @@ Download our free [cashflow forecasting tool](https://drive.google.com/a/gensolv
 
 <a
   href="https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download"
-  style="font-size:2em;margin:2rem auto 0;width:240px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 2rem;border-radius:60px">Forecast Your Growth</a>
+  style="font-size:2em;margin:2rem auto 0;width:260px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 2rem;border-radius:60px">Plan Your Growth</a>
 
 <p style="margin:1rem auto;width:220px;text-align:center;display:block;border:none;padding:0 2rem;border-radius:60px">No need to sign up!</p>
