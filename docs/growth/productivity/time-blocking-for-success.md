@@ -151,7 +151,7 @@ Take time blocking seriously, dedicating ten to twenty minutes every evening to 
 - Tune your schedule for your body type
 - Delegate
 
-Before ending the day, review for your plan for tomorrow and ask the most insightful question you can, then leave it to your subconcious to process.
+Before ending the day, review for your plan for tomorrow and ask the most insightful question you can, then leave it to your subconscious to process.
 
 ::: tip
 If you spend a good amount of time each day answering calls, texts, and emails, set aside a certain time each day for these tasks. Communicate these “office hours” on your voicemail message and in your email signature. Your clients and co-workers will appreciate knowing when you’ll respond. They won’t have to guess how busy your day is and when you’ll finally get around to answering your messages.
