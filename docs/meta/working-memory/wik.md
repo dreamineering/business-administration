@@ -29,3 +29,5 @@ time of day for clients
 Why wait until the end of the day to do your business admin? Isn't this time when CEOs of other businesses have time available for treatment?
 
 Use structured communication to create better work patterns for greater efficiency.
+
+https://www.irishtimes.com/life-and-style/abroad/why-have-444-irish-physiotherapists-left-to-work-in-new-zealand-1.3609311

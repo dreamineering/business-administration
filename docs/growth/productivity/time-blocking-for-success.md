@@ -131,6 +131,10 @@ Set aside time to close the loops. This is part of the Getting Things Done idea.
 3. Adjust your baseline forecast
 4. Make a plan for next week
 
+::: tip
+If you have a business coach, time blocking your schedule for next week is a great way to make their advice actionable and extract maximum benefit for your money.
+:::
+
 ## Sample Plans
 
 > top performers organize their day through time blocks instead of to-do lists
