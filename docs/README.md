@@ -107,7 +107,7 @@ Smart business operators have leveraged Gensolve's ability to deliver economies 
 
 In fact Gensolve has facilitated over 30 practice mergers in the past two years. Compared to the headaches accepted with most mergers the beautiful thing with a _G2G migration_ is that from one day to the next your operations remain the same, leaving your team free to focus on customer service not boring administration tasks.
 
-[Learn more](/growth/growth-migrations/)
+[Learn more](/growth/expansion/)
 
 **Get three Applications for the Price of One.** Wisdom for the **pain** is overrated! Take [control](/control/) of your business and [claim back your time](/journey/demo/). Can you afford not to improve your:
 
