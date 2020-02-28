@@ -4,6 +4,17 @@ title: Time Blocking for Success
 
 # Time Blocking for Success
 
+Elite performers, without exception, [value their time extremely high](https://nav.al/hourly-rate), so they guard their time ferociously so they can [extract maximum value for their efforts](https://fourminutebooks.com/tools-of-titans-summary/). If you are a leader in your organisation, the single most important skill you need to master to have a positive impact on your business is time management.
+
+Crucially, you must be vigilant to [eliminate reactive firefighting work](https://www.paulgough.com/podcast/ep-283/), this includes answering phone calls or emails where you have not set the agenda and schedule time for [Deep Work](https://www.youtube.com/watch?v=gTaJhjQHcf8&t=7s) where you are completely [indistractable](https://www.youtube.com/watch?v=kESwCrwOGtg).
+
+## Why use Gensolve for business planning?
+
+Why use Gensolve for planning how to spend you administer your business? Because you have the ability to improve your plans by analysisg historical data to see how productive you have been. If you have weaknesses you can raise these with a business specialist in the area of concern. The ability to move or copy appointments also makes planning or adjusting a plan extremely easy.
+
+The greatest benefit of all
+Once you have set up strong patterns, you can pass these on to your staff and know how to interpret their results.
+
 Timing the right activity for the right time [is a science](https://zapier.com/blog/daily-schedules-for-productivity/), do yourself a massive favour and [learn how to make the most of your time](https://blog.rescuetime.com/when-to-work-productivity-curves/)!
 
 While a standard to-do list tells you what you need to do, time blocking tells you when you’re going to do it. Time blocking is a simple, flexible and effective way to help you to manage your time better and stay productive on a daily basis.
