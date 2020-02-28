@@ -12,8 +12,7 @@ Crucially, you must be vigilant to [eliminate reactive firefighting work](https:
 
 Why use Gensolve for planning how to spend you administer your business? Because you have the ability to improve your plans by analysisg historical data to see how productive you have been. If you have weaknesses you can raise these with a business specialist in the area of concern. The ability to move or copy appointments also makes planning or adjusting a plan extremely easy.
 
-The greatest benefit of all
-Once you have set up strong patterns, you can pass these on to your staff and know how to interpret their results.
+The greatest benefit of all you will learn the art of effective delegation, as once you have set up strong patterns, you can pass these on to your staff and know how to interpret results and what performance benchmarks to expect.
 
 Timing the right activity for the right time [is a science](https://zapier.com/blog/daily-schedules-for-productivity/), do yourself a massive favour and [learn how to make the most of your time](https://blog.rescuetime.com/when-to-work-productivity-curves/)!
 
