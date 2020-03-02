@@ -28,13 +28,17 @@ Helping to create growth through acquisitions
 
 ## Marketing
 
+### P3 Practice Marketing
+
+[Website](https://www.p3practicemarketing.com/)
+
 ### Physio Digital
 
 [Website](https://physiodigital.co.uk/)
 
-### Sneakers Media
+### Adio Media
 
-[Website](https://sneakersmedia.co.nz/) | [LinkedIn](https://www.linkedin.com/company/sneakersmedia/about/)
+[Website](https://adiomedia.com/)
 
 ## Coaching
 

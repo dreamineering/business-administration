@@ -20,12 +20,18 @@ You can think of them as system-generated TODO lists, but where the user that ow
 2. Report benchmark performance failures
 3. Trigger strategic decisions
 
-- customers that require _sales or followup calls_
-- no historical appointments left in _confirmed_ state
-- no historical appointments without _treatment notes_
-- no appointments without service charges
-- no appointments without conditions
-- no conditions without _treatment plans_
+| Report name                                                                                                                      | Roles      | Frequency     |
+| -------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------- |
+| [Appointments Owing](/features/practice-manager/reports/appointments-owing.md)                                                   | FD, CN, AP | Close of Day  |
+| [Client Appointments without Service Charges](/features/practice-manager/reports/client-appointments-without-service-charges.md) | FD, CN, AP | Close of Day  |
+| [Appointments Not Completed](/features/practice-manager/reports/appointments-not-completed.md)                                   | FD, CN, AP | Close of Day  |
+| Appointments Without Conditions                                                                                                  | FD, CN, AP | Close of Day  |
+| Incomplete Exams                                                                                                                 | CN, CD     | Close of Day  |
+| Conditions Without Treatment Plans                                                                                               | CN, CD     | Close of Day  |
+| Intra Referrals Report                                                                                                           | CN, CD     | Close of Day  |
+| Clients Not Seen or Discharged                                                                                                   | FD, CN, CD | Close of Day  |
+| Clients Not Seen                                                                                                                 | FD,        | Close of Day  |
+| Appointments to invoice                                                                                                          | AP         | Close of Week |
 
 ## Compliance
 
