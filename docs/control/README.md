@@ -27,18 +27,6 @@ These system-created todo lists should be referred to routinely to:
 - identify clients that require (sales) calls
 - identify staff that are underperforming
 
-| Report name                                 | Roles      | Frequency     |
-| ------------------------------------------- | ---------- | ------------- |
-| Appointments Owing                          | FD, CN, AP | Close of Day  |
-| Client Appointments without Service Charges | FD, CN, AP | Close of Day  |
-| Appointments Not Completed                  | FD, CN, AP | Close of Day  |
-| Appointments Without Conditions             | FD, CN, AP | Close of Day  |
-| Incomplete Exams                            | CN, CD     | Close of Day  |
-| Intra Referrals Report                      | CN, CD     | Close of Day  |
-| Clients Not Seen or Discharged              | FD, CN, CD | Close of Day  |
-| Clients Not Seen                            | FD,        | Close of Day  |
-| Appointments to invoice                     | AP         | Close of Week |
-
 [Learn more](./action-lists/)
 
 ## Expectations
