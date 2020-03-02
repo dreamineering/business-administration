@@ -99,14 +99,9 @@ c2(no)->op2->e
 
 https://github.com/vuejs/vuepress/issues/870
 
-<video width="560" height="240" controls>
-  <source src="https://sample-videos.com/video123/mp4/480/big_buck_bunny_480p_1mb.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 using an iframe sometimes works with YouTube
 
-<iframe width="560" height="315" src="http://gensolve-docs.s3-ap-southeast-2.amazonaws.com/GPM/6.5/Videos/Administration/How%20to%20Create%20a%20Patient%20Goal/How_to_Create_a_Patient_Goal_UK.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="margin-top:20px" width="560" height="420" src="http://gensolve-docs.s3-ap-southeast-2.amazonaws.com/GPM/6.5/Videos/Administration/How%20to%20Create%20a%20Patient%20Goal/How_to_Create_a_Patient_Goal_UK.mp4" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 <video width="560" height="240" controls>
   <source src="http://gensolve-docs.s3-ap-southeast-2.amazonaws.com/GPM/6.5/Videos/Administration/How%20to%20Create%20a%20Patient%20Goal/How_to_Create_a_Patient_Goal_UK.mp4" type="video/mp4">
