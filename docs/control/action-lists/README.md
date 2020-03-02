@@ -25,13 +25,12 @@ You can think of them as system-generated TODO lists, but where the user that ow
 | [Appointments Owing](/features/practice-manager/reports/appointments-owing.md)                                                   | FD, CN, AP | Close of Day  |
 | [Client Appointments without Service Charges](/features/practice-manager/reports/client-appointments-without-service-charges.md) | FD, CN, AP | Close of Day  |
 | [Appointments Not Completed](/features/practice-manager/reports/appointments-not-completed.md)                                   | FD, CN, AP | Close of Day  |
-| Appointments Without Conditions                                                                                                  | FD, CN, AP | Close of Day  |
-| Incomplete Exams                                                                                                                 | CN, CD     | Close of Day  |
-| Conditions Without Treatment Plans                                                                                               | CN, CD     | Close of Day  |
-| Intra Referrals Report                                                                                                           | CN, CD     | Close of Day  |
-| Clients Not Seen or Discharged                                                                                                   | FD, CN, CD | Close of Day  |
-| Clients Not Seen                                                                                                                 | FD,        | Close of Day  |
-| Appointments to invoice                                                                                                          | AP         | Close of Week |
+| [Appointments Without Conditions](/features/practice-manager/reports/appointments-without-conditions.md)                         | FD, CN, AP | Close of Day  |
+| [Incomplete Exams](/features/practice-manager/reports/incomplete-exams.md)                                                       | CN, CD     | Close of Day  |
+| [Intra Referrals](/features/practice-manager/reports/intra-referrals.md)                                                         | CN, CD     | Close of Day  |
+| [Clients Not Seen or Discharged](/features/practice-manager/reports/clients-not-seen-or-discharged.md)                           | FD, CN, CD | Close of Day  |
+| [Clients Not Seen](/features/practice-manager/reports/clients-not-seen.md)                                                       | FD,        | Close of Day  |
+| [Appointments to invoice](/features/practice-manager/reports/appointments-to-invoice.md)                                         | AP         | Close of Week |
 
 ## Compliance
 
