@@ -106,10 +106,9 @@ https://github.com/vuejs/vuepress/issues/870
 
 using an iframe sometimes works with YouTube
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bTqVqk7FSmY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://gensolve-docs.s3-ap-southeast-2.amazonaws.com/GPM/6.5/Videos/Administration/How%20to%20Create%20a%20Patient%20Goal/How_to_Create_a_Patient_Goal_UK.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <video width="560" height="240" controls>
-  <source src="http://gensolve-docs.s3.amazonaws.com/GPM/6.1/Videos/Banking%20and%20Daily%20Takings/How_to_Create_Daily_Takings.mp4
-" type="video/mp4">
+  <source src="http://gensolve-docs.s3-ap-southeast-2.amazonaws.com/GPM/6.5/Videos/Administration/How%20to%20Create%20a%20Patient%20Goal/How_to_Create_a_Patient_Goal_UK.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

@@ -8,6 +8,8 @@ Elite performers, without exception, [value their time extremely high](https://n
 
 Crucially, you must be vigilant to [eliminate reactive firefighting work](https://www.paulgough.com/podcast/ep-283/), this includes answering phone calls or emails where you have not set the agenda and schedule time for [Deep Work](https://www.youtube.com/watch?v=gTaJhjQHcf8&t=7s) where you are completely [indistractable](https://www.youtube.com/watch?v=kESwCrwOGtg).
 
+Stealing from your loved ones.
+
 ## Why use Gensolve for business planning?
 
 Why use Gensolve for planning how to spend you administer your business? Because you have the ability to improve your plans by analysisg historical data to see how productive you have been. If you have weaknesses you can raise these with a business specialist in the area of concern. The ability to move or copy appointments also makes planning or adjusting a plan extremely easy.
