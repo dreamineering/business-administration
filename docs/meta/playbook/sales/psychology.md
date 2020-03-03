@@ -8,20 +8,15 @@ Answer **How much money are you losing?** by quantifying Job to be done, **value
 
 [Ethos, Pathos, Logos, Kairos](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years)
 
-Read [buyology](./https://blog.12min.com/buyology-pdf-summary-martin-lindstrom/)
-
-1. [Reciprocation](https://www.nngroup.com/articles/reciprocity-principle/)
-2. [Authority](https://www.nngroup.com/articles/authority-principle/)
-3. [Social Proof](https://www.nngroup.com/articles/social-proof-ux/)
-4. [Commitment and Consistency](https://www.nngroup.com/articles/commitment-consistency-ux/)
-5. [Liking](https://www.nngroup.com/articles/liking-principle-ui-design/)
-6. [Scarcity](https://www.nngroup.com/articles/scarcity-principle-ux/)
+[[toc]]
 
 ## Reciprocation
 
 [Reciprocity](https://www.nngroup.com/articles/reciprocity-principle/)
 
 ## Social Proof
+
+Interact with thought leaders on social media. LinkedIn historically much more male audience. Instagram and Pinterest female. We can align staff to send out messages.
 
 [Social Proof](https://www.nngroup.com/articles/social-proof-ux/)
 
@@ -42,7 +37,7 @@ Read [buyology](./https://blog.12min.com/buyology-pdf-summary-martin-lindstrom/)
 
 ## Scarcity
 
-As a special one time special offer the first 100 customers a free three-month trial.
+Fear of missing out is a greater motivation than reward [buyology](./https://blog.12min.com/buyology-pdf-summary-martin-lindstrom/). As a special one time special offer the first 100 customers a free three-month trial.
 
 - [Scarcity](https://www.nngroup.com/articles/scarcity-principle-ux/)
 
