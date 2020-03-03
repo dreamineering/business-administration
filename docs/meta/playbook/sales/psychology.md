@@ -6,7 +6,7 @@ title: Psychology
 
 Answer **How much money are you losing?** by quantifying Job to be done, **value stories** by business discipline, Finance, Quality, Productivity and Marketing. See the performance spreadsheet for an example of Productivity and File Management.
 
-Ethos, Pathos, Logos, Kairos
+[Ethos, Pathos, Logos, Kairos](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years)
 
 Read [buyology](./https://blog.12min.com/buyology-pdf-summary-martin-lindstrom/)
 
@@ -42,6 +42,13 @@ Read [buyology](./https://blog.12min.com/buyology-pdf-summary-martin-lindstrom/)
 
 ## Scarcity
 
-As special one time offer the first 100 customers a free three-month trial.
+As a special one time special offer the first 100 customers a free three-month trial.
 
 - [Scarcity](https://www.nngroup.com/articles/scarcity-principle-ux/)
+
+## 80 Cents in the Dollar
+
+> On the average, five times as many people read the headline as read the body copy. When you have written your headline, you have spent eighty cents out of your dollar.
+
+- [Copywriting tips from Neil Patel](https://neilpatel.com/blog/david-ogilvy/)
+- [Craft Headlines](https://devedge-internet-marketing.com/2012/03/02/80-cents-of-dollar-spent-writing-headlines/)
