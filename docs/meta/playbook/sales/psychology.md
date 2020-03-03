@@ -12,6 +12,8 @@ Answer **How much money are you losing?** by quantifying Job to be done, **value
 
 ## Reciprocation
 
+Send out the free budgeting spreadsheet.
+
 [Reciprocity](https://www.nngroup.com/articles/reciprocity-principle/)
 
 ## Social Proof
@@ -21,6 +23,8 @@ Interact with thought leaders on social media. LinkedIn historically much more m
 [Social Proof](https://www.nngroup.com/articles/social-proof-ux/)
 
 ## Authority
+
+Spreadsheet with links to articles proves we understand the business.
 
 - Business Fundamentals
 - Ask partners to write articles
