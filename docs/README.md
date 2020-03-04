@@ -15,6 +15,8 @@ auditKairos:
 
 If you are struggling to run your practice, Gensolve Practice Manager comes packed with features that take care of the boring stuff enabling you to concentrate on delivering the greatest possible experience to your customers.
 
+Treating a dysfunctional business is much the same as treating a dysfunctional person it is just the names of the problems that differ. Both have subjective and objectives perspectives of what the real problem is. The to success with both is to get honest about the problem and then build positive routines and habits that will drive successful outcomes on the journey of constant improvement.
+
 Every business requires accurate profit forecasts as few investors will put money into your dreams if you're unable to provide a set of thoughtful forecasts. More important, proper financial forecasts will help you develop operational and staffing plans that will help make your business a success.
 
 To help you take a huge step in the right direction you can download our profit forecast template for free and without obligation. Don't worry it is not as hard as it might sound :)
