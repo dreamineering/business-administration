@@ -28,6 +28,10 @@ Helping to create growth through acquisitions
 
 ## Marketing
 
+### CoSchedule
+
+[Podcast](https://coschedule.com/podcast)
+
 ### P3 Practice Marketing
 
 [Website](https://www.p3practicemarketing.com/)
