@@ -60,7 +60,7 @@ Manage your clinicians and your administration team. Schedule recurring activiti
 - Cancellation and no-show management: Monitor no-shows and cancellations and link the information to patients’ files.
 - SMS reminders: Send SMS Reminders of appointments in bulk to clients.
 
-If you are paying good money to a business advisors, wouldn't it be more useful to [inject their business intelligence directly into your practice's operations?](/features/workflows/).
+If you are paying good money to business advisors, you can [inject their business intelligence directly into your practice's operations](/features/workflows/).
 
 [Learn more](/growth/)
 

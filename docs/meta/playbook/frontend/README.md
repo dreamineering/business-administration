@@ -4,6 +4,12 @@ title: Playbook > Frontend
 
 # Playbook > Frontend
 
+## Angular Architecture
+
+https://app.pluralsight.com/library/courses/angular-architecture-best-practices/table-of-contents
+
+## Markdown
+
 [Angular Markdown Pipe](https://markrabey.com/2019/05/31/angular-markdown-pipe/)
 
 ## Dynamic Forms

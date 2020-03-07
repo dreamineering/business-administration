@@ -90,11 +90,15 @@ How we can use custom forms internally and pass on ideas to customers
 
 ## Release Planning
 
-[More](./release-planning/)
+What do we need to prioritise to move the needle?
+
+[More](./release-planning.md)
 
 ## Remote Working
 
-[More](./remote-working/)
+What the guidelines for effective remote working.
+
+[More](./remote-working.md)
 
 ## Sales
 

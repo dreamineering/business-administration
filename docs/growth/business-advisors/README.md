@@ -66,13 +66,9 @@ Helping to create growth through acquisitions
 
 [Website](https://www.ptprofitacademy.com/) | [Podcast](https://www.paulgough.com/podcast/) | [Instagram](https://www.instagram.com/ThePaulGough/) | [Twitter](https://twitter.com/ThePaulGough) |[YouTube](https://www.youtube.com/channel/UCFRPdBgTAvHlMrZjBRdxFuQ) | [Facebook](https://www.facebook.com/ThePaulGough)
 
-## Modalities
+## Patient Care
 
 ### Physiotherapy
-
-#### Chews Health
-
-[Podcast](https://chewshealth.co.uk/blog/)
 
 #### Chews Health
 

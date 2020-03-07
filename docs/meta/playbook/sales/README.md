@@ -52,7 +52,7 @@ Adoption with high rewards (business benefit) for low effort and talent.
 - Reduce the demand for prior knowledge
 - Limit effort to establish good habits
 
-[Read more](./customer-trigger-stories.md)
+[Read more](/meta/playbook/quantify-value-stories.md)
 
 ## Goals
 

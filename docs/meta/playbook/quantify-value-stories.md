@@ -1,8 +1,10 @@
 ---
-title: Trigger Points - through Job to be done interviews
+title: Playbook - Quantify Value Stories
 ---
 
-# Find the Trigger Points through Job to be done interviews
+# Playbook - Quantify Value Stories
+
+Identify the critical moments where value is either created or lost and the decisions that need to made at those points. Value is ultimately measured in time and money.
 
 Enter these triggers as Injuries in Gensolve Operations
 
