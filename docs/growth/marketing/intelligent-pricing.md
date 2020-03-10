@@ -56,3 +56,7 @@ For example **Back to Golf** or **Running Performance**
 - How can you do more for them?
 - How can you prove that value?
 - What triggers a customer to book with you?
+
+## Further Learning
+
+- [Price Intelligently](https://www.priceintelligently.com/)

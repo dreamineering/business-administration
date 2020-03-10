@@ -39,7 +39,9 @@ Put more money in the bank than you take out.
 
 ## Quality
 
-Deliver something that People desire
+Be so good at something that you become a [lynchpin](https://www.youtube.com/watch?v=QXlohYo-xPE) to people's needs, then teach others to serve that role even better. Finally, mentor them to teach others.
+
+Measure success with evolved [systems thinking](https://blog.deming.org/category/systems-thinking/) to complement KPI numbers.
 
 - Deliver successful outcomes
 - Build a team based on connection
@@ -55,12 +57,14 @@ Do more with less, try to rework what you waste.
 
 [Learn more](./productivity/)
 
-## Marketing
+## Sales and Marketing
 
-Find new People to help
+Follow [Seth Godin](https://www.sethgodin.com/). Find a bigger audience to help.
 
-- Create a virtuous cycle
-- Attunement and Messaging
+1. [Identify your primary customer](./identify-your-primary-customer.md)
+2. [Evolve a message that resonates](./message.md)
+3. [Plan your content calendar](/content-marketing-calendar.md)
+4. [Price Intelligently](./intelligent-pricing.md)
 
 [Learn more](./marketing/)
 
