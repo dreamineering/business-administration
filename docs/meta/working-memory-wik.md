@@ -4,6 +4,8 @@ title: Working Memory > Wik
 
 # Working Memory > Wik
 
+[[toc]]
+
 - https://quaderno.io/blog/create-your-profit-forecast-easy-way/
 
 ## Profit First
@@ -54,3 +56,7 @@ https://wimbledonwomensphysio.co.uk/physiotherapy/
 https://www.linkedin.com/in/hannah-e-005787172/
 
 https://www.linkedin.com/company/elevate-your-clinic/
+
+# Quality
+
+https://www.mindtools.com/pages/article/newSTR_75.htm
