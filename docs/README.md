@@ -13,19 +13,19 @@ auditKairos:
 
 <h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you <span style="color:#D70014;font-weight:bold">love</span> helping people strive for their dreams<br>We <span style="color:#D70014;font-weight:bold">love</span> helping people like you</h2>
 
-If you are struggling to run your practice, Gensolve Practice Manager comes packed with features that take care of the boring stuff enabling you to concentrate on delivering the greatest possible experience to your customers.
+Treating a dysfunctional business is much like treating a dysfunctional body. Both have subjective and objectives perspectives of what the real problem lies. The key to success is to review what is going wrong with complete honesty.
 
-**Treating a dysfunctional business is much the same as treating a dysfunctional body it is just the names of the problems that differ. Both have subjective and objectives perspectives of what the real problem is. The key to success with both is to get honest about the problem and then build positive routines and habits that will drive successful outcomes on the journey of constant improvement.**
-
-Every business requires accurate profit forecasts as few investors will put money into your dreams if you're unable to provide a set of thoughtful forecasts. More important, proper financial forecasts will help you develop operational and staffing plans that will help make your business a success.
-
-To help you take a huge step in the right direction you can download our profit forecast template for free and without obligation. Don't worry it is not as hard as it might sound :)
+The path to growth starts more painful than is helpful. While you need to take a step back before you can make significant breakthroughs. But with consistent commitment, you will gain more than you can currently imagine. At the end of our journey, it is not the money in the bank that counts but the depth and number of close connections made.
 
 <a
   href="https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download"
   style="font-size:2em;margin:2rem auto 0;width:260px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 2rem;border-radius:60px">Plan Your Growth</a>
 
 <p style="margin:1rem auto;width:220px;text-align:center;display:block;border:none;padding:0 2rem;border-radius:60px">No need to sign up!</p>
+
+Every business requires accurate profit forecasts as few investors will put money into your dreams if you're unable to provide a set of thoughtful forecasts. More important, proper financial forecasts will help you develop operational and staffing plans that will help make your business a success.
+
+To help you take a huge step in the right direction you can download our profit forecast template for free and without obligation. Don't worry it is not as hard as it might sound :)
 
 ## Quality of Service
 
