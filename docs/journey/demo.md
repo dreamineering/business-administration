@@ -47,7 +47,7 @@ Hold down the shift key then click on the GPM icon to open another application i
 :::
 
 ::: warning
-By configuration the ability to create data entries has been restricted in order to keep the integrity of Demo intact with walkthrough introduction.
+By intention, the ability to create data entries has been restricted to keep the integrity of introduction workflows intact.
 :::
 
 ::: warning Troubleshoot Signing In
@@ -79,7 +79,9 @@ Get started with the first **Username/Profile** in the table below then work thr
 If you hold down the shift key then click on the GPM application in the bottom taskbar of windows you can log in with the manager profile, so you can view full functionality.
 :::
 
-A _Practice Manager_ is a composite of many other roles where a single person will **need to wear many hats** to meet the demands of the job at different times.
+If you are an owner and operating clinician you will **need to wear many hats** to meet the demands of the job at different times. The following profiles are for _educational purposes_ and intended to help you explore functionality within the context of a required role at a given time.
+
+When it comes to running your organisation **you have complete control** to [configure roles exactly as you desire](/features/system/security/).
 
 | Username | Display Name                                                 | Focus                |
 | -------- | ------------------------------------------------------------ | -------------------- |
@@ -94,7 +96,5 @@ A _Practice Manager_ is a composite of many other roles where a single person wi
 | MM       | [Marketing Manager](/roles/marketing-manager.md)             | Attracting Customers |
 | CF       | [Custom Forms Freelancer](/roles/custom-forms-freelancer.md) | GPM Configration     |
 | GPM      | [System Admin](/roles/system-admin.md)                       | GPM Configration     |
-
-. Therefore these profiles are for _educational purposes_ to help to explore functionality within the context of the primary focus of each potential role in an organisation. When it comes to running your organisation **you have complete control** to [configure roles exactly as you desire](/features/system/security/).
 
 ![common-health-practice-roles-and-responsibilities](https://drive.google.com/uc?id=1_85fzFafOpCNIkbkKoCnLqtNYTDWdgY2)
