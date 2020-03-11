@@ -4,6 +4,8 @@ title: Blog
 
 # Blog
 
+[[toc]]
+
 ## Perfect Customer Signup
 
 - Awareness
