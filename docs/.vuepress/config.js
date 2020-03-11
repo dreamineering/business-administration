@@ -34,6 +34,10 @@ module.exports = {
         link: '/success/'
       },
       {
+        text: 'Blog',
+        link: '/blog/'
+      },
+      {
         text: 'Glossary',
         link: '/glossary/'
       },
@@ -43,7 +47,16 @@ module.exports = {
       }
     ],
     displayAllHeaders: true,
-    sidebar: ['/', './journey/', './features/', './roles/', './control/', './growth/', './support/']
+    sidebar: [
+      '/',
+      './journey/',
+      './features/',
+      './roles/',
+      './control/',
+      './growth/',
+      './blog/',
+      './support/'
+    ]
   },
   markdown: {
     extendMarkdown: md => {
