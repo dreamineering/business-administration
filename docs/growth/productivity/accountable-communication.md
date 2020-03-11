@@ -1,8 +1,8 @@
 ---
-title: Succinct Communication
+title: Accountable Communication
 ---
 
-# Succinct Communication
+# Accountable Communication
 
 ## Problem
 
@@ -15,3 +15,5 @@ title: Succinct Communication
 Event lists
 
 http://www.paulgraham.com/power.html
+
+https://basecamp.com/guides/how-we-communicate
