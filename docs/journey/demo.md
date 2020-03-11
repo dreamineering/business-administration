@@ -40,10 +40,16 @@ To start your journey of understanding what GPM offers you can log into either t
 | Username     | CN            |
 | Password     | Dem0User      |
 
-CN represents a Clinician and provides an example of a fully customisable user role we have created for demonstrating what GPM could appear to a user with this focus.
+::: tip Focus brings increased productivity
+You can hide functionality you don't need to help with navigating to what you need to do.
+:::
 
-::: tip Review all features
-Hold down the shift key then click on the GPM icon to open another application in parallel. Sign in using **PM** as the username.
+CN represents a Clinician and what you see when logged into GPM is the core functionality that Clinician needs to do their job. In an efficient and profitable business, over 80% of the work should client-facing and can be achieved by interacting with this restricted interface.
+
+By way of contrast, sign in as the **SUPER** user name with the same password to see all possible functionality.
+
+::: tip You can log in more than once!
+Hold down the shift key then click on the GPM icon to open another application in parallel. Sign in using **SUPER** as the username.
 :::
 
 ::: warning
