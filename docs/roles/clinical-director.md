@@ -18,7 +18,7 @@ title: Roles > Clinical Lead
 
 ## Gensolve
 
-Try a [demo](/journey/demo/)
+If have not done so already [install the desktop application](/journey/demo.md)
 
 | Field        | Setting       |
 | ------------ | ------------- |

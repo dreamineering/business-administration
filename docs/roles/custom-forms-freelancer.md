@@ -16,6 +16,8 @@ Picking the right accountant is a vital business decision.
 
 ## Gensolve
 
+If have not done so already [install the desktop application](/journey/demo.md)
+
 | Field        | Setting       |
 | ------------ | ------------- |
 | Organisation | Demo Practice |

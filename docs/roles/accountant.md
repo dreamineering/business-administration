@@ -25,7 +25,7 @@ Picking the right accountant is a vital business decision.
 
 ## Gensolve
 
-Try a [demo](/journey/demo/)
+If have not done so already [install the desktop application](/journey/demo.md)
 
 To see the full Gensolve Accounting package
 

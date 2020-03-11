@@ -27,7 +27,7 @@ The administrator role give full access to everything, is not provided Demo Prac
 
 ## Gensolve
 
-Try a [demo](/journey/demo/)
+If have not done so already [install the desktop application](/journey/demo.md)
 
 | Field        | Setting       |
 | ------------ | ------------- |

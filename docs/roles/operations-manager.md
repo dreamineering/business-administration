@@ -39,7 +39,7 @@ To be successful as a Practice Manager, you should be highly organized and self-
 
 ## Gensolve
 
-Try a [demo](/journey/demo/)
+If have not done so already [install the desktop application](/journey/demo.md)
 
 | Field        | Setting       |
 | ------------ | ------------- |

@@ -13,3 +13,7 @@ title: Roles > Tech Support
 ## Qualifications
 
 ## Recruitment Questions
+
+## Gensolve
+
+If have not done so already [install the desktop application](/journey/demo.md)

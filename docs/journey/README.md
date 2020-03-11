@@ -10,7 +10,7 @@ title: Practice Journey
 
 Take a look around on your own time, and if you want to know more email info@gensolve.com
 
-[Learn more](./demo/)
+[Learn more](./demo.md)
 
 ## Initial Assessment
 
