@@ -26,6 +26,15 @@ Meetings are for **making decisions!** Before blocking out time in your calendar
 
 [Learn more](./effective-meetings.md)
 
+## Get Stuff Done
+
+1. Empty your head
+2. Organise
+3. Priortise
+4. Act or delegate
+
+[Learn more](./getting-stuff-done.md)
+
 ## Staff Engagement
 
 Delivering happiness starts from within.

@@ -86,6 +86,10 @@ Helping to create growth through acquisitions
 
 [Website](https://www.ptprofitacademy.com/) | [Podcast](https://www.paulgough.com/podcast/) | [Instagram](https://www.instagram.com/ThePaulGough/) | [Twitter](https://twitter.com/ThePaulGough) |[YouTube](https://www.youtube.com/channel/UCFRPdBgTAvHlMrZjBRdxFuQ) | [Facebook](https://www.facebook.com/ThePaulGough)
 
+### The Fitness Business Podcast
+
+[Website](https://fitnessbusinesspodcast.com/mike-michalowicz-profit-first-turning-your-fitness-business-into-a-money-making-machine/)
+
 ### Zynnyme
 
 [Zynnyme](https://www.zynnyme.com/)

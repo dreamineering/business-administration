@@ -23,21 +23,26 @@ Not just financially but as humans. If you can't achieve consistency across your
 
 ## Direction
 
-If you don't know where you are going how can you expect to lead others?
+If you don't know where you are going how can you expect to lead others? Use **Insightful Questions** to provide North Star for everyone to follow. Successful organisations constantly evolve a distinctive and evocative value proposition to acquire—and retain—the best talent.
 
-- Vision and Mission
-- Know your enemy
+- Shared purpose and vision
+- Be clear what success looks like
+- Indoctrinate processes to spot and take opportunities
+- Call upon flexible resources as needed
+- Evolve mantra for fast accurate decisions
 
 [Learn more](./direction/)
 
 ## Finances
 
-Put more money in the bank than you take out.
+Every business must put [Profits First](./create-a-cashflow-forecast.md) as money is the blood that keeps your business alive. A business owner must know how healthy their financial operations are. This requires a realistic prediction of cash flow, even though it can be difficult to forecast the future.
 
 - Cashflow is King
 - Forecasts vs Results
 
 [Learn more](./finances/)
+
+> Money is not earned until it is in your bank account.
 
 ## Quality
 
