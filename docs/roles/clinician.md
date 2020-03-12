@@ -50,4 +50,4 @@ If have not done so already [install the desktop application](/journey/demo.md)
 | Financial\*       | Client Appointments without Service Charge   |
 | Financial\*       | Appointments Not Completed                   |
 
-Provide [feedback questions](../../support/feedback-questions.md)
+Provide [feedback questions](/support/feedback-questions.md)

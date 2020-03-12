@@ -56,3 +56,16 @@ If have not done so already [install the desktop application](/journey/demo.md)
 | Organisation | Demo Practice |
 | Username     | FD            |
 | Password     | Dem0User      |
+
+### Important Reports
+
+| Reason          | Name                                       |
+| --------------- | ------------------------------------------ |
+| Quality Control | Appointments Without Conditions            |
+| Patient Journey | **Clients Not Seen**                       |
+| Patient Journey | DNA/Cancellation                           |
+| Patient Journey | Waiting list                               |
+| Financial       | Client Appointments without Service Charge |
+| Financial       | Appointments Not Completed                 |
+
+Provide [feedback questions](/support/feedback-questions.md)

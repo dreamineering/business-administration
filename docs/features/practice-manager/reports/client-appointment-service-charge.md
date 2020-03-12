@@ -7,7 +7,10 @@ title: Reports > Client Appointment Service Charge
 - Summary
 - Detail
 
-The value this report provides, action to take or decision indicator
+Good to quickly what blend of services used
+
+- Do you need more provider capacity for a particular service?
+- How much money has been made versus booked?
 
 **Importance:**
 
@@ -15,13 +18,11 @@ The value this report provides, action to take or decision indicator
 
 **Roles:**
 
-- [CN: Clinician](/roles/clinician.md)
 - [CD: Clinical Director](/roles/clinical-director.md)
-- [FD: Front Desk](/roles/frontdesk-sales.md)
 - [AP: Accounts and Payroll](/roles/accounts-and-payroll.md)
-- [OP: Operations Manager](/roles/operations-manager.md)
 - [MM: Marketing Manager](/roles/marketing-manager.md)
 
 **Related Workflows:**
 
-- [a workflow](/features/workflows/)
+- [Marketing](/features/workflows/marketing/)
+- [Load Balancing](/features/workflows/staff-management/)
