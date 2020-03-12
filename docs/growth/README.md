@@ -33,12 +33,16 @@ If you don't know where you are going how can you expect to lead others? Use **I
 
 [Learn more](./direction/)
 
-## Finances
+## Finance
 
 Every business must put [Profits First](./create-a-cashflow-forecast.md) as money is the blood that keeps your business alive. A business owner must know how healthy their financial operations are. This requires a realistic prediction of cash flow, even though it can be difficult to forecast the future.
 
-- Cashflow is King
-- Forecasts vs Results
+- [Learn to predict the future](./create-a-cashflow-forecast.md)
+- [Cashflow is King](./effective-cash-management.md)
+- [Track revenue streams](./track-revenue-streams.md)
+- Debt recovery plans
+- [Manage commission](./managing-commission.md)
+- [Accounting Cycle Checklist](./accounting-cycle-checklist.md)
 
 [Learn more](./finances/)
 
