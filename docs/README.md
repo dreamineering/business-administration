@@ -27,6 +27,12 @@ Before you focus on growth, you need to eliminate all the waste in your business
 
 <p style="margin:1rem auto;width:220px;text-align:center;display:block;border:none;padding:0 2rem;border-radius:60px">No need to sign up!</p>
 
+::: tip Don't skimp on recruiting talent into your team
+
+1. Hire an [accountant that invests their energy](/roles/accountant.md) in helping you grow your business
+2. Recruit an excellent [salesperson](/roles/frontdesk-sales.md) to sit at your front desk
+   :::
+
 ## Quality of Service
 
 Our Patient Records allow you to **deliver and measure the effectiveness of your plan of care** with all a patient information efficiently recorded and stored in one place.

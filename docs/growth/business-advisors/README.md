@@ -12,15 +12,35 @@ If you need help with making tough decisions below is a list of resources you ca
 
 ## Accountants
 
-### Profit First Chiro
-
-- [Website](https://www.profitfirstchiro.com/) | [Podcast](https://player.fm/series/grow-my-accounting-practice-tips-for-accountants-bookkeepers-to-grow-their-business-1376362/debra-cassera-focus-on-a-niche-and-attract-clients)
-
 ### Profit First Professionals
 
 [Website](https://profitfirstprofessionals.com/) | [Podcast](https://profitfirstprofessionals.com/category/grow-my-accounting-practice-podcast/)
 
-## Acquisitions
+### Annette And Co
+
+[Website](https://annetteandco.co.uk/what-is-profit-first/)
+
+### Back To Black Books
+
+[Website](https://backtoblackbooks.co.uk/)
+
+### Profit First Chiro
+
+- [Website](https://www.profitfirstchiro.com/) | [Podcast](https://player.fm/series/grow-my-accounting-practice-tips-for-accountants-bookkeepers-to-grow-their-business-1376362/debra-cassera-focus-on-a-niche-and-attract-clients)
+
+### Raffingers
+
+Profit First Professionals
+
+Our purpose is to truly impact the lives of our people and our clients. We achieve this by helping you to find your personal freedom by providing a holistic approach that ensures you see maximum results at all stages of your business cycle.
+
+[Website](https://www.raffingers.co.uk/)
+
+### Ten Accountants
+
+[Website](https://tenaccountants.co.uk/)
+
+### The MBO Group
 
 Helping to create growth through acquisitions
 
@@ -65,6 +85,10 @@ Helping to create growth through acquisitions
 ### PT Profit Academy
 
 [Website](https://www.ptprofitacademy.com/) | [Podcast](https://www.paulgough.com/podcast/) | [Instagram](https://www.instagram.com/ThePaulGough/) | [Twitter](https://twitter.com/ThePaulGough) |[YouTube](https://www.youtube.com/channel/UCFRPdBgTAvHlMrZjBRdxFuQ) | [Facebook](https://www.facebook.com/ThePaulGough)
+
+### Zynnyme
+
+[Zynnyme](https://www.zynnyme.com/)
 
 ## Patient Care
 
