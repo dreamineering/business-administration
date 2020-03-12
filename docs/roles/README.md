@@ -28,7 +28,6 @@ Directly responsible for earning the business money for services rendered.
 
 Ensure the business runs efficiently.
 
-- [**RR:** Remote Reception](./remote-reception.md)
 - [**FD:** Frontdesk Sales](./frontdesk-sales.md)
 - [**OP:** Operations Manager](./operations-manager.md)
 - [**AP:** Accounts and Payroll](./accounts-and-payroll.md)
@@ -42,6 +41,7 @@ In smaller organisations, these roles would be provided by external resources.
 
 - [**AC:** Accountant](./accountant.md)
 - [**MM:** Marketing Manager](./marketing-manager.md)
+- [**CFF:** Marketing Manager](./custom-forms-freelancer.md)
 
 ## Executive
 

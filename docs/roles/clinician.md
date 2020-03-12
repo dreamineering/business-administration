@@ -30,3 +30,25 @@ If have not done so already [install the desktop application](/journey/demo.md)
 | Organisation | Demo Practice |
 | Username     | CN            |
 | Password     | Dem0User      |
+
+### Important Reports
+
+\* Assuming the practice does not have front desk staff
+
+| Reason      | Name                                         |
+| ----------- | -------------------------------------------- |
+| QoS         | Appointments Without Conditions              |
+| QoS         | **Incomplete Exams**                         |
+| QoS/Sales   | **Clients Not Seen or Discharged**           |
+| Qos/Sales   | Intra Referrals                              |
+| Sales\*     | DNA / Cancellation                           |
+| Sales\*     | Waiting list                                 |
+| QoS         | Discharge Summary/Condition Discharge Export |
+| QoS/Sales   | **Condition Followups**                      |
+| Analysis    | Client Appointment Treatments                |
+| Analysis    | Condition Followups                          |
+| Analysis    | Initial vs Followup                          |
+| Analysis    | Clinician Capacity                           |
+| Analysis    | Clients Last Appointment                     |
+| Financial\* | Client Appointments without Service          |
+| Financial\* | Appointments Not Completed                   |

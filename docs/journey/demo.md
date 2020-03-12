@@ -100,7 +100,7 @@ When it comes to running your organisation **you have complete control** to [con
 | AC       | [Accountant](/roles/accountant.md)                           | Financial Compliance |
 | AX       | [Xero Accountant](/roles/accountant.md)                      | Financial Compliance |
 | MM       | [Marketing Manager](/roles/marketing-manager.md)             | Attracting Customers |
-| CF       | [Custom Forms Freelancer](/roles/custom-forms-freelancer.md) | GPM Configration     |
+| CFF      | [Custom Forms Freelancer](/roles/custom-forms-freelancer.md) | GPM Configration     |
 | GPM      | [System Admin](/roles/system-admin.md)                       | GPM Configration     |
 
 ![common-health-practice-roles-and-responsibilities](https://drive.google.com/uc?id=1_85fzFafOpCNIkbkKoCnLqtNYTDWdgY2)
