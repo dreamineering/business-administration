@@ -76,6 +76,12 @@ title: Client Records
 
 [Learn more](./client-condition-daily-notes-mckenzie-assessments.md)
 
+### Custom Assessments and Exams
+
+You now have the flexibility and control to treat your patients and run your business exactly how you want. Gensolve’s Custom Forms allow you to use the form templates that exist within the practice management application, create your own, or for a fee we can design and build them for you based on the needs of your practice and the clients you see.
+
+[Learn more](./custom-exams.md)
+
 ## Client Accounts
 
 [Learn more](./client-accounts-charges.md)
