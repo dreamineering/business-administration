@@ -19,8 +19,6 @@ title: Roles > Clinican
 
 ## Recruitment Questions
 
-Provide [feedback questions](../../support/feedback-questions.md)
-
 ## Gensolve
 
 If have not done so already [install the desktop application](/journey/demo.md)
@@ -51,3 +49,5 @@ If have not done so already [install the desktop application](/journey/demo.md)
 | Analysis          | Clients Last Appointment                     |
 | Financial\*       | Client Appointments without Service Charge   |
 | Financial\*       | Appointments Not Completed                   |
+
+Provide [feedback questions](../../support/feedback-questions.md)
