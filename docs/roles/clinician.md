@@ -46,9 +46,8 @@ If have not done so already [install the desktop application](/journey/demo.md)
 | Patient Journey   | Discharge Summary/Condition Discharge Export |
 | Patient Journey   | **Condition Followups**                      |
 | Analysis          | Client Appointment Treatments                |
-| Analysis          | Condition Followups                          |
 | Analysis          | Initial vs Followup                          |
 | Analysis          | Clinician Capacity                           |
 | Analysis          | Clients Last Appointment                     |
-| Financial\*       | Client Appointments without Service          |
+| Financial\*       | Client Appointments without Service Charge   |
 | Financial\*       | Appointments Not Completed                   |
