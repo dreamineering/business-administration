@@ -13,19 +13,19 @@ auditKairos:
 
 <h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you <span style="color:#D70014;font-weight:bold">love</span> helping people strive for their dreams<br>We <span style="color:#D70014;font-weight:bold">love</span> helping people like you</h2>
 
-Treating a dysfunctional business is much like treating a dysfunctional body. Both have subjective and objectives perspectives of what the real problem lies. The key to success is to review what is going wrong with complete honesty.
+<p style="font-size: 1.2em;">Treating a dysfunctional business is much like treating a dysfunctional body. Both have subjective and objectives perspectives of what the real problem lies. The key to success is to review what is going wrong with complete honesty.</p.>
 
 The path to growth starts more painful than is helpful. While you need to take a step back before you can make significant breakthroughs. But with consistent commitment, you will gain more than you can currently imagine. At the end of our journey, it is not the money in the bank that counts but the depth and number of close connections made.
 
+## Gensolve Saves You Money
+
+Before you focus on growth, you need to eliminate all the waste in your business operations. Don't take our word for it, we have created a free performance analysis spreadsheet you can use to judge the financial health of your practice.
+
 <a
   href="https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download"
-  style="font-size:2em;margin:2rem auto 0;width:260px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 2rem;border-radius:60px">Plan Your Growth</a>
+  style="font-size:2em;margin:2rem auto 0;width:260px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 2rem;border-radius:60px">Save Money Now</a>
 
 <p style="margin:1rem auto;width:220px;text-align:center;display:block;border:none;padding:0 2rem;border-radius:60px">No need to sign up!</p>
-
-Every business requires accurate profit forecasts as few investors will put money into your dreams if you're unable to provide a set of thoughtful forecasts. More important, proper financial forecasts will help you develop operational and staffing plans that will help make your business a success.
-
-To help you take a huge step in the right direction you can download our profit forecast template for free and without obligation. Don't worry it is not as hard as it might sound :)
 
 ## Quality of Service
 
@@ -122,6 +122,6 @@ Download our free [cashflow forecasting tool](https://drive.google.com/a/gensolv
 
 <a
   href="https://drive.google.com/a/gensolve.com/uc?authuser=0&id=11f6rMWAp61vytiQfZq2xvCX2sOnvI2fn&export=download"
-  style="font-size:2em;margin:2rem auto 0;width:260px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 2rem;border-radius:60px">Plan Your Growth</a>
+  style="font-size:2em;margin:2rem auto 0;width:260px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 2rem;border-radius:60px">Save Money Now</a>
 
 <p style="margin:1rem auto;width:220px;text-align:center;display:block;border:none;padding:0 2rem;border-radius:60px">No need to sign up!</p>
