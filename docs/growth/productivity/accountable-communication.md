@@ -4,6 +4,8 @@ title: Accountable Communication
 
 # Accountable Communication
 
+[[toc]]
+
 ## Problem
 
 - Email chains CC'ing the world
@@ -14,6 +16,7 @@ title: Accountable Communication
 
 Event lists
 
-http://www.paulgraham.com/power.html
+## Links
 
-https://basecamp.com/guides/how-we-communicate
+- [power](http://www.paulgraham.com/power.html)
+- [how we communicate](https://basecamp.com/guides/how-we-communicate)

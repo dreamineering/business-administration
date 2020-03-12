@@ -22,7 +22,7 @@ Email is an extremely ineffective method of communication and **should be banned
 
 ## Effective Meetings
 
-Meetings are for **making decisions!** Before blocking out time in your calendar and sending an invite, be absolutely clear on the desired outcome.
+Meetings are for **making decisions!** Before blocking out time in your calendar and sending an invite, be very clear on the desired outcome.
 
 [Learn more](./effective-meetings.md)
 
