@@ -13,7 +13,7 @@ auditKairos:
 
 <h2 style="font-size: 2em; margin: 1.2rem auto;width:80%;text-align:center">If you <span style="color:#D70014;font-weight:bold">love</span> helping people strive for their dreams<br>We <span style="color:#D70014;font-weight:bold">love</span> helping people like you</h2>
 
-<p style="font-size: 1.2em;">Treating a dysfunctional business is much like treating a dysfunctional body. Both have subjective and objectives perspectives of what the real problem lies. The key to success is to review what is going wrong with complete honesty.</p.>
+<p style="font-size: 1.2em;">Treating a dysfunctional business is much like treating a dysfunctional body. Both have subjective and objective perspectives on the problem. The key to success is to review what is going wrong with complete honesty.</p.>
 
 The path to growth starts more painful than is helpful. While you need to take a step back before you can make significant breakthroughs. But with consistent commitment, you will gain more than you can currently imagine. At the end of our journey, it is not the money in the bank that counts but the depth and number of close connections made.
 
