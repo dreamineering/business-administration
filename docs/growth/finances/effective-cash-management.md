@@ -1,5 +1,5 @@
 ---
-title: managing bad debt
+title: Effective Cash Management
 ---
 
 # Effective Cash Management

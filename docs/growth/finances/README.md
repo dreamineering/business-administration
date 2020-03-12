@@ -8,8 +8,6 @@ Every business must put [Profits First](./create-a-cashflow-forecast.md) as mone
 
 [[toc]]
 
-> [Create a cashflow forecast](./create-a-cashflow-forecast.md)
-
 ## Cashflow Forecasting
 
 [Learn more](./create-a-cashflow-forecast.md)
