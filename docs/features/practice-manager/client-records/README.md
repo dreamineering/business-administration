@@ -42,6 +42,8 @@ title: Client Records
 
 ## Client Conditions
 
+![Treatment Pathway Overview](https://drive.google.com/uc?id=1pJAE9mkyqqebob3vybvAqLfVNDGymrbT)
+
 [Learn more](./client-conditions.md)
 
 ### Condition Appointments
@@ -56,21 +58,21 @@ title: Client Records
 
 [Learn more](./client-condition-goals-plans.md)
 
-### Referrals, Investigations and Discharges
+### Referrals, Investigations, and Discharges
 
 [Learn more](./client-condition-referrals-investigations-discharges.md)
 
-## Daily Notes
+## Daily Treatment Notes
 
-### Assessments
+### Subjective Assessments
 
 [Learn more](./client-condition-daily-notes-assessments.md)
 
-### Assessment Exams
+### Objective Exams
 
 [Learn more](./client-condition-daily-notes-assessment-exams.md)
 
-### McKenzie Assessments
+### McKenzie Exams
 
 [Learn more](./client-condition-daily-notes-mckenzie-assessments.md)
 

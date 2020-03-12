@@ -28,19 +28,21 @@ If have not done so already [install the desktop application](/journey/demo.md)
 | Username     | MM            |
 | Password     | Dem0User      |
 
-Provide [feedback questions](/support/feedback-questions.md)
-
-### Reports
+### Important Reports
 
 - Client Appointment Service Charge Summary
 - Condition Referral Details
 - Condition Referrer/Clinic Summary
-- GP Client Referral Source Report
+- GP Client Referral Source
 - New Clients
-- Online Booking Report
+- Online Booking
 - Referral Source - Clients
 - Referral Source - Conditions
-- Client Condition Goals Report
+- Client Condition Goals
 - Client Referral Detail
 - Why Choose Us - Clients
-- Accounting - Client Grouping Revenue Report
+- Accounting - Client Grouping Revenue
+
+Provide [feedback questions](/support/feedback-questions.md)
+
+### Reports

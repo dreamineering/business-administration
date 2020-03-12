@@ -24,8 +24,18 @@ title: Treatment Pathway
 
 ## Appointment Notes
 
-## Treatment Outcomes
+## Treatment Goals and Outcomes
 
-Close (Discharge) the condition.
+## Important Reports
 
-## Conditions vs Contracts
+| Reason            | Name                                         |
+| ----------------- | -------------------------------------------- |
+| Quality Control   | Appointments Without Conditions              |
+| Quality Control   | **Incomplete Exams**                         |
+| Patient Journey   | **Clients Not Seen or Discharged**           |
+| Patient Journey   | Intra Referrals                              |
+| Patient Journey\* | DNA / Cancellation                           |
+| Patient Journey\* | Waiting list                                 |
+| Patient Journey   | Discharge Summary/Condition Discharge Export |
+| Patient Journey   | **Condition Followups**                      |
+| Analysis          | Client Appointment Treatments                |
