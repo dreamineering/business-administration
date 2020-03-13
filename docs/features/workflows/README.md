@@ -8,7 +8,9 @@ title: Workflows
 
 Evolve your [recurring workflows](./staff-management/how-to-create-recurring-workflows/) to take control of what happens when by who in your business. Ask about our library of workflows to help get started. **If you are business advisor** workflows are a great way for you to help ensure that the customers you are advising can get the most out of your teachings. To find the workflow your are looking for you can start by typing either _How to_ or _When to_ into search to find relevant workflows.
 
-[Inject operational intelligence into your practice's business operations](https://drive.google.com/open?id=1r9dQCe5NGNoT_Kaucqs2lxtQGxOWKyz_)
+<a
+  href="https://drive.google.com/open?id=1r9dQCe5NGNoT_Kaucqs2lxtQGxOWKyz_"
+  style="font-size:2em;margin:2rem auto 0;width:260px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 2rem;border-radius:60px">Inject Wisdom Now</a>
 
 [[toc]]
 
