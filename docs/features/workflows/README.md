@@ -10,7 +10,7 @@ Evolve your [recurring workflows](./staff-management/how-to-create-recurring-wor
 
 <a
   href="https://drive.google.com/open?id=1r9dQCe5NGNoT_Kaucqs2lxtQGxOWKyz_"
-  style="font-size:2em;margin:2rem auto 0;width:260px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 2rem;border-radius:60px">Inject Wisdom Now</a>
+  style="font-size:2em;margin:2rem auto 0;width:260px;text-align:center;color:white;background-color:#D70014;display:block;border:none;padding:1rem 2rem;border-radius:60px">Get Workflows</a>
 
 [[toc]]
 
