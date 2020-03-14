@@ -1,5 +1,15 @@
 {
   "version": 2,
+  "alias": [
+    "profitfirsttherapy.com",
+    "www.profitfirsttherapy.com",
+    ".profitfirstphysio.com",
+    "www.profitfirstphysio.com",
+    "profitfirstphysio.co.uk",
+    "www.profitfirstphysio.co.uk",
+    "practiceownersplaybook.com",
+    "www.practiceownersplaybook.com"
+  ],
   "builds": [
     {
       "src": "package.json",
