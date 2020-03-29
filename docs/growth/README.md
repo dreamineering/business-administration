@@ -72,10 +72,10 @@ Do more with less, try to rework what you waste.
 
 Follow [Seth Godin](https://www.sethgodin.com/). Find a bigger audience to help.
 
-1. [Identify your primary customer](./identify-your-primary-customer.md)
-2. [Evolve a message that resonates](./message.md)
-3. [Plan your content calendar](/content-marketing-calendar.md)
-4. [Price Intelligently](./intelligent-pricing.md)
+1. [Identify your primary customer](./marketing/identify-your-primary-customer.md)
+2. [Evolve a message that resonates](./marketing/message.md)
+3. [Plan your content calendar](/marketing/content-marketing-calendar.md)
+4. [Price Intelligently](./marketing/intelligent-pricing.md)
 
 [Learn more](./marketing/)
 
