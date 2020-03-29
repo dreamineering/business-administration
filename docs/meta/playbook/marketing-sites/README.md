@@ -8,9 +8,9 @@ title: Marketing Sites
 
 ## Resources
 
-- https://land-book.com/
-- https://onepagelove.com/
-- https://vuejsexamples.com/a-powerful-markdown-components-for-vue/
+- [land book](https://land-book.com/)
+- [One Page Love](https://onepagelove.com/)
+- [Vue Components](https://vuejsexamples.com/a-powerful-markdown-components-for-vue/)
 
 ## Project Plan
 
@@ -37,7 +37,7 @@ Estimates are based on:
 - Approvals received within 3 Business Days of Request
 - Project Stays on Initial Timeline
 
-Should project move off initial timeline for any reason, resource allocation will be interrupted and your project will be juggled within buffer space, vs. initial resource task and milestone plans
+Should a project divert from the initial timeline for any reason, resource allocation will be interrupted and your project will be juggled within buffer space, vs. initial resource task and milestone plans
 
 ## 1 Planning
 
