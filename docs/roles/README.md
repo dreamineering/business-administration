@@ -22,6 +22,7 @@ Dependent on the size of the organisation may need to cover both clinical and bu
 Directly responsible for earning the business money for services rendered.
 
 - [**CN:** Clinician](./clinician.md)
+- [**CC:** Contracted Clinician](./contract-clinician.md)
 - [**CD:** Clinical Director](./clinical-director.md)
 
 ## Business Operations
