@@ -25,7 +25,7 @@ Directly responsible for earning the business money for services rendered.
 - [**CC:** Contracted Clinician](./contract-clinician.md)
 - [**CD:** Clinical Director](./clinical-director.md)
 
-## Business Operations
+## Business Administration
 
 Ensure the business runs efficiently.
 
