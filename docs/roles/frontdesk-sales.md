@@ -28,6 +28,10 @@ A front desk employee must respond to a variety of challenges on a daily basis. 
 - [Appointments Without Conditions]()
 - [DNA / Cancellations Report]()
 
+## Incentives
+
+- [Commission on Membership Sales](/features/workflows/staff-management/commissions/)
+
 ## Personal
 
 Have a strong customer service orientation and be able to communicate effectively with members and guests, prospective clients, vendors, and the management and team.
